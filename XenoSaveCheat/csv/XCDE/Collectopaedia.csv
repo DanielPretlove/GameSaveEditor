@@ -1,0 +1,347 @@
+ID;Category;Location;Name
+1;1;2;Sweet Wasabi
+2;1;2;Cool Potato
+3;1;2;Red Lettuce
+4;1;2;Chewy Radish
+5;1;4;Hot Taro
+6;1;4;Juicy Broccoli
+7;1;4;Spicy Cabbage
+8;1;4;Hard Lotus
+9;1;7;Blue Turnip
+10;1;7;Cute Parsnip
+11;1;7;Poisonous Gourd
+12;1;7;Humming Cabbage
+13;1;8;Schorl Mushroom
+14;1;8;Kelp Mushroom
+15;1;8;Honey Rhubarb
+16;1;12;Pink Asparagus
+17;1;12;Tropical Radish
+18;1;12;Dolphin Carrot
+19;1;12;Gold Burdock
+20;1;16;Sour Radish
+21;1;16;Ice Cabbage
+22;1;16;Girl Courgette
+23;1;16;Amethyst Vanilla
+24;1;17;Fire Pepper
+25;1;17;Meaty Carrot
+26;1;17;Bitter Broccoli
+27;1;19;Sour Turnip
+28;1;19;Golden Beetroot
+29;1;21;Juicy Steakplant
+30;1;21;Acerola Pea
+31;1;21;Energy Aubergine
+32;1;21;Sweet Pepper
+33;1;24;Meaty Potato
+34;1;24;Blue Root
+35;1;25;Sarsaparilla
+36;1;25;Black Liver Bean
+37;2;2;Dance Apple
+38;2;2;Black Kiwi
+39;2;3;Clear Almond
+40;2;3;Bright Fig
+41;2;3;Dark Grape
+42;2;4;Sour Gooseberry
+43;2;4;Red Durian
+44;2;4;Walnut Grape
+45;2;4;Humming Plum
+46;2;8;Dark Mango
+47;2;8;Pure Cherry
+48;2;8;Bitter Kiwi
+49;2;8;Juicy Grape
+50;2;9;Spicy Nut
+51;2;9;Crimson Citrus
+52;2;13;Cool Lemon
+53;2;13;Heart Peach
+54;2;15;Dry Lemon
+55;2;15;Death Lychee
+56;2;15;Hell Raspberry
+57;2;15;Deadly Kiwi
+58;2;16;Ether Plum
+59;2;16;Fire Apple
+60;2;16;Ruby Mangosteen
+61;2;16;Sour Grape
+62;2;17;Bitter Melon
+63;2;17;Citron Gooseberry
+64;2;17;Juicy Melon
+65;2;17;Amethyst Melon
+66;2;19;White Plum
+67;2;19;Ice Kiwi Fruit
+68;2;19;Spicy Papaya
+69;2;19;Large Mango
+70;2;23;Juicy Blueberry
+71;2;23;Sweet Lime
+72;2;23;Spicy Banana
+73;3;2;Strong Dandelion
+74;3;2;Moon Flower
+75;3;2;Dawn Hydrangea
+76;3;3;Insanity Mint
+77;3;3;Night Tulip
+78;3;5;Cute Orchid
+79;3;5;Sirius Anemone
+80;3;5;Spirit Clematis
+81;3;7;Sunflower Rogue
+82;3;7;Merry Coronation
+83;3;7;Ether Rose
+84;3;7;Orb Daisy
+85;3;7;Forget-You-Not
+86;3;8;Enigma Lotus
+87;3;8;Humming Nettle
+88;3;8;Princess Daffodil
+89;3;8;Black Iris
+90;3;12;Sea Berry
+91;3;12;Despair Clover
+92;3;12;Doomsday Poppy
+93;3;12;Night Lily
+94;3;12;Razor Teasel
+95;3;13;Mystic Dahlia
+96;3;13;Stardrop
+97;3;16;Fortune Mallow
+98;3;16;Black Peony
+99;3;16;Fatal Belladonna
+100;3;17;Jujube Silver
+101;3;17;Black Blossom
+102;3;17;Abyss Heather
+103;3;17;Delerium Foxglove
+104;3;21;Azure Hollyhock
+105;3;21;Utopia Crocus
+106;3;23;Lewisia Silver
+107;3;23;Freesia Cyst
+108;3;23;Bellflower Crystal
+109;4;3;Shin Newt
+110;4;3;Cave Rat
+111;4;3;Shin Gecko
+112;4;3;Happy Rabbit
+113;4;5;Pyro Lizard
+114;4;5;Amblygon Turtle
+115;4;5;Dobercorgi
+116;4;6;Light Bat
+117;4;6;Black Frog
+118;4;6;Yellow Cat
+119;4;7;Chimera Rabbit
+120;4;7;Venom Platypus
+121;4;7;Humming Cat
+122;4;8;Ash Fox
+123;4;8;Soft Sea Cucumber
+124;4;8;Fossil Monkey
+125;4;8;Venomous Lizard
+126;4;12;Sea Frog
+127;4;12;Mane Cat
+128;4;15;Dancing Squirrel
+129;4;15;Lightning Weasel
+130;4;15;Angry Monkey
+131;4;16;Wet Rat
+132;4;16;Ice Monkey
+133;4;16;Crystal Frog
+134;4;16;Mud Squirrel
+135;4;19;Oil Oyster
+136;4;19;Dark Fish
+137;4;19;Ether Penguin
+138;4;19;Rainbow Slug
+139;4;24;Prism Centipede
+140;4;24;Cable Mouse
+141;4;24;Oil Fox
+142;4;25;Blood Worm
+143;4;25;Azure Mouse
+144;4;25;Happy Duck
+145;5;2;Prairie Dragonfly
+146;5;2;Giant Hornet
+147;5;2;White Beetle
+148;5;2;Sorrow Beetle
+149;5;3;Brown Butterfly
+150;5;3;Gold Caterpillar
+151;5;3;Rumble Stonefly
+152;5;4;White Ladybird
+153;5;4;Hill Firefly
+154;5;4;Moth Crawler
+155;5;4;Queen Locust
+156;5;4;Fire Tarantula
+157;5;6;Black Beetle
+158;5;6;Rubber Mantis
+159;5;6;Mystery Firefly
+160;5;8;Scarlet Ladybird
+161;5;8;Shield Bug
+162;5;8;Hades Beetle
+163;5;8;Benign Cricket
+164;5;9;Rainbow Bug
+165;5;9;Empress Beetle
+166;5;11;Green Earwig
+167;5;11;Blue Ladybird
+168;5;15;Señorita Scarab
+169;5;15;Emperor Beetle
+170;5;18;Wheel Lurker
+171;5;18;Ultramarine Ant
+172;5;21;Scarlet Crawler
+173;5;21;Shiny Scarab
+174;5;21;Water Boatman
+175;5;23;Electric Cricket
+176;5;23;Scissor Bug
+177;5;24;Dew Beetle
+178;5;24;Glider Cockroach
+179;5;26;Minute Mantis
+180;5;26;Love Beetle
+181;6;3;Kneecap Rock
+182;6;3;Confusion Ivy
+183;6;3;Clarity Moss
+184;6;4;Mat Ice
+185;6;4;Bluesky Bark
+186;6;4;Pione Stone
+187;6;6;Charcoal Leg
+188;6;6;Ether Pebble
+189;6;6;Rumble Coal
+190;6;7;Mist Tree
+191;6;7;Lemon Stone
+192;6;7;Feather Leaf
+193;6;7;Water Log
+194;6;7;Wool Rock
+195;6;12;White Tail
+196;6;12;Marine Marble
+197;6;12;Oil Branch
+198;6;12;Dilemma Rock
+199;6;15;Absurd Branch
+200;6;15;Insanity Moss
+201;6;16;Gypsum Branch
+202;6;16;Black Ash
+203;6;16;Emerald Snow
+204;6;16;Rabbit Stone
+205;6;16;Broom Icicle
+206;6;19;Poisonous Coral
+207;6;19;Poison Ivy
+208;6;19;Amber Leaf
+209;6;21;Ivy Nest
+210;6;21;Mossy Panel
+211;6;21;Bronze Wood
+212;6;23;Missing Tree
+213;6;23;Fortune Feather
+214;6;24;White Styrene
+215;6;24;Black Styrene
+216;6;24;Blood Oil
+217;7;2;Blue Chain
+218;7;2;Rabbit Diode
+219;7;4;Rusty Bolt
+220;7;4;Winding Gear
+221;7;6;Black Chip
+222;7;6;Ready Coil
+223;7;7;Blue Gear Shard
+224;7;7;Rumble Part
+225;7;11;White Tube
+226;7;11;Green Diode
+227;7;11;Spiral Lamp
+228;7;15;White Cover
+229;7;15;Modern Resistor
+230;7;15;Green Cam
+231;7;15;Strong Screw
+232;7;17;Gold Condenser
+233;7;17;Purple Lamp
+234;7;17;Crimson Gear
+235;7;18;Locust Spring
+236;7;18;Art Core Coil
+237;7;18;Tail Antenna
+238;7;19;Warning Lamp
+239;7;19;Digital Filament
+240;7;21;Retro Diode
+241;7;21;Modern Blue Gear
+242;7;21;Snow Transistor
+243;7;23;Fancy Bolt
+244;7;23;Blue Light Amp
+245;7;23;Fairy Tale Diode
+246;7;23;Grape Spring
+247;7;24;Angel Engine X
+248;7;24;Leaf Coil
+249;7;24;Warrior Screw
+250;7;26;Golden Cog
+251;7;26;Angel Engine Y
+252;7;26;Thunder Compass
+253;8;2;Plate Snow
+254;8;2;Rainbow Zirconia
+255;8;3;Leaf Mystery
+256;8;3;Steel Silk
+257;8;4;Gold Dust Illusion
+258;8;4;Devious Gravity
+259;8;4;White Songbird
+260;8;4;Death Bangle
+261;8;5;Verdant Eternity
+262;8;5;White Night Rod
+263;8;6;Love Crane
+264;8;6;Fire Abron
+265;8;7;Pauper's Cup
+266;8;7;Happy Carnival
+267;8;7;Dawn Dice
+268;8;8;Lemonade Sky
+269;8;8;Forest of Gossip
+270;8;8;Gravel Disk
+271;8;9;Rumble Box
+272;8;9;Black Panel
+273;8;11;Tasty Sausage
+274;8;11;Macro Passion
+275;8;12;High Violet
+276;8;12;Steel Hauyne
+277;8;13;Ha Ha Ha
+278;8;13;Thunder Atmos
+279;8;15;Blue Glow
+280;8;15;Blue Blood
+281;8;16;Frost Glass
+282;8;16;Large Handcuffs
+283;8;17;Red Frontier
+284;8;17;Darkness Bottle
+285;8;17;Bud of Eternity
+286;8;18;Hunger Crash
+287;8;18;Splish Splash
+288;8;19;Star Cute
+289;8;19;Summer Star
+290;8;21;Tweet Tweet
+291;8;21;Flame Frame
+292;8;23;Eryth Blue
+293;8;23;Dramatic Night
+294;8;24;Smoke Cylinder
+295;8;24;Sacred Panther
+296;8;24;Parts Noble
+297;8;25;Tap Tap Tap
+298;8;25;High Entia Jewel
+299;8;26;Coin of Fortune
+300;8;26;Love Source
+301;1;2;Cute Parsnip
+302;2;3;Spicy Nut
+303;3;4;Jujube Silver
+304;4;5;Love Source
+305;5;6;500
+306;6;7;800
+307;7;8;1000
+308;8;9;1500
+309;1;11;3000
+310;2;12;5000
+311;3;13;8000
+312;4;15;10000
+313;5;16;20000
+314;6;17;30000
+315;7;18;40000
+316;8;19;50000
+317;1;21;60000
+318;2;23;65535
+319;1;29;Rainbow Carrot
+320;1;29;High Leaf
+321;1;29;Cream Wheat
+322;1;29;Morrow Cob
+323;1;29;Kilopumpkin
+324;4;29;Angel Bream
+325;4;29;Gentleclam
+326;4;29;Sky Mole
+327;4;29;Blade Bird
+328;4;29;Palmtop Elephant
+329;7;29;Half Part
+330;7;29;Snare Wire
+331;7;29;Subzero Steel
+332;7;29;Blaze Chain
+333;7;29;Congenial Cogs
+334;8;29;Swirly Slash
+335;8;29;Hero Nipper
+336;8;29;Highlightning
+337;8;29;Dubious Sculpture
+338;8;29;Shimmertumble
+339;3;30;Mystic Dahlia
+340;2;30;Cool Lemon
+341;2;30;Heart Peach
+342;3;30;Stardrop
+343;8;30;Ha Ha Ha
+344;8;30;Thunder Atmos
+345;4;30;Nanoceros
+346;4;30;Mane Cat

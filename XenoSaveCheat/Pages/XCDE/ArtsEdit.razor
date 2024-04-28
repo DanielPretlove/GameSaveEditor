@@ -1,0 +1,78 @@
+@using XenoSaveCheat.Components
+@using Services.DataLookup.XCDE
+<MudGrid>
+    <MudItem xs="6">
+        <MudPaper Class="pa-6 ma-2">
+        <MudText Typo="Typo.h4">Arts Palette</MudText>
+        <NumericAutocomplete
+            T="ushort"
+            DDT="ArtsLookup"
+            nm_xs="3"
+            dd_xs="9"
+            NumericLabel="ID"
+            DropDownLabel="Talent Art"
+            Margin="Margin.Dense"
+            Dense="true"
+            Min="0"
+            Max="@((ushort)DLS.XCDEArts.Count)"
+            DropDownCollection="DLS.XCDEArts"
+            AllowFullDropDown="true"
+            @bind-Value="Arts[0]" />
+        @for (int i = 1; i < Arts.Length; i++)
+        {
+            int idx = i;
+            <NumericAutocomplete
+                T="ushort"
+                DDT="ArtsLookup"
+                nm_xs="3"
+                dd_xs="9"
+                NumericLabel="ID"
+                DropDownLabel="@($"Art {idx}")"
+                Margin="Margin.Dense"
+                Dense="true"
+                Min="0"
+                Max="@((ushort)DLS.XCDEArts.Count)"
+                DropDownCollection="DLS.XCDEArts"
+                AllowFullDropDown="true"
+                @bind-Value="Arts[idx]" />
+        }
+        </MudPaper>
+    </MudItem>
+    <MudItem xs="6">
+        <MudPaper Class="pa-6 ma-2">
+        <MudText Typo="Typo.h4">Seconadary Arts Palette</MudText>
+        <NumericAutocomplete
+            T="ushort"
+            DDT="ArtsLookup"
+            nm_xs="3"
+            dd_xs="9"
+            NumericLabel="ID"
+            DropDownLabel="Talent Art"
+            Margin="Margin.Dense"
+            Dense="true"
+            Min="0"
+            Max="@((ushort)DLS.XCDEArts.Count)"
+            DropDownCollection="DLS.XCDEArts"
+            AllowFullDropDown="true"
+            @bind-Value="MonadoArts[0]" />
+        @for (int i = 1; i < MonadoArts.Length; i++)
+        {
+            int idx = i;
+            <NumericAutocomplete
+                T="ushort"
+                DDT="ArtsLookup"
+                nm_xs="3"
+                dd_xs="9"
+                NumericLabel="ID"
+                DropDownLabel="@($"Art {idx}")"
+                Margin="Margin.Dense"
+                Dense="true"
+                Min="0"
+                Max="@((ushort)DLS.XCDEArts.Count)"
+                DropDownCollection="DLS.XCDEArts"
+                AllowFullDropDown="true"
+                @bind-Value="MonadoArts[idx]" />
+        }
+        </MudPaper>
+    </MudItem>
+</MudGrid>

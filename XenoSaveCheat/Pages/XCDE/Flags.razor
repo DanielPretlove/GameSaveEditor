@@ -1,0 +1,120 @@
+@*
+ * XenoSaveCheat
+ * Copyright (C) 2023  damysteryman
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU Affero General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU Affero General Public License for more details.
+ *
+ * You should have received a copy of the GNU Affero General Public License
+ * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ *@
+ @using dmm.XenoSave.XCDE
+ <MudTabs Position="Position.Top">
+    <MudTabPanel Text="Heart-to-Hearts">
+        <MudGrid>
+            <MudItem xs="6">
+                <MudPaper Class="pa-6 ma-2">
+                    <MudText Typo="Typo.h5">Heart-to-Hearts / Quiet Moments</MudText>
+                    <MudSimpleTable Hover="true" Dense="true" Striped="true">
+                        <thead>
+                            <tr>
+                                <th>Heart-to-Heart / Quiet Moment</th>
+                                <th>Discovered</th>
+                                <th>Completed</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @for (ushort i = 1; i < 99; i++)
+                            {
+                                ushort local = i;
+
+                                <tr>
+                                    <td>@local: @DLS.XCDEHearttoHearts[local].Name</td>
+                                    <td><MudCheckBox @bind-Checked="@Save.Flags[local + 4484]"></MudCheckBox></td>
+                                    <td><MudCheckBox @bind-Checked="@Save.Flags[local]"></MudCheckBox></td>
+                                </tr>
+                            }
+                        </tbody>
+                    </MudSimpleTable>
+                </MudPaper>
+            </MudItem>
+        </MudGrid>
+    </MudTabPanel>
+    <MudTabPanel Text="Achievements">
+        <MudGrid>
+            <MudItem xs="12">
+                <MudPaper Class="pa-6 ma-2">
+                    <MudText Typo="Typo.h5">Achievements</MudText>
+                    <MudSimpleTable Hover="true" Dense="true" Striped="true">
+                        <thead>
+                            <tr>
+                                <th>Achievement</th>
+                                <th>Counter (If Applicable)</th>
+                                <th>Completed</th>
+                                <th>Description</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @for (ushort i = 0; i < 200; i++)
+                            {
+                               ushort local = i;
+                               
+                               <tr>
+                                    <td>@(local + 1): @DLS.XCDEAchievements[(ushort)(local + 1)].Name</td>
+                                    <td><MudNumericField T="ushort" Min="ushort.MinValue" Max="ushort.MaxValue" @bind-Value="@Save.AchievementCounters[local]" Label="Counter"></MudNumericField></td>
+                                    <td><MudCheckBox @bind-Checked="@Save.Flags[local + 3497]"></MudCheckBox></td>
+                                    <td>@DLS.XCDEAchievements[(ushort)(local + 1)].Comments[Save.Flags[local + 3497] ? 1 : 0]</td>
+                               </tr> 
+                            }
+                        </tbody>
+                    </MudSimpleTable>
+                </MudPaper>
+            </MudItem>
+        </MudGrid>
+    </MudTabPanel>
+    <MudTabPanel Text="Collectopaedia">
+        @for(int i = 0; i < collectLocations.Length; i++)
+        {
+            Location local = collectLocations[i];
+            string heading = GetLocationString(local);
+            var CollectItems = DLS.XCDECollectopaedia.Values
+                                .Where(x => x.Location == local && !(x.ID > 300 && x.ID < 319));
+
+            <MudPaper Class="pa-6 ma-2">
+                <MudText Typo="Typo.h5">@heading</MudText>
+                <MudSimpleTable Hover="true" Dense="true" Striped="true">
+                    <colgroup>
+                        <col style="width: 75px;" />
+                        <col style="width: 200px;" />
+                        <col style="width: 200px;" />
+                        <col style="width: 200px;" />
+                        <col style="width: 200px;" />
+                        <col style="width: 200px;" />
+                    </colgroup>
+                    <tbody>
+                        @foreach (CollectableType ct in Enum.GetValues(typeof(CollectableType)))
+                        {
+                            if (CollectItems.Any(x => x.Category == ct))
+                            {
+                                <tr>
+                                    <td><MudText Typo="Typo.h6">@ct</MudText></td>
+                                    @foreach (var c in CollectItems.Where(c => c.Category == ct))
+                                    {
+                                        <td><MudCheckBox @bind-Checked="@Save.Flags2[c.ID + 1]" Label="@c.Name" /></td>
+                                    }
+                                </tr>
+                            }
+                        }
+                    </tbody>
+                </MudSimpleTable>
+            </MudPaper>
+        }
+    </MudTabPanel>
+ </MudTabs>

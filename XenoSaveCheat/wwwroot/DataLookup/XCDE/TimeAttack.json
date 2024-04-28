@@ -1,0 +1,222 @@
+[
+    {
+      "ID": 1,
+      "Name": "Humble Beginnings",
+      "Type": 0,
+      "NSRewardBase": [
+         100,
+         200,
+         400,
+         800
+      ]
+   },
+    {
+      "ID": 2,
+      "Name": "Humble Beginnings",
+      "Type": 1,
+      "NSRewardBase": [
+         300,
+         600,
+         1200,
+         2400
+      ]
+   },
+    {
+      "ID": 3,
+      "Name": "Fair Game",
+      "Type": 0,
+      "NSRewardBase": [
+         200,
+         400,
+         800,
+         1600
+      ]
+   },
+    {
+      "ID": 4,
+      "Name": "Fair Game",
+      "Type": 1,
+      "NSRewardBase": [
+         500,
+         1000,
+         2000,
+         4000
+      ]
+   },
+    {
+      "ID": 5,
+      "Name": "The Walls Have Eyes",
+      "Type": 0,
+      "NSRewardBase": [
+         300,
+         600,
+         1200,
+         2400
+      ]
+   },
+    {
+      "ID": 6,
+      "Name": "The Walls Have Eyes",
+      "Type": 1,
+      "NSRewardBase": [
+         700,
+         1400,
+         2800,
+         5600
+      ]
+   },
+    {
+      "ID": 7,
+      "Name": "Shaggy-dog Story",
+      "Type": 0,
+      "NSRewardBase": [
+         400,
+         800,
+         1600,
+         3200
+      ]
+   },
+    {
+      "ID": 8,
+      "Name": "Shaggy-dog Story",
+      "Type": 1,
+      "NSRewardBase": [
+         900,
+         1800,
+         3600,
+         7200
+      ]
+   },
+    {
+      "ID": 9,
+      "Name": "Oh, Brother!",
+      "Type": 0,
+      "NSRewardBase": [
+         500,
+         1000,
+         2000,
+         4000
+      ]
+   },
+    {
+      "ID": 10,
+      "Name": "Oh, Brother!",
+      "Type": 1,
+      "NSRewardBase": [
+         1100,
+         2200,
+         4400,
+         8800
+      ]
+   },
+    {
+      "ID": 11,
+      "Name": "Third Wheel",
+      "Type": 0,
+      "NSRewardBase": [
+         600,
+         1200,
+         2400,
+         4800
+      ]
+   },
+    {
+      "ID": 12,
+      "Name": "Third Wheel",
+      "Type": 1,
+      "NSRewardBase": [
+         1300,
+         2600,
+         5200,
+         10400
+      ]
+   },
+    {
+      "ID": 13,
+      "Name": "Sparks Fly, You Die",
+      "Type": 0,
+      "NSRewardBase": [
+         700,
+         1400,
+         2800,
+         5600
+      ]
+   },
+    {
+      "ID": 14,
+      "Name": "Sparks Fly, You Die",
+      "Type": 1,
+      "NSRewardBase": [
+         1500,
+         3000,
+         6000,
+         12000
+      ]
+   },
+    {
+      "ID": 15,
+      "Name": "Lost in a Dark Dream",
+      "Type": 0,
+      "NSRewardBase": [
+         800,
+         1600,
+         3200,
+         6400
+      ]
+   },
+    {
+      "ID": 16,
+      "Name": "Lost in a Dark Dream",
+      "Type": 1,
+      "NSRewardBase": [
+         1700,
+         3400,
+         6800,
+         13600
+      ]
+   },
+    {
+      "ID": 17,
+      "Name": "He of the Metal Face",
+      "Type": 0,
+      "NSRewardBase": [
+         900,
+         1800,
+         3600,
+         7200
+      ]
+   },
+    {
+      "ID": 18,
+      "Name": "He of the Metal Face",
+      "Type": 1,
+      "NSRewardBase": [
+         1900,
+         3800,
+         7600,
+         15200
+      ]
+   },
+    {
+      "ID": 19,
+      "Name": "Uniquely Disadvantaged",
+      "Type": 0,
+      "NSRewardBase": [
+         1000,
+         2000,
+         4000,
+         8000
+      ]
+   },
+    {
+      "ID": 20,
+      "Name": "Uniquely Disadvantaged",
+      "Type": 1,
+      "NSRewardBase": [
+         2100,
+         4200,
+         8400,
+         16800
+      ]
+   }
+   ]

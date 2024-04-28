@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <GenerateTargetFrameworkAttribute>false</GenerateTargetFrameworkAttribute>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+    <PackageReference Include="System.Text.Json" Version="6.0.6" />
+    <ProjectReference Include="../XenoSave/dmm.XenoSave.csproj" />
+    <ProjectReference Include="../XenoSaveCheatCore/dmm.XenoSaveCheatCore.csproj" />
+  </ItemGroup>
+
+</Project>

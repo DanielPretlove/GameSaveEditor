@@ -1,0 +1,422 @@
+@using XenoSaveCheat.Components
+@using dmm.XenoSave.XCDE
+@using Services.DataLookup
+@using Services.DataLookup.XCDE
+
+@if (EquipItemBox != null)
+{
+    <MudTable
+        T="EquipItem"
+        Items="@EquipItemBox"
+        Hover="true"
+        Dense="true"
+        Striped="true"
+        Bordered="true"
+        RowsPerPage="25"
+        CanCancelEdit="false"
+        ApplyButtonPosition="TableApplyButtonPosition.Start"
+        Filter="new Func<EquipItem, bool>(ItemFilter)">
+        <ToolBarContent>
+            <MudGrid>
+                <MudItem xs="3">
+                    <MudNumericField Margin="Margin.Dense" Label="Last Issued Serial No." @bind-Value="LastSerial" />
+                </MudItem>
+                <MudItem xs="9">
+                    <MudTextField @bind-Value="@filterText" Immediate="true" Placeholder="Search Filter..." Adornment="Adornment.Start" AdornmentIcon="@Icons.Material.Outlined.Search" />
+                </MudItem>
+            </MudGrid>
+        </ToolBarContent>
+        <HeaderContent>
+            <MudTh><MudTableSortLabel InitialDirection="SortDirection.None" SortBy="new Func<EquipItem, object>(x => x.Index)">Index</MudTableSortLabel></MudTh>
+            <MudTh><MudTableSortLabel InitialDirection="SortDirection.None" SortBy="new Func<EquipItem, object>(x => DLS.XCDEItems?[x.FullID.ID].Name ?? x.FullID.ToString())">Item</MudTableSortLabel></MudTh>
+            <MudTh><MudTableSortLabel InitialDirection="SortDirection.None" SortBy="new Func<EquipItem, object>(x => x.Quantity)">Quantity</MudTableSortLabel></MudTh>
+            <MudTh><MudTableSortLabel InitialDirection="SortDirection.None" SortBy="new Func<EquipItem, object>(x => x.SerialNo)">Serial No.</MudTableSortLabel></MudTh>
+            <MudTh><MudTableSortLabel InitialDirection="SortDirection.None" SortBy="new Func<EquipItem, object>(x => x.Exists)">Exists</MudTableSortLabel></MudTh>
+            <MudTh><MudTableSortLabel InitialDirection="SortDirection.None" SortBy="new Func<EquipItem, object>(x => x.Favourite)">Favourite</MudTableSortLabel></MudTh>
+            <MudTh><MudTableSortLabel InitialDirection="SortDirection.None" SortBy="new Func<EquipItem, object>(x => x.Weight)">Weight</MudTableSortLabel></MudTh>
+            <MudTh><MudTableSortLabel InitialDirection="SortDirection.None" SortBy="new Func<EquipItem, object>(x => x.GemSlots)">Gem Slots</MudTableSortLabel></MudTh>
+            <MudTh><MudTableSortLabel InitialDirection="SortDirection.None" SortBy="new Func<EquipItem, object>(x => x.Gems[0].ID)">Gem 1</MudTableSortLabel></MudTh>
+            <MudTh><MudTableSortLabel InitialDirection="SortDirection.None" SortBy="new Func<EquipItem, object>(x => x.Gems[1].ID)">Gem 2</MudTableSortLabel></MudTh>
+            <MudTh><MudTableSortLabel InitialDirection="SortDirection.None" SortBy="new Func<EquipItem, object>(x => x.Gems[2].ID)">Gem 3</MudTableSortLabel></MudTh>
+            <MudTh><MudTableSortLabel InitialDirection="SortDirection.None" SortBy="new Func<EquipItem, object>(x => x.UniqueGems[0].ID)">Unique Gem 1</MudTableSortLabel></MudTh>
+            <MudTh><MudTableSortLabel InitialDirection="SortDirection.None" SortBy="new Func<EquipItem, object>(x => x.UniqueGems[1].ID)">Unique Gem 2</MudTableSortLabel></MudTh>
+            <MudTh><MudTableSortLabel InitialDirection="SortDirection.None" SortBy="new Func<EquipItem, object>(x => x.UniqueGems[2].ID)">Unique Gem 3</MudTableSortLabel></MudTh>
+            <MudTh><MudTableSortLabel InitialDirection="SortDirection.None" SortBy="new Func<EquipItem, object>(x => x.Unk_1)">Unk_1</MudTableSortLabel></MudTh>
+            <MudTh><MudTableSortLabel InitialDirection="SortDirection.None" SortBy="new Func<EquipItem, object>(x => x.Unk_2)">Unk_2</MudTableSortLabel></MudTh>
+            <MudTh><MudTableSortLabel InitialDirection="SortDirection.None" SortBy="new Func<EquipItem, object>(x => x.Unk_3)">Unk_3</MudTableSortLabel></MudTh>
+        </HeaderContent>
+        <RowTemplate>
+            <MudTd DataLabel="Index">@context.Index</MudTd>
+            <MudTd DataLabel="FullID">
+                @(DLS.XCDEItems?[context.FullID.ID].Name ?? context.FullID.ToString())
+            </MudTd>
+            <MudTd DataLabel="Quantity">@context.Quantity</MudTd>
+            <MudTd DataLabel="SerialNo">@context.SerialNo</MudTd>
+            <MudTd DataLabel="Exists">
+                <MudCheckBox Disabled="true" @bind-Checked="context.Exists" />
+            </MudTd>
+            <MudTd DataLabel="Favourite">
+                <MudCheckBox Disabled="true" @bind-Checked="context.Favourite" />
+            </MudTd>
+            <MudTd DataLabel="Weight">@context.Weight</MudTd>
+            <MudTd DataLabel="GemSlots">@context.GemSlots</MudTd>
+            @for (int i = 0; i < context.Gems.Length; i++)
+            {
+                int gemIdx = i;
+                <MudTd DataLabel="@($"Gem {gemIdx}")">
+                    @if(context.Gems[gemIdx].IsEmpty())
+                        @(DLS.XCDEItems?[context.Gems[gemIdx].ID].Name)
+                    else
+                        @(DLS.XCDEItemIdxLookup[ItemType.Gem][context.Gems[gemIdx].ID].GetName())
+                </MudTd>
+            }
+            @for (int i = 0; i < context.UniqueGems.Length; i++)
+            {
+                int gemIdx = i;
+                <MudTd DataLabel="@($"Unique Gem {gemIdx}")">
+                    @(DLS.XCDEItems?[context.UniqueGems[gemIdx].ID].Name)
+                </MudTd>
+            }
+            <MudTd DataLabel="Unk_1">@context.Unk_1</MudTd>
+            <MudTd DataLabel="Unk_2">@context.Unk_2</MudTd>
+            <MudTd DataLabel="Unk_3">@context.Unk_3</MudTd>
+        </RowTemplate>
+        <RowEditingTemplate>
+            <MudTd DataLabel="Index">
+                <MudNumericField Margin="Margin.Dense" @bind-Value="context.Index" />
+            </MudTd>
+            <MudTd DataLabel="FullID">
+                <NumericAutocomplete
+                    T="ushort"
+                    DDT="ItemLookup"
+                    NumericLabel="ID"
+                    DropDownLabel="Item"
+                    Margin="Margin.Dense"
+                    Dense="true"
+                    Min="0"
+                    Max="4587"
+                    DropDownCollection="DLS.XCDEItems"
+                    Value="@context.FullID.ID"
+                    ValueChanged="@((ushort value) => UpdateItem(value, context))" />
+            </MudTd>
+            <MudTd DataLabel="Quantity">
+                <MudNumericField Margin="Margin.Dense" @bind-Value="context.Quantity" />
+            </MudTd>
+            <MudTd DataLabel="SerialNo">
+                <MudNumericField Margin="Margin.Dense" @bind-Value="context.SerialNo" />
+            </MudTd>
+            <MudTd DataLabel="Exists">
+                <MudCheckBox @bind-Checked="context.Exists" />
+            </MudTd>
+            <MudTd DataLabel="Favourite">
+                <MudCheckBox @bind-Checked="context.Favourite" />
+            </MudTd>
+            <MudTd DataLabel="Weight">
+                <MudNumericField Margin="Margin.Dense" @bind-Value="context.Weight" />
+            </MudTd>
+            <MudTd DataLabel="GemSlots">
+                <MudNumericField T="byte" Margin="Margin.Dense" @bind-Value="context.GemSlots" Max="3"/>
+            </MudTd>
+            @for (int i = 0; i < context.Gems.Length; i++)
+            {
+                int gemIdx = i;
+                <MudTd DataLabel="@($"Gem {gemIdx}")">
+                    <NumericAutocomplete
+                        T="ushort"
+                        DDT="GenericDataLookup"
+                        NumericLabel="ID"
+                        DropDownLabel="Item"
+                        Margin="Margin.Dense"
+                        Dense="true"
+                        Min="0"
+                        Max="499"
+                        DropDownCollection="@(DLS.XCDEItemIdxLookup[ItemType.Gem])"
+                        Value="@context.Gems[gemIdx].ID"
+                        ValueChanged="@((ushort value) => UpdateItemID(value, context.Gems[gemIdx], BoxItemType))" />
+                </MudTd>
+            }
+            @for (int i = 0; i < context.UniqueGems.Length; i++)
+            {
+                int gemIdx = i;
+                <MudTd DataLabel="@($"Unique Gem {gemIdx}")">
+                    <NumericAutocomplete
+                        T="ushort"
+                        DDT="ItemLookup"
+                        NumericLabel="ID"
+                        DropDownLabel="Item"
+                        Margin="Margin.Dense"
+                        Dense="true"
+                        Min="0"
+                        Max="4587"
+                        DropDownCollection="DLS.XCDEItems"
+                        Value="@context.UniqueGems[gemIdx].ID"
+                        ValueChanged="@((ushort value) => UpdateItemID(value, context.UniqueGems[gemIdx], BoxItemType))" />
+                </MudTd>
+            }
+            <MudTd DataLabel="Unk_1">
+                <MudNumericField Margin="Margin.Dense" @bind-Value="context.Unk_1" />
+            </MudTd>
+            <MudTd DataLabel="Unk_2">
+                <MudNumericField Margin="Margin.Dense" @bind-Value="context.Unk_2" />
+            </MudTd>
+            <MudTd DataLabel="Unk_3">
+                <MudNumericField Margin="Margin.Dense" @bind-Value="context.Unk_3" />
+            </MudTd>
+        </RowEditingTemplate>
+        <LoadingContent>
+            <MudText>Loading...</MudText>
+        </LoadingContent>
+        <PagerContent>
+            <MudTablePager PageSizeOptions="new int[] { 5, 10, 20, 25, 50, 100, 250, 500 }" />
+        </PagerContent>
+    </MudTable>
+}
+
+@if (CrystalItemBox != null)
+{
+    <MudTable
+        T="CrystalItem"
+        Items="@CrystalItemBox"
+        FixedHeader="true"
+        Hover="true"
+        Dense="true"
+        Striped="true"
+        Bordered="true"
+        RowsPerPage="25"
+        CanCancelEdit="false"
+        ApplyButtonPosition="TableApplyButtonPosition.Start"
+        Filter="new Func<CrystalItem, bool>(ItemFilter)">
+        <ToolBarContent>
+            <MudGrid>
+                <MudItem xs="3">
+                    <MudNumericField Margin="Margin.Dense" Label="Last Issued Serial No." @bind-Value="LastSerial" />
+                </MudItem>
+                <MudItem xs="9">
+                    <MudTextField @bind-Value="@filterText" Immediate="true" Placeholder="Search Filter..." Adornment="Adornment.Start" AdornmentIcon="@Icons.Material.Outlined.Search" />
+                </MudItem>
+            </MudGrid>
+        </ToolBarContent>
+        <HeaderContent>
+            <MudTh><MudTableSortLabel InitialDirection="SortDirection.None" SortBy="new Func<CrystalItem, object>(x => x.Index)">Index</MudTableSortLabel></MudTh>
+            <MudTh><MudTableSortLabel InitialDirection="SortDirection.None" SortBy="new Func<CrystalItem, object>(x => x.FullID.ID)">Item</MudTableSortLabel></MudTh>
+            <MudTh><MudTableSortLabel InitialDirection="SortDirection.None" SortBy="new Func<CrystalItem, object>(x => x.CrystalNameID)">NameID</MudTableSortLabel></MudTh>
+            <MudTh><MudTableSortLabel InitialDirection="SortDirection.None" SortBy="new Func<CrystalItem, object>(x => x.Quantity)">Quantity</MudTableSortLabel></MudTh>
+            <MudTh><MudTableSortLabel InitialDirection="SortDirection.None" SortBy="new Func<CrystalItem, object>(x => x.SerialNo)">Serial No.</MudTableSortLabel></MudTh>
+            <MudTh><MudTableSortLabel InitialDirection="SortDirection.None" SortBy="new Func<CrystalItem, object>(x => x.Exists)">Exists</MudTableSortLabel></MudTh>
+            <MudTh><MudTableSortLabel InitialDirection="SortDirection.None" SortBy="new Func<CrystalItem, object>(x => x.Favourite)">Favourite</MudTableSortLabel></MudTh>
+            <MudTh><MudTableSortLabel InitialDirection="SortDirection.None" SortBy="new Func<CrystalItem, object>(x => x.Rank)">Rank</MudTableSortLabel></MudTh>
+            <MudTh><MudTableSortLabel InitialDirection="SortDirection.None" SortBy="new Func<CrystalItem, object>(x => x.Element)">Element</MudTableSortLabel></MudTh>
+            <MudTh><MudTableSortLabel InitialDirection="SortDirection.None" SortBy="new Func<CrystalItem, object>(x => x.IsCylinder)">Is Cylinder?</MudTableSortLabel></MudTh>
+            <MudTh><MudTableSortLabel InitialDirection="SortDirection.None" SortBy="new Func<CrystalItem, object>(x => x.Favourite)">Buff Count</MudTableSortLabel></MudTh>
+            <MudTh><MudTableSortLabel InitialDirection="SortDirection.None" SortBy="new Func<CrystalItem, object>(x => x.Favourite)">Buff 1</MudTableSortLabel></MudTh>
+            <MudTh><MudTableSortLabel InitialDirection="SortDirection.None" SortBy="new Func<CrystalItem, object>(x => x.Favourite)">Buff 2</MudTableSortLabel></MudTh>
+            <MudTh><MudTableSortLabel InitialDirection="SortDirection.None" SortBy="new Func<CrystalItem, object>(x => x.Favourite)">Buff 3</MudTableSortLabel></MudTh>
+            <MudTh><MudTableSortLabel InitialDirection="SortDirection.None" SortBy="new Func<CrystalItem, object>(x => x.Favourite)">Buff 4</MudTableSortLabel></MudTh>
+            <MudTh><MudTableSortLabel InitialDirection="SortDirection.None" SortBy="new Func<CrystalItem, object>(x => x.Unk_1)">Unk_1</MudTableSortLabel></MudTh>
+            <MudTh><MudTableSortLabel InitialDirection="SortDirection.None" SortBy="new Func<CrystalItem, object>(x => x.Unk_2)">Unk_2</MudTableSortLabel></MudTh>
+            <MudTh><MudTableSortLabel InitialDirection="SortDirection.None" SortBy="new Func<CrystalItem, object>(x => x.Unk_3)">Unk_3</MudTableSortLabel></MudTh>
+        </HeaderContent>
+        <RowTemplate>
+            <MudTd DataLabel="Index">@context.Index</MudTd>
+            <MudTd DataLabel="FullID">
+                @(DLS.XCDEItems?[context.FullID.ID].Name)
+            </MudTd>
+            <MudTd DataLabel="NameID">@context.CrystalNameID</MudTd>
+            <MudTd DataLabel="Quantity">@context.Quantity</MudTd>
+            <MudTd DataLabel="SerialNo">@context.SerialNo</MudTd>
+            <MudTd DataLabel="Exists">
+                <MudCheckBox Disabled="true" @bind-Checked="context.Exists" />
+            </MudTd>
+            <MudTd DataLabel="Favourite">
+                <MudCheckBox Disabled="true" @bind-Checked="context.Favourite" />
+            </MudTd>
+            <MudTd DataLabel="Rank">
+                @(DLS.XCDECrystalRanks?[context.Rank].Name)
+            </MudTd>
+            <MudTd DataLabel="Element">
+                @(DLS.XCDECrystalElements?[context.Element].Name)
+            </MudTd>
+            <MudTd DataLabel="IsCylinder">
+                <MudCheckBox Disabled="true" @bind-Checked="context.IsCylinder" />
+            </MudTd>
+            <MudTd DataLabel="BuffCount">@context.BuffCount</MudTd>
+            @for (int i = 0; i < context.Buffs.Length; i++)
+            {
+                int buffIdx = i;
+                <MudTd DataLabel="@($"Buff{buffIdx}ID")">
+                    @if (context.Buffs[buffIdx].BuffID < (DLS.XCDECrystalBuffs?.Count ?? 1))
+                        @(DLS.XCDECrystalBuffs?[context.Buffs[buffIdx].BuffID]?.Name)
+                    else
+                        @context.Buffs[buffIdx].BuffID
+                </MudTd>
+            }
+            <MudTd DataLabel="Unk_1">@context.Unk_1</MudTd>
+            <MudTd DataLabel="Unk_2">@context.Unk_2</MudTd>
+            <MudTd DataLabel="Unk_3">@context.Unk_3</MudTd>
+        </RowTemplate>
+        <RowEditingTemplate>
+            <MudTd DataLabel="Index">
+                <MudNumericField Margin="Margin.Dense" @bind-Value="context.Index" />
+            </MudTd>
+            <MudTd DataLabel="FullID">
+                <NumericAutocomplete
+                    T="ushort"
+                    DDT="ItemLookup"
+                    NumericLabel="ID"
+                    DropDownLabel="Item"
+                    Margin="Margin.Dense"
+                    Dense="true"
+                    Min="0"
+                    Max="4587"
+                    DropDownCollection="DLS.XCDEItems"
+                    Value="@context.FullID.ID"
+                    ValueChanged="@((ushort value) => UpdateItem(value, context))" />
+            </MudTd>
+            <MudTd DataLabel="NameID">
+                <MudNumericField Margin="Margin.Dense" @bind-Value="context.CrystalNameID" />
+            </MudTd>
+            <MudTd DataLabel="Quantity">
+                <MudNumericField Margin="Margin.Dense" @bind-Value="context.Quantity" />
+            </MudTd>
+            <MudTd DataLabel="SerialNo">
+                <MudNumericField Margin="Margin.Dense" @bind-Value="context.SerialNo" />
+            </MudTd>
+            <MudTd DataLabel="Exists">
+                <MudCheckBox @bind-Checked="context.Exists" />
+            </MudTd>
+            <MudTd DataLabel="Favourite">
+                <MudCheckBox @bind-Checked="context.Favourite" />
+            </MudTd>
+            <MudTd DataLabel="Rank">
+                <NumericDropDown T="byte" NumericLabel="ID" DropDownLabel="Rank" Margin="Margin.Dense" Min="0" Max="6" @bind-Value="context.Rank" DDT="GenericDataLookup" DropDownCollection="DLS.XCDECrystalRanks"/>
+            </MudTd>
+            <MudTd DataLabel="Element">
+                <NumericDropDown T="byte" NumericLabel="ID" DropDownLabel="Element" Margin="Margin.Dense" Min="0" Max="10" @bind-Value="context.Element" DDT="GenericDataLookup" DropDownCollection="DLS.XCDECrystalElements"/>
+            </MudTd>
+            <MudTd DataLabel="IsCylinder">
+                <MudCheckBox @bind-Checked="context.IsCylinder" />
+            </MudTd>
+            <MudTd DataLabel="BuffCount">
+                <MudNumericField Margin="Margin.Dense" @bind-Value="context.BuffCount" />
+            </MudTd>
+            @for (int i = 0; i < context.Buffs.Length; i++)
+            {
+                int buffIdx = i;
+                <MudTd DataLabel="@($"Buff{buffIdx}")">
+                    <MudNumericField Margin="Margin.Dense" Label="Buff ID"  @bind-Value="context.Buffs[buffIdx].BuffID" />
+                    <MudNumericField Margin="Margin.Dense" Label="Value"    @bind-Value="context.Buffs[buffIdx].Value" />
+                    <MudNumericField Margin="Margin.Dense" Label="% Chance" @bind-Value="context.Buffs[buffIdx].Probability" />
+                </MudTd>
+            }
+            <MudTd DataLabel="Unk_1">
+                <MudNumericField Margin="Margin.Dense" @bind-Value="context.Unk_1" />
+            </MudTd>
+            <MudTd DataLabel="Unk_2">
+                <MudNumericField Margin="Margin.Dense" @bind-Value="context.Unk_2" />
+            </MudTd>
+            <MudTd DataLabel="Unk_3">
+                <MudNumericField Margin="Margin.Dense" @bind-Value="context.Unk_3" />
+            </MudTd>
+        </RowEditingTemplate>
+        <LoadingContent>
+            <MudText>Loading...</MudText>
+        </LoadingContent>
+        <PagerContent>
+            <MudTablePager PageSizeOptions="new int[] { 5, 10, 20, 25, 50, 100, 250, 500 }" />
+        </PagerContent>
+    </MudTable>
+}
+@if (ItemBox != null)
+{
+    <MudTable
+        T="Item"
+        Items="@ItemBox"
+        Hover="true"
+        Dense="true"
+        Striped="true"
+        Bordered="true"
+        RowsPerPage="25"
+        CanCancelEdit="false"
+        ApplyButtonPosition="TableApplyButtonPosition.Start"
+        Filter="new Func<Item, bool>(ItemFilter)">
+        <ToolBarContent>
+            <MudGrid>
+                <MudItem xs="3">
+                    <MudNumericField Margin="Margin.Dense" Label="Last Issued Serial No." @bind-Value="LastSerial" />
+                </MudItem>
+                <MudItem xs="9">
+                    <MudTextField @bind-Value="@filterText" Immediate="true" Placeholder="Search Filter..." Adornment="Adornment.Start" AdornmentIcon="@Icons.Material.Outlined.Search" />
+                </MudItem>
+            </MudGrid>
+        </ToolBarContent>
+        <HeaderContent>
+            <MudTh><MudTableSortLabel InitialDirection="SortDirection.None" SortBy="new Func<Item, object>(x => x.Index)">Index</MudTableSortLabel></MudTh>
+            <MudTh><MudTableSortLabel InitialDirection="SortDirection.None" SortBy="new Func<Item, object>(x => x.FullID.ID)">Item</MudTableSortLabel></MudTh>
+            <MudTh><MudTableSortLabel InitialDirection="SortDirection.None" SortBy="new Func<Item, object>(x => x.Quantity)">Quantity</MudTableSortLabel></MudTh>
+            <MudTh><MudTableSortLabel InitialDirection="SortDirection.None" SortBy="new Func<Item, object>(x => x.SerialNo)">Serial No.</MudTableSortLabel></MudTh>
+            <MudTh><MudTableSortLabel InitialDirection="SortDirection.None" SortBy="new Func<Item, object>(x => x.Exists)">Exists</MudTableSortLabel></MudTh>
+            <MudTh><MudTableSortLabel InitialDirection="SortDirection.None" SortBy="new Func<Item, object>(x => x.Favourite)">Favourite</MudTableSortLabel></MudTh>
+            <MudTh><MudTableSortLabel InitialDirection="SortDirection.None" SortBy="new Func<Item, object>(x => x.Unk_1)">Unk_1</MudTableSortLabel></MudTh>
+            <MudTh><MudTableSortLabel InitialDirection="SortDirection.None" SortBy="new Func<Item, object>(x => x.Unk_2)">Unk_2</MudTableSortLabel></MudTh>
+        </HeaderContent>
+        <RowTemplate>
+            <MudTd DataLabel="Index">@context.Index</MudTd>
+            <MudTd DataLabel="FullID">
+                @(DLS.XCDEItems?[context.FullID.ID].Name)
+            </MudTd>
+            <MudTd DataLabel="Quantity">@context.Quantity</MudTd>
+            <MudTd DataLabel="SerialNo">@context.SerialNo</MudTd>
+            <MudTd DataLabel="Exists">
+                <MudCheckBox Disabled="true" @bind-Checked="context.Exists" />
+            </MudTd>
+            <MudTd DataLabel="Favourite">
+                <MudCheckBox Disabled="true" @bind-Checked="context.Favourite" />
+            </MudTd>
+            <MudTd DataLabel="Unk_1">@context.Unk_1</MudTd>
+            <MudTd DataLabel="Unk_2">@context.Unk_2</MudTd>
+        </RowTemplate>
+        <RowEditingTemplate>
+            <MudTd DataLabel="Index">
+                <MudNumericField Margin="Margin.Dense" @bind-Value="context.Index" />
+            </MudTd>
+            <MudTd DataLabel="FullID">
+                <NumericAutocomplete
+                    T="ushort"
+                    DDT="ItemLookup"
+                    NumericLabel="ID"
+                    DropDownLabel="Item"
+                    Margin="Margin.Dense"
+                    Dense="true"
+                    Min="0"
+                    Max="4587"
+                    DropDownCollection="DLS.XCDEItems"
+                    Value="@context.FullID.ID"
+                    ValueChanged="@((ushort value) => UpdateItem(value, context))" />
+            </MudTd>
+            <MudTd DataLabel="Quantity">
+                <MudNumericField Margin="Margin.Dense" @bind-Value="context.Quantity" />
+            </MudTd>
+            <MudTd DataLabel="SerialNo">
+                <MudNumericField Margin="Margin.Dense" @bind-Value="context.SerialNo" />
+            </MudTd>
+            <MudTd DataLabel="Exists">
+                <MudCheckBox @bind-Checked="context.Exists" />
+            </MudTd>
+            <MudTd DataLabel="Favourite">
+                <MudCheckBox @bind-Checked="context.Favourite" />
+            </MudTd>
+            <MudTd DataLabel="Unk_1">
+                <MudNumericField Margin="Margin.Dense" @bind-Value="context.Unk_1" />
+            </MudTd>
+            <MudTd DataLabel="Unk_2">
+                <MudNumericField Margin="Margin.Dense" @bind-Value="context.Unk_2" />
+            </MudTd>
+        </RowEditingTemplate>
+        <LoadingContent>
+            <MudText>Loading...</MudText>
+        </LoadingContent>
+        <PagerContent>
+            <MudTablePager PageSizeOptions="new int[] { 5, 10, 20, 25, 50, 100, 250, 500 }" />
+        </PagerContent>
+    </MudTable>
+}

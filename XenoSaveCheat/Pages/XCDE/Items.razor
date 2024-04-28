@@ -1,0 +1,40 @@
+@using dmm.XenoSave.XCDE
+
+<MudTabs Position="Position.Top">
+    <MudTabPanel Text="Weapons">
+        <ItemTable @bind-EquipItemBox="Save.Weapons"     @bind-LastSerial="Save.ItemBoxSerials[0]"  BoxItemType="@ItemType.Weapon" />
+    </MudTabPanel>
+    <MudTabPanel Text="Armour - Head">
+        <ItemTable @bind-EquipItemBox="Save.HeadArmour"  @bind-LastSerial="Save.ItemBoxSerials[2]"  BoxItemType="@ItemType.HeadArmour" />
+    </MudTabPanel>
+    <MudTabPanel Text="Armour - Torso">
+        <ItemTable @bind-EquipItemBox="Save.TorsoArmour" @bind-LastSerial="Save.ItemBoxSerials[3]"  BoxItemType="@ItemType.TorsoArmour" />
+    </MudTabPanel>
+    <MudTabPanel Text="Armour - Arms">
+        <ItemTable @bind-EquipItemBox="Save.ArmArmour"   @bind-LastSerial="Save.ItemBoxSerials[4]"  BoxItemType="@ItemType.ArmArmour" />
+    </MudTabPanel>
+    <MudTabPanel Text="Armour - Legs">
+        <ItemTable @bind-EquipItemBox="Save.LegArmour"   @bind-LastSerial="Save.ItemBoxSerials[5]"  BoxItemType="@ItemType.LegArmour" />
+    </MudTabPanel>
+    <MudTabPanel Text="Armour - Feet">
+        <ItemTable @bind-EquipItemBox="Save.FootArmour"  @bind-LastSerial="Save.ItemBoxSerials[6]"  BoxItemType="@ItemType.FootArmour" />
+    </MudTabPanel>
+    <MudTabPanel Text="Crystals">
+        <ItemTable @bind-CrystalItemBox="Save.Crystals"  @bind-LastSerial="Save.ItemBoxSerials[7]"  BoxItemType="@ItemType.Crystal" />
+    </MudTabPanel>
+    <MudTabPanel Text="Gems">
+        <ItemTable @bind-CrystalItemBox="Save.Gems"      @bind-LastSerial="Save.ItemBoxSerials[1]"  BoxItemType="@ItemType.Gem" />
+    </MudTabPanel>
+    <MudTabPanel Text="Collectables">
+        <ItemTable @bind-ItemBox="Save.Collectables"     @bind-LastSerial="Save.ItemBoxSerials[8]"  BoxItemType="@ItemType.Collectable" />
+    </MudTabPanel>
+    <MudTabPanel Text="Materials">
+        <ItemTable @bind-ItemBox="Save.Materials"        @bind-LastSerial="Save.ItemBoxSerials[9]"  BoxItemType="@ItemType.Material" />
+    </MudTabPanel>
+    <MudTabPanel Text="Key Items">
+        <ItemTable @bind-ItemBox="Save.KeyItems"         @bind-LastSerial="Save.ItemBoxSerials[10]" BoxItemType="@ItemType.KeyItem" />
+    </MudTabPanel>
+    <MudTabPanel Text="Arts Manuals">
+        <ItemTable @bind-ItemBox="Save.ArtsManuals"      @bind-LastSerial="Save.ItemBoxSerials[11]" BoxItemType="@ItemType.ArtsManual" />
+    </MudTabPanel>
+</MudTabs>

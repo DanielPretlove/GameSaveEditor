@@ -1,0 +1,354 @@
+@using XenoSaveCheat.Components
+@using Services.DataLookup
+@using Services.DataLookup.XCDE
+@using dmm.XenoSave.XCDE
+
+<MudGrid>
+    <MudItem xs="6">
+        <MudPaper Class="pa-6 ma-2">
+            <MudText Typo="Typo.h4">Equipped Gear Inventory Indexes</MudText>
+                <NumericAutocomplete
+                    T="ushort"
+                    DDT="GenericDataLookup"
+                    nm_xs="3"
+                    dd_xs="9"
+                    NumericLabel="ID"
+                    DropDownLabel="Weapon"
+                    Margin="Margin.Dense"
+                    Dense="true"
+                    Min="0"
+                    Max="499"
+                    DropDownCollection="DLS.XCDEItemIdxLookup[ItemType.Weapon]"
+                    @bind-Value="Equipment[5].ID"
+                    />
+                <NumericAutocomplete
+                    T="ushort"
+                    DDT="GenericDataLookup"
+                    nm_xs="3"
+                    dd_xs="9"
+                    NumericLabel="ID"
+                    DropDownLabel="Armour: Head"
+                    Margin="Margin.Dense"
+                    Dense="true"
+                    Min="0"
+                    Max="499"
+                    DropDownCollection="DLS.XCDEItemIdxLookup[ItemType.HeadArmour]"
+                    @bind-Value="Equipment[0].ID"
+                    />
+                <NumericAutocomplete
+                    T="ushort"
+                    DDT="GenericDataLookup"
+                    nm_xs="3"
+                    dd_xs="9"
+                    NumericLabel="ID"
+                    DropDownLabel="Armour: Torso"
+                    Margin="Margin.Dense"
+                    Dense="true"
+                    Min="0"
+                    Max="499"
+                    DropDownCollection="DLS.XCDEItemIdxLookup[ItemType.TorsoArmour]"
+                    @bind-Value="Equipment[1].ID"
+                    />
+                <NumericAutocomplete
+                    T="ushort"
+                    DDT="GenericDataLookup"
+                    nm_xs="3"
+                    dd_xs="9"
+                    NumericLabel="ID"
+                    DropDownLabel="Armour: Arm"
+                    Margin="Margin.Dense"
+                    Dense="true"
+                    Min="0"
+                    Max="499"
+                    DropDownCollection="DLS.XCDEItemIdxLookup[ItemType.ArmArmour]"
+                    @bind-Value="Equipment[2].ID"
+                    />
+                <NumericAutocomplete
+                    T="ushort"
+                    DDT="GenericDataLookup"
+                    nm_xs="3"
+                    dd_xs="9"
+                    NumericLabel="ID"
+                    DropDownLabel="Armour: Leg"
+                    Margin="Margin.Dense"
+                    Dense="true"
+                    Min="0"
+                    Max="499"
+                    DropDownCollection="DLS.XCDEItemIdxLookup[ItemType.LegArmour]"
+                    @bind-Value="Equipment[3].ID"
+                    />
+                <NumericAutocomplete
+                    T="ushort"
+                    DDT="GenericDataLookup"
+                    nm_xs="3"
+                    dd_xs="9"
+                    NumericLabel="ID"
+                    DropDownLabel="Armour: Foot"
+                    Margin="Margin.Dense"
+                    Dense="true"
+                    Min="0"
+                    Max="499"
+                    DropDownCollection="DLS.XCDEItemIdxLookup[ItemType.FootArmour]"
+                    @bind-Value="Equipment[4].ID"
+                    />
+                @* <NumericDropDown    
+                    T="ushort"
+                    DDT="GenericDataLookupObject"
+                    NumericLabel="ID"
+                    DropDownLabel="Weapon"
+                    Margin="Margin.Dense"
+                    Min="0"
+                    Max="@((ushort)DLS.XCDEWeaponIdxLookup.Count)"
+                    DropDownCollection="DLS.XCDEWeaponIdxLookup"
+                    @bind-Value="Equipment[5].ID"
+                    /> *@
+        </MudPaper>
+    </MudItem>
+    <MudItem xs="6">
+        @if ((int)CurrentChar < 9 || (int)CurrentChar > 13)
+        {
+            <MudPaper Class="pa-6 ma-2">
+                <MudText Typo="Typo.h4">Equipment Cosmetics</MudText>
+                <NumericAutocomplete
+                    T="uint"
+                    DDT="GenericDataLookup"
+                    nm_xs="3"
+                    dd_xs="9"
+                    NumericLabel="ID"
+                    DropDownLabel="Cosmetic: Weapon"
+                    Margin="Margin.Dense"
+                    Dense="true"
+                    Min="0"
+                    Max="@((uint)DLS.XCDEWeaponCosmeticsLookup[CurrentChar].Count)"
+                    DropDownCollection="DLS.XCDEWeaponCosmeticsLookup[CurrentChar]"
+                    @bind-Value="Cosmetics[5]"
+                    />
+                <NumericAutocomplete
+                    T="uint"
+                    DDT="ArmorCosmeticLookup"
+                    nm_xs="3"
+                    dd_xs="9"
+                    NumericLabel="ID"
+                    DropDownLabel="Cosmetic: Head"
+                    Margin="Margin.Dense"
+                    Dense="true"
+                    Min="0"
+                    Max="@((uint)DLS.XCDEArmorCosmeticsLookup[CurrentChar].Count)"
+                    DropDownCollection="DLS.XCDEArmorCosmeticsLookup[CurrentChar]"
+                    @bind-Value="Cosmetics[0]"
+                    />
+                <NumericAutocomplete
+                    T="uint"
+                    DDT="ArmorCosmeticLookup"
+                    nm_xs="3"
+                    dd_xs="9"
+                    NumericLabel="ID"
+                    DropDownLabel="Cosmetic: Torso"
+                    Margin="Margin.Dense"
+                    Dense="true"
+                    Min="0"
+                    Max="@((uint)DLS.XCDEArmorCosmeticsLookup[CurrentChar].Count)"
+                    DropDownCollection="DLS.XCDEArmorCosmeticsLookup[CurrentChar]"
+                    @bind-Value="Cosmetics[1]"
+                    />
+                <NumericAutocomplete
+                    T="uint"
+                    DDT="ArmorCosmeticLookup"
+                    nm_xs="3"
+                    dd_xs="9"
+                    NumericLabel="ID"
+                    DropDownLabel="Cosmetic: Arms"
+                    Margin="Margin.Dense"
+                    Dense="true"
+                    Min="0"
+                    Max="@((uint)DLS.XCDEArmorCosmeticsLookup[CurrentChar].Count)"
+                    DropDownCollection="DLS.XCDEArmorCosmeticsLookup[CurrentChar]"
+                    @bind-Value="Cosmetics[2]"
+                    />
+                <NumericAutocomplete
+                    T="uint"
+                    DDT="ArmorCosmeticLookup"
+                    nm_xs="3"
+                    dd_xs="9"
+                    NumericLabel="ID"
+                    DropDownLabel="Cosmetic: Legs"
+                    Margin="Margin.Dense"
+                    Dense="true"
+                    Min="0"
+                    Max="@((uint)DLS.XCDEArmorCosmeticsLookup[CurrentChar].Count)"
+                    DropDownCollection="DLS.XCDEArmorCosmeticsLookup[CurrentChar]"
+                    @bind-Value="Cosmetics[3]"
+                    />
+                <NumericAutocomplete
+                    T="uint"
+                    DDT="ArmorCosmeticLookup"
+                    nm_xs="3"
+                    dd_xs="9"
+                    NumericLabel="ID"
+                    DropDownLabel="Cosmetic: Feet"
+                    Margin="Margin.Dense"
+                    Dense="true"
+                    Min="0"
+                    Max="@((uint)DLS.XCDEArmorCosmeticsLookup[CurrentChar].Count)"
+                    DropDownCollection="DLS.XCDEArmorCosmeticsLookup[CurrentChar]"
+                    @bind-Value="Cosmetics[4]"
+                    />
+            </MudPaper>
+        }
+    </MudItem>
+    <MudItem xs="12">
+        <MudText Typo="Typo.h4">Default Equipment Before Joining / After Leaving Party</MudText>
+        <MudTable
+            T="NonPartyMemberItem"
+            Items="@NonPartyEquipment"
+            Hover="true"
+            Dense="true"
+            Striped="true"
+            Bordered="true"
+            RowsPerPage="6"
+            CanCancelEdit="false"
+            ApplyButtonPosition="TableApplyButtonPosition.Start">
+            <HeaderContent>
+                <MudTh>Index</MudTh>
+                <MudTh>Item</MudTh>
+                <MudTh>Quantity</MudTh>
+                <MudTh>Serial No.</MudTh>
+                <MudTh>Exists</MudTh>
+                <MudTh>Favourite</MudTh>
+                <MudTh>Weight</MudTh>
+                <MudTh>Gem Slots</MudTh>
+                <MudTh>Gem 1</MudTh>
+                <MudTh>Gem 2</MudTh>
+                <MudTh>Gem 3</MudTh>
+                <MudTh>Unique Gem 1</MudTh>
+                <MudTh>Unique Gem 2</MudTh>
+                <MudTh>Unique Gem 3</MudTh>
+                <MudTh>Unk_1</MudTh>
+                <MudTh>Unk_2</MudTh>
+                <MudTh>Unk_3</MudTh>
+            </HeaderContent>
+            <RowTemplate>
+                <MudTd DataLabel="Index">@context.Item.Index</MudTd>
+                <MudTd DataLabel="FullID">
+                    @(DLS.XCDEItems?[context.Item.FullID.ID].Name ?? context.Item.FullID.ToString())
+                </MudTd>
+                <MudTd DataLabel="Quantity">@context.Item.Quantity</MudTd>
+                <MudTd DataLabel="SerialNo">@context.Item.SerialNo</MudTd>
+                <MudTd DataLabel="Exists">
+                    <MudCheckBox Disabled="true" @bind-Checked="context.Item.Exists" />
+                </MudTd>
+                <MudTd DataLabel="Favourite">
+                    <MudCheckBox Disabled="true" @bind-Checked="context.Item.Favourite" />
+                </MudTd>
+                <MudTd DataLabel="Weight">@context.Item.Weight</MudTd>
+                <MudTd DataLabel="GemSlots">@context.Item.GemSlots</MudTd>
+                @for (int i = 0; i < context.Item.Gems.Length; i++)
+                {
+                    int gemIdx = i;
+                    <MudTd DataLabel="@($"Gem {gemIdx}")">
+                        @if(context.Item.Gems[gemIdx].IsEmpty())
+                            @(DLS.XCDEItems?[context.Item.Gems[gemIdx].ID].Name)
+                        else
+                            @(DLS.XCDEItemIdxLookup[ItemType.Gem][context.Item.Gems[gemIdx].ID].GetName())
+                    </MudTd>
+                }
+                @for (int i = 0; i < context.Item.UniqueGems.Length; i++)
+                {
+                    int gemIdx = i;
+                    <MudTd DataLabel="@($"Unique Gem {gemIdx}")">
+                        @(DLS.XCDEItems?[context.Item.UniqueGems[gemIdx].ID].Name)
+                    </MudTd>
+                }
+                <MudTd DataLabel="Unk_1">@context.Item.Unk_1</MudTd>
+                <MudTd DataLabel="Unk_2">@context.Item.Unk_2</MudTd>
+                <MudTd DataLabel="Unk_3">@context.Item.Unk_3</MudTd>
+            </RowTemplate>
+            <RowEditingTemplate>
+                <MudTd DataLabel="Index">
+                    <MudNumericField Margin="Margin.Dense" @bind-Value="context.Item.Index" />
+                </MudTd>
+                <MudTd DataLabel="FullID">
+                    <NumericAutocomplete
+                        T="ushort"
+                        DDT="ItemLookup"
+                        NumericLabel="ID"
+                        DropDownLabel="Item"
+                        Margin="Margin.Dense"
+                        Dense="true"
+                        Min="0"
+                        Max="4587"
+                        DropDownCollection="DLS.XCDEItems"
+                        Value="@context.Item.FullID.ID"
+                        ValueChanged="@((ushort value) => context.Item.FullID.ID = value)"
+                        />
+                </MudTd>
+                <MudTd DataLabel="Quantity">
+                    <MudNumericField Margin="Margin.Dense" @bind-Value="context.Item.Quantity" />
+                </MudTd>
+                <MudTd DataLabel="SerialNo">
+                    <MudNumericField Margin="Margin.Dense" @bind-Value="context.Item.SerialNo" />
+                </MudTd>
+                <MudTd DataLabel="Exists">
+                    <MudCheckBox @bind-Checked="context.Item.Exists" />
+                </MudTd>
+                <MudTd DataLabel="Favourite">
+                    <MudCheckBox @bind-Checked="context.Item.Favourite" />
+                </MudTd>
+                <MudTd DataLabel="Weight">
+                    <MudNumericField Margin="Margin.Dense" @bind-Value="context.Item.Weight" />
+                </MudTd>
+                <MudTd DataLabel="GemSlots">
+                    <MudNumericField T="byte" Margin="Margin.Dense" @bind-Value="context.Item.GemSlots" Max="3"/>
+                </MudTd>
+                @for (int i = 0; i < context.Item.Gems.Length; i++)
+                {
+                    int gemIdx = i;
+                    <MudTd DataLabel="@($"Gem {gemIdx}")">
+                        <NumericAutocomplete
+                            T="ushort"
+                            DDT="GenericDataLookup"
+                            NumericLabel="ID"
+                            DropDownLabel="Item"
+                            Margin="Margin.Dense"
+                            Dense="true"
+                            Min="0"
+                            Max="499"
+                            DropDownCollection="@(DLS.XCDEItemIdxLookup[ItemType.Gem])"
+                            Value="@context.Item.Gems[gemIdx].ID"
+                            ValueChanged="@((ushort value) => context.Item.Gems[gemIdx].ID = value)" />
+                    </MudTd>
+                }
+                @for (int i = 0; i < context.Item.UniqueGems.Length; i++)
+                {
+                    int gemIdx = i;
+                    <MudTd DataLabel="@($"Unique Gem {gemIdx}")">
+                        <NumericAutocomplete
+                            T="ushort"
+                            DDT="ItemLookup"
+                            NumericLabel="ID"
+                            DropDownLabel="Item"
+                            Margin="Margin.Dense"
+                            Dense="true"
+                            Min="0"
+                            Max="4587"
+                            DropDownCollection="DLS.XCDEItems"
+                            Value="@context.Item.UniqueGems[gemIdx].ID"
+                            ValueChanged="@((ushort value) => context.Item.UniqueGems[gemIdx].ID = value)" />
+                    </MudTd>
+                }
+                <MudTd DataLabel="Unk_1">
+                    <MudNumericField Margin="Margin.Dense" @bind-Value="context.Item.Unk_1" />
+                </MudTd>
+                <MudTd DataLabel="Unk_2">
+                    <MudNumericField Margin="Margin.Dense" @bind-Value="context.Item.Unk_2" />
+                </MudTd>
+                <MudTd DataLabel="Unk_3">
+                    <MudNumericField Margin="Margin.Dense" @bind-Value="context.Item.Unk_3" />
+                </MudTd>
+            </RowEditingTemplate>
+            <LoadingContent>
+                <MudText>Loading...</MudText>
+            </LoadingContent>
+        </MudTable>
+    </MudItem>
+</MudGrid>

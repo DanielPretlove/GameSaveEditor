@@ -1,0 +1,1409 @@
+[
+    {
+      "ID": 0,
+      "CharID": 0,
+      "TreeID": 0,
+      "SkillID": 0,
+      "Name": "(None)"
+    },
+    {
+      "ID": 1,
+      "CharID": 1,
+      "TreeID": 1,
+      "SkillID": 1,
+      "Name": "Medium Equipment"
+    },
+    {
+      "ID": 2,
+      "CharID": 1,
+      "TreeID": 1,
+      "SkillID": 2,
+      "Name": "Secret of Life"
+    },
+    {
+      "ID": 3,
+      "CharID": 1,
+      "TreeID": 1,
+      "SkillID": 3,
+      "Name": "Rewarding Work"
+    },
+    {
+      "ID": 4,
+      "CharID": 1,
+      "TreeID": 1,
+      "SkillID": 4,
+      "Name": "Resilient Warrior"
+    },
+    {
+      "ID": 5,
+      "CharID": 1,
+      "TreeID": 1,
+      "SkillID": 5,
+      "Name": "Ultimate Teamwork"
+    },
+    {
+      "ID": 6,
+      "CharID": 1,
+      "TreeID": 2,
+      "SkillID": 1,
+      "Name": "Healing Wisdom"
+    },
+    {
+      "ID": 7,
+      "CharID": 1,
+      "TreeID": 2,
+      "SkillID": 2,
+      "Name": "Kind Encouragement"
+    },
+    {
+      "ID": 8,
+      "CharID": 1,
+      "TreeID": 2,
+      "SkillID": 3,
+      "Name": "Friendship Heals"
+    },
+    {
+      "ID": 9,
+      "CharID": 1,
+      "TreeID": 2,
+      "SkillID": 4,
+      "Name": "Cheer of a Friend"
+    },
+    {
+      "ID": 10,
+      "CharID": 1,
+      "TreeID": 2,
+      "SkillID": 5,
+      "Name": "Chain of Friendship"
+    },
+    {
+      "ID": 11,
+      "CharID": 1,
+      "TreeID": 3,
+      "SkillID": 1,
+      "Name": "Battle Cry"
+    },
+    {
+      "ID": 12,
+      "CharID": 1,
+      "TreeID": 3,
+      "SkillID": 2,
+      "Name": "Underdog"
+    },
+    {
+      "ID": 13,
+      "CharID": 1,
+      "TreeID": 3,
+      "SkillID": 3,
+      "Name": "Equipment Master"
+    },
+    {
+      "ID": 14,
+      "CharID": 1,
+      "TreeID": 3,
+      "SkillID": 4,
+      "Name": "Fever Pitch"
+    },
+    {
+      "ID": 15,
+      "CharID": 1,
+      "TreeID": 3,
+      "SkillID": 5,
+      "Name": "Element of Surprise"
+    },
+    {
+      "ID": 16,
+      "CharID": 1,
+      "TreeID": 5,
+      "SkillID": 1,
+      "Name": "Fate Evasion"
+    },
+    {
+      "ID": 17,
+      "CharID": 1,
+      "TreeID": 5,
+      "SkillID": 2,
+      "Name": "Hero's Privilege"
+    },
+    {
+      "ID": 18,
+      "CharID": 1,
+      "TreeID": 5,
+      "SkillID": 3,
+      "Name": "Lone Warrior"
+    },
+    {
+      "ID": 19,
+      "CharID": 1,
+      "TreeID": 5,
+      "SkillID": 4,
+      "Name": "Ultimate Defence"
+    },
+    {
+      "ID": 20,
+      "CharID": 1,
+      "TreeID": 5,
+      "SkillID": 5,
+      "Name": "Glorious Future"
+    },
+    {
+      "ID": 21,
+      "CharID": 1,
+      "TreeID": 4,
+      "SkillID": 1,
+      "Name": "Fight the Future"
+    },
+    {
+      "ID": 22,
+      "CharID": 1,
+      "TreeID": 4,
+      "SkillID": 2,
+      "Name": "Stealth Warrior"
+    },
+    {
+      "ID": 23,
+      "CharID": 1,
+      "TreeID": 4,
+      "SkillID": 3,
+      "Name": "Epic Evasion"
+    },
+    {
+      "ID": 24,
+      "CharID": 1,
+      "TreeID": 4,
+      "SkillID": 4,
+      "Name": "Forced Mercy"
+    },
+    {
+      "ID": 25,
+      "CharID": 1,
+      "TreeID": 4,
+      "SkillID": 5,
+      "Name": "Immunisation"
+    },
+    {
+      "ID": 26,
+      "CharID": 2,
+      "TreeID": 1,
+      "SkillID": 1,
+      "Name": "Medium Equipment"
+    },
+    {
+      "ID": 27,
+      "CharID": 2,
+      "TreeID": 1,
+      "SkillID": 2,
+      "Name": "Mental Fortitude"
+    },
+    {
+      "ID": 28,
+      "CharID": 2,
+      "TreeID": 1,
+      "SkillID": 3,
+      "Name": "Unrelenting Spirit"
+    },
+    {
+      "ID": 29,
+      "CharID": 2,
+      "TreeID": 1,
+      "SkillID": 4,
+      "Name": "Feel the Heat"
+    },
+    {
+      "ID": 30,
+      "CharID": 2,
+      "TreeID": 1,
+      "SkillID": 5,
+      "Name": "Sheer Determination"
+    },
+    {
+      "ID": 31,
+      "CharID": 2,
+      "TreeID": 2,
+      "SkillID": 1,
+      "Name": "Heavy Equipment"
+    },
+    {
+      "ID": 32,
+      "CharID": 2,
+      "TreeID": 2,
+      "SkillID": 2,
+      "Name": "Courageous Taunt"
+    },
+    {
+      "ID": 33,
+      "CharID": 2,
+      "TreeID": 2,
+      "SkillID": 3,
+      "Name": "Healing Inspiration"
+    },
+    {
+      "ID": 34,
+      "CharID": 2,
+      "TreeID": 2,
+      "SkillID": 4,
+      "Name": "Reckless Courage"
+    },
+    {
+      "ID": 35,
+      "CharID": 2,
+      "TreeID": 2,
+      "SkillID": 5,
+      "Name": "Heroic Taunt"
+    },
+    {
+      "ID": 36,
+      "CharID": 2,
+      "TreeID": 3,
+      "SkillID": 1,
+      "Name": "Bodybuilder"
+    },
+    {
+      "ID": 37,
+      "CharID": 2,
+      "TreeID": 3,
+      "SkillID": 2,
+      "Name": "Against the Odds"
+    },
+    {
+      "ID": 38,
+      "CharID": 2,
+      "TreeID": 3,
+      "SkillID": 3,
+      "Name": "Battle Character"
+    },
+    {
+      "ID": 39,
+      "CharID": 2,
+      "TreeID": 3,
+      "SkillID": 4,
+      "Name": "Spoils of War"
+    },
+    {
+      "ID": 40,
+      "CharID": 2,
+      "TreeID": 3,
+      "SkillID": 5,
+      "Name": "Wall of Muscle"
+    },
+    {
+      "ID": 41,
+      "CharID": 2,
+      "TreeID": 5,
+      "SkillID": 1,
+      "Name": "Ties of Friendship"
+    },
+    {
+      "ID": 42,
+      "CharID": 2,
+      "TreeID": 5,
+      "SkillID": 2,
+      "Name": "Shoulder to Shoulder"
+    },
+    {
+      "ID": 43,
+      "CharID": 2,
+      "TreeID": 5,
+      "SkillID": 3,
+      "Name": "Flying Start"
+    },
+    {
+      "ID": 44,
+      "CharID": 2,
+      "TreeID": 5,
+      "SkillID": 4,
+      "Name": "Solitary Fight"
+    },
+    {
+      "ID": 45,
+      "CharID": 2,
+      "TreeID": 5,
+      "SkillID": 5,
+      "Name": "Friends Forever"
+    },
+    {
+      "ID": 46,
+      "CharID": 2,
+      "TreeID": 4,
+      "SkillID": 1,
+      "Name": "Ultimate Taunt"
+    },
+    {
+      "ID": 47,
+      "CharID": 2,
+      "TreeID": 4,
+      "SkillID": 2,
+      "Name": "Melee Champion"
+    },
+    {
+      "ID": 48,
+      "CharID": 2,
+      "TreeID": 4,
+      "SkillID": 3,
+      "Name": "Rampage"
+    },
+    {
+      "ID": 49,
+      "CharID": 2,
+      "TreeID": 4,
+      "SkillID": 4,
+      "Name": "Speed Strike"
+    },
+    {
+      "ID": 50,
+      "CharID": 2,
+      "TreeID": 4,
+      "SkillID": 5,
+      "Name": "Channelled Pain"
+    },
+    {
+      "ID": 51,
+      "CharID": 3,
+      "TreeID": 1,
+      "SkillID": 1,
+      "Name": "Medium Equipment"
+    },
+    {
+      "ID": 52,
+      "CharID": 3,
+      "TreeID": 1,
+      "SkillID": 2,
+      "Name": "Desperate Daggers"
+    },
+    {
+      "ID": 53,
+      "CharID": 3,
+      "TreeID": 1,
+      "SkillID": 3,
+      "Name": "Second Wind"
+    },
+    {
+      "ID": 54,
+      "CharID": 3,
+      "TreeID": 1,
+      "SkillID": 4,
+      "Name": "Ultimate Strike"
+    },
+    {
+      "ID": 55,
+      "CharID": 3,
+      "TreeID": 1,
+      "SkillID": 5,
+      "Name": "Unwavering Courage"
+    },
+    {
+      "ID": 56,
+      "CharID": 3,
+      "TreeID": 2,
+      "SkillID": 1,
+      "Name": "Battle Stance"
+    },
+    {
+      "ID": 57,
+      "CharID": 3,
+      "TreeID": 2,
+      "SkillID": 2,
+      "Name": "Opening Blow"
+    },
+    {
+      "ID": 58,
+      "CharID": 3,
+      "TreeID": 2,
+      "SkillID": 3,
+      "Name": "Nimble Feet"
+    },
+    {
+      "ID": 59,
+      "CharID": 3,
+      "TreeID": 2,
+      "SkillID": 4,
+      "Name": "Physical Resilience"
+    },
+    {
+      "ID": 60,
+      "CharID": 3,
+      "TreeID": 2,
+      "SkillID": 5,
+      "Name": "Showdown Stance"
+    },
+    {
+      "ID": 61,
+      "CharID": 3,
+      "TreeID": 3,
+      "SkillID": 1,
+      "Name": "Desperate Defence"
+    },
+    {
+      "ID": 62,
+      "CharID": 3,
+      "TreeID": 3,
+      "SkillID": 2,
+      "Name": "Swift Strike"
+    },
+    {
+      "ID": 63,
+      "CharID": 3,
+      "TreeID": 3,
+      "SkillID": 3,
+      "Name": "Acceleration"
+    },
+    {
+      "ID": 64,
+      "CharID": 3,
+      "TreeID": 3,
+      "SkillID": 4,
+      "Name": "Strength of Will"
+    },
+    {
+      "ID": 65,
+      "CharID": 3,
+      "TreeID": 3,
+      "SkillID": 5,
+      "Name": "Strong Links"
+    },
+    {
+      "ID": 66,
+      "CharID": 3,
+      "TreeID": 5,
+      "SkillID": 1,
+      "Name": "Maiden's Power"
+    },
+    {
+      "ID": 67,
+      "CharID": 3,
+      "TreeID": 5,
+      "SkillID": 2,
+      "Name": "Maiden's Courage"
+    },
+    {
+      "ID": 68,
+      "CharID": 3,
+      "TreeID": 5,
+      "SkillID": 3,
+      "Name": "Maiden's Blessing"
+    },
+    {
+      "ID": 69,
+      "CharID": 3,
+      "TreeID": 5,
+      "SkillID": 4,
+      "Name": "Maiden's Zeal"
+    },
+    {
+      "ID": 70,
+      "CharID": 3,
+      "TreeID": 5,
+      "SkillID": 5,
+      "Name": "Maiden's Miracle"
+    },
+    {
+      "ID": 71,
+      "CharID": 3,
+      "TreeID": 4,
+      "SkillID": 1,
+      "Name": "Vision Mode"
+    },
+    {
+      "ID": 72,
+      "CharID": 3,
+      "TreeID": 4,
+      "SkillID": 2,
+      "Name": "Ultimate Counter"
+    },
+    {
+      "ID": 73,
+      "CharID": 3,
+      "TreeID": 4,
+      "SkillID": 3,
+      "Name": "Vital Force"
+    },
+    {
+      "ID": 74,
+      "CharID": 3,
+      "TreeID": 4,
+      "SkillID": 4,
+      "Name": "Critical Combo"
+    },
+    {
+      "ID": 75,
+      "CharID": 3,
+      "TreeID": 4,
+      "SkillID": 5,
+      "Name": "Explosion of Energy"
+    },
+    {
+      "ID": 76,
+      "CharID": 4,
+      "TreeID": 1,
+      "SkillID": 1,
+      "Name": "Medium Equipment"
+    },
+    {
+      "ID": 77,
+      "CharID": 4,
+      "TreeID": 1,
+      "SkillID": 2,
+      "Name": "Invincible Hero"
+    },
+    {
+      "ID": 78,
+      "CharID": 4,
+      "TreeID": 1,
+      "SkillID": 3,
+      "Name": "Warrior's Ambition"
+    },
+    {
+      "ID": 79,
+      "CharID": 4,
+      "TreeID": 1,
+      "SkillID": 4,
+      "Name": "Overwhelming"
+    },
+    {
+      "ID": 80,
+      "CharID": 4,
+      "TreeID": 1,
+      "SkillID": 5,
+      "Name": "Hero's Valour"
+    },
+    {
+      "ID": 81,
+      "CharID": 4,
+      "TreeID": 2,
+      "SkillID": 1,
+      "Name": "Spiritual Awakening"
+    },
+    {
+      "ID": 82,
+      "CharID": 4,
+      "TreeID": 2,
+      "SkillID": 2,
+      "Name": "Reckless Abandon"
+    },
+    {
+      "ID": 83,
+      "CharID": 4,
+      "TreeID": 2,
+      "SkillID": 3,
+      "Name": "Twin Swords"
+    },
+    {
+      "ID": 84,
+      "CharID": 4,
+      "TreeID": 2,
+      "SkillID": 4,
+      "Name": "Natural Born Warrior"
+    },
+    {
+      "ID": 85,
+      "CharID": 4,
+      "TreeID": 2,
+      "SkillID": 5,
+      "Name": "Inner Peace"
+    },
+    {
+      "ID": 86,
+      "CharID": 4,
+      "TreeID": 3,
+      "SkillID": 1,
+      "Name": "Sustained Spirit"
+    },
+    {
+      "ID": 87,
+      "CharID": 4,
+      "TreeID": 3,
+      "SkillID": 2,
+      "Name": "Steel Protection"
+    },
+    {
+      "ID": 88,
+      "CharID": 4,
+      "TreeID": 3,
+      "SkillID": 3,
+      "Name": "Mind of the Warrior"
+    },
+    {
+      "ID": 89,
+      "CharID": 4,
+      "TreeID": 3,
+      "SkillID": 4,
+      "Name": "Lightweight Expert"
+    },
+    {
+      "ID": 90,
+      "CharID": 4,
+      "TreeID": 3,
+      "SkillID": 5,
+      "Name": "Critical Drain"
+    },
+    {
+      "ID": 91,
+      "CharID": 4,
+      "TreeID": 5,
+      "SkillID": 1,
+      "Name": "Charge Acceleration"
+    },
+    {
+      "ID": 92,
+      "CharID": 4,
+      "TreeID": 5,
+      "SkillID": 2,
+      "Name": "Counter Rage"
+    },
+    {
+      "ID": 93,
+      "CharID": 4,
+      "TreeID": 5,
+      "SkillID": 3,
+      "Name": "Ardent Strike"
+    },
+    {
+      "ID": 94,
+      "CharID": 4,
+      "TreeID": 5,
+      "SkillID": 4,
+      "Name": "Deadly Determination"
+    },
+    {
+      "ID": 95,
+      "CharID": 4,
+      "TreeID": 5,
+      "SkillID": 5,
+      "Name": "Blazing Aura"
+    },
+    {
+      "ID": 96,
+      "CharID": 4,
+      "TreeID": 4,
+      "SkillID": 1,
+      "Name": "Equipment Expert"
+    },
+    {
+      "ID": 97,
+      "CharID": 4,
+      "TreeID": 4,
+      "SkillID": 2,
+      "Name": "Gentleman's Valour"
+    },
+    {
+      "ID": 98,
+      "CharID": 4,
+      "TreeID": 4,
+      "SkillID": 3,
+      "Name": "Heavy Equipment"
+    },
+    {
+      "ID": 99,
+      "CharID": 4,
+      "TreeID": 4,
+      "SkillID": 4,
+      "Name": "Body of Steel"
+    },
+    {
+      "ID": 100,
+      "CharID": 4,
+      "TreeID": 4,
+      "SkillID": 5,
+      "Name": "Solid Foundation"
+    },
+    {
+      "ID": 101,
+      "CharID": 5,
+      "TreeID": 1,
+      "SkillID": 1,
+      "Name": "Medium Equipment"
+    },
+    {
+      "ID": 102,
+      "CharID": 5,
+      "TreeID": 1,
+      "SkillID": 2,
+      "Name": "Medical Knowledge"
+    },
+    {
+      "ID": 103,
+      "CharID": 5,
+      "TreeID": 1,
+      "SkillID": 3,
+      "Name": "Long-Range"
+    },
+    {
+      "ID": 104,
+      "CharID": 5,
+      "TreeID": 1,
+      "SkillID": 4,
+      "Name": "Always Ready"
+    },
+    {
+      "ID": 105,
+      "CharID": 5,
+      "TreeID": 1,
+      "SkillID": 5,
+      "Name": "Rapid Healing"
+    },
+    {
+      "ID": 106,
+      "CharID": 5,
+      "TreeID": 2,
+      "SkillID": 1,
+      "Name": "Firm Defence"
+    },
+    {
+      "ID": 107,
+      "CharID": 5,
+      "TreeID": 2,
+      "SkillID": 2,
+      "Name": "Ether Expansion"
+    },
+    {
+      "ID": 108,
+      "CharID": 5,
+      "TreeID": 2,
+      "SkillID": 3,
+      "Name": "Solid Defence"
+    },
+    {
+      "ID": 109,
+      "CharID": 5,
+      "TreeID": 2,
+      "SkillID": 4,
+      "Name": "Ether Unleashed"
+    },
+    {
+      "ID": 110,
+      "CharID": 5,
+      "TreeID": 2,
+      "SkillID": 5,
+      "Name": "Ultimate Sniper"
+    },
+    {
+      "ID": 111,
+      "CharID": 5,
+      "TreeID": 3,
+      "SkillID": 1,
+      "Name": "Ether Assault"
+    },
+    {
+      "ID": 112,
+      "CharID": 5,
+      "TreeID": 3,
+      "SkillID": 2,
+      "Name": "Initial Endurance"
+    },
+    {
+      "ID": 113,
+      "CharID": 5,
+      "TreeID": 3,
+      "SkillID": 3,
+      "Name": "Middleweight Expert"
+    },
+    {
+      "ID": 114,
+      "CharID": 5,
+      "TreeID": 3,
+      "SkillID": 4,
+      "Name": "Adrenaline"
+    },
+    {
+      "ID": 115,
+      "CharID": 5,
+      "TreeID": 3,
+      "SkillID": 5,
+      "Name": "Heavy Equipment"
+    },
+    {
+      "ID": 116,
+      "CharID": 5,
+      "TreeID": 5,
+      "SkillID": 1,
+      "Name": "Vote of Confidence"
+    },
+    {
+      "ID": 117,
+      "CharID": 5,
+      "TreeID": 5,
+      "SkillID": 2,
+      "Name": "Bedside Manner"
+    },
+    {
+      "ID": 118,
+      "CharID": 5,
+      "TreeID": 5,
+      "SkillID": 3,
+      "Name": "Hearty Cry"
+    },
+    {
+      "ID": 119,
+      "CharID": 5,
+      "TreeID": 5,
+      "SkillID": 4,
+      "Name": "Shield of Kindness"
+    },
+    {
+      "ID": 120,
+      "CharID": 5,
+      "TreeID": 5,
+      "SkillID": 5,
+      "Name": "Miracle of Love"
+    },
+    {
+      "ID": 121,
+      "CharID": 5,
+      "TreeID": 4,
+      "SkillID": 1,
+      "Name": "Memory of Gadolt"
+    },
+    {
+      "ID": 122,
+      "CharID": 5,
+      "TreeID": 4,
+      "SkillID": 2,
+      "Name": "Vendetta"
+    },
+    {
+      "ID": 123,
+      "CharID": 5,
+      "TreeID": 4,
+      "SkillID": 3,
+      "Name": "Decisive Follow-Up"
+    },
+    {
+      "ID": 124,
+      "CharID": 5,
+      "TreeID": 4,
+      "SkillID": 4,
+      "Name": "Revenge"
+    },
+    {
+      "ID": 125,
+      "CharID": 5,
+      "TreeID": 4,
+      "SkillID": 5,
+      "Name": "Ether Explosion"
+    },
+    {
+      "ID": 126,
+      "CharID": 6,
+      "TreeID": 1,
+      "SkillID": 1,
+      "Name": "Like Sun!"
+    },
+    {
+      "ID": 127,
+      "CharID": 6,
+      "TreeID": 1,
+      "SkillID": 2,
+      "Name": "Friends Now!"
+    },
+    {
+      "ID": 128,
+      "CharID": 6,
+      "TreeID": 1,
+      "SkillID": 3,
+      "Name": "Love Sun!"
+    },
+    {
+      "ID": 129,
+      "CharID": 6,
+      "TreeID": 1,
+      "SkillID": 4,
+      "Name": "Lucky Me!"
+    },
+    {
+      "ID": 130,
+      "CharID": 6,
+      "TreeID": 1,
+      "SkillID": 5,
+      "Name": "Adore Sun!"
+    },
+    {
+      "ID": 131,
+      "CharID": 6,
+      "TreeID": 2,
+      "SkillID": 1,
+      "Name": "Adventure Time!"
+    },
+    {
+      "ID": 132,
+      "CharID": 6,
+      "TreeID": 2,
+      "SkillID": 2,
+      "Name": "Learning all the Time!"
+    },
+    {
+      "ID": 133,
+      "CharID": 6,
+      "TreeID": 2,
+      "SkillID": 3,
+      "Name": "Explore Time!"
+    },
+    {
+      "ID": 134,
+      "CharID": 6,
+      "TreeID": 2,
+      "SkillID": 4,
+      "Name": "Make it all Better!"
+    },
+    {
+      "ID": 135,
+      "CharID": 6,
+      "TreeID": 2,
+      "SkillID": 5,
+      "Name": "Dream of Money!"
+    },
+    {
+      "ID": 136,
+      "CharID": 6,
+      "TreeID": 3,
+      "SkillID": 1,
+      "Name": "Buy Stuff!"
+    },
+    {
+      "ID": 137,
+      "CharID": 6,
+      "TreeID": 3,
+      "SkillID": 2,
+      "Name": "Riki See, Riki Do"
+    },
+    {
+      "ID": 138,
+      "CharID": 6,
+      "TreeID": 3,
+      "SkillID": 3,
+      "Name": "AP for All!"
+    },
+    {
+      "ID": 139,
+      "CharID": 6,
+      "TreeID": 3,
+      "SkillID": 4,
+      "Name": "Riki Strong!"
+    },
+    {
+      "ID": 140,
+      "CharID": 6,
+      "TreeID": 3,
+      "SkillID": 5,
+      "Name": "EXP for All!"
+    },
+    {
+      "ID": 141,
+      "CharID": 6,
+      "TreeID": 5,
+      "SkillID": 1,
+      "Name": "Heavy Equipment"
+    },
+    {
+      "ID": 142,
+      "CharID": 6,
+      "TreeID": 5,
+      "SkillID": 2,
+      "Name": "Nutritious!"
+    },
+    {
+      "ID": 143,
+      "CharID": 6,
+      "TreeID": 5,
+      "SkillID": 3,
+      "Name": "Kissy Kissy!"
+    },
+    {
+      "ID": 144,
+      "CharID": 6,
+      "TreeID": 5,
+      "SkillID": 4,
+      "Name": "Ouchies!"
+    },
+    {
+      "ID": 145,
+      "CharID": 6,
+      "TreeID": 5,
+      "SkillID": 5,
+      "Name": "Cuddly Hero!"
+    },
+    {
+      "ID": 146,
+      "CharID": 6,
+      "TreeID": 4,
+      "SkillID": 1,
+      "Name": "Pretty Stars!"
+    },
+    {
+      "ID": 147,
+      "CharID": 6,
+      "TreeID": 4,
+      "SkillID": 2,
+      "Name": "Watch Out!"
+    },
+    {
+      "ID": 148,
+      "CharID": 6,
+      "TreeID": 4,
+      "SkillID": 3,
+      "Name": "Amazing Stars!"
+    },
+    {
+      "ID": 149,
+      "CharID": 6,
+      "TreeID": 4,
+      "SkillID": 4,
+      "Name": "Bullseye!"
+    },
+    {
+      "ID": 150,
+      "CharID": 6,
+      "TreeID": 4,
+      "SkillID": 5,
+      "Name": "Bestest Stars!"
+    },
+    {
+      "ID": 151,
+      "CharID": 7,
+      "TreeID": 1,
+      "SkillID": 1,
+      "Name": "Amplified Healing"
+    },
+    {
+      "ID": 152,
+      "CharID": 7,
+      "TreeID": 1,
+      "SkillID": 2,
+      "Name": "Serenity of Water"
+    },
+    {
+      "ID": 153,
+      "CharID": 7,
+      "TreeID": 1,
+      "SkillID": 3,
+      "Name": "Mining Master"
+    },
+    {
+      "ID": 154,
+      "CharID": 7,
+      "TreeID": 1,
+      "SkillID": 4,
+      "Name": "Glistening Ice"
+    },
+    {
+      "ID": 155,
+      "CharID": 7,
+      "TreeID": 1,
+      "SkillID": 5,
+      "Name": "Ultimate Ether"
+    },
+    {
+      "ID": 156,
+      "CharID": 7,
+      "TreeID": 2,
+      "SkillID": 1,
+      "Name": "High Speed"
+    },
+    {
+      "ID": 157,
+      "CharID": 7,
+      "TreeID": 2,
+      "SkillID": 2,
+      "Name": "Whisper of the Wind"
+    },
+    {
+      "ID": 158,
+      "CharID": 7,
+      "TreeID": 2,
+      "SkillID": 3,
+      "Name": "Amplified Ether"
+    },
+    {
+      "ID": 159,
+      "CharID": 7,
+      "TreeID": 2,
+      "SkillID": 4,
+      "Name": "Electric Shock"
+    },
+    {
+      "ID": 160,
+      "CharID": 7,
+      "TreeID": 2,
+      "SkillID": 5,
+      "Name": "Enlightenment"
+    },
+    {
+      "ID": 161,
+      "CharID": 7,
+      "TreeID": 3,
+      "SkillID": 1,
+      "Name": "Ether Awareness"
+    },
+    {
+      "ID": 162,
+      "CharID": 7,
+      "TreeID": 3,
+      "SkillID": 2,
+      "Name": "Playing with Poison"
+    },
+    {
+      "ID": 163,
+      "CharID": 7,
+      "TreeID": 3,
+      "SkillID": 3,
+      "Name": "Power of the Moon"
+    },
+    {
+      "ID": 164,
+      "CharID": 7,
+      "TreeID": 3,
+      "SkillID": 4,
+      "Name": "Unyielding Heart"
+    },
+    {
+      "ID": 165,
+      "CharID": 7,
+      "TreeID": 3,
+      "SkillID": 5,
+      "Name": "Ether Guard"
+    },
+    {
+      "ID": 166,
+      "CharID": 7,
+      "TreeID": 5,
+      "SkillID": 1,
+      "Name": "Nonchalant Heart"
+    },
+    {
+      "ID": 167,
+      "CharID": 7,
+      "TreeID": 5,
+      "SkillID": 2,
+      "Name": "Awakening Strike"
+    },
+    {
+      "ID": 168,
+      "CharID": 7,
+      "TreeID": 5,
+      "SkillID": 3,
+      "Name": "Telethia Killer"
+    },
+    {
+      "ID": 169,
+      "CharID": 7,
+      "TreeID": 5,
+      "SkillID": 4,
+      "Name": "Passion of Flame"
+    },
+    {
+      "ID": 170,
+      "CharID": 7,
+      "TreeID": 5,
+      "SkillID": 5,
+      "Name": "Rejection of Evil"
+    },
+    {
+      "ID": 171,
+      "CharID": 7,
+      "TreeID": 4,
+      "SkillID": 1,
+      "Name": "Palace Guard"
+    },
+    {
+      "ID": 172,
+      "CharID": 7,
+      "TreeID": 4,
+      "SkillID": 2,
+      "Name": "Heavyweight Expert"
+    },
+    {
+      "ID": 173,
+      "CharID": 7,
+      "TreeID": 4,
+      "SkillID": 3,
+      "Name": "Unadorned Beauty"
+    },
+    {
+      "ID": 174,
+      "CharID": 7,
+      "TreeID": 4,
+      "SkillID": 4,
+      "Name": "Mental Barrier"
+    },
+    {
+      "ID": 175,
+      "CharID": 7,
+      "TreeID": 4,
+      "SkillID": 5,
+      "Name": "Arcane Aura"
+    },
+    {
+      "ID": 176,
+      "CharID": 8,
+      "TreeID": 1,
+      "SkillID": 1,
+      "Name": "Mechonis Equipment"
+    },
+    {
+      "ID": 177,
+      "CharID": 8,
+      "TreeID": 1,
+      "SkillID": 2,
+      "Name": "Desperate Daggers"
+    },
+    {
+      "ID": 178,
+      "CharID": 8,
+      "TreeID": 1,
+      "SkillID": 3,
+      "Name": "Second Wind"
+    },
+    {
+      "ID": 179,
+      "CharID": 8,
+      "TreeID": 1,
+      "SkillID": 4,
+      "Name": "Ultimate Strike"
+    },
+    {
+      "ID": 180,
+      "CharID": 8,
+      "TreeID": 1,
+      "SkillID": 5,
+      "Name": "Unwavering Courage"
+    },
+    {
+      "ID": 181,
+      "CharID": 8,
+      "TreeID": 2,
+      "SkillID": 1,
+      "Name": "Battle Stance"
+    },
+    {
+      "ID": 182,
+      "CharID": 8,
+      "TreeID": 2,
+      "SkillID": 2,
+      "Name": "Opening Blow"
+    },
+    {
+      "ID": 183,
+      "CharID": 8,
+      "TreeID": 2,
+      "SkillID": 3,
+      "Name": "Nimble Feet"
+    },
+    {
+      "ID": 184,
+      "CharID": 8,
+      "TreeID": 2,
+      "SkillID": 4,
+      "Name": "Physical Resilience"
+    },
+    {
+      "ID": 185,
+      "CharID": 8,
+      "TreeID": 2,
+      "SkillID": 5,
+      "Name": "Showdown Stance"
+    },
+    {
+      "ID": 186,
+      "CharID": 8,
+      "TreeID": 3,
+      "SkillID": 1,
+      "Name": "Desperate Defence"
+    },
+    {
+      "ID": 187,
+      "CharID": 8,
+      "TreeID": 3,
+      "SkillID": 2,
+      "Name": "Swift Strike"
+    },
+    {
+      "ID": 188,
+      "CharID": 8,
+      "TreeID": 3,
+      "SkillID": 3,
+      "Name": "Acceleration"
+    },
+    {
+      "ID": 189,
+      "CharID": 8,
+      "TreeID": 3,
+      "SkillID": 4,
+      "Name": "Strength of Will"
+    },
+    {
+      "ID": 190,
+      "CharID": 8,
+      "TreeID": 3,
+      "SkillID": 5,
+      "Name": "Strong Links"
+    },
+    {
+      "ID": 191,
+      "CharID": 8,
+      "TreeID": 5,
+      "SkillID": 1,
+      "Name": "Maiden's Power"
+    },
+    {
+      "ID": 192,
+      "CharID": 8,
+      "TreeID": 5,
+      "SkillID": 2,
+      "Name": "Maiden's Courage"
+    },
+    {
+      "ID": 193,
+      "CharID": 8,
+      "TreeID": 5,
+      "SkillID": 3,
+      "Name": "Maiden's Blessing"
+    },
+    {
+      "ID": 194,
+      "CharID": 8,
+      "TreeID": 5,
+      "SkillID": 4,
+      "Name": "Maiden's Zeal"
+    },
+    {
+      "ID": 195,
+      "CharID": 8,
+      "TreeID": 5,
+      "SkillID": 5,
+      "Name": "Maiden's Miracle"
+    },
+    {
+      "ID": 196,
+      "CharID": 8,
+      "TreeID": 4,
+      "SkillID": 1,
+      "Name": "Vision Mode"
+    },
+    {
+      "ID": 197,
+      "CharID": 8,
+      "TreeID": 4,
+      "SkillID": 2,
+      "Name": "Ultimate Counter"
+    },
+    {
+      "ID": 198,
+      "CharID": 8,
+      "TreeID": 4,
+      "SkillID": 3,
+      "Name": "Vital Force"
+    },
+    {
+      "ID": 199,
+      "CharID": 8,
+      "TreeID": 4,
+      "SkillID": 4,
+      "Name": "Critical Combo"
+    },
+    {
+      "ID": 200,
+      "CharID": 8,
+      "TreeID": 4,
+      "SkillID": 5,
+      "Name": "Explosion of Energy"
+    }
+   ]

@@ -1,0 +1,112 @@
+@using Services.DataLookup
+@typeparam T
+@typeparam DDT where DDT : IDataLookupObject
+<MudGrid Spacing="0">
+    <MudItem xs="@nm_xs">
+        <MudNumericField
+            T="@T"
+            Label="@this.NumericLabel"
+            Min="@this.Min"
+            Max="@this.Max"
+            Margin="@this.Margin"
+            @bind-Value="Value" />
+    </MudItem>
+    <MudItem xs="@dd_xs">
+        @if (DropDownCollection != null)
+        {
+            <MudAutocomplete
+                T="@DDT"
+                Label="@this.DropDownLabel"
+                SearchFunc="ElementSearch"
+                Margin="@this.Margin"
+                Dense="@this.Dense"
+                AnchorOrigin="Origin.BottomCenter"
+                Value="SelectedValue"
+                ValueChanged="UpdateValue" />
+        }
+    </MudItem>
+</MudGrid>
+@code
+{
+    private T _value = default(T)!;
+    private DDT SelectedValue = default(DDT)!;
+
+    public void UpdateValue(DDT value)
+    {
+        SelectedValue = value;
+        Value = (T) Convert.ChangeType(value.GetID(), typeof(T));
+    }
+
+    [Parameter]
+    public int                     nm_xs              { get; set; } = 12;
+    [Parameter]
+    public int                     dd_xs              { get; set; } = 12;
+    [Parameter]
+    public EventCallback<T>        ValueChanged       { get; set; }
+    [Parameter]
+    public string                  NumericLabel       { get; set; } = "";
+    [Parameter]
+    public string                  DropDownLabel      { get; set; } = "";
+    [Parameter]
+    public Margin                  Margin             { get; set; }
+    [Parameter]
+    public bool                    Dense              { get; set; }
+    [Parameter]
+    public T?                      Min                { get; set; }
+    [Parameter]
+    public T?                      Max                { get; set; }
+    [Parameter]
+    public Dictionary<ushort, DDT> DropDownCollection { get; set; } = new();
+    [Parameter]
+    public bool                    AllowFullDropDown  { get; set; }
+
+    [Parameter]
+    public T Value
+    {
+        get => _value;
+        set
+        {
+            if (!Compare(_value, value))
+            {
+                _value = value;
+                ushort idx = (ushort) Convert.ChangeType(_value, typeof(ushort));
+                if (DropDownCollection.ContainsKey(idx))
+                    SelectedValue = DropDownCollection[idx];
+                ValueChanged.InvokeAsync(_value);
+            }
+        }
+    }
+
+    protected override void OnInitialized()
+    {
+        ushort idx = (ushort) Convert.ChangeType(_value, typeof(ushort));
+        if (DropDownCollection.ContainsKey(idx))
+            SelectedValue = DropDownCollection[idx];
+    }
+
+    protected Task OnValueChanged(ChangeEventArgs e)
+    {
+        if (e.Value != null)
+        {
+            Value = (T)e.Value;
+            return ValueChanged.InvokeAsync(Value);
+        }
+        else
+            throw new ArgumentNullException("Changed value is not available.");
+    }
+
+    private bool Compare(int val1, T val2) => val1.ToString() == val2.ToString();  // Janky but it does the job
+    private bool Compare(T val1, T val2) => val1.ToString() == val2.ToString();  // Janky but it does the job
+
+    private async Task<IEnumerable<DDT>> ElementSearch(string value)
+    {
+        return await Task.Run(() =>
+        {
+            if (string.IsNullOrEmpty(value))
+                return new DDT[0];
+        
+            return DropDownCollection.Where(x => x.Value.ToString().Contains(value, StringComparison.OrdinalIgnoreCase))
+                                     .Select(x => x.Value);
+        });
+    }
+}

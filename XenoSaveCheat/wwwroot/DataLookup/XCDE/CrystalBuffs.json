@@ -1,0 +1,497 @@
+[
+    {
+      "ID": 0,
+      "ElementID": 0,
+      "Name": "(None)"
+    },
+    {
+      "ID": 1,
+      "ElementID": 4,
+      "Name": "Strength Up"
+    },
+    {
+      "ID": 2,
+      "ElementID": 4,
+      "Name": "Chill Defence"
+    },
+    {
+      "ID": 3,
+      "ElementID": 4,
+      "Name": "Sleep Resist"
+    },
+    {
+      "ID": 4,
+      "ElementID": 4,
+      "Name": "Slow Resist"
+    },
+    {
+      "ID": 5,
+      "ElementID": 4,
+      "Name": "Bind Resist"
+    },
+    {
+      "ID": 6,
+      "ElementID": 4,
+      "Name": "Buff Time Plus"
+    },
+    {
+      "ID": 7,
+      "ElementID": 4,
+      "Name": "Weapon Power"
+    },
+    {
+      "ID": 8,
+      "ElementID": 4,
+      "Name": "Strength Down"
+    },
+    {
+      "ID": 9,
+      "ElementID": 4,
+      "Name": "Blaze Plus"
+    },
+    {
+      "ID": 10,
+      "ElementID": 4,
+      "Name": "Blaze Attack"
+    },
+    {
+      "ID": 11,
+      "ElementID": 4,
+      "Name": "Spike"
+    },
+    {
+      "ID": 12,
+      "ElementID": 4,
+      "Name": "Revival HP Up"
+    },
+    {
+      "ID": 13,
+      "ElementID": 4,
+      "Name": "Initial Tension"
+    },
+    {
+      "ID": 14,
+      "ElementID": 4,
+      "Name": "Aggro Up"
+    },
+    {
+      "ID": 15,
+      "ElementID": 4,
+      "Name": "EXP Up"
+    },
+    {
+      "ID": 16,
+      "ElementID": 4,
+      "Name": "Weaken"
+    },
+    {
+      "ID": 17,
+      "ElementID": 5,
+      "Name": "HP Up"
+    },
+    {
+      "ID": 18,
+      "ElementID": 5,
+      "Name": "Poison Defence"
+    },
+    {
+      "ID": 19,
+      "ElementID": 5,
+      "Name": "Spike Defence"
+    },
+    {
+      "ID": 20,
+      "ElementID": 5,
+      "Name": "Paralysis Resist"
+    },
+    {
+      "ID": 21,
+      "ElementID": 5,
+      "Name": "Debuff Resist"
+    },
+    {
+      "ID": 22,
+      "ElementID": 5,
+      "Name": "Recovery Up"
+    },
+    {
+      "ID": 23,
+      "ElementID": 5,
+      "Name": "Aura Heal"
+    },
+    {
+      "ID": 24,
+      "ElementID": 5,
+      "Name": "Damage Heal"
+    },
+    {
+      "ID": 25,
+      "ElementID": 5,
+      "Name": "Arts Heal"
+    },
+    {
+      "ID": 26,
+      "ElementID": 5,
+      "Name": "HP Steal"
+    },
+    {
+      "ID": 27,
+      "ElementID": 5,
+      "Name": "Unbeatable"
+    },
+    {
+      "ID": 28,
+      "ElementID": 5,
+      "Name": "AP Up"
+    },
+    {
+      "ID": 29,
+      "ElementID": 5,
+      "Name": "Aquatic Cloak"
+    },
+    {
+      "ID": 30,
+      "ElementID": 5,
+      "Name": "Auto-Heal Up"
+    },
+    {
+      "ID": 31,
+      "ElementID": 5,
+      "Name": "Terrain Defence"
+    },
+    {
+      "ID": 32,
+      "ElementID": 5,
+      "Name": "HP Weaken"
+    },
+    {
+      "ID": 33,
+      "ElementID": 6,
+      "Name": "Ether Up"
+    },
+    {
+      "ID": 34,
+      "ElementID": 6,
+      "Name": "Double Attack"
+    },
+    {
+      "ID": 35,
+      "ElementID": 6,
+      "Name": "Daze Resist"
+    },
+    {
+      "ID": 36,
+      "ElementID": 6,
+      "Name": "Pierce Resist"
+    },
+    {
+      "ID": 37,
+      "ElementID": 6,
+      "Name": "Daze Plus"
+    },
+    {
+      "ID": 38,
+      "ElementID": 6,
+      "Name": "Phys Def Down"
+    },
+    {
+      "ID": 39,
+      "ElementID": 6,
+      "Name": "Paralysis"
+    },
+    {
+      "ID": 40,
+      "ElementID": 6,
+      "Name": "Lightning Attack"
+    },
+    {
+      "ID": 41,
+      "ElementID": 6,
+      "Name": "Electric Plus"
+    },
+    {
+      "ID": 42,
+      "ElementID": 6,
+      "Name": "Back Atk Plus"
+    },
+    {
+      "ID": 43,
+      "ElementID": 6,
+      "Name": "First Atk Plus"
+    },
+    {
+      "ID": 44,
+      "ElementID": 6,
+      "Name": "Daze Up"
+    },
+    {
+      "ID": 45,
+      "ElementID": 6,
+      "Name": "Cast Quicken"
+    },
+    {
+      "ID": 46,
+      "ElementID": 6,
+      "Name": "Tension Swing"
+    },
+    {
+      "ID": 47,
+      "ElementID": 6,
+      "Name": "Daze Tension"
+    },
+    {
+      "ID": 48,
+      "ElementID": 6,
+      "Name": "Ether Weaken"
+    },
+    {
+      "ID": 49,
+      "ElementID": 7,
+      "Name": "Ether Def Up"
+    },
+    {
+      "ID": 50,
+      "ElementID": 7,
+      "Name": "Blaze Defence"
+    },
+    {
+      "ID": 51,
+      "ElementID": 7,
+      "Name": "Lock-On Resist"
+    },
+    {
+      "ID": 52,
+      "ElementID": 7,
+      "Name": "Confuse Resist"
+    },
+    {
+      "ID": 53,
+      "ElementID": 7,
+      "Name": "Critical Resist"
+    },
+    {
+      "ID": 54,
+      "ElementID": 7,
+      "Name": "Ether Protect"
+    },
+    {
+      "ID": 55,
+      "ElementID": 7,
+      "Name": "Slow"
+    },
+    {
+      "ID": 56,
+      "ElementID": 7,
+      "Name": "Bind"
+    },
+    {
+      "ID": 57,
+      "ElementID": 7,
+      "Name": "Ether Def Down"
+    },
+    {
+      "ID": 58,
+      "ElementID": 7,
+      "Name": "Chill Plus"
+    },
+    {
+      "ID": 59,
+      "ElementID": 7,
+      "Name": "Chill Attack"
+    },
+    {
+      "ID": 60,
+      "ElementID": 7,
+      "Name": "Auto-Atk Stealth"
+    },
+    {
+      "ID": 61,
+      "ElementID": 7,
+      "Name": "Arts Stealth"
+    },
+    {
+      "ID": 62,
+      "ElementID": 7,
+      "Name": "Talent Boost"
+    },
+    {
+      "ID": 63,
+      "ElementID": 7,
+      "Name": "Heat Sink"
+    },
+    {
+      "ID": 64,
+      "ElementID": 7,
+      "Name": "Ether Smash"
+    },
+    {
+      "ID": 65,
+      "ElementID": 8,
+      "Name": "Agility Up"
+    },
+    {
+      "ID": 66,
+      "ElementID": 8,
+      "Name": "Topple Resist"
+    },
+    {
+      "ID": 67,
+      "ElementID": 8,
+      "Name": "Good Footing"
+    },
+    {
+      "ID": 68,
+      "ElementID": 8,
+      "Name": "Arts Seal Resist"
+    },
+    {
+      "ID": 69,
+      "ElementID": 8,
+      "Name": "Accuracy Up"
+    },
+    {
+      "ID": 70,
+      "ElementID": 8,
+      "Name": "Haste"
+    },
+    {
+      "ID": 71,
+      "ElementID": 8,
+      "Name": "Topple Plus"
+    },
+    {
+      "ID": 72,
+      "ElementID": 8,
+      "Name": "Bleed Attack"
+    },
+    {
+      "ID": 73,
+      "ElementID": 8,
+      "Name": "Bleed Plus"
+    },
+    {
+      "ID": 74,
+      "ElementID": 8,
+      "Name": "Topple Up"
+    },
+    {
+      "ID": 75,
+      "ElementID": 8,
+      "Name": "Agility Down"
+    },
+    {
+      "ID": 76,
+      "ElementID": 8,
+      "Name": "Break"
+    },
+    {
+      "ID": 77,
+      "ElementID": 8,
+      "Name": "Quick Step"
+    },
+    {
+      "ID": 78,
+      "ElementID": 8,
+      "Name": "Fall Defence"
+    },
+    {
+      "ID": 79,
+      "ElementID": 8,
+      "Name": "Aerial Cloak"
+    },
+    {
+      "ID": 80,
+      "ElementID": 8,
+      "Name": "Agility Weaken"
+    },
+    {
+      "ID": 81,
+      "ElementID": 9,
+      "Name": "Muscle Up"
+    },
+    {
+      "ID": 82,
+      "ElementID": 9,
+      "Name": "Attack Stability"
+    },
+    {
+      "ID": 83,
+      "ElementID": 9,
+      "Name": "Attack Plus"
+    },
+    {
+      "ID": 84,
+      "ElementID": 9,
+      "Name": "Critical Up"
+    },
+    {
+      "ID": 85,
+      "ElementID": 9,
+      "Name": "Bleed Defence"
+    },
+    {
+      "ID": 86,
+      "ElementID": 9,
+      "Name": "Divine Protect"
+    },
+    {
+      "ID": 87,
+      "ElementID": 9,
+      "Name": "Physical Protect"
+    },
+    {
+      "ID": 88,
+      "ElementID": 9,
+      "Name": "Night Vision"
+    },
+    {
+      "ID": 89,
+      "ElementID": 9,
+      "Name": "Debuff Plus"
+    },
+    {
+      "ID": 90,
+      "ElementID": 9,
+      "Name": "Armour Power"
+    },
+    {
+      "ID": 91,
+      "ElementID": 9,
+      "Name": "Ether Down"
+    },
+    {
+      "ID": 92,
+      "ElementID": 9,
+      "Name": "Poison Plus"
+    },
+    {
+      "ID": 93,
+      "ElementID": 9,
+      "Name": "Poison Attack"
+    },
+    {
+      "ID": 94,
+      "ElementID": 9,
+      "Name": "Aggro Down"
+    },
+    {
+      "ID": 95,
+      "ElementID": 9,
+      "Name": "Earth Cloak"
+    },
+    {
+      "ID": 96,
+      "ElementID": 9,
+      "Name": "Muscle Waste"
+    },
+    {
+      "ID": 97,
+      "ElementID": 5,
+      "Name": "Unbeatable"
+    },
+    {
+      "ID": 98,
+      "ElementID": 0,
+      "Name": "Impurity"
+    }
+   ]

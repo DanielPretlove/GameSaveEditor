@@ -1,0 +1,1602 @@
+[
+    {
+      "ID": 1,
+      "Name": "Bone Breaker",
+      "Comments": [
+         "Do a fairly hefty amount of damage with a single attack.",
+         "Dealt 3000 damage or more in a single attack."
+      ]
+   },
+    {
+      "ID": 2,
+      "Name": "Rock Smasher",
+      "Comments": [
+         "Do a staggering amount of damage with a single attack.",
+         "Dealt 25,000 damage or more in a single attack."
+      ]
+   },
+    {
+      "ID": 3,
+      "Name": "World Shaker",
+      "Comments": [
+         "Do an extreme amount of damage with a single attack.",
+         "Dealt 50,000 damage or more in a single attack."
+      ]
+   },
+    {
+      "ID": 4,
+      "Name": "Beginner's Luck",
+      "Comments": [
+         "Defeat a lot of enemies.",
+         "Defeated 50 enemies."
+      ]
+   },
+    {
+      "ID": 5,
+      "Name": "Tough Guy, Eh?",
+      "Comments": [
+         "Defeat even more enemies.",
+         "Defeated 200 enemies."
+      ]
+   },
+    {
+      "ID": 6,
+      "Name": "No Stopping You",
+      "Comments": [
+         "Defeat even more enemies than that!",
+         "Defeated 1000 enemies."
+      ]
+   },
+    {
+      "ID": 7,
+      "Name": "Please! No More!",
+      "Comments": [
+         "Defeat more! And more! And more! AND MORE!",
+         "Defeated 5000 enemies."
+      ]
+   },
+    {
+      "ID": 8,
+      "Name": "Hunter-in-Training",
+      "Comments": [
+         "Beat a ferocious monster with a unique name.",
+         "Defeated your first unique monster."
+      ]
+   },
+    {
+      "ID": 9,
+      "Name": "Pro Hunter",
+      "Comments": [
+         "Take down a fair few unique monsters.",
+         "Defeated 10 unique monsters."
+      ]
+   },
+    {
+      "ID": 10,
+      "Name": "Master Hunter",
+      "Comments": [
+         "Become the bane of unique monsters everywhere.",
+         "Defeated 100 unique monsters."
+      ]
+   },
+    {
+      "ID": 11,
+      "Name": "Time for New Glasses",
+      "Comments": [
+         "???",
+         "Attempted 100 attacks that missed."
+      ]
+   },
+    {
+      "ID": 12,
+      "Name": "Some Help You Are!",
+      "Comments": [
+         "???",
+         "Won a battle without actually doing anything."
+      ]
+   },
+    {
+      "ID": 13,
+      "Name": "Machine Mishaps",
+      "Comments": [
+         "Defeat a lot of Mechon.",
+         "Defeated 30 Mechon."
+      ]
+   },
+    {
+      "ID": 14,
+      "Name": "Machine Mayhem",
+      "Comments": [
+         "Defeat a heck of a lot of Mechon.",
+         "Defeated 100 Mechon."
+      ]
+   },
+    {
+      "ID": 15,
+      "Name": "Machine Meltdown",
+      "Comments": [
+         "Defeat more Mechon than you can shake a Monado at.",
+         "Defeated 250 Mechon."
+      ]
+   },
+    {
+      "ID": 16,
+      "Name": "Ground Down",
+      "Comments": [
+         "Wipe out tons of ground monsters.",
+         "Defeated 30 ground monsters."
+      ]
+   },
+    {
+      "ID": 17,
+      "Name": "Ground Up",
+      "Comments": [
+         "Wipe out tons and tons of ground monsters.",
+         "Defeated 100 ground monsters."
+      ]
+   },
+    {
+      "ID": 18,
+      "Name": "Ground to a Pulp",
+      "Comments": [
+         "Wipe out endless amounts of ground monsters.",
+         "Defeated 250 ground monsters."
+      ]
+   },
+    {
+      "ID": 19,
+      "Name": "Airing Grievances",
+      "Comments": [
+         "Defeat a gaggle of aerial monsters.",
+         "Defeated 30 aerial monsters."
+      ]
+   },
+    {
+      "ID": 20,
+      "Name": "Clearing the Air",
+      "Comments": [
+         "Defeat a very large number of aerial monsters.",
+         "Defeated 100 aerial monsters."
+      ]
+   },
+    {
+      "ID": 21,
+      "Name": "Anti-Air Battering",
+      "Comments": [
+         "Defeat tons of aerial monsters. It's raining monsters!",
+         "Defeated 250 aerial monsters."
+      ]
+   },
+    {
+      "ID": 22,
+      "Name": "Bug Off",
+      "Comments": [
+         "Wipe out tons of insect monsters.",
+         "Defeated 30 insects."
+      ]
+   },
+    {
+      "ID": 23,
+      "Name": "Walking Insecticide",
+      "Comments": [
+         "Wipe out all insect monsters in sight!",
+         "Defeated 100 insects."
+      ]
+   },
+    {
+      "ID": 24,
+      "Name": "Elementary!",
+      "Comments": [
+         "Defeat a fair number of ether-based monsters.",
+         "Defeated 30 ether-based monsters."
+      ]
+   },
+    {
+      "ID": 25,
+      "Name": "Braving the Elements",
+      "Comments": [
+         "Defeat a vast quantity of ether-based monsters.",
+         "Defeated 100 ether-based monsters."
+      ]
+   },
+    {
+      "ID": 26,
+      "Name": "Telethia Tracker",
+      "Comments": [
+         "Wipe out tons of Telethia.",
+         "Defeated 30 Telethia."
+      ]
+   },
+    {
+      "ID": 27,
+      "Name": "Telethia Triumph",
+      "Comments": [
+         "Wipe out all Telethia in sight!",
+         "Defeated 100 Telethia."
+      ]
+   },
+    {
+      "ID": 28,
+      "Name": "Fish for Compliments",
+      "Comments": [
+         "Defeat an endless stream of fish monsters.",
+         "Defeated 30 monsters that live in water."
+      ]
+   },
+    {
+      "ID": 29,
+      "Name": "Smashing!",
+      "Comments": [
+         "Change the future in your favour.",
+         "Smashed a vision tag for the first time."
+      ]
+   },
+    {
+      "ID": 30,
+      "Name": "Simply Smashing!",
+      "Comments": [
+         "Break even more vision tags.",
+         "Smashed 100 vision tags."
+      ]
+   },
+    {
+      "ID": 31,
+      "Name": "Smashing...to Pieces!",
+      "Comments": [
+         "Break innumerable vision tags.",
+         "Smashed 1000 vision tags."
+      ]
+   },
+    {
+      "ID": 32,
+      "Name": "Not Gonna Happen!",
+      "Comments": [
+         "Change the future by defeating an enemy.",
+         "Stopped the future in its tracks for the first time."
+      ]
+   },
+    {
+      "ID": 33,
+      "Name": "I'll Change the Future!",
+      "Comments": [
+         "Keep changing the future.",
+         "Stopped the future in its tracks 20 times."
+      ]
+   },
+    {
+      "ID": 34,
+      "Name": "The Future is Ours!",
+      "Comments": [
+         "Change the future an awful lot.",
+         "Stopped the future in its tracks 50 times."
+      ]
+   },
+    {
+      "ID": 35,
+      "Name": "Second Wind",
+      "Comments": [
+         "Revive Incapacitated party members several times.",
+         "Revived Incapacitated party members 10 times."
+      ]
+   },
+    {
+      "ID": 36,
+      "Name": "Can't Keep 'Em Down",
+      "Comments": [
+         "Revive Incapacitated party members many times.",
+         "Revived Incapacitated party members 100 times."
+      ]
+   },
+    {
+      "ID": 37,
+      "Name": "Down But Never Out",
+      "Comments": [
+         "Revive Incapacitated party members countless times.",
+         "Revived Incapacitated party members 500 times."
+      ]
+   },
+    {
+      "ID": 38,
+      "Name": "Critical Thinking",
+      "Comments": [
+         "Deliver lots of critical hits.",
+         "Delivered 50 critical hits."
+      ]
+   },
+    {
+      "ID": 39,
+      "Name": "Critical Condition",
+      "Comments": [
+         "Deliver even more critical hits.",
+         "Delivered 1500 critical hits."
+      ]
+   },
+    {
+      "ID": 40,
+      "Name": "Critical Mass",
+      "Comments": [
+         "Deliver an endless amount of critical hits.",
+         "Delivered 5000 critical hits."
+      ]
+   },
+    {
+      "ID": 41,
+      "Name": "Let's Fight!",
+      "Comments": [
+         "Successfully achieve Battle Start Affinity.",
+         "Achieved Battle Start Affinity for the first time."
+      ]
+   },
+    {
+      "ID": 42,
+      "Name": "Let's Go, Everyone!",
+      "Comments": [
+         "Achieve Battle Start Affinity numerous times.",
+         "Achieved Battle Start Affinity 100 times."
+      ]
+   },
+    {
+      "ID": 43,
+      "Name": "Yeah! We Can Do It!",
+      "Comments": [
+         "Achieve Battle Start Affinity into infinity.",
+         "Achieved Battle Start Affinity 1000 times."
+      ]
+   },
+    {
+      "ID": 44,
+      "Name": "Turn It Up",
+      "Comments": [
+         "Turn up the heat! Feel the tension rising in battle.",
+         "Entered a state of High Tension for the first time."
+      ]
+   },
+    {
+      "ID": 45,
+      "Name": "Fire It Up",
+      "Comments": [
+         "Keep getting High Tension like it's the hottest new thing.",
+         "Entered a state of High Tension 50 times."
+      ]
+   },
+    {
+      "ID": 46,
+      "Name": "Burn It Up",
+      "Comments": [
+         "Keep the fire burning! Get High Tension over and over.",
+         "Entered a state of High Tension 200 times."
+      ]
+   },
+    {
+      "ID": 47,
+      "Name": "Go Team!",
+      "Comments": [
+         "Join forces to perform a chain attack.",
+         "Used a chain attack for the first time."
+      ]
+   },
+    {
+      "ID": 48,
+      "Name": "Tip Top Team-Up",
+      "Comments": [
+         "Perform multiple chain attacks.",
+         "Used a chain attack 50 times."
+      ]
+   },
+    {
+      "ID": 49,
+      "Name": "A Team Like No Other",
+      "Comments": [
+         "Perform even more chain attacks.",
+         "Used a chain attack 200 times."
+      ]
+   },
+    {
+      "ID": 50,
+      "Name": "Team With a Capital T",
+      "Comments": [
+         "Perform an epic number of chain attacks.",
+         "Used a chain attack 1000 times."
+      ]
+   },
+    {
+      "ID": 51,
+      "Name": "Killer Combo",
+      "Comments": [
+         "Use a chain attack to deal a total of 3000 damage.",
+         "Used a chain attack to deal a total of 3000 damage."
+      ]
+   },
+    {
+      "ID": 52,
+      "Name": "Cosmic Killer Combo",
+      "Comments": [
+         "Use a chain attack to deal a total of 30,000 damage.",
+         "Used a chain attack to deal a total of 30,000 damage."
+      ]
+   },
+    {
+      "ID": 53,
+      "Name": "Quantum Killer Combo",
+      "Comments": [
+         "Use a chain attack to do a total of 100,000 damage.",
+         "Used a chain attack to deal a total of 100,000 damage."
+      ]
+   },
+    {
+      "ID": 54,
+      "Name": "Chain Gang",
+      "Comments": [
+         "Perform a chain attack with 4 links or more.",
+         "Performed a chain attack with 4 links or more."
+      ]
+   },
+    {
+      "ID": 55,
+      "Name": "Off the Chain",
+      "Comments": [
+         "Perform a chain attack with 5 links or more.",
+         "Performed a chain attack with 5 links or more."
+      ]
+   },
+    {
+      "ID": 56,
+      "Name": "Back-Stabber",
+      "Comments": [
+         "Strike the enemy from behind.",
+         "Performed a back attack for the first time."
+      ]
+   },
+    {
+      "ID": 57,
+      "Name": "Rear Admiral",
+      "Comments": [
+         "Perform multiple back attacks.",
+         "Performed a back attack 50 times."
+      ]
+   },
+    {
+      "ID": 58,
+      "Name": "Ninja Skillz",
+      "Comments": [
+         "Attack an enemy from behind and defeat it in one strike.",
+         "Attacked an enemy from behind and beat it in one strike."
+      ]
+   },
+    {
+      "ID": 59,
+      "Name": "Jaws of Defeat",
+      "Comments": [
+         "???",
+         "Won a battle while on the verge of death."
+      ]
+   },
+    {
+      "ID": 60,
+      "Name": "Come On, Cheer Up!",
+      "Comments": [
+         "???",
+         "Felt the pain of being Incapacitated for the first time."
+      ]
+   },
+    {
+      "ID": 61,
+      "Name": "Art Practice",
+      "Comments": [
+         "Use Arts a large number of times.",
+         "Used Arts 1000 times between the entire party."
+      ]
+   },
+    {
+      "ID": 62,
+      "Name": "The Art of War",
+      "Comments": [
+         "Use Arts an immense number of times.",
+         "Used Arts 10,000 times between the entire party."
+      ]
+   },
+    {
+      "ID": 63,
+      "Name": "Right, Let's Do This!",
+      "Comments": [
+         "Keep using Shulk's Arts.",
+         "Used Shulk's Arts 100 times."
+      ]
+   },
+    {
+      "ID": 64,
+      "Name": "Reyn Time, Baby!",
+      "Comments": [
+         "Keep using Reyn's Arts.",
+         "Used Reyn's Arts 100 times."
+      ]
+   },
+    {
+      "ID": 65,
+      "Name": "I Can Beat Anyone!",
+      "Comments": [
+         "Keep using Fiora's Arts.",
+         "Used Fiora's Arts 100 times."
+      ]
+   },
+    {
+      "ID": 66,
+      "Name": "Attack Me if You Dare!",
+      "Comments": [
+         "Keep using Dunban's Arts.",
+         "Used Dunban's Arts 100 times."
+      ]
+   },
+    {
+      "ID": 67,
+      "Name": "Things Are Heating Up!",
+      "Comments": [
+         "Keep using Sharla's Arts.",
+         "Used Sharla's Arts 100 times."
+      ]
+   },
+    {
+      "ID": 68,
+      "Name": "Riki Use Arts!",
+      "Comments": [
+         "Keep using Riki's Arts.",
+         "Used Riki's Arts 100 times."
+      ]
+   },
+    {
+      "ID": 69,
+      "Name": "Who Dares Defy Me?",
+      "Comments": [
+         "Keep using Melia's Arts.",
+         "Used Melia's Arts 100 times."
+      ]
+   },
+    {
+      "ID": 70,
+      "Name": "One Step Further",
+      "Comments": [
+         "Step your Arts up to the next level.",
+         "Unlocked the ability to level up your Arts even further."
+      ]
+   },
+    {
+      "ID": 71,
+      "Name": "The Final Step",
+      "Comments": [
+         "Step your Arts up to the highest level.",
+         "Unlocked the ability to level up your Arts completely."
+      ]
+   },
+    {
+      "ID": 72,
+      "Name": "Art School",
+      "Comments": [
+         "Step up one of your Arts to the next level.",
+         "Levelled up an Art for the first time."
+      ]
+   },
+    {
+      "ID": 73,
+      "Name": "A Work of Art",
+      "Comments": [
+         "Raise one of your Arts to a pretty decent level.",
+         "Raised an Art to level 5."
+      ]
+   },
+    {
+      "ID": 74,
+      "Name": "Perfecting the Art",
+      "Comments": [
+         "Bring one of your Arts up to the maximum level.",
+         "Raised an Art to the maximum level."
+      ]
+   },
+    {
+      "ID": 75,
+      "Name": "Down to a Fine Art",
+      "Comments": [
+         "Raise several of a character's Arts to the maximum level.",
+         "Raised 5 of one character's Arts to the maximum level."
+      ]
+   },
+    {
+      "ID": 76,
+      "Name": "Art-to-Art",
+      "Comments": [
+         "Raise more of a character's Arts to the maximum level.",
+         "Raised 10 of one character's Arts to the maximum level."
+      ]
+   },
+    {
+      "ID": 77,
+      "Name": "State of the Art",
+      "Comments": [
+         "Max out all the Arts of one character.",
+         "Raised all of one character's Arts to the maximum level."
+      ]
+   },
+    {
+      "ID": 78,
+      "Name": "Sharing the Knowledge",
+      "Comments": [
+         "Borrow skills from everyone.",
+         "Received shared skills from every character."
+      ]
+   },
+    {
+      "ID": 79,
+      "Name": "Specialist",
+      "Comments": [
+         "Follow a Skill Branch all the way to the bottom.",
+         "Fully developed one Skill Branch."
+      ]
+   },
+    {
+      "ID": 80,
+      "Name": "Honest Insight",
+      "Comments": [
+         "Develop Shulk's Skill Branches.",
+         "Fully developed three of Shulk's Skill Branches."
+      ]
+   },
+    {
+      "ID": 81,
+      "Name": "Raging Stalwart",
+      "Comments": [
+         "Develop Reyn's Skill Branches.",
+         "Fully developed three of Reyn's Skill Branches."
+      ]
+   },
+    {
+      "ID": 82,
+      "Name": "Spirited Adventurer",
+      "Comments": [
+         "Develop Fiora's Skill Branches.",
+         "Fully developed three of Fiora's Skill Branches."
+      ]
+   },
+    {
+      "ID": 83,
+      "Name": "Gallant Hero",
+      "Comments": [
+         "Develop Dunban's Skill Branches.",
+         "Fully developed three of Dunban's Skill Branches."
+      ]
+   },
+    {
+      "ID": 84,
+      "Name": "Unyielding Devotion",
+      "Comments": [
+         "Develop Sharla's Skill Branches.",
+         "Fully developed three of Sharla's Skill Branches."
+      ]
+   },
+    {
+      "ID": 85,
+      "Name": "Adorable Randomness",
+      "Comments": [
+         "Develop Riki's Skill Branches.",
+         "Fully developed three of Riki's Skill Branches."
+      ]
+   },
+    {
+      "ID": 86,
+      "Name": "Serene Candour",
+      "Comments": [
+         "Develop Melia's Skill Branches.",
+         "Fully developed three of Melia's Skill Branches."
+      ]
+   },
+    {
+      "ID": 87,
+      "Name": "Phoenix",
+      "Comments": [
+         "???",
+         "Been wiped out 50 times."
+      ]
+   },
+    {
+      "ID": 88,
+      "Name": "Secret Weapon",
+      "Comments": [
+         "Fully develop one character's Skill Branches.",
+         "Fully developed any character's Skill Branches."
+      ]
+   },
+    {
+      "ID": 89,
+      "Name": "Dream Team",
+      "Comments": [
+         "Fully develop everyone's Skill Branches.",
+         "Fully developed every character's Skill Branches."
+      ]
+   },
+    {
+      "ID": 90,
+      "Name": "Turning it Around",
+      "Comments": [
+         "Successfully achieve Burst Affinity.",
+         "Successfully achieved Burst Affinity."
+      ]
+   },
+    {
+      "ID": 91,
+      "Name": "Changing Course",
+      "Comments": [
+         "Achieve Burst Affinity numerous times.",
+         "Used Burst Affinity 300 times."
+      ]
+   },
+    {
+      "ID": 92,
+      "Name": "Complete 180",
+      "Comments": [
+         "Achieve Burst Affinity into infinity.",
+         "Achieved Burst Affinity 2000 times."
+      ]
+   },
+    {
+      "ID": 93,
+      "Name": "Looking For Trouble",
+      "Comments": [
+         "Fight something stronger than your party...and win.",
+         "Defeated an enemy 5 levels higher than yourself."
+      ]
+   },
+    {
+      "ID": 94,
+      "Name": "Beating the Odds",
+      "Comments": [
+         "Pick a fight you have no hope of surviving...and ace it.",
+         "Defeated an enemy 10 levels higher than yourself."
+      ]
+   },
+    {
+      "ID": 95,
+      "Name": "Unlucky Sixes",
+      "Comments": [
+         "Deal a devilish amount of damage.",
+         "Performed an attack that dealt exactly 666 damage."
+      ]
+   },
+    {
+      "ID": 96,
+      "Name": "Lucky Sevens",
+      "Comments": [
+         "Deal a lucky number of damage.",
+         "Performed an attack that dealt exactly 777 damage."
+      ]
+   },
+    {
+      "ID": 97,
+      "Name": "First Steps",
+      "Comments": [
+         "???",
+         "Discovered a Landmark for the first time."
+      ]
+   },
+    {
+      "ID": 98,
+      "Name": "A Corner of the World",
+      "Comments": [
+         "Discover more Landmarks on your journey.",
+         "Discovered 10 Landmarks."
+      ]
+   },
+    {
+      "ID": 99,
+      "Name": "Seasoned Traveller",
+      "Comments": [
+         "Keep going, and find yet more Landmarks along the way.",
+         "Discovered 40 Landmarks."
+      ]
+   },
+    {
+      "ID": 100,
+      "Name": "Globetrotter",
+      "Comments": [
+         "Seek out even more of the Landmarks in the world.",
+         "Discovered 80 Landmarks."
+      ]
+   },
+    {
+      "ID": 101,
+      "Name": "Worldly Wise",
+      "Comments": [
+         "Search the world and find nearly every Landmark there is.",
+         "Discovered 150 Landmarks."
+      ]
+   },
+    {
+      "ID": 102,
+      "Name": "Explorer",
+      "Comments": [
+         "Discover a Secret Area.",
+         "Discovered a Secret Area for the first time."
+      ]
+   },
+    {
+      "ID": 103,
+      "Name": "Trailblazer",
+      "Comments": [
+         "Venture into the unknown and discover Secret Areas.",
+         "Discovered 6 Secret Areas."
+      ]
+   },
+    {
+      "ID": 104,
+      "Name": "Pioneer",
+      "Comments": [
+         "Leave no stone unturned! Find even more Secret Areas!",
+         "Discovered 12 Secret Areas."
+      ]
+   },
+    {
+      "ID": 105,
+      "Name": "Skip It",
+      "Comments": [
+         "Use skip travel to avoid laborious backtracking.",
+         "Used skip travel for the first time."
+      ]
+   },
+    {
+      "ID": 106,
+      "Name": "Lazybones",
+      "Comments": [
+         "???",
+         "Used skip travel 50 times."
+      ]
+   },
+    {
+      "ID": 107,
+      "Name": "Hunting for Treasure",
+      "Comments": [
+         "Obtain a healthy number of Rare Treasure Chests.",
+         "Obtained 10 Rare Treasure Chests."
+      ]
+   },
+    {
+      "ID": 108,
+      "Name": "Hoarding Treasure",
+      "Comments": [
+         "Obtain an excessive number of silver Treasure Chests.",
+         "Obtained 50 Rare Treasure Chests."
+      ]
+   },
+    {
+      "ID": 109,
+      "Name": "Ooh, Shiny",
+      "Comments": [
+         "Obtain an elusive golden Treasure Chest.",
+         "Obtained a Super Rare Treasure Chest for the first time."
+      ]
+   },
+    {
+      "ID": 110,
+      "Name": "It Hasn't Lost its Lustre",
+      "Comments": [
+         "Obtain numerous golden Treasure Chests.",
+         "Obtained 10 Super Rare Treasure Chests."
+      ]
+   },
+    {
+      "ID": 111,
+      "Name": "Need...More...Treasure",
+      "Comments": [
+         "Obtain a dazzling quantity of golden Treasure Chests.",
+         "Obtained 50 Super Rare Treasure Chests."
+      ]
+   },
+    {
+      "ID": 112,
+      "Name": "Titan's Gift",
+      "Comments": [
+         "Harvest some ether crystals.",
+         "Harvested an ether crystal for the first time."
+      ]
+   },
+    {
+      "ID": 113,
+      "Name": "Titan's Generosity",
+      "Comments": [
+         "Harvest a lot of ether crystals.",
+         "Harvested ether crystals 50 times."
+      ]
+   },
+    {
+      "ID": 114,
+      "Name": "Titan's Greatness",
+      "Comments": [
+         "Harvest a heck of a lot of ether crystals.",
+         "Harvested ether crystals 500 times."
+      ]
+   },
+    {
+      "ID": 115,
+      "Name": "Raring to Go",
+      "Comments": [
+         "???",
+         "Obtained a rare ether crystal for the first time."
+      ]
+   },
+    {
+      "ID": 116,
+      "Name": "Medium Rare",
+      "Comments": [
+         "???",
+         "Obtained 7 rare ether crystals."
+      ]
+   },
+    {
+      "ID": 117,
+      "Name": "In Rare Form",
+      "Comments": [
+         "???",
+         "Obtained 77 rare ether crystals."
+      ]
+   },
+    {
+      "ID": 118,
+      "Name": "Crystallised Luck",
+      "Comments": [
+         "???",
+         "Mined a rank V ether crystal."
+      ]
+   },
+    {
+      "ID": 119,
+      "Name": "That Hits the Slot",
+      "Comments": [
+         "Use a gem to enhance a weapon or piece of armour.",
+         "Filled a gem slot for the first time."
+      ]
+   },
+    {
+      "ID": 120,
+      "Name": "Truly Outrageous",
+      "Comments": [
+         "???",
+         "Filled all 8 possible gem slots at once for any character."
+      ]
+   },
+    {
+      "ID": 121,
+      "Name": "Learning the Craft",
+      "Comments": [
+         "Practise Gem Crafting and get a Synergy Bonus.",
+         "Practised Gem Crafting and received a Synergy Bonus."
+      ]
+   },
+    {
+      "ID": 122,
+      "Name": "Getting Crafty",
+      "Comments": [
+         "Get a lot of Synergy Bonuses.",
+         "Received a Synergy Bonus more than 250 times."
+      ]
+   },
+    {
+      "ID": 123,
+      "Name": "Crafting Your Destiny",
+      "Comments": [
+         "Get even more Synergy Bonuses.",
+         "Received a Synergy Bonus more than 500 times."
+      ]
+   },
+    {
+      "ID": 124,
+      "Name": "Craftacular!",
+      "Comments": [
+         "Let the atmosphere heat up while crafting gems.",
+         "Entered a Fever state while Gem Crafting."
+      ]
+   },
+    {
+      "ID": 125,
+      "Name": "Craftstravaganza!",
+      "Comments": [
+         "Feel the Fever a fiendish number of times while crafting.",
+         "Entered a Fever state 3 times."
+      ]
+   },
+    {
+      "ID": 126,
+      "Name": "Lending a Hand",
+      "Comments": [
+         "Have a friend lend a hand while Gem Crafting.",
+         "Received a Support Bonus."
+      ]
+   },
+    {
+      "ID": 127,
+      "Name": "Crafting Friendships",
+      "Comments": [
+         "Get everyone to lend their support during gem crafting.",
+         "Received a Support Bonus for every character."
+      ]
+   },
+    {
+      "ID": 128,
+      "Name": "Firing on All Cylinders",
+      "Comments": [
+         "Fill up the Cylinder Gauge like there's no tomorrow.",
+         "Fill up the Cylinder Gauge 9 times in one crafting session."
+      ]
+   },
+    {
+      "ID": 129,
+      "Name": "Happy New Year!",
+      "Comments": [
+         "???",
+         "Witnessed the sun rising on the 366th day."
+      ]
+   },
+    {
+      "ID": 130,
+      "Name": "Terminal Velocity",
+      "Comments": [
+         "???",
+         "Fell to your demise from a great height."
+      ]
+   },
+    {
+      "ID": 131,
+      "Name": "Making Waves",
+      "Comments": [
+         "???",
+         "Fell into water from a height of 200 metres."
+      ]
+   },
+    {
+      "ID": 132,
+      "Name": "One is Never Enough",
+      "Comments": [
+         "Start off a collection in your Collectopaedia.",
+         "Recorded an item in the Collectopaedia for the first time."
+      ]
+   },
+    {
+      "ID": 133,
+      "Name": "Collector's Mentality",
+      "Comments": [
+         "Pick a page in the Collectopaedia and fill it in completely.",
+         "Completed a page in the Collectopaedia."
+      ]
+   },
+    {
+      "ID": 134,
+      "Name": "Stamp of Insanity",
+      "Comments": [
+         "Fill in the entire Collectopaedia. Better be thorough!",
+         "Completed every page in the Collectopaedia."
+      ]
+   },
+    {
+      "ID": 135,
+      "Name": "Study Aids",
+      "Comments": [
+         "Give Shulk a lot of presents that he'll appreciate.",
+         "Gave Shulk 20 pieces of machinery as gifts."
+      ]
+   },
+    {
+      "ID": 136,
+      "Name": "Auber the Top",
+      "Comments": [
+         "Treat Reyn to a vegetable brimming with power.",
+         "Gave Reyn an Energy Aubergine as a gift."
+      ]
+   },
+    {
+      "ID": 137,
+      "Name": "Aim for the Heart!",
+      "Comments": [
+         "Have Fiora give lots of gifts to that one special person...",
+         "Had Fiora give 20 gifts to Shulk."
+      ]
+   },
+    {
+      "ID": 138,
+      "Name": "Thanks But No Thanks",
+      "Comments": [
+         "Give Dunban some fruit to try and sweeten him up.",
+         "Gave Dunban a gift he truly hated."
+      ]
+   },
+    {
+      "ID": 139,
+      "Name": "Fruitful Gifts",
+      "Comments": [
+         "Shower Sharla with her favourite kind of present.",
+         "Gave Sharla fruit as a gift 20 times."
+      ]
+   },
+    {
+      "ID": 140,
+      "Name": "You May Have This",
+      "Comments": [
+         "Have Melia become the generous type.",
+         "Had Melia give 30 gifts."
+      ]
+   },
+    {
+      "ID": 141,
+      "Name": "Not Just Riki Eat!",
+      "Comments": [
+         "Have Riki give everyone else the things he likes.",
+         "Had Riki give insects as gifts 30 times."
+      ]
+   },
+    {
+      "ID": 142,
+      "Name": "Love at First Bite",
+      "Comments": [
+         "Give a love potion as a present.",
+         "Gave Love Source as a present."
+      ]
+   },
+    {
+      "ID": 143,
+      "Name": "Ear to the Ground",
+      "Comments": [
+         "Strike up a lot of conversations.",
+         "Talked to people 100 times."
+      ]
+   },
+    {
+      "ID": 144,
+      "Name": "Social Butterfly",
+      "Comments": [
+         "Strike up as many conversations as you can manage.",
+         "Talked to people 1000 times."
+      ]
+   },
+    {
+      "ID": 145,
+      "Name": "Breaking the Ice",
+      "Comments": [
+         "Talk to someone in their hour of need, and...",
+         "Had a party member step into a conversation."
+      ]
+   },
+    {
+      "ID": 146,
+      "Name": "Idle Chit-Chat",
+      "Comments": [
+         "Get the party to enter more conversations.",
+         "Had party members step into conversations 50 times."
+      ]
+   },
+    {
+      "ID": 147,
+      "Name": "Chatting the Day Away",
+      "Comments": [
+         "Get the party to enter more conversations still.",
+         "Had party members step into conversations 300 times."
+      ]
+   },
+    {
+      "ID": 148,
+      "Name": "Your First Friend",
+      "Comments": [
+         "Get to know a named resident of any settlement.",
+         "Got to know a named person for the first time."
+      ]
+   },
+    {
+      "ID": 149,
+      "Name": "Friend Number Ten",
+      "Comments": [
+         "Go around chatting to people and making friends.",
+         "Registered 10 people on the Affinity Chart."
+      ]
+   },
+    {
+      "ID": 150,
+      "Name": "Fifty Fine Friends",
+      "Comments": [
+         "Make even more friends across the world.",
+         "Registered 50 people on the Affinity Chart."
+      ]
+   },
+    {
+      "ID": 151,
+      "Name": "Friend of the World",
+      "Comments": [
+         "Get to know nearly every named person in the world.",
+         "Registered 120 people on the Affinity Chart."
+      ]
+   },
+    {
+      "ID": 152,
+      "Name": "The Brave Protectors",
+      "Comments": [
+         "Develop a relationship with all of Colony 9's soldiers.",
+         "Got to know all of the Defence Force soldiers in Colony 9."
+      ]
+   },
+    {
+      "ID": 153,
+      "Name": "Network of Knowledge",
+      "Comments": [
+         "Formed a bond with Nopon outside of populated areas.",
+         "Got to know many Nopon outside of populated areas."
+      ]
+   },
+    {
+      "ID": 154,
+      "Name": "The Hopeful Survivors",
+      "Comments": [
+         "Make a connection with the people of Colony 6.",
+         "Got to know a lot of people in Colony 6."
+      ]
+   },
+    {
+      "ID": 155,
+      "Name": "Know So Many Nopon!",
+      "Comments": [
+         "Be sociable with the Nopon of Frontier Village.",
+         "Got to know the Nopon living in Frontier Village."
+      ]
+   },
+    {
+      "ID": 156,
+      "Name": "Wings of Nobility",
+      "Comments": [
+         "Be friendly with High Entia that have small headwings.",
+         "Got to know many High Entia with small headwings."
+      ]
+   },
+    {
+      "ID": 157,
+      "Name": "A Village of Machines",
+      "Comments": [
+         "Get to know the Machina of the Hidden Village.",
+         "Got to know the numerous Machina in the Hidden Village."
+      ]
+   },
+    {
+      "ID": 158,
+      "Name": "The Strongest Tie",
+      "Comments": [
+         "Help two named people develop a deep Affinity.",
+         "Helped two people form a deep Affinity for one another."
+      ]
+   },
+    {
+      "ID": 159,
+      "Name": "Constellation",
+      "Comments": [
+         "Help quite a few people develop Affinities for each other.",
+         "Helped people form an Affinity for one another ten times."
+      ]
+   },
+    {
+      "ID": 160,
+      "Name": "Spider's Web",
+      "Comments": [
+         "Help lots of people develop an Affinity for each other.",
+         "Helped people form an Affinity for one another 50 times."
+      ]
+   },
+    {
+      "ID": 161,
+      "Name": "Neural Network",
+      "Comments": [
+         "Help a vast number of people develop Affinities.",
+         "Helped people form an Affinity for one another 100 times."
+      ]
+   },
+    {
+      "ID": 162,
+      "Name": "Roots Across the World",
+      "Comments": [
+         "Help pretty much everyone develop Affinities.",
+         "Helped almost everyone to form Affinities for one another."
+      ]
+   },
+    {
+      "ID": 163,
+      "Name": "Colony 9 Celeb",
+      "Comments": [
+         "Win the love and approval of Colony 9's residents.",
+         "Achieved a 3-star Affinity rating for the Colony 9 area."
+      ]
+   },
+    {
+      "ID": 164,
+      "Name": "Colony 6 Celeb",
+      "Comments": [
+         "Win the respect and adoration of Colony 6's residents.",
+         "Achieved a 3-star Affinity rating for the Colony 6 area."
+      ]
+   },
+    {
+      "ID": 165,
+      "Name": "Honorary Nopon",
+      "Comments": [
+         "Forge very close ties to the inhabitants of Frontier Village.",
+         "Achieved a 3-star Affinity rating for the Frontier Village."
+      ]
+   },
+    {
+      "ID": 166,
+      "Name": "Honorary High Entia",
+      "Comments": [
+         "Attain a deep understanding of the people of Alcamoth.",
+         "Achieved a 3-star Affinity rating for the Alcamoth area."
+      ]
+   },
+    {
+      "ID": 167,
+      "Name": "Honorary Machina",
+      "Comments": [
+         "Become a very welcome face in the Hidden Village.",
+         "Achieved a 3-star Affinity rating for the Hidden Village."
+      ]
+   },
+    {
+      "ID": 168,
+      "Name": "Local Hero",
+      "Comments": [
+         "???",
+         "Develop a 5-star Affinity with the people of any area."
+      ]
+   },
+    {
+      "ID": 169,
+      "Name": "World Hero",
+      "Comments": [
+         "???",
+         "Develop a 5-star Affinity with everyone."
+      ]
+   },
+    {
+      "ID": 170,
+      "Name": "Heartwarming",
+      "Comments": [
+         "Show your sweet and sensitive side in a Heart-to-Heart.",
+         "Had a Heart-to-Heart go as smoothly as possible."
+      ]
+   },
+    {
+      "ID": 171,
+      "Name": "Heartbreaking",
+      "Comments": [
+         "Show your stupid and senseless side in a Heart-to-Heart.",
+         "Had a Heart-to-Heart go as badly as possible."
+      ]
+   },
+    {
+      "ID": 172,
+      "Name": "Pouring Out Your Heart",
+      "Comments": [
+         "Have a hearty number of Heart-to-Hearts.",
+         "Had 20 Heart-to-Hearts."
+      ]
+   },
+    {
+      "ID": 173,
+      "Name": "The Heart of the Matter",
+      "Comments": [
+         "Have a whole hoard of Heart-to-Hearts.",
+         "Had 40 Heart-to-Hearts."
+      ]
+   },
+    {
+      "ID": 174,
+      "Name": "Ace of Hearts",
+      "Comments": [
+         "Poured your heart out in every possible Heart-to-Heart.",
+         "Had every possible Heart-to-Heart."
+      ]
+   },
+    {
+      "ID": 175,
+      "Name": "Blossoming Friendship",
+      "Comments": [
+         "Let two of your party members develop a deeper Affinity.",
+         "Improved the Affinity between two party members."
+      ]
+   },
+    {
+      "ID": 176,
+      "Name": "Unshakeable Trust",
+      "Comments": [
+         "Improve two party members' Affinity even more.",
+         "Improved two party members' Affinity still further."
+      ]
+   },
+    {
+      "ID": 177,
+      "Name": "Unbreakable Bond",
+      "Comments": [
+         "Let two party members form a truly deep connection.",
+         "Formed the deepest Affinity between two party members."
+      ]
+   },
+    {
+      "ID": 178,
+      "Name": "Get the Party Started",
+      "Comments": [
+         "Improve the relationships amongst your entire party.",
+         "Deepened the Affinity between all party members."
+      ]
+   },
+    {
+      "ID": 179,
+      "Name": "Party's in Full Swing",
+      "Comments": [
+         "Form the closest-knit party imaginable.",
+         "Formed the deepest Affinity between all party members."
+      ]
+   },
+    {
+      "ID": 180,
+      "Name": "Problem Solved!",
+      "Comments": [
+         "Accept and complete a quest.",
+         "Completed a quest for the first time."
+      ]
+   },
+    {
+      "ID": 181,
+      "Name": "Helpful Stranger",
+      "Comments": [
+         "Complete a quantity of quests.",
+         "Completed 10 quests (excluding story quests)."
+      ]
+   },
+    {
+      "ID": 182,
+      "Name": "Generous Friend",
+      "Comments": [
+         "Complete quite a quantity of quests.",
+         "Completed 100 quests (excluding story quests)."
+      ]
+   },
+    {
+      "ID": 183,
+      "Name": "Charitable Ally",
+      "Comments": [
+         "Complete quests by the questload.",
+         "Completed 200 quests (excluding story quests)."
+      ]
+   },
+    {
+      "ID": 184,
+      "Name": "Selfless Giver",
+      "Comments": [
+         "Complete quillions of quests.",
+         "Completed 300 quests (excluding story quests)."
+      ]
+   },
+    {
+      "ID": 185,
+      "Name": "Shaping History",
+      "Comments": [
+         "???",
+         "Changed someone's life through your actions."
+      ]
+   },
+    {
+      "ID": 186,
+      "Name": "Treasure Trove",
+      "Comments": [
+         "Obtain a veritable trove of Treasure Chests.",
+         "Obtained 1000 Rare or Super Rare Treasure chests."
+      ]
+   },
+    {
+      "ID": 187,
+      "Name": "Equivalent Exchange",
+      "Comments": [
+         "Conduct a trade with someone.",
+         "Successfully traded items with someone."
+      ]
+   },
+    {
+      "ID": 188,
+      "Name": "Tradesman",
+      "Comments": [
+         "Trade like a pro with plenty of people.",
+         "Traded items 20 times."
+      ]
+   },
+    {
+      "ID": 189,
+      "Name": "Master Tradesman",
+      "Comments": [
+         "Transact a titanic truckload of trades.",
+         "Traded items 100 times."
+      ]
+   },
+    {
+      "ID": 190,
+      "Name": "Mysterious Mantis",
+      "Comments": [
+         "Trade to get a Minute Mantis.",
+         "Obtained a Minute Mantis through trading."
+      ]
+   },
+    {
+      "ID": 191,
+      "Name": "Shining Impracticality",
+      "Comments": [
+         "Trade to get a Golden Cog.",
+         "Obtained a Golden Cog through trading."
+      ]
+   },
+    {
+      "ID": 192,
+      "Name": "Indigo Belligerence",
+      "Comments": [
+         "Trade to get a Love Beetle.",
+         "Obtained a Love Beetle through trading."
+      ]
+   },
+    {
+      "ID": 193,
+      "Name": "Stormy Outlook",
+      "Comments": [
+         "Trade to get a Thunder Compass.",
+         "Obtained a Thunder Compass through trading."
+      ]
+   },
+    {
+      "ID": 194,
+      "Name": "Angelic Imitation",
+      "Comments": [
+         "Trade to get an Angel Engine Y.",
+         "Obtained an Angel Engine Y through trading."
+      ]
+   },
+    {
+      "ID": 195,
+      "Name": "Drawing a Crowd",
+      "Comments": [
+         "Make a decent start on building up Colony 6's population.",
+         "Increased the population of Colony 6 to 50 people."
+      ]
+   },
+    {
+      "ID": 196,
+      "Name": "Building a Community",
+      "Comments": [
+         "Build up Colony 6's population to a greater degree.",
+         "Increased the population of Colony 6 to 100 people."
+      ]
+   },
+    {
+      "ID": 197,
+      "Name": "Bursting at the Seams",
+      "Comments": [
+         "Help Colony 6 build up a thriving community.",
+         "Filled up Colony 6 with a population of 150 people."
+      ]
+   },
+    {
+      "ID": 198,
+      "Name": "A Fixer-Upper",
+      "Comments": [
+         "Start work on reconstructing Colony 6.",
+         "Started reconstructing Colony 6."
+      ]
+   },
+    {
+      "ID": 199,
+      "Name": "A Fix on the Solution",
+      "Comments": [
+         "Get the reconstruction of Colony 6 well underway.",
+         "Made good progress in reconstructing Colony 6."
+      ]
+   },
+    {
+      "ID": 200,
+      "Name": "Good and Fixed",
+      "Comments": [
+         "Restore Colony 6 to its former glory.",
+         "Finished reconstructing Colony 6. Amazing!"
+      ]
+   }
+   ]

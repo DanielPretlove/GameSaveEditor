@@ -1,0 +1,66 @@
+[
+    {
+      "ID": 0,
+      "Name": "(none)"
+    },
+    {
+      "ID": 1,
+      "Name": "Gadolt's Rifle"
+    },
+    {
+      "ID": 2,
+      "Name": "Air Sniper"
+    },
+    {
+      "ID": 3,
+      "Name": "Calm Shot"
+    },
+    {
+      "ID": 4,
+      "Name": "Point Rifle"
+    },
+    {
+      "ID": 5,
+      "Name": "Nopon Cannon"
+    },
+    {
+      "ID": 6,
+      "Name": "Shift Rifle"
+    },
+    {
+      "ID": 7,
+      "Name": "Chrome Sniper"
+    },
+    {
+      "ID": 8,
+      "Name": "Spit Cluster"
+    },
+    {
+      "ID": 9,
+      "Name": "Brain Rifle"
+    },
+    {
+      "ID": 10,
+      "Name": "Dark Cannon"
+    },
+    {
+      "ID": 11,
+      "Name": "Machina Sniper"
+    },
+    {
+      "ID": 12,
+      "Name": "Machina Cannon"
+    },
+    {
+      "ID": 13,
+      "Name": "Machina Rifle"
+    },
+    {
+      "ID": 14,
+      "Name": "Machina Sniper II"
+    },
+    {
+      "ID": 15,
+      "Name": "Machina Rifle II"
+    }
+   ]

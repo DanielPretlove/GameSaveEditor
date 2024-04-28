@@ -1,0 +1,86 @@
+[
+    {
+      "ID": 0,
+      "Name": "Shulk <-> Reyn"
+    },
+    {
+      "ID": 1,
+      "Name": "Shulk <-> Fiora"
+    },
+    {
+      "ID": 2,
+      "Name": "Shulk <-> Dunban"
+    },
+    {
+      "ID": 3,
+      "Name": "Shulk <-> Sharla"
+    },
+    {
+      "ID": 4,
+      "Name": "Shulk <-> Riki"
+    },
+    {
+      "ID": 5,
+      "Name": "Shulk <-> Melia"
+    },
+    {
+      "ID": 6,
+      "Name": "Reyn <-> Fiora"
+    },
+    {
+      "ID": 7,
+      "Name": "Reyn <-> Dunban"
+    },
+    {
+      "ID": 8,
+      "Name": "Reyn <-> Sharla"
+    },
+    {
+      "ID": 9,
+      "Name": "Reyn <-> Riki"
+    },
+    {
+      "ID": 10,
+      "Name": "Reyn <-> Melia"
+    },
+    {
+      "ID": 11,
+      "Name": "Fiora <-> Dunban"
+    },
+    {
+      "ID": 12,
+      "Name": "Fiora <-> Sharla"
+    },
+    {
+      "ID": 13,
+      "Name": "Fiora <-> Riki"
+    },
+    {
+      "ID": 14,
+      "Name": "Fiora <-> Melia"
+    },
+    {
+      "ID": 15,
+      "Name": "Dunban <-> Sharla"
+    },
+    {
+      "ID": 16,
+      "Name": "Dunban <-> Riki"
+    },
+    {
+      "ID": 17,
+      "Name": "Dunban <-> Melia"
+    },
+    {
+      "ID": 18,
+      "Name": "Sharla <-> Riki"
+    },
+    {
+      "ID": 19,
+      "Name": "Sharla <-> Melia"
+    },
+    {
+      "ID": 20,
+      "Name": "Riki <-> Melia"
+    }
+   ]

@@ -1,0 +1,47 @@
+[
+    {
+      "ID": 0,
+      "Name": "(none)",
+      "Head": true,
+      "Torso": true,
+      "Arm": true,
+      "Leg": true,
+      "Foot": true
+    },
+    {
+      "ID": 1,
+      "Name": "Ecru Type",
+      "Head": false,
+      "Torso": true,
+      "Arm": false,
+      "Leg": true,
+      "Foot": false
+    },
+    {
+      "ID": 2,
+      "Name": "Modern Style I",
+      "Head": false,
+      "Torso": true,
+      "Arm": false,
+      "Leg": true,
+      "Foot": false
+    },
+    {
+      "ID": 3,
+      "Name": "Modern Style II",
+      "Head": false,
+      "Torso": true,
+      "Arm": false,
+      "Leg": true,
+      "Foot": false
+    },
+    {
+      "ID": 4,
+      "Name": "Modern Style III",
+      "Head": false,
+      "Torso": true,
+      "Arm": false,
+      "Leg": true,
+      "Foot": false
+    }
+]

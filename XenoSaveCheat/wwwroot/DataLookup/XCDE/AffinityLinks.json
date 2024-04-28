@@ -1,0 +1,5070 @@
+[
+    {
+      "ID": 1,
+      "Captions": [
+         "",
+         "",
+         "Both Scientists",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Dean",
+         "Erik"
+      ]
+   },
+    {
+      "ID": 2,
+      "Captions": [
+         "",
+         "",
+         "",
+         "Succession",
+         ""
+      ],
+      "NPCs": [
+         "Dean",
+         "Perrine"
+      ]
+   },
+    {
+      "ID": 3,
+      "Captions": [
+         "",
+         "",
+         "Old Friends",
+         "Close Friends",
+         "Mutual Respect"
+      ],
+      "NPCs": [
+         "Dean",
+         "Sonia"
+      ]
+   },
+    {
+      "ID": 4,
+      "Captions": [
+         "",
+         "",
+         "Respect",
+         "Close",
+         ""
+      ],
+      "NPCs": [
+         "Dean",
+         "Rocco"
+      ]
+   },
+    {
+      "ID": 5,
+      "Captions": [
+         "Warring Family",
+         "",
+         "",
+         "Happy Family",
+         ""
+      ],
+      "NPCs": [
+         "Rocco",
+         "Sonia"
+      ]
+   },
+    {
+      "ID": 6,
+      "Captions": [
+         "",
+         "Bitter Siblings",
+         "",
+         "Close Siblings",
+         ""
+      ],
+      "NPCs": [
+         "Liliana",
+         "Rocco"
+      ]
+   },
+    {
+      "ID": 7,
+      "Captions": [
+         "",
+         "",
+         "Close",
+         "Fine Grandson",
+         ""
+      ],
+      "NPCs": [
+         "Jiroque",
+         "Marcia"
+      ]
+   },
+    {
+      "ID": 8,
+      "Captions": [
+         "Bitter Brothers",
+         "",
+         "Brothers",
+         "Close Brothers",
+         "Perfect Brother"
+      ],
+      "NPCs": [
+         "Jiroque",
+         "Zukazu"
+      ]
+   },
+    {
+      "ID": 9,
+      "Captions": [
+         "",
+         "Hostility",
+         "",
+         "Reconciled",
+         ""
+      ],
+      "NPCs": [
+         "Marcia",
+         "Zukazu"
+      ]
+   },
+    {
+      "ID": 10,
+      "Captions": [
+         "",
+         "",
+         "Colleagues",
+         "Good Boss",
+         ""
+      ],
+      "NPCs": [
+         "Erik",
+         "Shura"
+      ]
+   },
+    {
+      "ID": 11,
+      "Captions": [
+         "",
+         "Parted Ways",
+         "Unrequited",
+         "",
+         "Mutual Love?"
+      ],
+      "NPCs": [
+         "Erik",
+         "Monica"
+      ]
+   },
+    {
+      "ID": 12,
+      "Captions": [
+         "Warring Family",
+         "",
+         "Normal Family",
+         "Happy Family",
+         ""
+      ],
+      "NPCs": [
+         "Rocco",
+         "Sonia"
+      ]
+   },
+    {
+      "ID": 13,
+      "Captions": [
+         "",
+         "",
+         "Interest",
+         "Fondness",
+         ""
+      ],
+      "NPCs": [
+         "Liliana",
+         "Marcia"
+      ]
+   },
+    {
+      "ID": 14,
+      "Captions": [
+         "",
+         "",
+         "Tea Friends",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Dionysis",
+         "Marcia"
+      ]
+   },
+    {
+      "ID": 15,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         "Friends Always"
+      ],
+      "NPCs": [
+         "Cheryl",
+         "Marcia"
+      ]
+   },
+    {
+      "ID": 16,
+      "Captions": [
+         "",
+         "",
+         "",
+         "Aunt/Nephew",
+         ""
+      ],
+      "NPCs": [
+         "Andreas",
+         "Shura"
+      ]
+   },
+    {
+      "ID": 17,
+      "Captions": [
+         "Parted Ways",
+         "Unspoken Love",
+         "",
+         "",
+         "Passionate"
+      ],
+      "NPCs": [
+         "Andreas",
+         "Monica"
+      ]
+   },
+    {
+      "ID": 18,
+      "Captions": [
+         "",
+         "Idler/Achiever",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Minnie",
+         "Monica"
+      ]
+   },
+    {
+      "ID": 19,
+      "Captions": [
+         "Derision",
+         "",
+         "",
+         "Understanding",
+         ""
+      ],
+      "NPCs": [
+         "Dionysis",
+         "Jan"
+      ]
+   },
+    {
+      "ID": 20,
+      "Captions": [
+         "",
+         "",
+         "",
+         "Old Friends",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 21,
+      "Captions": [
+         "",
+         "",
+         "Admiration",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Arnaut",
+         "Shura"
+      ]
+   },
+    {
+      "ID": 22,
+      "Captions": [
+         "",
+         "",
+         "",
+         "Trust",
+         ""
+      ],
+      "NPCs": [
+         "Minnie",
+         "Raoul"
+      ]
+   },
+    {
+      "ID": 23,
+      "Captions": [
+         "Bad Feeling",
+         "",
+         "Colleagues",
+         "Friendly Rivals",
+         ""
+      ],
+      "NPCs": [
+         "Dorothy",
+         "Minnie"
+      ]
+   },
+    {
+      "ID": 24,
+      "Captions": [
+         "",
+         "",
+         "Late Bloomer?",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Jan",
+         "Minnie"
+      ]
+   },
+    {
+      "ID": 25,
+      "Captions": [
+         "",
+         "",
+         "",
+         "Old Suitor",
+         ""
+      ],
+      "NPCs": [
+         "Cheryl",
+         "Jan"
+      ]
+   },
+    {
+      "ID": 26,
+      "Captions": [
+         "",
+         "",
+         "",
+         "Old Friends",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 27,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         "Reverence"
+      ],
+      "NPCs": [
+         "Mefimefi",
+         "Sesame"
+      ]
+   },
+    {
+      "ID": 28,
+      "Captions": [
+         "Dissatisfaction",
+         "Patience",
+         "Higher Opinion",
+         "Trust",
+         "Deep Trust"
+      ],
+      "NPCs": [
+         "Emmy Leater",
+         "Miller"
+      ]
+   },
+    {
+      "ID": 29,
+      "Captions": [
+         "",
+         "",
+         "High Regard",
+         "Respect",
+         ""
+      ],
+      "NPCs": [
+         "Miller",
+         "Raoul"
+      ]
+   },
+    {
+      "ID": 30,
+      "Captions": [
+         "Irritation",
+         "Distrust",
+         "Sympathy",
+         "Impressed",
+         "Deep Trust"
+      ],
+      "NPCs": [
+         "Emmy Leater",
+         "Raoul"
+      ]
+   },
+    {
+      "ID": 31,
+      "Captions": [
+         "",
+         "",
+         "",
+         "Highly Reliable",
+         ""
+      ],
+      "NPCs": [
+         "Kantz",
+         "Raoul"
+      ]
+   },
+    {
+      "ID": 32,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         "Great Potential"
+      ],
+      "NPCs": [
+         "Dorothy",
+         "Raoul"
+      ]
+   },
+    {
+      "ID": 33,
+      "Captions": [
+         "",
+         "Ups & Downs",
+         "Eager Siblings",
+         "Rival Siblings",
+         ""
+      ],
+      "NPCs": [
+         "Dorothy",
+         "Jackson"
+      ]
+   },
+    {
+      "ID": 34,
+      "Captions": [
+         "",
+         "",
+         "Friends",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Desiree",
+         "Dorothy"
+      ]
+   },
+    {
+      "ID": 35,
+      "Captions": [
+         "",
+         "",
+         "",
+         "Promising Pupil",
+         ""
+      ],
+      "NPCs": [
+         "Desiree",
+         "Kenny Rohan"
+      ]
+   },
+    {
+      "ID": 36,
+      "Captions": [
+         "Traitor",
+         "",
+         "Drifted Apart",
+         "Firm Friends",
+         "Best Friends"
+      ],
+      "NPCs": [
+         "Betty",
+         "Desiree"
+      ]
+   },
+    {
+      "ID": 37,
+      "Captions": [
+         "",
+         "",
+         "Confusion",
+         "Big Fan",
+         "Extreme Fan"
+      ],
+      "NPCs": [
+         "Betty",
+         "Kenny Rohan"
+      ]
+   },
+    {
+      "ID": 38,
+      "Captions": [
+         "",
+         "Scepticism",
+         "",
+         "Big Success",
+         ""
+      ],
+      "NPCs": [
+         "Betty",
+         "Sesame"
+      ]
+   },
+    {
+      "ID": 39,
+      "Captions": [
+         "",
+         "",
+         "Fan",
+         "Dedicated Fan",
+         "Supreme Fan"
+      ],
+      "NPCs": [
+         "Arnaut",
+         "Leopold"
+      ]
+   },
+    {
+      "ID": 40,
+      "Captions": [
+         "Near Divorce",
+         "Together/Apart",
+         "",
+         "Happily Married",
+         ""
+      ],
+      "NPCs": [
+         "Arnaut",
+         "Francoise"
+      ]
+   },
+    {
+      "ID": 41,
+      "Captions": [
+         "",
+         "",
+         "Stuck in a Rut",
+         "Role Model",
+         ""
+      ],
+      "NPCs": [
+         "Arnaut",
+         "Kantz"
+      ]
+   },
+    {
+      "ID": 42,
+      "Captions": [
+         "Hate",
+         "Contempt",
+         "",
+         "Friend's Child",
+         ""
+      ],
+      "NPCs": [
+         "Emmy Leater",
+         "Kantz"
+      ]
+   },
+    {
+      "ID": 43,
+      "Captions": [
+         "",
+         "",
+         "Teacher/Pupil",
+         "Shows Promise",
+         ""
+      ],
+      "NPCs": [
+         "Giorgio",
+         "Jackson"
+      ]
+   },
+    {
+      "ID": 44,
+      "Captions": [
+         "",
+         "",
+         "Teacher/Pupil",
+         "",
+         "Talent in Bloom"
+      ],
+      "NPCs": [
+         "Jackson",
+         "Kenny Rohan"
+      ]
+   },
+    {
+      "ID": 45,
+      "Captions": [
+         "",
+         "",
+         "A Regular",
+         "VIP Regular",
+         ""
+      ],
+      "NPCs": [
+         "Giorgio",
+         "Kenny Rohan"
+      ]
+   },
+    {
+      "ID": 46,
+      "Captions": [
+         "",
+         "Indifferent",
+         "",
+         "Wonderful",
+         ""
+      ],
+      "NPCs": [
+         "Kenny Rohan",
+         "Sesame"
+      ]
+   },
+    {
+      "ID": 47,
+      "Captions": [
+         "",
+         "",
+         "",
+         "Amazing",
+         ""
+      ],
+      "NPCs": [
+         "Giorgio",
+         "Sesame"
+      ]
+   },
+    {
+      "ID": 48,
+      "Captions": [
+         "",
+         "",
+         "",
+         "Marital Bliss",
+         ""
+      ],
+      "NPCs": [
+         "Kantz",
+         "Suzanna"
+      ]
+   },
+    {
+      "ID": 49,
+      "Captions": [
+         "",
+         "",
+         "",
+         "Doting Parent",
+         ""
+      ],
+      "NPCs": [
+         "Kantz",
+         "Moritz"
+      ]
+   },
+    {
+      "ID": 50,
+      "Captions": [
+         "",
+         "Irritation",
+         "Normal",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Moritz",
+         "Suzanna"
+      ]
+   },
+    {
+      "ID": 51,
+      "Captions": [
+         "",
+         "",
+         "Friends",
+         "Best Friends",
+         "Eternal Bond"
+      ],
+      "NPCs": [
+         "Lukas",
+         "Moritz"
+      ]
+   },
+    {
+      "ID": 52,
+      "Captions": [
+         "",
+         "Scary Friend",
+         "",
+         "Best Friends",
+         "Eternal Bond"
+      ],
+      "NPCs": [
+         "Moritz",
+         "Niranira"
+      ]
+   },
+    {
+      "ID": 53,
+      "Captions": [
+         "",
+         "",
+         "Kind Friend",
+         "Best Friends",
+         "Eternal Bond"
+      ],
+      "NPCs": [
+         "Lukas",
+         "Niranira"
+      ]
+   },
+    {
+      "ID": 54,
+      "Captions": [
+         "",
+         "Sad Grandson",
+         "Nice Grandson",
+         "",
+         "Fine Grandson"
+      ],
+      "NPCs": [
+         "Jolele",
+         "Niranira"
+      ]
+   },
+    {
+      "ID": 55,
+      "Captions": [
+         "",
+         "Mad at Father",
+         "Wants to Play",
+         "Happy Family",
+         "Trusting Family"
+      ],
+      "NPCs": [
+         "Giorgio",
+         "Paola"
+      ]
+   },
+    {
+      "ID": 56,
+      "Captions": [
+         "Got Revenge",
+         "Complicated",
+         "Creditor/Debtor",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "King Squeeze",
+         "Leopold"
+      ]
+   },
+    {
+      "ID": 57,
+      "Captions": [
+         "",
+         "Awkward",
+         "",
+         "Intimate Lovers",
+         "Endless Love"
+      ],
+      "NPCs": [
+         "Leopold",
+         "Sylviane"
+      ]
+   },
+    {
+      "ID": 58,
+      "Captions": [
+         "",
+         "",
+         "Envy",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Francoise",
+         "Sylviane"
+      ]
+   },
+    {
+      "ID": 59,
+      "Captions": [
+         "",
+         "Delicate",
+         "",
+         "Happy Family",
+         ""
+      ],
+      "NPCs": [
+         "Francoise",
+         "Narine"
+      ]
+   },
+    {
+      "ID": 60,
+      "Captions": [
+         "",
+         "",
+         "Neighbours",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Francoise",
+         "Suzanna"
+      ]
+   },
+    {
+      "ID": 61,
+      "Captions": [
+         "",
+         "",
+         "Kinda Likes",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 62,
+      "Captions": [
+         "",
+         "",
+         "Kinda Likes",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 63,
+      "Captions": [
+         "",
+         "",
+         "Nice Kid",
+         "Grandson's Pal",
+         ""
+      ],
+      "NPCs": [
+         "Jolele",
+         "Lukas"
+      ]
+   },
+    {
+      "ID": 64,
+      "Captions": [
+         "",
+         "",
+         "Accomplices?",
+         "Dastardly Duo",
+         ""
+      ],
+      "NPCs": [
+         "King Squeeze",
+         "Sylviane"
+      ]
+   },
+    {
+      "ID": 65,
+      "Captions": [
+         "",
+         "Rivals",
+         "",
+         "",
+         "Best Friends"
+      ],
+      "NPCs": [
+         "Narine",
+         "Paola"
+      ]
+   },
+    {
+      "ID": 66,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 67,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 68,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 69,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 70,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 71,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 72,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 73,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 74,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 75,
+      "Captions": [
+         "Bad Breakup",
+         "Bad Feeling",
+         "Interested",
+         "Likes",
+         ""
+      ],
+      "NPCs": [
+         "Ewan",
+         "Matryona"
+      ]
+   },
+    {
+      "ID": 76,
+      "Captions": [
+         "",
+         "",
+         "Kind Person",
+         "Great Person",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 77,
+      "Captions": [
+         "",
+         "",
+         "Kind Person",
+         "Great Person",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 78,
+      "Captions": [
+         "",
+         "Distrust",
+         "Understanding",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Ewan",
+         "Olga"
+      ]
+   },
+    {
+      "ID": 79,
+      "Captions": [
+         "",
+         "",
+         "Servant",
+         "Little Prince",
+         "Friends Always"
+      ],
+      "NPCs": [
+         "Anna",
+         "Kiroki"
+      ]
+   },
+    {
+      "ID": 80,
+      "Captions": [
+         "",
+         "",
+         "Grampypon",
+         "Grampypon",
+         "Close Family"
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 81,
+      "Captions": [
+         "",
+         "Fighting",
+         "",
+         "Friends Again",
+         "Friends Always"
+      ],
+      "NPCs": [
+         "Kiroki",
+         "Nikita"
+      ]
+   },
+    {
+      "ID": 82,
+      "Captions": [
+         "",
+         "Likes a Bit",
+         "Soldier",
+         "Little Prince",
+         "Friends Always"
+      ],
+      "NPCs": [
+         "Anna",
+         "Nikita"
+      ]
+   },
+    {
+      "ID": 83,
+      "Captions": [
+         "",
+         "",
+         "Mother's Friend",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Anna",
+         "Olga"
+      ]
+   },
+    {
+      "ID": 84,
+      "Captions": [
+         "",
+         "",
+         "A Customer",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Gorman",
+         "Olga"
+      ]
+   },
+    {
+      "ID": 85,
+      "Captions": [
+         "",
+         "",
+         "",
+         "Fine Engineer",
+         ""
+      ],
+      "NPCs": [
+         "Nikita",
+         "Satata"
+      ]
+   },
+    {
+      "ID": 86,
+      "Captions": [
+         "",
+         "",
+         "Divorced",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Arda",
+         "Gorman"
+      ]
+   },
+    {
+      "ID": 87,
+      "Captions": [
+         "",
+         "",
+         "Concern",
+         "Great Person",
+         ""
+      ],
+      "NPCs": [
+         "Arda",
+         "Pama"
+      ]
+   },
+    {
+      "ID": 88,
+      "Captions": [
+         "",
+         "Mistrust",
+         "",
+         "Butterfly Fans",
+         ""
+      ],
+      "NPCs": [
+         "Matryona",
+         "Werner"
+      ]
+   },
+    {
+      "ID": 89,
+      "Captions": [
+         "",
+         "",
+         "",
+         "Great Person",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 90,
+      "Captions": [
+         "",
+         "",
+         "",
+         "Excellent Chef",
+         ""
+      ],
+      "NPCs": [
+         "Arda",
+         "Talonyth"
+      ]
+   },
+    {
+      "ID": 91,
+      "Captions": [
+         "",
+         "",
+         "Passable Chef",
+         "Good Chef",
+         "Unrivalled Chef"
+      ],
+      "NPCs": [
+         "Pokapoka",
+         "Talonyth"
+      ]
+   },
+    {
+      "ID": 92,
+      "Captions": [
+         "Terrible Chef",
+         "OK Chef",
+         "",
+         "Good Chef",
+         "Unrivalled Chef"
+      ],
+      "NPCs": [
+         "Hoko",
+         "Pokapoka"
+      ]
+   },
+    {
+      "ID": 93,
+      "Captions": [
+         "",
+         "",
+         "",
+         "Superb Person",
+         ""
+      ],
+      "NPCs": [
+         "Pokapoka",
+         "Shilx"
+      ]
+   },
+    {
+      "ID": 94,
+      "Captions": [
+         "",
+         "Not Tasty",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Ma'crish",
+         "Talonyth"
+      ]
+   },
+    {
+      "ID": 95,
+      "Captions": [
+         "",
+         "Slight Hostility",
+         "Rival?",
+         "Worthy Rival",
+         "Rival & Friend"
+      ],
+      "NPCs": [
+         "Hoko",
+         "Talonyth"
+      ]
+   },
+    {
+      "ID": 96,
+      "Captions": [
+         "",
+         "",
+         "Satisfaction",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Hoko",
+         "Shilx"
+      ]
+   },
+    {
+      "ID": 97,
+      "Captions": [
+         "",
+         "",
+         "Merchant Duo",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Shilx",
+         "Werner"
+      ]
+   },
+    {
+      "ID": 98,
+      "Captions": [
+         "",
+         "Not Eating",
+         "",
+         "",
+         "Delicious Food"
+      ],
+      "NPCs": [
+         "Hoko",
+         "Ma'crish"
+      ]
+   },
+    {
+      "ID": 99,
+      "Captions": [
+         "",
+         "",
+         "Likes",
+         "Likes a Lot",
+         "Love"
+      ],
+      "NPCs": [
+         "Oleksiy",
+         "Zel Argentis"
+      ]
+   },
+    {
+      "ID": 100,
+      "Captions": [
+         "Disapproval",
+         "",
+         "Acquaintance",
+         "Trust",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 101,
+      "Captions": [
+         "",
+         "",
+         "Hope",
+         "Trust",
+         ""
+      ],
+      "NPCs": [
+         "Mefimefi",
+         "Norara"
+      ]
+   },
+    {
+      "ID": 102,
+      "Captions": [
+         "",
+         "Hostility",
+         "",
+         "Scientist Pals",
+         ""
+      ],
+      "NPCs": [
+         "Jer'ell",
+         "Mefimefi"
+      ]
+   },
+    {
+      "ID": 103,
+      "Captions": [
+         "",
+         "",
+         "Old Friends",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Mefimefi",
+         "Werner"
+      ]
+   },
+    {
+      "ID": 104,
+      "Captions": [
+         "Competing",
+         "",
+         "Ceasefire",
+         "",
+         "Friends for Life"
+      ],
+      "NPCs": [
+         "Berryjammy",
+         "Ma'crish"
+      ]
+   },
+    {
+      "ID": 105,
+      "Captions": [
+         "",
+         "",
+         "",
+         "Friendship",
+         ""
+      ],
+      "NPCs": [
+         "Berryjammy",
+         "Minana"
+      ]
+   },
+    {
+      "ID": 106,
+      "Captions": [
+         "",
+         "",
+         "",
+         "Teacher/Pupil",
+         ""
+      ],
+      "NPCs": [
+         "Berryjammy",
+         "Yura"
+      ]
+   },
+    {
+      "ID": 107,
+      "Captions": [
+         "",
+         "",
+         "A Bit Irritating",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Berryjammy",
+         "Gowago"
+      ]
+   },
+    {
+      "ID": 108,
+      "Captions": [
+         "Irreconcilable",
+         "Shock",
+         "Friends",
+         "Good Friends",
+         "Best Friends"
+      ],
+      "NPCs": [
+         "Berryjammy",
+         "Norara"
+      ]
+   },
+    {
+      "ID": 109,
+      "Captions": [
+         "",
+         "",
+         "",
+         "High Regard",
+         ""
+      ],
+      "NPCs": [
+         "Don Argentis",
+         "Ma'crish"
+      ]
+   },
+    {
+      "ID": 110,
+      "Captions": [
+         "",
+         "I'm Free!",
+         "I'm a Prisoner!",
+         "I'm Not a Pet!",
+         ""
+      ],
+      "NPCs": [
+         "Ma'crish",
+         "Nopo'rikh"
+      ]
+   },
+    {
+      "ID": 111,
+      "Captions": [
+         "",
+         "",
+         "Well-Wisher",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Perrine",
+         "Werner"
+      ]
+   },
+    {
+      "ID": 112,
+      "Captions": [
+         "",
+         "",
+         "Shows Promise",
+         "Admiration",
+         ""
+      ],
+      "NPCs": [
+         "Norara",
+         "Perrine"
+      ]
+   },
+    {
+      "ID": 113,
+      "Captions": [
+         "",
+         "",
+         "",
+         "Supportive",
+         ""
+      ],
+      "NPCs": [
+         "Jer'ell",
+         "Norara"
+      ]
+   },
+    {
+      "ID": 114,
+      "Captions": [
+         "",
+         "",
+         "",
+         "Long Lost",
+         ""
+      ],
+      "NPCs": [
+         "Minana",
+         "Nopo'rikh"
+      ]
+   },
+    {
+      "ID": 115,
+      "Captions": [
+         "",
+         "",
+         "Acquaintance",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 116,
+      "Captions": [
+         "",
+         "Fighting",
+         "Reunited",
+         "Silly Family",
+         "Dear Family"
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 117,
+      "Captions": [
+         "",
+         "",
+         "Parted Ways",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 118,
+      "Captions": [
+         "",
+         "",
+         "Parted Ways",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 119,
+      "Captions": [
+         "",
+         "Fighting",
+         "Reunited",
+         "Silly Family",
+         "Dear Family"
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 120,
+      "Captions": [
+         "Disapproval",
+         "",
+         "Acquaintance",
+         "Trust",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 121,
+      "Captions": [
+         "",
+         "",
+         "Twin Sisters",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 122,
+      "Captions": [
+         "",
+         "Raging Dispute",
+         "",
+         "Trusted Friend",
+         ""
+      ],
+      "NPCs": [
+         "Jer'ell",
+         "Perrine"
+      ]
+   },
+    {
+      "ID": 123,
+      "Captions": [
+         "",
+         "",
+         "Master/Student",
+         "Fine Apprentice",
+         ""
+      ],
+      "NPCs": [
+         "Nic",
+         "Nopo'rikh"
+      ]
+   },
+    {
+      "ID": 124,
+      "Captions": [
+         "",
+         "",
+         "Acquaintance",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 125,
+      "Captions": [
+         "",
+         "",
+         "",
+         "Friendly Advice",
+         ""
+      ],
+      "NPCs": [
+         "Gowago",
+         "Neonik"
+      ]
+   },
+    {
+      "ID": 126,
+      "Captions": [
+         "",
+         "",
+         "Good Friends",
+         "Kinda Likes",
+         "True Love"
+      ],
+      "NPCs": [
+         "Rosemary",
+         "Yura"
+      ]
+   },
+    {
+      "ID": 127,
+      "Captions": [
+         "",
+         "",
+         "",
+         "Trustworthy",
+         ""
+      ],
+      "NPCs": [
+         "Neonik",
+         "Yura"
+      ]
+   },
+    {
+      "ID": 128,
+      "Captions": [
+         "",
+         "",
+         "Twin Sisters",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 129,
+      "Captions": [
+         "",
+         "",
+         "Likes",
+         "Likes a Lot",
+         "Truly Beloved"
+      ],
+      "NPCs": [
+         "En Argentis",
+         "Peppino"
+      ]
+   },
+    {
+      "ID": 130,
+      "Captions": [
+         "",
+         "",
+         "Good Friends",
+         "Kinda Likes",
+         "Treasured Love"
+      ],
+      "NPCs": [
+         "Nic",
+         "Rosemary"
+      ]
+   },
+    {
+      "ID": 131,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 132,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 133,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 134,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 135,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 136,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 137,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 138,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 139,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 140,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 141,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 142,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 143,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 144,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 145,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 146,
+      "Captions": [
+         "",
+         "Gone Missing",
+         "",
+         "Relieved",
+         "Inherited Wish"
+      ],
+      "NPCs": [
+         "Lupa",
+         "Satata"
+      ]
+   },
+    {
+      "ID": 147,
+      "Captions": [
+         "",
+         "",
+         "Support",
+         "Engaged",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 148,
+      "Captions": [
+         "",
+         "",
+         "Strange Person",
+         "Future Family?",
+         ""
+      ],
+      "NPCs": [
+         "Kilaki",
+         "Lupa"
+      ]
+   },
+    {
+      "ID": 149,
+      "Captions": [
+         "",
+         "",
+         "Support",
+         "Engaged",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 150,
+      "Captions": [
+         "",
+         "",
+         "",
+         "Happy for Him",
+         ""
+      ],
+      "NPCs": [
+         "Leku",
+         "Rono"
+      ]
+   },
+    {
+      "ID": 151,
+      "Captions": [
+         "",
+         "",
+         "Support",
+         "Thick and Thin",
+         ""
+      ],
+      "NPCs": [
+         "Leku",
+         "Modamo"
+      ]
+   },
+    {
+      "ID": 152,
+      "Captions": [
+         "",
+         "Very Worried",
+         "At a Loss",
+         "",
+         "Close Siblings"
+      ],
+      "NPCs": [
+         "Kilaki",
+         "Leku"
+      ]
+   },
+    {
+      "ID": 153,
+      "Captions": [
+         "",
+         "",
+         "Kinda Likes",
+         "Promising",
+         ""
+      ],
+      "NPCs": [
+         "Kilaki",
+         "Modamo"
+      ]
+   },
+    {
+      "ID": 154,
+      "Captions": [
+         "",
+         "",
+         "Sweet Fanatics",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Modamo",
+         "Rono"
+      ]
+   },
+    {
+      "ID": 155,
+      "Captions": [
+         "",
+         "",
+         "Starting Afresh",
+         "Cooperation",
+         ""
+      ],
+      "NPCs": [
+         "Bana",
+         "Gadada"
+      ]
+   },
+    {
+      "ID": 156,
+      "Captions": [
+         "",
+         "Irritating",
+         "Cooperation",
+         "Reliable",
+         "Deep Trust"
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 157,
+      "Captions": [
+         "",
+         "",
+         "Teacher/Pupil",
+         "Reliable Pupil",
+         "Precious Pupil"
+      ],
+      "NPCs": [
+         "Dobadoba",
+         "Gadada"
+      ]
+   },
+    {
+      "ID": 158,
+      "Captions": [
+         "",
+         "",
+         "",
+         "Admiration",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 159,
+      "Captions": [
+         "",
+         "",
+         "Friends",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 160,
+      "Captions": [
+         "",
+         "Unreliable",
+         "",
+         "Reliable Pupil",
+         "Precious Pupil"
+      ],
+      "NPCs": [
+         "Cherri",
+         "Dobadoba"
+      ]
+   },
+    {
+      "ID": 161,
+      "Captions": [
+         "",
+         "",
+         "Old Friends",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 162,
+      "Captions": [
+         "",
+         "Outrage",
+         "Insect Fans",
+         "Insect Lovers",
+         ""
+      ],
+      "NPCs": [
+         "Ababa",
+         "Deki"
+      ]
+   },
+    {
+      "ID": 163,
+      "Captions": [
+         "",
+         "",
+         "Respect",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Ababa",
+         "Kokora"
+      ]
+   },
+    {
+      "ID": 164,
+      "Captions": [
+         "",
+         "",
+         "Colleagues",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Ababa",
+         "Pelupelu"
+      ]
+   },
+    {
+      "ID": 165,
+      "Captions": [
+         "",
+         "",
+         "Boss",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Ababa",
+         "Lalapa"
+      ]
+   },
+    {
+      "ID": 166,
+      "Captions": [
+         "",
+         "Worried",
+         "",
+         "Relief",
+         ""
+      ],
+      "NPCs": [
+         "Gerugu",
+         "Tuzu"
+      ]
+   },
+    {
+      "ID": 167,
+      "Captions": [
+         "",
+         "Worried Dad",
+         "Relieved Dad",
+         "Reliable Dad",
+         ""
+      ],
+      "NPCs": [
+         "Gerugu",
+         "Pachipa"
+      ]
+   },
+    {
+      "ID": 168,
+      "Captions": [
+         "",
+         "Childish",
+         "Good Kid",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Bana",
+         "Pipiki"
+      ]
+   },
+    {
+      "ID": 169,
+      "Captions": [
+         "In the Way",
+         "Irritating",
+         "Meddlesome",
+         "",
+         "Mother Figure"
+      ],
+      "NPCs": [
+         "Cherri",
+         "Rasha"
+      ]
+   },
+    {
+      "ID": 170,
+      "Captions": [
+         "Pawn",
+         "",
+         "",
+         "High Hopes",
+         ""
+      ],
+      "NPCs": [
+         "Bana",
+         "Dedeba"
+      ]
+   },
+    {
+      "ID": 171,
+      "Captions": [
+         "",
+         "",
+         "Old Friend",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 172,
+      "Captions": [
+         "",
+         "",
+         "Grampypon",
+         "Grampypon",
+         ""
+      ],
+      "NPCs": [
+         "Deki",
+         "Kokora"
+      ]
+   },
+    {
+      "ID": 173,
+      "Captions": [
+         "Hopeless",
+         "",
+         "",
+         "Very Reliable",
+         ""
+      ],
+      "NPCs": [
+         "Lalapa",
+         "Pelupelu"
+      ]
+   },
+    {
+      "ID": 174,
+      "Captions": [
+         "",
+         "",
+         "Chief's Aide",
+         "Vital Role",
+         "Potential Heir"
+      ],
+      "NPCs": [
+         "Lalapa",
+         "Miko"
+      ]
+   },
+    {
+      "ID": 175,
+      "Captions": [
+         "",
+         "",
+         "Approval",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Dabidabi",
+         "Lalapa"
+      ]
+   },
+    {
+      "ID": 176,
+      "Captions": [
+         "",
+         "",
+         "Thick and Thin",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Gowago",
+         "Tuzu"
+      ]
+   },
+    {
+      "ID": 177,
+      "Captions": [
+         "",
+         "",
+         "Doctor/Patient",
+         "Perfect Health",
+         ""
+      ],
+      "NPCs": [
+         "Medi",
+         "Tuzu"
+      ]
+   },
+    {
+      "ID": 178,
+      "Captions": [
+         "",
+         "",
+         "Worried Family",
+         "Allayed Family",
+         ""
+      ],
+      "NPCs": [
+         "Pachipa",
+         "Tuzu"
+      ]
+   },
+    {
+      "ID": 179,
+      "Captions": [
+         "",
+         "Roly-Poly",
+         "Inquisitive",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Kuriku",
+         "Pachipa"
+      ]
+   },
+    {
+      "ID": 180,
+      "Captions": [
+         "",
+         "",
+         "Likes a Bit",
+         "Inquisitive",
+         "Close Friends"
+      ],
+      "NPCs": [
+         "Pachipa",
+         "Pipiki"
+      ]
+   },
+    {
+      "ID": 181,
+      "Captions": [
+         "",
+         "",
+         "Old Friend",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 182,
+      "Captions": [
+         "",
+         "",
+         "Grannypon",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Kokora",
+         "Migaga"
+      ]
+   },
+    {
+      "ID": 183,
+      "Captions": [
+         "",
+         "",
+         "Grampypon",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Kofuko",
+         "Kokora"
+      ]
+   },
+    {
+      "ID": 184,
+      "Captions": [
+         "",
+         "Unreliable",
+         "Improved",
+         "Unilateral Love",
+         ""
+      ],
+      "NPCs": [
+         "Miko",
+         "Pelupelu"
+      ]
+   },
+    {
+      "ID": 185,
+      "Captions": [
+         "",
+         "",
+         "",
+         "Provides Stuff",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 186,
+      "Captions": [
+         "",
+         "",
+         "",
+         "Provides Stuff",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 187,
+      "Captions": [
+         "",
+         "Disappointed",
+         "Not Half Bad",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Puko",
+         "Yusa"
+      ]
+   },
+    {
+      "ID": 188,
+      "Captions": [
+         "",
+         "Mistrust",
+         "Businessmen",
+         "",
+         "Trusty Contact"
+      ],
+      "NPCs": [
+         "Medi",
+         "Puko"
+      ]
+   },
+    {
+      "ID": 189,
+      "Captions": [
+         "Can't Agree",
+         "Rivals",
+         "",
+         "Great Rival",
+         ""
+      ],
+      "NPCs": [
+         "Medi",
+         "Yusa"
+      ]
+   },
+    {
+      "ID": 190,
+      "Captions": [
+         "",
+         "Beginner",
+         "Undecided",
+         "Good Doctor",
+         "Great Doctor"
+      ],
+      "NPCs": [
+         "Medi",
+         "Npa"
+      ]
+   },
+    {
+      "ID": 191,
+      "Captions": [
+         "",
+         "",
+         "Happy Family",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 192,
+      "Captions": [
+         "",
+         "",
+         "Happy Family",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 193,
+      "Captions": [
+         "",
+         "",
+         "Friends",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 194,
+      "Captions": [
+         "",
+         "",
+         "Weird Songs",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Pipiki",
+         "Tati"
+      ]
+   },
+    {
+      "ID": 195,
+      "Captions": [
+         "",
+         "",
+         "Jealous",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Rasha",
+         "Tati"
+      ]
+   },
+    {
+      "ID": 196,
+      "Captions": [
+         "Rocky Marriage",
+         "",
+         "OK Marriage",
+         "",
+         "Happily Married"
+      ],
+      "NPCs": [
+         "Kofuko",
+         "Migaga"
+      ]
+   },
+    {
+      "ID": 197,
+      "Captions": [
+         "",
+         "",
+         "High Hopes",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Miko",
+         "Minana"
+      ]
+   },
+    {
+      "ID": 198,
+      "Captions": [
+         "",
+         "",
+         "Friends",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 199,
+      "Captions": [
+         "",
+         "Timid",
+         "",
+         "In Love",
+         "Happy Couple"
+      ],
+      "NPCs": [
+         "Adidi",
+         "Dabidabi"
+      ]
+   },
+    {
+      "ID": 200,
+      "Captions": [
+         "",
+         "Old-Fashioned",
+         "Undecided",
+         "Traditional",
+         "Great Doctor"
+      ],
+      "NPCs": [
+         "Npa",
+         "Yusa"
+      ]
+   },
+    {
+      "ID": 201,
+      "Captions": [
+         "",
+         "",
+         "Both Working",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Npa",
+         "Tati"
+      ]
+   },
+    {
+      "ID": 202,
+      "Captions": [
+         "",
+         "",
+         "",
+         "Admiration",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 203,
+      "Captions": [
+         "",
+         "",
+         "Mystical",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Nopon Sage",
+         "Pipiki"
+      ]
+   },
+    {
+      "ID": 204,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 205,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 206,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 207,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 208,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 209,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 210,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 211,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 212,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 213,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 214,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 215,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 216,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 217,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 218,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 219,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 220,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 221,
+      "Captions": [
+         "",
+         "",
+         "Worried",
+         "Supports Son",
+         ""
+      ],
+      "NPCs": [
+         "Merisa",
+         "Mir'leiz"
+      ]
+   },
+    {
+      "ID": 222,
+      "Captions": [
+         "",
+         "",
+         "Teacher/Pupil",
+         "",
+         "Perfect Pupil"
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 223,
+      "Captions": [
+         "",
+         "",
+         "Kind Person",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Elior",
+         "Kaleka"
+      ]
+   },
+    {
+      "ID": 224,
+      "Captions": [
+         "",
+         "",
+         "Concerned",
+         "Relief",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 225,
+      "Captions": [
+         "",
+         "",
+         "Daughter's Pal",
+         "Daughter's Pal",
+         ""
+      ],
+      "NPCs": [
+         "Arielle",
+         "Vidian"
+      ]
+   },
+    {
+      "ID": 226,
+      "Captions": [
+         "Former Friend",
+         "",
+         "Making Up?",
+         "Friends Again",
+         ""
+      ],
+      "NPCs": [
+         "Lesunia",
+         "Vidian"
+      ]
+   },
+    {
+      "ID": 227,
+      "Captions": [
+         "Disgust",
+         "",
+         "Not So Bad",
+         "Close Friends",
+         ""
+      ],
+      "NPCs": [
+         "Scarlen",
+         "Vidian"
+      ]
+   },
+    {
+      "ID": 228,
+      "Captions": [
+         "",
+         "",
+         "Teacher/Pupil",
+         "",
+         "Perfect Pupil"
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 229,
+      "Captions": [
+         "",
+         "",
+         "Admiration",
+         "Little Comrade",
+         ""
+      ],
+      "NPCs": [
+         "Elior",
+         "Zain"
+      ]
+   },
+    {
+      "ID": 230,
+      "Captions": [
+         "",
+         "",
+         "Parents' Friend",
+         "Kind Person",
+         ""
+      ],
+      "NPCs": [
+         "Elior",
+         "Miriall"
+      ]
+   },
+    {
+      "ID": 231,
+      "Captions": [
+         "",
+         "",
+         "Concerned",
+         "Relief",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 232,
+      "Captions": [
+         "",
+         "",
+         "Work Buddy",
+         "Trusted Friend",
+         ""
+      ],
+      "NPCs": [
+         "Kaelin",
+         "Lecrough"
+      ]
+   },
+    {
+      "ID": 233,
+      "Captions": [
+         "",
+         "",
+         "Informant",
+         "Pen Pal",
+         ""
+      ],
+      "NPCs": [
+         "Talia",
+         "Zain"
+      ]
+   },
+    {
+      "ID": 234,
+      "Captions": [
+         "",
+         "",
+         "Informant",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Naroth",
+         "Zain"
+      ]
+   },
+    {
+      "ID": 235,
+      "Captions": [
+         "",
+         "",
+         "Acquaintance",
+         "",
+         "Owes Life"
+      ],
+      "NPCs": [
+         "Miriall",
+         "Zain"
+      ]
+   },
+    {
+      "ID": 236,
+      "Captions": [
+         "",
+         "",
+         "Acquaintance",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 237,
+      "Captions": [
+         "",
+         "",
+         "Acquaintance",
+         "Old Friends",
+         ""
+      ],
+      "NPCs": [
+         "Lesunia",
+         "Miriall"
+      ]
+   },
+    {
+      "ID": 238,
+      "Captions": [
+         "",
+         "",
+         "Kinda Likes",
+         "Very Close",
+         "The One"
+      ],
+      "NPCs": [
+         "Ricoth",
+         "Scarlen"
+      ]
+   },
+    {
+      "ID": 239,
+      "Captions": [
+         "",
+         "",
+         "Old Friend",
+         "Very Close",
+         "The One"
+      ],
+      "NPCs": [
+         "Rozeal",
+         "Scarlen"
+      ]
+   },
+    {
+      "ID": 240,
+      "Captions": [
+         "Sympathy",
+         "",
+         "Good Advice",
+         "Relief",
+         ""
+      ],
+      "NPCs": [
+         "Galvin",
+         "Rozeal"
+      ]
+   },
+    {
+      "ID": 241,
+      "Captions": [
+         "",
+         "Regretful",
+         "",
+         "",
+         "Closest Friend"
+      ],
+      "NPCs": [
+         "Galvin",
+         "Lecrough"
+      ]
+   },
+    {
+      "ID": 242,
+      "Captions": [
+         "Envy",
+         "",
+         "Colleagues",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Lar'shen",
+         "Lecrough"
+      ]
+   },
+    {
+      "ID": 243,
+      "Captions": [
+         "",
+         "",
+         "",
+         "Research Pal",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 244,
+      "Captions": [
+         "",
+         "",
+         "Collaborating",
+         "Research Pal",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 245,
+      "Captions": [
+         "",
+         "",
+         "Pupil",
+         "",
+         "Perfect Student"
+      ],
+      "NPCs": [
+         "Naroth",
+         "Teelan"
+      ]
+   },
+    {
+      "ID": 246,
+      "Captions": [
+         "",
+         "",
+         "Cuddles!",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Baroba",
+         "Ricoth"
+      ]
+   },
+    {
+      "ID": 247,
+      "Captions": [
+         "",
+         "",
+         "Acquaintance",
+         "Relief",
+         ""
+      ],
+      "NPCs": [
+         "Cian",
+         "Ricoth"
+      ]
+   },
+    {
+      "ID": 248,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         "Best Friends"
+      ],
+      "NPCs": [
+         "Ricoth",
+         "Rozeal"
+      ]
+   },
+    {
+      "ID": 249,
+      "Captions": [
+         "",
+         "",
+         "",
+         "Precious Friend",
+         ""
+      ],
+      "NPCs": [
+         "Galdo",
+         "Lar'shen"
+      ]
+   },
+    {
+      "ID": 250,
+      "Captions": [
+         "",
+         "",
+         "Collaborating",
+         "Research Pal",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 251,
+      "Captions": [
+         "",
+         "Drunkard",
+         "Relatives",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Baroba",
+         "Nelo"
+      ]
+   },
+    {
+      "ID": 252,
+      "Captions": [
+         "",
+         "",
+         "",
+         "Close Family",
+         ""
+      ],
+      "NPCs": [
+         "Baroba",
+         "Popipo"
+      ]
+   },
+    {
+      "ID": 253,
+      "Captions": [
+         "",
+         "Worried",
+         "Relieved",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Baroba",
+         "Piko"
+      ]
+   },
+    {
+      "ID": 254,
+      "Captions": [
+         "",
+         "",
+         "Normal Siblings",
+         "",
+         "Close Siblings"
+      ],
+      "NPCs": [
+         "Atael",
+         "Cian"
+      ]
+   },
+    {
+      "ID": 255,
+      "Captions": [
+         "",
+         "",
+         "",
+         "Dear Family",
+         "Doting"
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 256,
+      "Captions": [
+         "",
+         "",
+         "Cousin-in-Law",
+         "Very Worried",
+         ""
+      ],
+      "NPCs": [
+         "Rozeal",
+         "Vol'aren"
+      ]
+   },
+    {
+      "ID": 257,
+      "Captions": [
+         "",
+         "Too Kind",
+         "Problem Sorted",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Donnis",
+         "Galdo"
+      ]
+   },
+    {
+      "ID": 258,
+      "Captions": [
+         "",
+         "",
+         "",
+         "Dear Family",
+         "Doting"
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 259,
+      "Captions": [
+         "",
+         "",
+         "Normal Family",
+         "Loving Family",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 260,
+      "Captions": [
+         "Awful Partner",
+         "",
+         "Partners",
+         "",
+         "Great Partner"
+      ],
+      "NPCs": [
+         "Kurralth",
+         "Zain"
+      ]
+   },
+    {
+      "ID": 261,
+      "Captions": [
+         "",
+         "",
+         "Admiration",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Elior",
+         "Kurralth"
+      ]
+   },
+    {
+      "ID": 262,
+      "Captions": [
+         "",
+         "",
+         "Classmates",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Shalen",
+         "Vidian"
+      ]
+   },
+    {
+      "ID": 263,
+      "Captions": [
+         "",
+         "",
+         "Son's Teacher",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Caul",
+         "Merisa"
+      ]
+   },
+    {
+      "ID": 264,
+      "Captions": [
+         "",
+         "",
+         "Different Hours",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Kaelin",
+         "Lar'shen"
+      ]
+   },
+    {
+      "ID": 265,
+      "Captions": [
+         "",
+         "",
+         "Friendly Child",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Nelo",
+         "Teelan"
+      ]
+   },
+    {
+      "ID": 266,
+      "Captions": [
+         "",
+         "Bothersome",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Nelo",
+         "Popipo"
+      ]
+   },
+    {
+      "ID": 267,
+      "Captions": [
+         "",
+         "",
+         "Fighting Mates",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Donnis",
+         "Vol'aren"
+      ]
+   },
+    {
+      "ID": 268,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         "\"Big Brother\""
+      ],
+      "NPCs": [
+         "Lunara",
+         "Mir'leiz"
+      ]
+   },
+    {
+      "ID": 269,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 270,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 271,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 272,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 273,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 274,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 275,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 276,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 277,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 278,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 279,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 280,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 281,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 282,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 283,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 284,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 285,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 286,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 287,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 288,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 289,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 290,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 291,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 292,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 293,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 294,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 295,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 296,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 297,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 298,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 299,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 300,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 301,
+      "Captions": [
+         "",
+         "",
+         "Colleagues",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Voltak",
+         "Zilex"
+      ]
+   },
+    {
+      "ID": 302,
+      "Captions": [
+         "",
+         "Restoring Duo",
+         "",
+         "Respect",
+         ""
+      ],
+      "NPCs": [
+         "Rizaka",
+         "Voltak"
+      ]
+   },
+    {
+      "ID": 303,
+      "Captions": [
+         "",
+         "",
+         "",
+         "Close Sisters",
+         "Perfect Sisters"
+      ],
+      "NPCs": [
+         "Eleqa",
+         "Rizaka"
+      ]
+   },
+    {
+      "ID": 304,
+      "Captions": [
+         "",
+         "",
+         "Acquaintance",
+         "Considerate",
+         ""
+      ],
+      "NPCs": [
+         "Eleqa",
+         "Prox"
+      ]
+   },
+    {
+      "ID": 305,
+      "Captions": [
+         "",
+         "",
+         "Concerned",
+         "",
+         "Mutual Worry"
+      ],
+      "NPCs": [
+         "Eiz",
+         "Eleqa"
+      ]
+   },
+    {
+      "ID": 306,
+      "Captions": [
+         "",
+         "",
+         "Total Opposites",
+         "",
+         "For the Village"
+      ],
+      "NPCs": [
+         "Eiz",
+         "Rakzet"
+      ]
+   },
+    {
+      "ID": 307,
+      "Captions": [
+         "",
+         "",
+         "Understanding",
+         "Grateful",
+         ""
+      ],
+      "NPCs": [
+         "Rizaka",
+         "Vronik"
+      ]
+   },
+    {
+      "ID": 308,
+      "Captions": [
+         "",
+         "",
+         "",
+         "Owes Life",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 309,
+      "Captions": [
+         "",
+         "",
+         "",
+         "Owes Life",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 310,
+      "Captions": [
+         "",
+         "",
+         "Mutual Worry",
+         "",
+         "Loving Family"
+      ],
+      "NPCs": [
+         "Orkatix",
+         "Vronik"
+      ]
+   },
+    {
+      "ID": 311,
+      "Captions": [
+         "",
+         "",
+         "Old Friends",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Qofaria",
+         "Vronik"
+      ]
+   },
+    {
+      "ID": 312,
+      "Captions": [
+         "",
+         "",
+         "",
+         "Very Happy",
+         "Never Apart"
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 313,
+      "Captions": [
+         "Arguing",
+         "",
+         "",
+         "Fixed Marriage",
+         "Eternal Love"
+      ],
+      "NPCs": [
+         "Kazat",
+         "Qofaria"
+      ]
+   },
+    {
+      "ID": 314,
+      "Captions": [
+         "",
+         "",
+         "",
+         "Very Happy",
+         "Never Apart"
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 315,
+      "Captions": [
+         "",
+         "A Bit Scary",
+         "Reliable",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Kazat",
+         "Xekit"
+      ]
+   },
+    {
+      "ID": 316,
+      "Captions": [
+         "",
+         "",
+         "Both Survivors",
+         "",
+         "Moving Onward"
+      ],
+      "NPCs": [
+         "Karlos",
+         "Natalia"
+      ]
+   },
+    {
+      "ID": 317,
+      "Captions": [
+         "",
+         "",
+         "Pretty Amazing",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Eiz",
+         "Prox"
+      ]
+   },
+    {
+      "ID": 318,
+      "Captions": [
+         "",
+         "",
+         "Godfather",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Orkatix",
+         "Zilex"
+      ]
+   },
+    {
+      "ID": 319,
+      "Captions": [
+         "",
+         "",
+         "Reminiscent",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Neonik",
+         "Orkatix"
+      ]
+   },
+    {
+      "ID": 320,
+      "Captions": [
+         "",
+         "",
+         "Good Person",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Mixik",
+         "Xekit"
+      ]
+   },
+    {
+      "ID": 321,
+      "Captions": [
+         "",
+         "",
+         "Carer",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Karlos",
+         "Xekit"
+      ]
+   },
+    {
+      "ID": 322,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 323,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 324,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 325,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 326,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 327,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 328,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 329,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 330,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 331,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 332,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 333,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 334,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 335,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 336,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 337,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 338,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 339,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 340,
+      "Captions": [
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 341,
+      "Captions": [
+         "",
+         "",
+         "Informant",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Daza",
+         "Sylviane"
+      ]
+   },
+    {
+      "ID": 342,
+      "Captions": [
+         "",
+         "",
+         "",
+         "Companions",
+         ""
+      ],
+      "NPCs": [
+         "Daza",
+         "Gerugu"
+      ]
+   },
+    {
+      "ID": 343,
+      "Captions": [
+         "",
+         "",
+         "Prickly Pair",
+         "Valuable Friend",
+         ""
+      ],
+      "NPCs": [
+         "Batubatu",
+         "Gerugu"
+      ]
+   },
+    {
+      "ID": 344,
+      "Captions": [
+         "",
+         "",
+         "Uncle/Niece",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Batubatu",
+         "Pepa"
+      ]
+   },
+    {
+      "ID": 345,
+      "Captions": [
+         "",
+         "",
+         "Former Lodger",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Dulland",
+         "Marcia"
+      ]
+   },
+    {
+      "ID": 346,
+      "Captions": [
+         "",
+         "",
+         "Two of a Kind",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Earnest",
+         "Zukazu"
+      ]
+   },
+    {
+      "ID": 347,
+      "Captions": [
+         "",
+         "",
+         "",
+         "Absolute Trust",
+         ""
+      ],
+      "NPCs": [
+         "Dulland",
+         "Earnest"
+      ]
+   },
+    {
+      "ID": 348,
+      "Captions": [
+         "",
+         "",
+         "Brother's Pal",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Dulland",
+         "Satata"
+      ]
+   },
+    {
+      "ID": 349,
+      "Captions": [
+         "",
+         "Pitiful",
+         "",
+         "Relief",
+         ""
+      ],
+      "NPCs": [
+         "Earnest",
+         "Ewan"
+      ]
+   },
+    {
+      "ID": 350,
+      "Captions": [
+         "",
+         "Pair of Pawns",
+         "",
+         "A Regular",
+         ""
+      ],
+      "NPCs": [
+         "Dedeba",
+         "Zazadan"
+      ]
+   },
+    {
+      "ID": 351,
+      "Captions": [
+         "Pawn",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "",
+         ""
+      ]
+   },
+    {
+      "ID": 352,
+      "Captions": [
+         "",
+         "",
+         "",
+         "Like Family",
+         ""
+      ],
+      "NPCs": [
+         "Bokoko",
+         "Kacha"
+      ]
+   },
+    {
+      "ID": 353,
+      "Captions": [
+         "",
+         "",
+         "",
+         "Bright Future",
+         ""
+      ],
+      "NPCs": [
+         "Bokoko",
+         "Dakuku"
+      ]
+   },
+    {
+      "ID": 354,
+      "Captions": [
+         "",
+         "",
+         "",
+         "Get On Well",
+         ""
+      ],
+      "NPCs": [
+         "Dakuku",
+         "Talia"
+      ]
+   },
+    {
+      "ID": 355,
+      "Captions": [
+         "",
+         "",
+         "Ruin Lovers",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Kacha",
+         "Talia"
+      ]
+   },
+    {
+      "ID": 356,
+      "Captions": [
+         "",
+         "Ex-Colleague",
+         "",
+         "Higher Opinion",
+         ""
+      ],
+      "NPCs": [
+         "Nic",
+         "Theo"
+      ]
+   },
+    {
+      "ID": 357,
+      "Captions": [
+         "",
+         "",
+         "",
+         "Good Rumours",
+         ""
+      ],
+      "NPCs": [
+         "Karlos",
+         "Theo"
+      ]
+   },
+    {
+      "ID": 358,
+      "Captions": [
+         "",
+         "",
+         "Caring Buddies",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Natalia",
+         "Theo"
+      ]
+   },
+    {
+      "ID": 359,
+      "Captions": [
+         "",
+         "",
+         "",
+         "Taboo Love?",
+         ""
+      ],
+      "NPCs": [
+         "Bozatrox",
+         "Jarack"
+      ]
+   },
+    {
+      "ID": 360,
+      "Captions": [
+         "",
+         "Worried",
+         "",
+         "",
+         "Heart Racing"
+      ],
+      "NPCs": [
+         "Jarack",
+         "Shalen"
+      ]
+   },
+    {
+      "ID": 361,
+      "Captions": [
+         "",
+         "",
+         "",
+         "Long-Distance",
+         "Lovey Dovey"
+      ],
+      "NPCs": [
+         "Bozatrox",
+         "Zarkort"
+      ]
+   },
+    {
+      "ID": 362,
+      "Captions": [
+         "",
+         "",
+         "Lookout Mates",
+         "",
+         ""
+      ],
+      "NPCs": [
+         "Theo",
+         "Zarkort"
+      ]
+   }
+   ]

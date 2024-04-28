@@ -1,0 +1,31 @@
+stages:
+  - build
+  - deploy
+
+build:
+  stage: build
+  image: mcr.microsoft.com/dotnet/sdk:latest
+  script:
+    - echo "Attempting to compile..."
+    - cd XenoSaveCheat
+    - dotnet build
+    - cd ..
+    - echo "Compile complete."
+
+pages:
+  stage: deploy
+  image: mcr.microsoft.com/dotnet/sdk:latest
+  script:
+    - echo "Deploying application..."
+    - cd XenoSaveCheat
+    - dotnet publish -c Release -o .output
+    - mv .output/wwwroot ../public
+    - cd ..
+    - echo "Application successfully deployed."
+  artifacts:
+    paths:
+    - public
+  rules:
+    # This ensures that only pushes to the default branch will trigger
+    # a pages deploy
+    - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH

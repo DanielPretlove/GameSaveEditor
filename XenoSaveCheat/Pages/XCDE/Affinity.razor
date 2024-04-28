@@ -1,0 +1,78 @@
+@*
+ * XenoSaveCheat
+ * Copyright (C) 2023  damysteryman
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU Affero General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU Affero General Public License for more details.
+ *
+ * You should have received a copy of the GNU Affero General Public License
+ * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ *@
+ <MudGrid>
+    <MudItem xs="6">
+        <MudPaper Class="pa-6 ma-2">
+            <MudText Typo="Typo.h4">Affinity Chart Links</MudText>
+            <MudSimpleTable Hover="true" Dense="true" Striped="true">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Affinity Link</th>
+                        <th>Value</th>
+                        <th>Caption</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @for (int i = 0; i < Save.AffinityLinks.Length; i++)
+                    {
+                        int local = i;
+                        <tr>
+                            <td>@(local + 1)</td>
+                            <td>@DLS.XCDEAffinityLinks[(ushort)(local + 1)].Name</td>
+                            <td>
+                                <MudSelect @bind-Value="@Save.AffinityLinks[local]" Label="Affinity" Margin="Margin.Dense" Dense="true" AnchorOrigin="Origin.BottomCenter">
+                                @foreach (dmm.XenoSave.XCDE.AffinityLink a in Enum.GetValues(typeof(dmm.XenoSave.XCDE.AffinityLink)))
+                                {
+                                    <MudSelectItem Margin="Margin.Dense" Value="@a" />
+                                }
+                                </MudSelect>
+                            </td>
+                            <td>
+                                @if ((int)(Save.AffinityLinks[local]) > 0 && (int)(Save.AffinityLinks[local]) < 6)
+                                {
+                                    @DLS.XCDEAffinityLinks[(ushort)(local + 1)].Captions[(int)(Save.AffinityLinks[local]) - 1]
+                                }
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </MudSimpleTable>
+        </MudPaper>
+    </MudItem>
+    <MudItem xs="3">
+        <MudPaper Class="pa-6 ma-2">
+            <MudText Typo="Typo.h4">Party Affinity</MudText>
+            @for (int i = 0; i < Save.PartyAffinity.Length; i++)
+            {
+                int local = i;
+                <MudNumericField T="ushort" Min="0" Max="5000" Margin="Margin.Dense" Label="@DLS.XCDEPartyAffinity[(ushort)local].Name" @bind-Value="Save.PartyAffinity[local]" />
+            }
+        </MudPaper>
+    </MudItem>
+    <MudItem xs="3">
+        <MudPaper Class="pa-6 ma-2">
+            <MudText Typo="Typo.h4">Area Affinity</MudText>
+            <MudNumericField T="ushort" Min="0" Max="10000" Margin="Margin.Dense" Label="Colony 9 Area"  @bind-Value="Save.AreaAffinity[0]" />
+            <MudNumericField T="ushort" Min="0" Max="10000" Margin="Margin.Dense" Label="Colony 6 Area"  @bind-Value="Save.AreaAffinity[1]" />
+            <MudNumericField T="ushort" Min="0" Max="10000" Margin="Margin.Dense" Label="Central Bionis" @bind-Value="Save.AreaAffinity[2]" />
+            <MudNumericField T="ushort" Min="0" Max="10000" Margin="Margin.Dense" Label="Upper Bionis"   @bind-Value="Save.AreaAffinity[3]" />
+            <MudNumericField T="ushort" Min="0" Max="10000" Margin="Margin.Dense" Label="Hidden Village" @bind-Value="Save.AreaAffinity[4]" />
+        </MudPaper>
+    </MudItem>
+ </MudGrid>

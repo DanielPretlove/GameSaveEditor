@@ -1,0 +1,54 @@
+@*
+ * XenoSaveCheat
+ * Copyright (C) 2023  damysteryman
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU Affero General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU Affero General Public License for more details.
+ *
+ * You should have received a copy of the GNU Affero General Public License
+ * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ *@
+ @using dmm.XenoSave.XCDE
+ <MudGrid>
+    <MudItem xs="9">
+        <MudPaper Class="pa-6 ma-2">
+            <MudText Typo="Typo.h4">Arts Levels</MudText>
+            <MudSimpleTable Hover="true" Dense="true" Striped="true" FixedHeader="true">
+                <thead>
+                    <tr>
+                        <th>Character</th>
+                        <th>Art</th>
+                        <th>Level</th>
+                        <th>Max Unlocked Level</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @for (int i = 0; i < Save.ArtsLevels.Length - 1; i++)
+                    {
+                        ushort local = (ushort)i;
+                        <tr>
+                            <td>@DLS.XCDEArts[(ushort)(local + 1)].CharID</td>
+                            <td>@DLS.XCDEArts[(ushort)(local + 1)].Name</td>
+                            <td><MudNumericField T="byte" Min="0" Max="12" @bind-Value="Save.ArtsLevels[local].Level" /></td>
+                            <td>
+                                <MudRadioGroup @bind-SelectedOption="Save.ArtsLevels[local].MaxLevelUnlocked">
+                                    <MudRadio Option="ArtsLevelUnlocked.IV_Beginner">IV: Beginner</MudRadio>
+                                    <MudRadio Option="ArtsLevelUnlocked.VII_Intermediate">VII: Intermediate</MudRadio>
+                                    <MudRadio Option="ArtsLevelUnlocked.X_Expert">X: Expert</MudRadio>
+                                    <MudRadio Option="ArtsLevelUnlocked.XII_Master">XII: Master</MudRadio>
+                                </MudRadioGroup>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </MudSimpleTable>
+        </MudPaper>
+    </MudItem>
+</MudGrid>

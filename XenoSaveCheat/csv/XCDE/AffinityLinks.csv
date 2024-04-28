@@ -1,0 +1,363 @@
+ID;Captions;Captions;Captions;Captions;Captions;NPCs;NPCs
+1;;;Both Scientists;;;Dean;Erik
+2;;;;Succession;;Dean;Perrine
+3;;;Old Friends;Close Friends;Mutual Respect;Dean;Sonia
+4;;;Respect;Close;;Dean;Rocco
+5;Warring Family;;;Happy Family;;Rocco;Sonia
+6;;Bitter Siblings;;Close Siblings;;Liliana;Rocco
+7;;;Close;Fine Grandson;;Jiroque;Marcia
+8;Bitter Brothers;;Brothers;Close Brothers;Perfect Brother;Jiroque;Zukazu
+9;;Hostility;;Reconciled;;Marcia;Zukazu
+10;;;Colleagues;Good Boss;;Erik;Shura
+11;;Parted Ways;Unrequited;;Mutual Love?;Erik;Monica
+12;Warring Family;;Normal Family;Happy Family;;Rocco;Sonia
+13;;;Interest;Fondness;;Liliana;Marcia
+14;;;Tea Friends;;;Dionysis;Marcia
+15;;;;;Friends Always;Cheryl;Marcia
+16;;;;Aunt/Nephew;;Andreas;Shura
+17;Parted Ways;Unspoken Love;;;Passionate;Andreas;Monica
+18;;Idler/Achiever;;;;Minnie;Monica
+19;Derision;;;Understanding;;Dionysis;Jan
+20;;;;Old Friends;;;
+21;;;Admiration;;;Arnaut;Shura
+22;;;;Trust;;Minnie;Raoul
+23;Bad Feeling;;Colleagues;Friendly Rivals;;Dorothy;Minnie
+24;;;Late Bloomer?;;;Jan;Minnie
+25;;;;Old Suitor;;Cheryl;Jan
+26;;;;Old Friends;;;
+27;;;;;Reverence;Mefimefi;Sesame
+28;Dissatisfaction;Patience;Higher Opinion;Trust;Deep Trust;Emmy Leater;Miller
+29;;;High Regard;Respect;;Miller;Raoul
+30;Irritation;Distrust;Sympathy;Impressed;Deep Trust;Emmy Leater;Raoul
+31;;;;Highly Reliable;;Kantz;Raoul
+32;;;;;Great Potential;Dorothy;Raoul
+33;;Ups & Downs;Eager Siblings;Rival Siblings;;Dorothy;Jackson
+34;;;Friends;;;Desiree;Dorothy
+35;;;;Promising Pupil;;Desiree;Kenny Rohan
+36;Traitor;;Drifted Apart;Firm Friends;Best Friends;Betty;Desiree
+37;;;Confusion;Big Fan;Extreme Fan;Betty;Kenny Rohan
+38;;Scepticism;;Big Success;;Betty;Sesame
+39;;;Fan;Dedicated Fan;Supreme Fan;Arnaut;Leopold
+40;Near Divorce;Together/Apart;;Happily Married;;Arnaut;Francoise
+41;;;Stuck in a Rut;Role Model;;Arnaut;Kantz
+42;Hate;Contempt;;Friend's Child;;Emmy Leater;Kantz
+43;;;Teacher/Pupil;Shows Promise;;Giorgio;Jackson
+44;;;Teacher/Pupil;;Talent in Bloom;Jackson;Kenny Rohan
+45;;;A Regular;VIP Regular;;Giorgio;Kenny Rohan
+46;;Indifferent;;Wonderful;;Kenny Rohan;Sesame
+47;;;;Amazing;;Giorgio;Sesame
+48;;;;Marital Bliss;;Kantz;Suzanna
+49;;;;Doting Parent;;Kantz;Moritz
+50;;Irritation;Normal;;;Moritz;Suzanna
+51;;;Friends;Best Friends;Eternal Bond;Lukas;Moritz
+52;;Scary Friend;;Best Friends;Eternal Bond;Moritz;Niranira
+53;;;Kind Friend;Best Friends;Eternal Bond;Lukas;Niranira
+54;;Sad Grandson;Nice Grandson;;Fine Grandson;Jolele;Niranira
+55;;Mad at Father;Wants to Play;Happy Family;Trusting Family;Giorgio;Paola
+56;Got Revenge;Complicated;Creditor/Debtor;;;King Squeeze;Leopold
+57;;Awkward;;Intimate Lovers;Endless Love;Leopold;Sylviane
+58;;;Envy;;;Francoise;Sylviane
+59;;Delicate;;Happy Family;;Francoise;Narine
+60;;;Neighbours;;;Francoise;Suzanna
+61;;;Kinda Likes;;;;
+62;;;Kinda Likes;;;;
+63;;;Nice Kid;Grandson's Pal;;Jolele;Lukas
+64;;;Accomplices?;Dastardly Duo;;King Squeeze;Sylviane
+65;;Rivals;;;Best Friends;Narine;Paola
+66;;;;;;;
+67;;;;;;;
+68;;;;;;;
+69;;;;;;;
+70;;;;;;;
+71;;;;;;;
+72;;;;;;;
+73;;;;;;;
+74;;;;;;;
+75;Bad Breakup;Bad Feeling;Interested;Likes;;Ewan;Matryona
+76;;;Kind Person;Great Person;;;
+77;;;Kind Person;Great Person;;;
+78;;Distrust;Understanding;;;Ewan;Olga
+79;;;Servant;Little Prince;Friends Always;Anna;Kiroki
+80;;;Grampypon;Grampypon;Close Family;;
+81;;Fighting;;Friends Again;Friends Always;Kiroki;Nikita
+82;;Likes a Bit;Soldier;Little Prince;Friends Always;Anna;Nikita
+83;;;Mother's Friend;;;Anna;Olga
+84;;;A Customer;;;Gorman;Olga
+85;;;;Fine Engineer;;Nikita;Satata
+86;;;Divorced;;;Arda;Gorman
+87;;;Concern;Great Person;;Arda;Pama
+88;;Mistrust;;Butterfly Fans;;Matryona;Werner
+89;;;;Great Person;;;
+90;;;;Excellent Chef;;Arda;Talonyth
+91;;;Passable Chef;Good Chef;Unrivalled Chef;Pokapoka;Talonyth
+92;Terrible Chef;OK Chef;;Good Chef;Unrivalled Chef;Hoko;Pokapoka
+93;;;;Superb Person;;Pokapoka;Shilx
+94;;Not Tasty;;;;Ma'crish;Talonyth
+95;;Slight Hostility;Rival?;Worthy Rival;Rival & Friend;Hoko;Talonyth
+96;;;Satisfaction;;;Hoko;Shilx
+97;;;Merchant Duo;;;Shilx;Werner
+98;;Not Eating;;;Delicious Food;Hoko;Ma'crish
+99;;;Likes;Likes a Lot;Love;Oleksiy;Zel Argentis
+100;Disapproval;;Acquaintance;Trust;;;
+101;;;Hope;Trust;;Mefimefi;Norara
+102;;Hostility;;Scientist Pals;;Jer'ell;Mefimefi
+103;;;Old Friends;;;Mefimefi;Werner
+104;Competing;;Ceasefire;;Friends for Life;Berryjammy;Ma'crish
+105;;;;Friendship;;Berryjammy;Minana
+106;;;;Teacher/Pupil;;Berryjammy;Yura
+107;;;A Bit Irritating;;;Berryjammy;Gowago
+108;Irreconcilable;Shock;Friends;Good Friends;Best Friends;Berryjammy;Norara
+109;;;;High Regard;;Don Argentis;Ma'crish
+110;;I'm Free!;I'm a Prisoner!;I'm Not a Pet!;;Ma'crish;Nopo'rikh
+111;;;Well-Wisher;;;Perrine;Werner
+112;;;Shows Promise;Admiration;;Norara;Perrine
+113;;;;Supportive;;Jer'ell;Norara
+114;;;;Long Lost;;Minana;Nopo'rikh
+115;;;Acquaintance;;;;
+116;;Fighting;Reunited;Silly Family;Dear Family;;
+117;;;Parted Ways;;;;
+118;;;Parted Ways;;;;
+119;;Fighting;Reunited;Silly Family;Dear Family;;
+120;Disapproval;;Acquaintance;Trust;;;
+121;;;Twin Sisters;;;;
+122;;Raging Dispute;;Trusted Friend;;Jer'ell;Perrine
+123;;;Master/Student;Fine Apprentice;;Nic;Nopo'rikh
+124;;;Acquaintance;;;;
+125;;;;Friendly Advice;;Gowago;Neonik
+126;;;Good Friends;Kinda Likes;True Love;Rosemary;Yura
+127;;;;Trustworthy;;Neonik;Yura
+128;;;Twin Sisters;;;;
+129;;;Likes;Likes a Lot;Truly Beloved;En Argentis;Peppino
+130;;;Good Friends;Kinda Likes;Treasured Love;Nic;Rosemary
+131;;;;;;;
+132;;;;;;;
+133;;;;;;;
+134;;;;;;;
+135;;;;;;;
+136;;;;;;;
+137;;;;;;;
+138;;;;;;;
+139;;;;;;;
+140;;;;;;;
+141;;;;;;;
+142;;;;;;;
+143;;;;;;;
+144;;;;;;;
+145;;;;;;;
+146;;Gone Missing;;Relieved;Inherited Wish;Lupa;Satata
+147;;;Support;Engaged;;;
+148;;;Strange Person;Future Family?;;Kilaki;Lupa
+149;;;Support;Engaged;;;
+150;;;;Happy for Him;;Leku;Rono
+151;;;Support;Thick and Thin;;Leku;Modamo
+152;;Very Worried;At a Loss;;Close Siblings;Kilaki;Leku
+153;;;Kinda Likes;Promising;;Kilaki;Modamo
+154;;;Sweet Fanatics;;;Modamo;Rono
+155;;;Starting Afresh;Cooperation;;Bana;Gadada
+156;;Irritating;Cooperation;Reliable;Deep Trust;;
+157;;;Teacher/Pupil;Reliable Pupil;Precious Pupil;Dobadoba;Gadada
+158;;;;Admiration;;;
+159;;;Friends;;;;
+160;;Unreliable;;Reliable Pupil;Precious Pupil;Cherri;Dobadoba
+161;;;Old Friends;;;;
+162;;Outrage;Insect Fans;Insect Lovers;;Ababa;Deki
+163;;;Respect;;;Ababa;Kokora
+164;;;Colleagues;;;Ababa;Pelupelu
+165;;;Boss;;;Ababa;Lalapa
+166;;Worried;;Relief;;Gerugu;Tuzu
+167;;Worried Dad;Relieved Dad;Reliable Dad;;Gerugu;Pachipa
+168;;Childish;Good Kid;;;Bana;Pipiki
+169;In the Way;Irritating;Meddlesome;;Mother Figure;Cherri;Rasha
+170;Pawn;;;High Hopes;;Bana;Dedeba
+171;;;Old Friend;;;;
+172;;;Grampypon;Grampypon;;Deki;Kokora
+173;Hopeless;;;Very Reliable;;Lalapa;Pelupelu
+174;;;Chief's Aide;Vital Role;Potential Heir;Lalapa;Miko
+175;;;Approval;;;Dabidabi;Lalapa
+176;;;Thick and Thin;;;Gowago;Tuzu
+177;;;Doctor/Patient;Perfect Health;;Medi;Tuzu
+178;;;Worried Family;Allayed Family;;Pachipa;Tuzu
+179;;Roly-Poly;Inquisitive;;;Kuriku;Pachipa
+180;;;Likes a Bit;Inquisitive;Close Friends;Pachipa;Pipiki
+181;;;Old Friend;;;;
+182;;;Grannypon;;;Kokora;Migaga
+183;;;Grampypon;;;Kofuko;Kokora
+184;;Unreliable;Improved;Unilateral Love;;Miko;Pelupelu
+185;;;;Provides Stuff;;;
+186;;;;Provides Stuff;;;
+187;;Disappointed;Not Half Bad;;;Puko;Yusa
+188;;Mistrust;Businessmen;;Trusty Contact;Medi;Puko
+189;Can't Agree;Rivals;;Great Rival;;Medi;Yusa
+190;;Beginner;Undecided;Good Doctor;Great Doctor;Medi;Npa
+191;;;Happy Family;;;;
+192;;;Happy Family;;;;
+193;;;Friends;;;;
+194;;;Weird Songs;;;Pipiki;Tati
+195;;;Jealous;;;Rasha;Tati
+196;Rocky Marriage;;OK Marriage;;Happily Married;Kofuko;Migaga
+197;;;High Hopes;;;Miko;Minana
+198;;;Friends;;;;
+199;;Timid;;In Love;Happy Couple;Adidi;Dabidabi
+200;;Old-Fashioned;Undecided;Traditional;Great Doctor;Npa;Yusa
+201;;;Both Working;;;Npa;Tati
+202;;;;Admiration;;;
+203;;;Mystical;;;Nopon Sage;Pipiki
+204;;;;;;;
+205;;;;;;;
+206;;;;;;;
+207;;;;;;;
+208;;;;;;;
+209;;;;;;;
+210;;;;;;;
+211;;;;;;;
+212;;;;;;;
+213;;;;;;;
+214;;;;;;;
+215;;;;;;;
+216;;;;;;;
+217;;;;;;;
+218;;;;;;;
+219;;;;;;;
+220;;;;;;;
+221;;;Worried;Supports Son;;Merisa;Mir'leiz
+222;;;Teacher/Pupil;;Perfect Pupil;;
+223;;;Kind Person;;;Elior;Kaleka
+224;;;Concerned;Relief;;;
+225;;;Daughter's Pal;Daughter's Pal;;Arielle;Vidian
+226;Former Friend;;Making Up?;Friends Again;;Lesunia;Vidian
+227;Disgust;;Not So Bad;Close Friends;;Scarlen;Vidian
+228;;;Teacher/Pupil;;Perfect Pupil;;
+229;;;Admiration;Little Comrade;;Elior;Zain
+230;;;Parents' Friend;Kind Person;;Elior;Miriall
+231;;;Concerned;Relief;;;
+232;;;Work Buddy;Trusted Friend;;Kaelin;Lecrough
+233;;;Informant;Pen Pal;;Talia;Zain
+234;;;Informant;;;Naroth;Zain
+235;;;Acquaintance;;Owes Life;Miriall;Zain
+236;;;Acquaintance;;;;
+237;;;Acquaintance;Old Friends;;Lesunia;Miriall
+238;;;Kinda Likes;Very Close;The One;Ricoth;Scarlen
+239;;;Old Friend;Very Close;The One;Rozeal;Scarlen
+240;Sympathy;;Good Advice;Relief;;Galvin;Rozeal
+241;;Regretful;;;Closest Friend;Galvin;Lecrough
+242;Envy;;Colleagues;;;Lar'shen;Lecrough
+243;;;;Research Pal;;;
+244;;;Collaborating;Research Pal;;;
+245;;;Pupil;;Perfect Student;Naroth;Teelan
+246;;;Cuddles!;;;Baroba;Ricoth
+247;;;Acquaintance;Relief;;Cian;Ricoth
+248;;;;;Best Friends;Ricoth;Rozeal
+249;;;;Precious Friend;;Galdo;Lar'shen
+250;;;Collaborating;Research Pal;;;
+251;;Drunkard;Relatives;;;Baroba;Nelo
+252;;;;Close Family;;Baroba;Popipo
+253;;Worried;Relieved;;;Baroba;Piko
+254;;;Normal Siblings;;Close Siblings;Atael;Cian
+255;;;;Dear Family;Doting;;
+256;;;Cousin-in-Law;Very Worried;;Rozeal;Vol'aren
+257;;Too Kind;Problem Sorted;;;Donnis;Galdo
+258;;;;Dear Family;Doting;;
+259;;;Normal Family;Loving Family;;;
+260;Awful Partner;;Partners;;Great Partner;Kurralth;Zain
+261;;;Admiration;;;Elior;Kurralth
+262;;;Classmates;;;Shalen;Vidian
+263;;;Son's Teacher;;;Caul;Merisa
+264;;;Different Hours;;;Kaelin;Lar'shen
+265;;;Friendly Child;;;Nelo;Teelan
+266;;Bothersome;;;;Nelo;Popipo
+267;;;Fighting Mates;;;Donnis;Vol'aren
+268;;;;;"""Big Brother""";Lunara;Mir'leiz
+269;;;;;;;
+270;;;;;;;
+271;;;;;;;
+272;;;;;;;
+273;;;;;;;
+274;;;;;;;
+275;;;;;;;
+276;;;;;;;
+277;;;;;;;
+278;;;;;;;
+279;;;;;;;
+280;;;;;;;
+281;;;;;;;
+282;;;;;;;
+283;;;;;;;
+284;;;;;;;
+285;;;;;;;
+286;;;;;;;
+287;;;;;;;
+288;;;;;;;
+289;;;;;;;
+290;;;;;;;
+291;;;;;;;
+292;;;;;;;
+293;;;;;;;
+294;;;;;;;
+295;;;;;;;
+296;;;;;;;
+297;;;;;;;
+298;;;;;;;
+299;;;;;;;
+300;;;;;;;
+301;;;Colleagues;;;Voltak;Zilex
+302;;Restoring Duo;;Respect;;Rizaka;Voltak
+303;;;;Close Sisters;Perfect Sisters;Eleqa;Rizaka
+304;;;Acquaintance;Considerate;;Eleqa;Prox
+305;;;Concerned;;Mutual Worry;Eiz;Eleqa
+306;;;Total Opposites;;For the Village;Eiz;Rakzet
+307;;;Understanding;Grateful;;Rizaka;Vronik
+308;;;;Owes Life;;;
+309;;;;Owes Life;;;
+310;;;Mutual Worry;;Loving Family;Orkatix;Vronik
+311;;;Old Friends;;;Qofaria;Vronik
+312;;;;Very Happy;Never Apart;;
+313;Arguing;;;Fixed Marriage;Eternal Love;Kazat;Qofaria
+314;;;;Very Happy;Never Apart;;
+315;;A Bit Scary;Reliable;;;Kazat;Xekit
+316;;;Both Survivors;;Moving Onward;Karlos;Natalia
+317;;;Pretty Amazing;;;Eiz;Prox
+318;;;Godfather;;;Orkatix;Zilex
+319;;;Reminiscent;;;Neonik;Orkatix
+320;;;Good Person;;;Mixik;Xekit
+321;;;Carer;;;Karlos;Xekit
+322;;;;;;;
+323;;;;;;;
+324;;;;;;;
+325;;;;;;;
+326;;;;;;;
+327;;;;;;;
+328;;;;;;;
+329;;;;;;;
+330;;;;;;;
+331;;;;;;;
+332;;;;;;;
+333;;;;;;;
+334;;;;;;;
+335;;;;;;;
+336;;;;;;;
+337;;;;;;;
+338;;;;;;;
+339;;;;;;;
+340;;;;;;;
+341;;;Informant;;;Daza;Sylviane
+342;;;;Companions;;Daza;Gerugu
+343;;;Prickly Pair;Valuable Friend;;Batubatu;Gerugu
+344;;;Uncle/Niece;;;Batubatu;Pepa
+345;;;Former Lodger;;;Dulland;Marcia
+346;;;Two of a Kind;;;Earnest;Zukazu
+347;;;;Absolute Trust;;Dulland;Earnest
+348;;;Brother's Pal;;;Dulland;Satata
+349;;Pitiful;;Relief;;Earnest;Ewan
+350;;Pair of Pawns;;A Regular;;Dedeba;Zazadan
+351;Pawn;;;;;;
+352;;;;Like Family;;Bokoko;Kacha
+353;;;;Bright Future;;Bokoko;Dakuku
+354;;;;Get On Well;;Dakuku;Talia
+355;;;Ruin Lovers;;;Kacha;Talia
+356;;Ex-Colleague;;Higher Opinion;;Nic;Theo
+357;;;;Good Rumours;;Karlos;Theo
+358;;;Caring Buddies;;;Natalia;Theo
+359;;;;Taboo Love?;;Bozatrox;Jarack
+360;;Worried;;;Heart Racing;Jarack;Shalen
+361;;;;Long-Distance;Lovey Dovey;Bozatrox;Zarkort
+362;;;Lookout Mates;;;Theo;Zarkort

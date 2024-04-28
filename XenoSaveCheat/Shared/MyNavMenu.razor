@@ -1,0 +1,82 @@
+<MudNavMenu Bordered="true">
+    <MudNavLink Href="/" Match="NavLinkMatch.All" Icon="@Icons.Material.Outlined.Save">Save/Load</MudNavLink>
+    @if (info.Count > 0)
+    {
+        <MudNavGroup Title="Files" Expanded="true" Icon="@Icons.Material.Outlined.FileCopy">
+            @foreach (KeyValuePair<string, string> kv in info.Where(f => !(f.Key.EndsWith(".tmb") && info.ContainsKey(f.Key.Replace(".tmb", ".sav")))))
+            {
+                string icon = string.Empty;
+
+                switch(kv.Value)
+                {
+                    case "XCDESave":
+                        icon = Icons.Material.Outlined._1k;
+                        break;
+                    case "XC2Save":
+                    case "XC2Save100":
+                    case "XC2Save150":
+                    case "XC2SaveIra":
+                    case "XC2SaveIra150":
+                        icon = Icons.Material.Outlined._2k;
+                        break;
+                    case "XC3Save":
+                    case "XC3Save100":
+                    case "XC3Save120":
+                        icon = Icons.Material.Outlined._3k;
+                        break;
+                    case "XCSaveThumbnail":
+                        icon = Icons.Material.Outlined.Image;
+                        break;
+                    default:
+                        icon = Icons.Material.Outlined.DisabledByDefault;
+                        break;
+                }
+
+                string fileUrl = kv.Key.Replace('.', '-');
+                <MudNavLink Href="@fileUrl" Match="NavLinkMatch.Prefix" Icon="@icon">@kv.Key</MudNavLink>
+            }
+        </MudNavGroup>
+    }
+</MudNavMenu>
+
+@code
+{
+/*
+ * XenoSaveCheat
+ * Copyright (C) 2022-2023  damysteryman
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU Affero General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU Affero General Public License for more details.
+ *
+ * You should have received a copy of the GNU Affero General Public License
+ * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ */
+
+    [Inject]
+    public dmm.XenoSaveCheatCore.Core Core { get; set; } = null!;
+    private Dictionary<string, string> info = new();
+    
+    protected override void OnInitialized()
+    {
+        UpdateFileinfo();
+        Core.FilesAllLoaded += OnFilesLoaded;
+    }
+
+    private void OnFilesLoaded(object? sender, EventArgs e)
+    {
+        UpdateFileinfo();
+        this.StateHasChanged();
+    }
+
+    protected void UpdateFileinfo()
+    {
+        info = Core.GetLoadedFileInfo();
+    }
+}

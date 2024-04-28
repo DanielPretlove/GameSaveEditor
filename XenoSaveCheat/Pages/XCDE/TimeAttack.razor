@@ -1,0 +1,92 @@
+@using XenoSaveCheat.Components
+@*
+ * XenoSaveCheat
+ * Copyright (C) 2023  damysteryman
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU Affero General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU Affero General Public License for more details.
+ *
+ * You should have received a copy of the GNU Affero General Public License
+ * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ *@
+ @using dmm.XenoSave.XCDE
+ <MudGrid>
+    <MudPaper class="pa-6 ma-2">
+        <MudText Typo="Typo.h5">Time Attack</MudText>
+        <MudTabs MaxHeight="25" @bind-ActivePanelIndex="SelectedType">
+            <MudTabPanel Text="Free" />
+            <MudTabPanel Text="Restricted" />
+        </MudTabs>
+        <MudSimpleTable Hover="true" Dense="true" Striped="true">
+            <thead>
+                <tr>
+                    <th>New</th>
+                    <th>Challenge</th>
+                    <th>Rank</th>
+                    <th>Time</th>
+                    <th>Initial Reward</th>
+                    <th>NS Reward</th>
+                    <th>NS Rank</th>
+                    <th>+ NS Bonus 1</th>
+                    <th>+ NS Bonus 2</th>
+                </tr>
+            </thead>
+            <tbody>
+                @for (int i = 0; i < Save.TimeAttack.Scores.Length; i += 2)
+                {
+                    int             local = i;
+                    ElapseTimeMS    time  = Save.TimeAttack.Times[local + SelectedType];
+                    TimeAttackScore score = Save.TimeAttack.Scores[local + SelectedType];
+                    <tr>
+                        <td>
+                            <MudCheckBox @bind-Checked="score.IsNew" />
+                        </td>
+                        <td>@DLS.XCDETimeAttack[(ushort)(local+1)].Name</td>
+                        <td style="width: 100px;">
+                            <MudSelect @bind-Value="score.AchievedRank" Style="width:50px; height:37px" Label="Rank" Margin="Margin.Dense" Dense="true" AnchorOrigin="Origin.BottomCenter">
+                            @foreach (TimeAttackScore.Rank r in Enum.GetValues(typeof(TimeAttackScore.Rank)))
+                            {
+                                <MudSelectItem Margin="Margin.Dense" Value="@r" />
+                            }
+                            </MudSelect>
+                        </td>
+                        <td>
+                            <MudStack Spacing="0" Row="true">
+                                <MudNumericField T="byte"   @bind-Value="time.Minutes"      style="width: 50px;" HideSpinButtons="true" Min="0" Max="59" />
+                                <MudNumericField T="byte"   @bind-Value="time.Seconds"      style="width: 50px;" HideSpinButtons="true" Min="0" Max="59"  Adornment="Adornment.Start" AdornmentText=":" />
+                                <MudNumericField T="ushort" @bind-Value="time.MilliSeconds" style="width: 50px;" HideSpinButtons="true" Min="0" Max="999" Adornment="Adornment.Start" AdornmentText="." />
+                            </MudStack>
+                        </td>
+                        <td>
+                            <MudCheckBox Label="Achieved" @bind-Checked="score.RewardAchieved" />
+                        </td>
+                        <td>
+                            <MudText>@CalculateNSReward(DLS.XCDETimeAttack[(ushort)(local+1)].NSRewardBase, score) NS</MudText>
+                        </td>
+                        <td style="width: 100px;">
+                            <MudSelect @bind-Value="score.NSRewardRank" Style="width:100px" Label="Rank" AnchorOrigin="Origin.BottomCenter">
+                            @foreach (TimeAttackScore.Rank r in Enum.GetValues(typeof(dmm.XenoSave.XCDE.TimeAttackScore.Rank)))
+                            {
+                                <MudSelectItem Margin="Margin.Dense" Value="@r" />
+                            }
+                            </MudSelect>
+                        </td>
+                        <td>
+                            <MudCheckBox Label="@(score.BonusNSRewards[0] ? GetBonus1PercentDisplay(score.NSRewardRank) : String.Empty)" @bind-Checked="score.BonusNSRewards[0]" />
+                        </td>
+                        <td>
+                            <MudCheckBox Label="@(score.BonusNSRewards[1] ? GetBonus2PercentDisplay(score.NSRewardRank) : String.Empty)" @bind-Checked="score.BonusNSRewards[1]" />
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </MudSimpleTable>
+    </MudPaper>
+ </MudGrid>

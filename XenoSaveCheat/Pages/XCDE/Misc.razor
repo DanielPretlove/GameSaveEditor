@@ -1,0 +1,41 @@
+<MudGrid>
+    <MudItem xs="12">
+        <XCSaveThumbnail File="@_thumbFile" />
+    </MudItem>
+    <MudItem xs="4">
+        <MudPaper Class="pa-6 ma-2">
+            <MudText Typo="Typo.h5">Money</MudText>
+            <MudNumericField @bind-Value="@Save.Money" Label="Money">Money</MudNumericField>
+            <MudNumericField @bind-Value="@Save.Noponstones" Label="Noponstone">Noponstone</MudNumericField>
+        </MudPaper>
+    </MudItem>
+    <MudItem xs="4">
+        <MudPaper Class="pa-6 ma-2">
+            <MudGrid>
+                <MudItem xs="12">
+                    <MudText Typo="Typo.h5">Total Play Time</MudText>
+                </MudItem>
+                <MudItem xs="4">
+                    <MudNumericField T="ushort" Min="0" Max="ushort.MaxValue" @bind-Value="@Save.TotalPlayTime.Hours" Label="Hours">:</MudNumericField>
+                </MudItem>
+                <MudItem xs="4">
+                    <MudNumericField T="byte" Min="0" Max="59" @bind-Value="@Save.TotalPlayTime.Minutes" Label="Minutes" />
+                </MudItem>
+                <MudItem xs="4">
+                    <MudNumericField T="byte" Min="0" Max="59" @bind-Value="@Save.TotalPlayTime.Seconds" Label="Seconds" />
+                </MudItem>
+            </MudGrid>
+        </MudPaper>
+    </MudItem>
+    <MudItem xs="4">
+        <MudPaper Class="pa-6 ma-2">
+            <MudGrid>
+                <MudItem xs="12">
+                    <MudText Typo="Typo.h5">Save Timestamp</MudText>
+                </MudItem>
+                <MudDatePicker Label="Date" @bind-Date="Save.SaveTimestamp.Date" DateFormat="yyyy-MM-dd"/>
+                <MudTimePicker Label="Time" @bind-Time="Save.SaveTimestamp.Time" />
+            </MudGrid>
+        </MudPaper>
+    </MudItem>
+</MudGrid>

@@ -1,0 +1,97 @@
+@using XenoSaveCheat.Components
+
+@using XenoSaveCheat.Services.DataLookup.XCDE
+@using dmm.XenoSave.XCDE
+<MudGrid>
+    <MudItem xs="12">
+        <MudPaper Class="pa-6 ma-1">
+            <MudText Typo="Typo.h4">Skill Trees</MudText>
+            <MudGrid>
+                @foreach (uint i in new uint[] { 3, 1, 0, 2, 4 })
+                {
+                    uint local = (uint)i;
+                    <MudItem xs="2">
+                        <MudPaper Class="pa-5 ma-0">
+                            <MudGrid>
+                                <MudItem xs="9">
+                                    @if(local == SelectedSkillTreeIndex)
+                                    {
+                                        <MudChip Variant="Variant.Filled" Color="Color.Success">Active Trait</MudChip>
+                                    }
+                                    else
+                                    {
+                                        <MudChip Variant="Variant.Filled" OnClick="(() => SelectedSkillTreeIndex = local)">Set Active</MudChip>
+                                    }
+                                </MudItem>
+                                <MudItem xs="2">
+                                    @if (local == 3)
+                                    {
+                                        <MudSwitch
+                                            T="bool"
+                                            Size="Size.Large"
+                                            Color="Color.Success"
+                                            UnCheckedColor="Color.Error"
+                                            ThumbIcon="@(SkillTree4Unlocked ? Icons.Material.Filled.LockOpen : Icons.Material.Filled.Lock)"
+                                            Checked="@SkillTree4Unlocked"
+                                            CheckedChanged="@((bool value) => OnSkillTree4UnlockedChanged(value))"/>
+                                    }
+                                    @if (local == 4)
+                                    {
+                                        <MudSwitch
+                                            T="bool"
+                                            Size="Size.Large"
+                                            Color="Color.Success"
+                                            UnCheckedColor="Color.Error"
+                                            ThumbIcon="@(SkillTree5Unlocked ? Icons.Material.Filled.LockOpen : Icons.Material.Filled.Lock)"
+                                            Checked="@SkillTree5Unlocked"
+                                            CheckedChanged="@((bool value) => OnSkillTree5UnlockedChanged(value))"/>
+                                    }
+                                </MudItem>
+                                <MudItem xs="10">
+                                    <MudText Typo="Typo.h5">@(DLS.XCDESkillTreesLookup[CurrentChar][(ushort)(local)].Name)</MudText>
+                                </MudItem>
+                                <MudNumericField Margin="Margin.Dense" Label="SP" @bind-Value="SkillTreeSPs[local]" />
+                                <MudNumericField T="uint" Min="0" Max="5" Margin="Margin.Dense" Label="Unlocked Skill Count" @bind-Value="SkillTreeUnlockedSkills[local]" />
+                            </MudGrid>
+
+                        </MudPaper>
+                    </MudItem>
+                }
+            </MudGrid>
+        </MudPaper>
+    </MudItem>
+    <MudItem xs="12">
+        <MudPaper Class="pa-6 ma-1">
+            <MudText Typo="Typo.h4">Skill Link</MudText>
+            <MudGrid>
+                @for (int i = 0; i < 8; i++)
+                {
+                    int local = i;
+                    <MudItem xs="3">
+                        <MudPaper Class="pa-6 ma-2">
+                            <MudText Typo="Typo.h5">@((Character)(local + 1))</MudText>
+                                @for (int j = 0; j < 5; j++)
+                                {
+                                    int local_j = j;
+                                    <NumericAutocomplete
+                                        T="byte"
+                                        DDT="SkillLookup"
+                                        nm_xs="3"
+                                        dd_xs="9"
+                                        NumericLabel="ID"
+                                        DropDownLabel="@($"Skill {local_j + 1}")"
+                                        Margin="Margin.Dense"
+                                        Dense="true"
+                                        Min="0"
+                                        Max="@((byte)DLS.XCDESkills.Count)"
+                                        DropDownCollection="DLS.XCDESkills"
+                                        @bind-Value="SkillLinkIDs[(local*5)+local_j]"
+                                        />
+                                }
+                        </MudPaper>
+                    </MudItem>
+                }
+            </MudGrid>
+        </MudPaper>
+    </MudItem>
+</MudGrid>

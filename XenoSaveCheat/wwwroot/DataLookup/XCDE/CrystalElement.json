@@ -1,0 +1,46 @@
+[
+    {
+      "ID": 0,
+      "Name": "(None)"
+    },
+    {
+      "ID": 1,
+      "Name": "Unk_1"
+    },
+    {
+      "ID": 2,
+      "Name": "Unk_2"
+    },
+    {
+      "ID": 3,
+      "Name": "Unk_3"
+    },
+    {
+      "ID": 4,
+      "Name": "Fire"
+    },
+    {
+      "ID": 5,
+      "Name": "Water"
+    },
+    {
+      "ID": 6,
+      "Name": "Electric"
+    },
+    {
+      "ID": 7,
+      "Name": "Ice"
+    },
+    {
+      "ID": 8,
+      "Name": "Wind"
+    },
+    {
+      "ID": 9,
+      "Name": "Earth"
+    },
+    {
+      "ID": 10,
+      "Name": "White"
+    }
+]

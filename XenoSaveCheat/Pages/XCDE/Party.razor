@@ -1,0 +1,33 @@
+@using dmm.XenoSave.XCDE
+
+<MudGrid>
+    <MudItem xs="2">
+        <MudSimpleTable Hover="true" Dense="true" Striped="true">
+            <thead>
+                <tr>
+                    <th>Members in Party</th>
+                </tr>
+            </thead>
+            <tbody>
+                @for (int i = 0; i < Save.Party.Characters.Length; i++)
+                {
+                    int local = i;
+
+                    <tr>
+                        <td>
+                            <MudSelect @bind-Value="@Save.Party.Characters[local]" Style="width:50px; height:37px" Label="@($"Character {local + 1}")" Margin="Margin.Dense" Dense="true" AnchorOrigin="Origin.BottomCenter">
+                            @foreach (dmm.XenoSave.XCDE.Character charId in Enum.GetValues(typeof(dmm.XenoSave.XCDE.Character)))
+                            {
+                                <MudSelectItem Margin="Margin.Dense" Value="@charId" />
+                            }
+                            </MudSelect>
+                        </td>
+                    </tr>   
+                }
+            </tbody>
+        </MudSimpleTable>
+    </MudItem>
+    <MudItem xs="2">
+        <MudNumericField @bind-Value="@Save.Party.PartyMembersCount" Label="Party Members Count">Party Members Count</MudNumericField>
+    </MudItem>
+</MudGrid>

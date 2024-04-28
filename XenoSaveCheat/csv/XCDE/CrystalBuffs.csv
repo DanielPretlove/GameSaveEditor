@@ -1,0 +1,100 @@
+ID;ElementID;Name
+0;0;(None)
+1;4;Strength Up
+2;4;Chill Defence
+3;4;Sleep Resist
+4;4;Slow Resist
+5;4;Bind Resist
+6;4;Buff Time Plus
+7;4;Weapon Power
+8;4;Strength Down
+9;4;Blaze Plus
+10;4;Blaze Attack
+11;4;Spike
+12;4;Revival HP Up
+13;4;Initial Tension
+14;4;Aggro Up
+15;4;EXP Up
+16;4;Weaken
+17;5;HP Up
+18;5;Poison Defence
+19;5;Spike Defence
+20;5;Paralysis Resist
+21;5;Debuff Resist
+22;5;Recovery Up
+23;5;Aura Heal
+24;5;Damage Heal
+25;5;Arts Heal
+26;5;HP Steal
+27;5;Unbeatable
+28;5;AP Up
+29;5;Aquatic Cloak
+30;5;Auto-Heal Up
+31;5;Terrain Defence
+32;5;HP Weaken
+33;6;Ether Up
+34;6;Double Attack
+35;6;Daze Resist
+36;6;Pierce Resist
+37;6;Daze Plus
+38;6;Phys Def Down
+39;6;Paralysis
+40;6;Lightning Attack
+41;6;Electric Plus
+42;6;Back Atk Plus
+43;6;First Atk Plus
+44;6;Daze Up
+45;6;Cast Quicken
+46;6;Tension Swing
+47;6;Daze Tension
+48;6;Ether Weaken
+49;7;Ether Def Up
+50;7;Blaze Defence
+51;7;Lock-On Resist
+52;7;Confuse Resist
+53;7;Critical Resist
+54;7;Ether Protect
+55;7;Slow
+56;7;Bind
+57;7;Ether Def Down
+58;7;Chill Plus
+59;7;Chill Attack
+60;7;Auto-Atk Stealth
+61;7;Arts Stealth
+62;7;Talent Boost
+63;7;Heat Sink
+64;7;Ether Smash
+65;8;Agility Up
+66;8;Topple Resist
+67;8;Good Footing
+68;8;Arts Seal Resist
+69;8;Accuracy Up
+70;8;Haste
+71;8;Topple Plus
+72;8;Bleed Attack
+73;8;Bleed Plus
+74;8;Topple Up
+75;8;Agility Down
+76;8;Break
+77;8;Quick Step
+78;8;Fall Defence
+79;8;Aerial Cloak
+80;8;Agility Weaken
+81;9;Muscle Up
+82;9;Attack Stability
+83;9;Attack Plus
+84;9;Critical Up
+85;9;Bleed Defence
+86;9;Divine Protect
+87;9;Physical Protect
+88;9;Night Vision
+89;9;Debuff Plus
+90;9;Armour Power
+91;9;Ether Down
+92;9;Poison Plus
+93;9;Poison Attack
+94;9;Aggro Down
+95;9;Earth Cloak
+96;9;Muscle Waste
+97;5;Unbeatable
+98;0;Impurity

@@ -1,0 +1,83 @@
+[
+    {
+      "ID": 0,
+      "Name": "(none)",
+      "Head": true,
+      "Torso": true,
+      "Arm": true,
+      "Leg": true,
+      "Foot": true
+    },
+    {
+      "ID": 1,
+      "Name": "Ecru Type",
+      "Head": true,
+      "Torso": true,
+      "Arm": true,
+      "Leg": true,
+      "Foot": true
+    },
+    {
+      "ID": 2,
+      "Name": "Beach Type I",
+      "Head": true,
+      "Torso": true,
+      "Arm": true,
+      "Leg": true,
+      "Foot": true
+    },
+    {
+      "ID": 3,
+      "Name": "Colony Type I",
+      "Head": true,
+      "Torso": true,
+      "Arm": true,
+      "Leg": true,
+      "Foot": true
+    },
+    {
+      "ID": 4,
+      "Name": "Colony Type II",
+      "Head": true,
+      "Torso": true,
+      "Arm": true,
+      "Leg": true,
+      "Foot": true
+    },
+    {
+      "ID": 5,
+      "Name": "Middle Type I",
+      "Head": true,
+      "Torso": true,
+      "Arm": true,
+      "Leg": true,
+      "Foot": true
+    },
+    {
+      "ID": 6,
+      "Name": "Makna Type I",
+      "Head": false,
+      "Torso": true,
+      "Arm": true,
+      "Leg": true,
+      "Foot": true
+    },
+    {
+      "ID": 7,
+      "Name": "Glasses Type I",
+      "Head": true,
+      "Torso": false,
+      "Arm": false,
+      "Leg": false,
+      "Foot": false
+    },
+    {
+      "ID": 8,
+      "Name": "Glasses Type II",
+      "Head": true,
+      "Torso": false,
+      "Arm": false,
+      "Leg": false,
+      "Foot": false
+    }
+   ]

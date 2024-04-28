@@ -1,0 +1,60 @@
+@if(Save != null && Save.PartyMembers.Length > (int)selectedValue)
+{
+<MudGrid>
+    <MudItem xs="1">
+        <MudList Clickable="true" Dense="true" @bind-SelectedValue="selectedValue">
+        @for (int i = 0; i < 15; i++)
+        {
+            <MudListItem Text="@(CharList[i+1].ToString())" Value="@i" />
+        }
+        </MudList>
+    </MudItem>
+    <MudItem xs="11">
+        <MudTabs Position="Position.Top" Outlined="true" Border="true">
+            <MudTabPanel Text="Misc">
+                <CharMiscEdit
+                    @bind-Level="Save.PartyMembers[(int)selectedValue].Level"
+                    @bind-EXP="Save.PartyMembers[(int)selectedValue].EXP"
+                    @bind-AP="Save.PartyMembers[(int)selectedValue].AP"
+                    @bind-AffinityCoins="Save.PartyMembers[(int)selectedValue].AffinityCoins"
+                    @bind-ExpertModeLevel="Save.PartyMembers[(int)selectedValue].ExpertModeLevel"
+                    @bind-ExpertModeEXP="Save.PartyMembers[(int)selectedValue].ExpertModeEXP"
+                    @bind-ExpertModeReserveEXP="Save.PartyMembers[(int)selectedValue].ExpertModeReserveEXP"
+                />
+            </MudTabPanel>
+            <MudTabPanel Text="Equipment">
+                <EquipEdit
+                    CurrentChar="CharList[((int)selectedValue) + 1]"
+                    @bind-Equipment="Save.PartyMembers[(int)selectedValue].Equipment"
+                    @bind-Cosmetics="Save.PartyMembers[(int)selectedValue].Cosmetics"
+                    @bind-NonPartyEquipment="Save.NonPartyMembers[(int)selectedValue].Equipment"
+                />
+            </MudTabPanel>
+            <MudTabPanel Text="Arts">
+                <ArtsEdit
+                    @bind-Arts="Save.PartyMembers[(int)selectedValue].Arts"
+                    @bind-MonadoArts="Save.PartyMembers[(int)selectedValue].MonadoArts"
+                />
+            </MudTabPanel>
+            @if ((int)selectedValue < 8)
+            {
+                // Both Fiora share same Skill Tree 4 & 5 Unlock Flags
+                int SkillFlagsIdx = (int)selectedValue;
+                    if (SkillFlagsIdx == 7)
+                        SkillFlagsIdx = 2;
+                <MudTabPanel Text="Skills">
+                    <SkillsEdit
+                        CurrentChar="CharList[(int)selectedValue + 1]"
+                        @bind-SkillTree4Unlocked="Save.Flags[4686 +(SkillFlagsIdx * 2)]"
+                        @bind-SkillTree5Unlocked="Save.Flags[4686 +(SkillFlagsIdx * 2) + 1]"
+                        @bind-SelectedSkillTreeIndex="Save.PartyMembers[(int)selectedValue].SelectedSkillTreeIndex"
+                        @bind-SkillTreeSPs="Save.PartyMembers[(int)selectedValue].SkillTreeSPs"
+                        @bind-SkillTreeUnlockedSkills="Save.PartyMembers[(int)selectedValue].SkillTreeUnlockedSkills"
+                        @bind-SkillLinkIDs="Save.PartyMembers[(int)selectedValue].SkillLinkIDs"
+                    />
+                </MudTabPanel>
+            }
+        </MudTabs>
+    </MudItem>
+</MudGrid>
+}

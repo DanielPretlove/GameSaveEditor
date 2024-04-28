@@ -1,0 +1,44 @@
+ID;Name;Head;Torso;Arm;Leg;Foot
+0;(none);true;true;true;true;true
+1;Ecru Type;true;true;true;true;true
+2;Beach Type I;true;true;true;true;true
+3;Beach Type II;true;true;true;true;true
+4;Colony Type I;true;true;true;true;true
+5;Colony Type II;true;true;true;true;true
+6;Colony Type III;true;true;true;true;true
+7;Colony Type IV;true;true;true;true;true
+8;Middle Type I;true;true;true;true;true
+9;Middle Type II;true;true;true;true;true
+10;Middle Type III;true;true;true;true;true
+11;Middle Type IV;true;true;true;true;true
+12;Makna Type I;true;true;true;true;true
+13;Makna Type II;true;true;true;true;true
+14;Legar Type III;true;true;true;true;true
+15;Legar Type II;true;true;true;true;true
+16;Legar Type I;true;true;true;true;true
+17;Eryth Type I;true;true;true;true;true
+18;Eryth Type II;true;true;true;true;true
+19;Eryth Type III;true;true;true;true;true
+20;Orion Type I;true;true;true;true;true
+21;Orion Type II;true;true;true;true;true
+22;M100 Type I;true;true;true;true;true
+23;M100 Type II;true;true;true;true;true
+24;Titan Type I;true;true;true;true;true
+25;Titan Type II;true;true;true;true;true
+26;Titan Type III;true;true;true;true;true
+27;Glasses Type I;true;false;false;false;false
+28;Glasses Type II;true;false;false;false;false
+29;Prodigal Type I;true;true;true;true;true
+30;Prodigal Type II;true;true;true;true;true
+31;Prodigal Type III;true;true;true;true;true
+32;Orion Legacy I;true;true;true;true;true
+33;Orion Legacy II;true;true;true;true;true
+34;M100 Legacy I;true;true;true;true;true
+35;M100 Legacy II;true;true;true;true;true
+36;Titan Legacy I;true;true;true;true;true
+37;Titan Legacy II;true;true;true;true;true
+38;Titan Legacy III;true;true;true;true;true
+39;Resort Style I;true;true;true;true;true
+40;Resort Style II;true;true;true;true;true
+41;Resort Style III;true;true;true;true;true
+42;Colony 6 Era;false;true;false;true;true

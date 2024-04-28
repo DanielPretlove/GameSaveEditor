@@ -1,0 +1,47 @@
+[
+    {
+      "ID": 0,
+      "Name": "(none)",
+      "Head": true,
+      "Torso": true,
+      "Arm": true,
+      "Leg": true,
+      "Foot": true
+    },
+    {
+      "ID": 1,
+      "Name": "Ecru Type",
+      "Head": false,
+      "Torso": true,
+      "Arm": false,
+      "Leg": true,
+      "Foot": false
+    },
+    {
+      "ID": 2,
+      "Name": "Intrepid Style I",
+      "Head": false,
+      "Torso": true,
+      "Arm": false,
+      "Leg": true,
+      "Foot": false
+    },
+    {
+      "ID": 3,
+      "Name": "Intrepid Style II",
+      "Head": false,
+      "Torso": true,
+      "Arm": false,
+      "Leg": true,
+      "Foot": false
+    },
+    {
+      "ID": 4,
+      "Name": "Intrepid Style III",
+      "Head": false,
+      "Torso": true,
+      "Arm": false,
+      "Leg": true,
+      "Foot": false
+    }
+]

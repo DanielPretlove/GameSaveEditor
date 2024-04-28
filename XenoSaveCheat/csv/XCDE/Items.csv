@@ -1,0 +1,4589 @@
+ID;Type;Name
+0;0;(None)
+1;2;Monado
+2;2;Junk Sword
+3;2;UNUSED_Weapon_3
+4;2;Monado II
+5;2;Monado III
+6;2;UNUSED_Weapon_6
+7;2;UNUSED_Weapon_7
+8;2;Replica Monado
+9;2;UNUSED_Weapon_9
+10;2;Scrap Driver
+11;2;UNUSED_Weapon_11
+12;2;UNUSED_Weapon_12
+13;2;UNUSED_Weapon_13
+14;2;UNUSED_Weapon_14
+15;2;UNUSED_Weapon_15
+16;2;UNUSED_Weapon_16
+17;2;UNUSED_Weapon_17
+18;2;UNUSED_Weapon_18
+19;2;Hunting Knives
+20;2;UNUSED_Weapon_20
+21;2;UNUSED_Weapon_21
+22;2;UNK_Weapon_22
+23;2;UNUSED_Weapon_23
+24;2;UNUSED_Weapon_24
+25;2;UNUSED_Weapon_25
+26;2;UNUSED_Weapon_26
+27;2;UNUSED_Weapon_27
+28;2;Homs Sabre
+29;2;Anti-Mechon Glaive
+30;2;UNUSED_Weapon_30
+31;2;UNUSED_Weapon_31
+32;2;UNUSED_Weapon_32
+33;2;UNUSED_Weapon_33
+34;2;UNUSED_Weapon_34
+35;2;UNUSED_Weapon_35
+36;2;Monado
+37;2;Monado
+38;2;Gadolt's Rifle
+39;2;Shift Rifle
+40;2;Gadolt's Cannon
+41;2;UNUSED_Weapon_41
+42;2;UNUSED_Weapon_42
+43;2;UNUSED_Weapon_43
+44;2;UNUSED_Weapon_44
+45;2;UNUSED_Weapon_45
+46;2;UNUSED_Weapon_46
+47;2;Hunter Biter
+48;2;Warrior Gnasher
+49;2;Monapon
+50;2;UNUSED_Weapon_50
+51;2;UNUSED_Weapon_51
+52;2;UNUSED_Weapon_52
+53;2;UNUSED_Weapon_53
+54;2;UNUSED_Weapon_54
+55;2;UNUSED_Weapon_55
+56;2;Protect Staff
+57;2;Imperial Staff
+58;2;UNUSED_Weapon_58
+59;2;UNUSED_Weapon_59
+60;2;UNUSED_Weapon_60
+61;2;UNUSED_Weapon_61
+62;2;UNUSED_Weapon_62
+63;2;UNUSED_Weapon_63
+64;2;UNUSED_Weapon_64
+65;2;Mechonis Swords
+66;2;UNUSED_Weapon_66
+67;2;Meyneth Monado
+68;2;UNUSED_Weapon_68
+69;2;UNUSED_Weapon_69
+70;2;UNUSED_Weapon_70
+71;2;UNUSED_Weapon_71
+72;2;UNUSED_Weapon_72
+73;2;Utopia
+74;2;Sabre
+75;2;Steel Claws
+76;2;Claymore
+77;2;Break Sword
+78;2;Salvage Sword
+79;2;Easy Edge
+80;2;UNUSED_Weapon_80
+81;2;UNUSED_Weapon_81
+82;2;UNUSED_Weapon_82
+83;2;UNUSED_Weapon_83
+84;2;UNUSED_Weapon_84
+85;2;UNUSED_Weapon_85
+86;2;UNUSED_Weapon_86
+87;2;UNUSED_Weapon_87
+88;2;UNUSED_Weapon_88
+89;2;UNUSED_Weapon_89
+90;2;UNUSED_Weapon_90
+91;2;UNUSED_Weapon_91
+92;2;UNUSED_Weapon_92
+93;2;UNUSED_Weapon_93
+94;2;UNUSED_Weapon_94
+95;2;Debug Sword
+96;2;UNUSED_Weapon_96
+97;2;Acrylic Driver
+98;2;Aegis Guarder
+99;2;Army Pike
+100;2;Iron Pike
+101;2;Rusty Guarder
+102;2;Steady Driver
+103;2;Battle Driver
+104;2;Heavy Driver
+105;2;Peak Driver
+106;2;Ace Lancer
+107;2;Crown Pike
+108;2;Anti-Mechon Driver
+109;2;Machina Guarder
+110;2;Giant Guarder
+111;2;Shield Ramtok
+112;2;Flash Shield Elfidar
+113;2;Strike Lance Sildra
+114;2;Daedalus
+115;2;Machina Driver III
+116;2;Safe Driver
+117;2;Colony Knives
+118;2;Defence Knives
+119;2;UNUSED_Weapon_119
+120;2;UNUSED_Weapon_120
+121;2;UNUSED_Weapon_121
+122;2;UNUSED_Weapon_122
+123;2;UNUSED_Weapon_123
+124;2;UNUSED_Weapon_124
+125;2;UNUSED_Weapon_125
+126;2;UNUSED_Weapon_126
+127;2;UNUSED_Weapon_127
+128;2;UNUSED_Weapon_128
+129;2;UNUSED_Weapon_129
+130;2;UNUSED_Weapon_130
+131;2;UNUSED_Weapon_131
+132;2;UNUSED_Weapon_132
+133;2;UNUSED_Weapon_133
+134;2;UNUSED_Weapon_134
+135;2;UNUSED_Weapon_135
+136;2;UNUSED_Weapon_136
+137;2;Alpine Spear
+138;2;Iron Cutlass
+139;2;Snowy Striker
+140;2;Anti-Mechon Striker
+141;2;Machina Sword
+142;2;Alpine Striker
+143;2;Natura Defender
+144;2;Steel Cutlass
+145;2;Murakmor
+146;2;Lazard
+147;2;Machina Sword III
+148;2;Calming Spear
+149;2;Reward Defender
+150;2;UNUSED_Weapon_150
+151;2;UNUSED_Weapon_151
+152;2;UNUSED_Weapon_152
+153;2;UNUSED_Weapon_153
+154;2;UNUSED_Weapon_154
+155;2;UNUSED_Weapon_155
+156;2;UNUSED_Weapon_156
+157;2;Air Sniper
+158;2;Stealth Rifle
+159;2;Machina Rifle
+160;2;Ignis Rifle
+161;2;Havoc Sniper
+162;2;Covert Sniper
+163;2;Anti-Mechon Sniper
+164;2;Nopon Cannon
+165;2;Railgun
+166;2;Trinity
+167;2;Machina Rifle III
+168;2;Safe Rifle
+169;2;Bonus Sniper
+170;2;UNUSED_Weapon_170
+171;2;UNUSED_Weapon_171
+172;2;UNUSED_Weapon_172
+173;2;UNUSED_Weapon_173
+174;2;UNUSED_Weapon_174
+175;2;UNUSED_Weapon_175
+176;2;UNUSED_Weapon_176
+177;2;Wrecking Nibbler
+178;2;Hunting Nibbler
+179;2;Beast Biter
+180;2;Anti-Mechon Biter
+181;2;Machina Biter
+182;2;Guarded Gnasher
+183;2;Kaboom Nibbler
+184;2;Silver Vasanova
+185;2;Kongamato
+186;2;Machina Nibbler III
+187;2;Calming Biter
+188;2;UNUSED_Weapon_188
+189;2;UNUSED_Weapon_189
+190;2;UNUSED_Weapon_190
+191;2;UNUSED_Weapon_191
+192;2;UNUSED_Weapon_192
+193;2;UNUSED_Weapon_193
+194;2;UNUSED_Weapon_194
+195;2;UNUSED_Weapon_195
+196;2;UNUSED_Weapon_196
+197;2;Popular Staff
+198;2;Official's Staff
+199;2;Anti-Mechon Rod
+200;2;Machina Staff
+201;2;Comet Rod
+202;2;Dusk Staff
+203;2;High Entia Soul
+204;2;Dragon Rod Alcar
+205;2;Ether Burst
+206;2;Machina Rod III
+207;2;Safe Rod
+208;2;UNUSED_Weapon_208
+209;2;UNUSED_Weapon_209
+210;2;UNUSED_Weapon_210
+211;2;UNUSED_Weapon_211
+212;2;UNUSED_Weapon_212
+213;2;UNUSED_Weapon_213
+214;2;UNUSED_Weapon_214
+215;2;UNUSED_Weapon_215
+216;2;UNUSED_Weapon_216
+217;2;UNUSED_Weapon_217
+218;2;UNUSED_Weapon_218
+219;2;UNUSED_Weapon_219
+220;2;UNUSED_Weapon_220
+221;2;UNUSED_Weapon_221
+222;2;UNUSED_Weapon_222
+223;2;UNUSED_Weapon_223
+224;2;UNUSED_Weapon_224
+225;2;UNUSED_Weapon_225
+226;2;UNUSED_Weapon_226
+227;2;UNUSED_Weapon_227
+228;2;UNUSED_Weapon_228
+229;2;UNUSED_Weapon_229
+230;2;UNUSED_Weapon_230
+231;2;UNUSED_Weapon_231
+232;2;UNUSED_Weapon_232
+233;2;UNUSED_Weapon_233
+234;2;UNUSED_Weapon_234
+235;2;UNUSED_Weapon_235
+236;2;UNUSED_Weapon_236
+237;2;Mell Edge
+238;2;Monado Rudra
+239;2;Monado Agni
+240;2;Monado Abyss
+241;2;Monado Dogma
+242;2;Monado Saga
+243;2;UNUSED_Weapon_243
+244;2;UNUSED_Weapon_244
+245;2;UNUSED_Weapon_245
+246;2;UNUSED_Weapon_246
+247;2;UNUSED_Weapon_247
+248;2;UNUSED_Weapon_248
+249;2;UNUSED_Weapon_249
+250;2;UNUSED_Weapon_250
+251;2;UNUSED_Weapon_251
+252;2;UNUSED_Weapon_252
+253;2;UNUSED_Weapon_253
+254;2;UNUSED_Weapon_254
+255;2;UNUSED_Weapon_255
+256;2;UNUSED_Weapon_256
+257;2;UNUSED_Weapon_257
+258;2;UNUSED_Weapon_258
+259;2;UNUSED_Weapon_259
+260;2;UNUSED_Weapon_260
+261;2;UNUSED_Weapon_261
+262;2;UNUSED_Weapon_262
+263;2;UNUSED_Weapon_263
+264;2;UNUSED_Weapon_264
+265;2;UNUSED_Weapon_265
+266;2;UNUSED_Weapon_266
+267;2;UNUSED_Weapon_267
+268;2;UNUSED_Weapon_268
+269;2;UNUSED_Weapon_269
+270;2;UNUSED_Weapon_270
+271;2;UNUSED_Weapon_271
+272;2;UNUSED_Weapon_272
+273;2;UNUSED_Weapon_273
+274;2;UNUSED_Weapon_274
+275;2;UNUSED_Weapon_275
+276;2;UNUSED_Weapon_276
+277;2;Metal Lancer
+278;2;Block Guarder
+279;2;Light Driver
+280;2;Soldier Pike
+281;2;Brave Guarder
+282;2;Arachno Driver
+283;2;Carbon Driver
+284;2;Bomber Lancer
+285;2;Arkose Pike
+286;2;Rayon Pike
+287;2;Marble Driver
+288;2;Sacred Driver
+289;2;Lieutenant Pike
+290;2;Tank Guarder
+291;2;Jack Guarder
+292;2;Crushing Guarder
+293;2;Knuckle Driver
+294;2;Jumbo Guarder
+295;2;Spark Lancer
+296;2;Sonic Lancer
+297;2;Pile Driver
+298;2;Duel Guarder
+299;2;Hazzard Driver
+300;2;Northern Pike
+301;2;Bloody Driver
+302;2;Wolf Guarder
+303;2;Machina Driver
+304;2;Machina Guarder II
+305;2;Empire Pike
+306;2;Jaguar Lancer
+307;2;General Driver
+308;2;Machina Guarder III
+309;2;Vangarre Driver
+310;2;Atomic Driver
+311;2;Super Cruiser
+312;2;Dynastrar
+313;2;Machina Driver II
+314;2;Rigel Hand
+315;2;Bonus Driver
+316;2;Titan Guarder
+317;2;Jack Knives
+318;2;Bouncer Knives
+319;2;UNUSED_Weapon_319
+320;2;UNUSED_Weapon_320
+321;2;UNUSED_Weapon_321
+322;2;UNUSED_Weapon_322
+323;2;UNUSED_Weapon_323
+324;2;UNUSED_Weapon_324
+325;2;UNUSED_Weapon_325
+326;2;UNUSED_Weapon_326
+327;2;UNUSED_Weapon_327
+328;2;UNUSED_Weapon_328
+329;2;UNUSED_Weapon_329
+330;2;UNUSED_Weapon_330
+331;2;UNUSED_Weapon_331
+332;2;UNUSED_Weapon_332
+333;2;UNUSED_Weapon_333
+334;2;UNUSED_Weapon_334
+335;2;UNUSED_Weapon_335
+336;2;UNUSED_Weapon_336
+337;2;UNUSED_Weapon_337
+338;2;UNUSED_Weapon_338
+339;2;UNUSED_Weapon_339
+340;2;UNUSED_Weapon_340
+341;2;UNUSED_Weapon_341
+342;2;UNUSED_Weapon_342
+343;2;UNUSED_Weapon_343
+344;2;UNUSED_Weapon_344
+345;2;UNUSED_Weapon_345
+346;2;UNUSED_Weapon_346
+347;2;UNUSED_Weapon_347
+348;2;UNUSED_Weapon_348
+349;2;UNUSED_Weapon_349
+350;2;UNUSED_Weapon_350
+351;2;UNUSED_Weapon_351
+352;2;UNUSED_Weapon_352
+353;2;UNUSED_Weapon_353
+354;2;UNUSED_Weapon_354
+355;2;UNUSED_Weapon_355
+356;2;UNUSED_Weapon_356
+357;2;Luna Defender
+358;2;Purity Striker
+359;2;Evening Sickle
+360;2;Black-Steel Striker
+361;2;Half-Bloom Striker
+362;2;Cumulo Cutlass
+363;2;Frigus Striker
+364;2;Lion Cutlass
+365;2;Caliga Defender
+366;2;Steel Katana
+367;2;Moonlit Defender
+368;2;Illunis Defender
+369;2;Cloud Cutlass
+370;2;Snaer Striker
+371;2;Night Sickle
+372;2;Mani Defender
+373;2;Cerasus Cutlass
+374;2;Machina Blade
+375;2;Machina Sword II
+376;2;Forma Spear
+377;2;Mountain Spear
+378;2;Machina Blade III
+379;2;Darkness Sickle
+380;2;Wyvern Cutlass
+381;2;UNUSED_Weapon_381
+382;2;UNUSED_Weapon_382
+383;2;UNUSED_Weapon_383
+384;2;UNUSED_Weapon_384
+385;2;UNUSED_Weapon_385
+386;2;UNUSED_Weapon_386
+387;2;UNUSED_Weapon_387
+388;2;UNUSED_Weapon_388
+389;2;UNUSED_Weapon_389
+390;2;UNUSED_Weapon_390
+391;2;UNUSED_Weapon_391
+392;2;UNUSED_Weapon_392
+393;2;UNUSED_Weapon_393
+394;2;UNUSED_Weapon_394
+395;2;UNUSED_Weapon_395
+396;2;UNUSED_Weapon_396
+397;2;Calm Shot
+398;2;Chrome Sniper
+399;2;Ain Rifle
+400;2;Danger Sniper
+401;2;Gust Shot
+402;2;Black Sniper
+403;2;Pride Sniper
+404;2;Hurricane Shot
+405;2;Breeze Shot
+406;2;Wind Shot
+407;2;Dark Cannon
+408;2;Gale Shot
+409;2;Delta Rifle
+410;2;Forest Sniper
+411;2;Point Rifle
+412;2;Search Sniper
+413;2;Spirit Rifle
+414;2;Storm Shot
+415;2;Draft Rifle
+416;2;Machina Sniper
+417;2;Machina Cannon
+418;2;Devil Cannon
+419;2;Brain Rifle
+420;2;Etoile Sniper
+421;2;Disaster Cannon
+422;2;Machina Sniper II
+423;2;Satellite Shot
+424;2;Endless Rifle
+425;2;UNUSED_Weapon_425
+426;2;UNUSED_Weapon_426
+427;2;UNUSED_Weapon_427
+428;2;UNUSED_Weapon_428
+429;2;UNUSED_Weapon_429
+430;2;UNUSED_Weapon_430
+431;2;UNUSED_Weapon_431
+432;2;UNUSED_Weapon_432
+433;2;UNUSED_Weapon_433
+434;2;UNUSED_Weapon_434
+435;2;UNUSED_Weapon_435
+436;2;UNUSED_Weapon_436
+437;2;Gladiator Biter
+438;2;Serpent Biter
+439;2;Dream Gnasher
+440;2;Ironwall Gnasher
+441;2;Rex Biter
+442;2;Barrier Gnasher
+443;2;Cosmic Nibbler
+444;2;Meditor Gnasher
+445;2;Boom Nibbler
+446;2;Jaw Nibbler
+447;2;Machina Biter III
+448;2;Meteor Nibbler
+449;2;Comet Biter
+450;2;Machina Nibbler II
+451;2;Banquet Biter
+452;2;Strike Biter
+453;2;Siege Gnasher
+454;2;Prosperity Biter
+455;2;Machina Nibbler
+456;2;Machina Biter II
+457;2;Hero Biter
+458;2;UNUSED_Weapon_458
+459;2;UNUSED_Weapon_459
+460;2;UNUSED_Weapon_460
+461;2;UNUSED_Weapon_461
+462;2;UNUSED_Weapon_462
+463;2;UNUSED_Weapon_463
+464;2;UNUSED_Weapon_464
+465;2;UNUSED_Weapon_465
+466;2;UNUSED_Weapon_466
+467;2;UNUSED_Weapon_467
+468;2;UNUSED_Weapon_468
+469;2;UNUSED_Weapon_469
+470;2;UNUSED_Weapon_470
+471;2;UNUSED_Weapon_471
+472;2;UNUSED_Weapon_472
+473;2;UNUSED_Weapon_473
+474;2;UNUSED_Weapon_474
+475;2;UNUSED_Weapon_475
+476;2;UNUSED_Weapon_476
+477;2;Dawn Staff
+478;2;Saint Rod
+479;2;Nightglow Staff
+480;2;Clarity Staff
+481;2;Wisdom Rod
+482;2;Amber Rod
+483;2;Rain Staff
+484;2;Five-Star Rod
+485;2;Acid Staff
+486;2;Sky Rod
+487;2;Cloud Staff
+488;2;Mirage Staff
+489;2;Machina Rod
+490;2;Machina Staff II
+491;2;Will-o'-Wisp Staff
+492;2;Autumn Staff
+493;2;Machina Staff III
+494;2;Meteor Staff
+495;2;Sun Staff
+496;2;Empress Staff
+497;2;UNUSED_Weapon_497
+498;2;UNUSED_Weapon_498
+499;2;UNUSED_Weapon_499
+500;2;UNUSED_Weapon_500
+501;2;UNUSED_Weapon_501
+502;2;UNUSED_Weapon_502
+503;2;UNUSED_Weapon_503
+504;2;UNUSED_Weapon_504
+505;2;UNUSED_Weapon_505
+506;2;UNUSED_Weapon_506
+507;2;UNUSED_Weapon_507
+508;2;UNUSED_Weapon_508
+509;2;UNUSED_Weapon_509
+510;2;UNUSED_Weapon_510
+511;2;UNUSED_Weapon_511
+512;2;UNUSED_Weapon_512
+513;2;UNUSED_Weapon_513
+514;2;UNUSED_Weapon_514
+515;2;UNUSED_Weapon_515
+516;2;UNUSED_Weapon_516
+517;2;Sparrow Blades
+518;2;Murder Knives
+519;2;Karma Blades
+520;2;Protector Daggers
+521;2;Swallow Blades
+522;2;Jack Daggers
+523;2;Delay Blades
+524;2;Star Knives
+525;2;Omega Break
+526;2;Chaos Break
+527;2;Falcon Blades
+528;2;Grace Blades
+529;2;Orca Daggers
+530;2;War Blades
+531;2;Regal Daggers
+532;2;Eternity Knives
+533;2;Dystopia
+534;2;Conviction Blades
+535;2;Infinity
+536;2;Hrunting
+537;2;Final Cut
+538;2;Safe Blades
+539;2;Reward Swords
+540;2;UNUSED_Weapon_540
+541;2;UNUSED_Weapon_541
+542;2;UNUSED_Weapon_542
+543;2;UNUSED_Weapon_543
+544;2;UNUSED_Weapon_544
+545;2;UNUSED_Weapon_545
+546;2;UNUSED_Weapon_546
+547;2;UNUSED_Weapon_547
+548;2;UNUSED_Weapon_548
+549;2;UNUSED_Weapon_549
+550;2;UNUSED_Weapon_550
+551;2;UNUSED_Weapon_551
+552;2;UNUSED_Weapon_552
+553;2;UNUSED_Weapon_553
+554;2;UNUSED_Weapon_554
+555;2;UNUSED_Weapon_555
+556;2;UNUSED_Weapon_556
+557;2;UNUSED_Weapon_557
+558;2;UNUSED_Weapon_558
+559;2;UNUSED_Weapon_559
+560;2;UNUSED_Weapon_560
+561;2;UNUSED_Weapon_561
+562;2;UNUSED_Weapon_562
+563;2;UNUSED_Weapon_563
+564;2;UNUSED_Weapon_564
+565;2;UNUSED_Weapon_565
+566;2;UNUSED_Weapon_566
+567;2;Crusher
+568;2;Million Driver
+569;2;Rag Bone Hammer
+570;2;Phalanx
+571;2;Flame Gear
+572;2;Bloody Roar
+573;2;Defender
+574;2;Goliath
+575;2;Verdigris
+576;2;Lightweight Driver
+577;2;UNUSED_Weapon_577
+578;2;UNUSED_Weapon_578
+579;2;UNUSED_Weapon_579
+580;2;UNUSED_Weapon_580
+581;2;UNUSED_Weapon_581
+582;2;UNUSED_Weapon_582
+583;2;UNUSED_Weapon_583
+584;2;UNUSED_Weapon_584
+585;2;UNUSED_Weapon_585
+586;2;UNUSED_Weapon_586
+587;2;Asura
+588;2;Pandemonium
+589;2;Pioneer
+590;2;Quitter
+591;2;Firing Hammer
+592;2;Horizon
+593;2;Endymion
+594;2;Dividing Line
+595;2;Machina Blade II
+596;2;Chosen One
+597;2;Spit Cluster
+598;2;Lightning
+599;2;White Cluster
+600;2;King Cluster
+601;2;Queen Cluster
+602;2;Thunderclap
+603;2;Rock Winder
+604;2;Silence
+605;2;Machina Rifle II
+606;2;Agape
+607;2;Queen Frog
+608;2;Longevity Biter
+609;2;Fish Biter
+610;2;Love Biter
+611;2;King Frog
+612;2;Reward Nibbler
+613;2;UNUSED_Weapon_613
+614;2;UNUSED_Weapon_614
+615;2;UNUSED_Weapon_615
+616;2;UNUSED_Weapon_616
+617;2;Khatorl Staff
+618;2;Jailer Staff
+619;2;Century Staff
+620;2;UNUSED_Weapon_620
+621;2;Glass Rod
+622;2;Soltnar Staff
+623;2;Machina Rod II
+624;2;Alcor Staff
+625;2;Bonus Staff
+626;2;UNUSED_Weapon_626
+627;2;UNUSED_Weapon_627
+628;2;UNUSED_Weapon_628
+629;2;UNUSED_Weapon_629
+630;2;UNUSED_Weapon_630
+631;2;UNUSED_Weapon_631
+632;2;UNUSED_Weapon_632
+633;2;UNUSED_Weapon_633
+634;2;UNUSED_Weapon_634
+635;2;UNUSED_Weapon_635
+636;2;UNUSED_Weapon_636
+637;4;Not Equipped
+638;5;Not Equipped
+639;6;Not Equipped
+640;7;Not Equipped
+641;8;Not Equipped
+642;4;Colony Cap
+643;5;Colony Top
+644;6;Colony Cuffs
+645;7;Colony Bottoms
+646;8;Colony Shoes
+647;4;Middle Gear
+648;5;Middle Armour
+649;6;Middle Gauntlets
+650;7;Middle Leggings
+651;8;Middle Boots
+652;4;Round Cap
+653;5;Round Top
+654;6;Round Gloves
+655;7;Round Bottoms
+656;8;Round Shoes
+657;4;Nopon Cap
+658;5;Nopon Top
+659;6;Nopon Gloves
+660;7;Nopon Bottoms
+661;8;Nopon Shoes
+662;4;Crest Cap
+663;5;Crest Top
+664;6;Crest Gloves
+665;7;Crest Bottoms
+666;8;Crest Shoes
+667;4;Ether Goggles
+668;5;Ether Frame
+669;6;Ether Arms
+670;7;Ether Boosters
+671;8;Nemesis Drones
+672;4;Empress Mask
+673;5;Dyed Top
+674;6;Sabre Gloves
+675;7;Dyed Bottoms
+676;8;Dyed Mules
+677;4;Seacle Cap
+678;5;Seacle Top
+679;6;Seacle Gloves
+680;7;Seacle Bottoms
+681;8;Seacle Shoes
+682;4;Head Bandages - Dummy
+683;5;Torso Bandages
+684;6;Arm Bandages
+685;7;Waist Bandages - Dummy
+686;8;Leg Bandages - Dummy
+687;4;Lagoon Gear
+688;5;Lagoon Armour
+689;6;Lagoon Gauntlets
+690;7;Lagoon Leggings
+691;8;Lagoon Boots
+692;4;Prototype Helm
+693;5;Parlour Jacket
+694;6;Protector Amulet
+695;7;Stylish Belt
+696;8;Prototype Greaves
+697;4;Homs Military Cap
+698;5;Bikini Top
+699;6;Homs Gauntlets
+700;7;Bikini Bottoms
+701;8;Homs Military Boots
+702;4;Corporal Cap
+703;5;Corporal Attire
+704;6;Corporal Gauntlets
+705;7;Corporal Belt
+706;8;Corporal Boots
+707;4;Prairie Cap
+708;5;Prairie Attire
+709;6;Prairie Gauntlets
+710;7;Prairie Trousers
+711;8;Infantry Boots
+712;4;Safety Helmet
+713;5;Homs Chestplate
+714;6;Lime Bangle
+715;7;Hide Belt
+716;8;Survivor Shoes
+717;4;Pine Headgear
+718;5;Aqua Top
+719;6;Beech Bangle
+720;7;Aqua Bottoms
+721;8;Webbed Sandals
+722;4;Sky Cap
+723;5;Sky Top
+724;6;Sky Gloves
+725;7;Sky Bottoms
+726;8;Sky Shoes
+727;4;Ocean Earrings
+728;5;Swimming Top
+729;6;Gravity Stone Band
+730;7;Swimming Bottoms
+731;8;Hover Shoes
+732;4;Abyss Earrings
+733;5;Royal Top
+734;6;Royal Gloves
+735;7;Royal Bottoms
+736;8;Royal Shoes
+737;4;Aid Cap
+738;5;Infantry Attire
+739;6;Warm Gloves
+740;7;Engineer Belt
+741;8;Ice Climbing Boots
+742;4;Forest Cap
+743;5;Twin Tree Vest
+744;6;Great Tree Bracelet
+745;7;Twin Tree Trousers
+746;8;School Shoes
+747;4;Glory Gear
+748;5;Glory Armour
+749;6;Glory Gauntlets
+750;7;Glory Leggings
+751;8;Glory Boots
+752;4;Ether IV Goggles
+753;5;Ether IV Frame
+754;6;Ether IV Arms
+755;7;Ether IV Boosters
+756;8;Mitra Drones
+757;4;Power Goggles
+758;5;Power Frame
+759;6;Power Arms
+760;7;Power Boosters
+761;4;Attack V Goggles
+762;4;F Attack Goggles
+763;5;F Attack Frame
+764;6;F Attack Arms
+765;7;F Attack Boosters
+766;8;Grizzly Drones
+767;4;F Power Goggles
+768;5;F Power Frame
+769;6;F Power Arms
+770;7;F Power Boosters
+771;5;Attack V Frame
+772;4;Speed II Goggles
+773;5;Speed II Frame
+774;6;Speed II Arms
+775;7;Speed II Boosters
+776;6;Attack V Arms
+777;4;H Speed Goggles
+778;5;H Speed Frame
+779;6;H Speed Arms
+780;7;H Speed Boosters
+781;8;Sakura Drones
+782;4;H Attack Goggles
+783;5;H Attack Frame
+784;6;H Attack Arms
+785;7;H Attack Boosters
+786;7;Attack V Boosters
+787;4;Power III Goggles
+788;5;Power III Frame
+789;6;Power III Arms
+790;7;Power III Boosters
+791;4;Power V Goggles
+792;4;Z Speed Goggles
+793;5;Z Speed Frame
+794;6;Z Speed Arms
+795;7;Z Speed Boosters
+796;8;Loki Drones
+797;4;Z Power Goggles
+798;5;Z Power Frame
+799;6;Z Power Arms
+800;7;Z Power Boosters
+801;5;Power V Frame
+802;4;Speed IV Goggles
+803;5;Speed IV Frame
+804;6;Speed IV Arms
+805;7;Speed IV Boosters
+806;8;Ardi Drones
+807;4;Attack IV Goggles
+808;5;Attack IV Frame
+809;6;Attack IV Arms
+810;7;Attack IV Boosters
+811;8;Idun Drones
+812;4;Power IV Goggles
+813;5;Power IV Frame
+814;6;Power IV Arms
+815;7;Power IV Boosters
+816;6;Power V Arms
+817;4;General's Cap
+818;5;General's Attire
+819;6;General's Gauntlets
+820;7;General's Belt
+821;8;General's Boots
+822;4;Crest Cap
+823;5;Shell Armour
+824;6;Shell Gauntlets
+825;7;Shell Leggings
+826;8;Shell Boots
+827;4;Colonel Cap
+828;5;Colonel Attire
+829;6;Colonel Gauntlets
+830;7;Colonel Belt
+831;8;Colonel Boots
+832;4;Ruby Glasses
+833;4;Shade Glasses
+834;4;Oriental Glasses
+835;4;Master Glasses
+836;8;Sabre Drones
+837;4;Grace Cap
+838;5;Grace Top
+839;6;Grace Gloves
+840;7;Grace Bottoms
+841;8;Grace Shoes
+842;4;Argos Gear
+843;5;Argos Armour
+844;6;Argos Gauntlets
+845;7;Argos Leggings
+846;8;Argos Boots
+847;4;Titan Helm
+848;5;Titan Plate
+849;6;Titan Arms
+850;7;Titan Greaves
+851;8;Titan Sabatons
+852;4;Nine Cap
+853;5;Nine Top
+854;6;Nine Cuffs
+855;7;Nine Bottoms
+856;8;Nine Shoes
+857;4;Battle Gear
+858;5;Battle Armour
+859;6;Battle Gauntlets
+860;7;Battle Leggings
+861;8;Battle Boots
+862;4;Light Cap
+863;5;Light Top
+864;6;Light Gloves
+865;7;Light Bottoms
+866;8;Light Shoes
+867;4;Swimming Gel
+868;5;Swimming Oil
+869;6;Swimming Cream
+870;7;Swimming Trunks
+871;8;Swimming Sandals
+872;4;Caravan Gear
+873;5;Caravan Armour
+874;6;Caravan Gauntlets
+875;7;Caravan Leggings
+876;8;Caravan Boots
+877;4;Leather Cap
+878;5;Leather Top
+879;6;Leather Gloves
+880;7;Leather Bottoms
+881;8;Leather Shoes
+882;4;Regnas Gear
+883;5;Regnas Armour
+884;6;Regnas Gauntlets
+885;7;Regnas Leggings
+886;8;Regnas Boots
+887;4;Warrior Helm
+888;5;Warrior Plate
+889;6;Warrior Arms
+890;7;Warrior Cuisses
+891;8;Warrior Greaves
+892;4;Ranger Cap
+893;5;Ranger Top
+894;6;Ranger Gloves
+895;7;Ranger Bottoms
+896;8;Ranger Shoes
+897;4;Soil Gear
+898;5;Soil Armour
+899;6;Soil Gauntlets
+900;7;Soil Leggings
+901;8;Soil Boots
+902;4;Field Cap
+903;5;Field Top
+904;6;Field Gloves
+905;7;Field Bottoms
+906;8;Field Shoes
+907;4;Hunter Gear
+908;5;Hunter Armour
+909;6;Hunter Gauntlets
+910;7;Hunter Leggings
+911;8;Hunter Boots
+912;4;Diver Cap
+913;5;Diver Top
+914;6;Diver Gloves
+915;7;Diver Bottoms
+916;8;Diver Shoes
+917;4;Quark Gear
+918;5;Quark Armour
+919;6;Quark Gauntlets
+920;7;Quark Leggings
+921;8;Quark Boots
+922;4;Legar Gear
+923;5;Legar Armour
+924;6;Legar Gauntlets
+925;7;Legar Leggings
+926;8;Legar Boots
+927;4;Pelt Cap
+928;5;Pelt Top
+929;6;Pelt Gloves
+930;7;Pelt Bottoms
+931;8;Pelt Shoes
+932;4;Grand Gear
+933;5;Grand Armour
+934;6;Grand Gauntlets
+935;7;Grand Leggings
+936;8;Grand Boots
+937;4;Guardis Helm
+938;5;Guardis Chest
+939;6;Guardis Arms
+940;7;Guardis Cuisses
+941;8;Guardis Greaves
+942;4;Mist Gel
+943;5;Mist Oil
+944;6;Mist Cream
+945;7;Mist Trunks
+946;8;Mist Sandals
+947;4;Swep Gear
+948;5;Swep Armour
+949;6;Swep Gauntlets
+950;7;Swep Leggings
+951;8;Swep Boots
+952;4;Iron Gear
+953;5;Iron Armour
+954;6;Iron Gauntlets
+955;7;Iron Leggings
+956;8;Iron Boots
+957;4;Makna Cap
+958;5;Makna Top
+959;6;Makna Gloves
+960;7;Makna Bottoms
+961;8;Makna Shoes
+962;4;Nopol Gear
+963;5;Nopol Armour
+964;6;Nopol Gauntlets
+965;7;Nopol Leggings
+966;8;Nopol Boots
+967;4;Jungle Cap
+968;5;Jungle Top
+969;6;Jungle Gloves
+970;7;Jungle Bottoms
+971;8;Jungle Shoes
+972;4;Rescue Cap
+973;5;Rescue Top
+974;6;Rescue Cuffs
+975;7;Rescue Bottoms
+976;8;Rescue Shoes
+977;4;Eryth Gear
+978;5;Eryth Armour
+979;6;Eryth Gauntlets
+980;7;Eryth Leggings
+981;8;Eryth Boots
+982;4;Grady Helm
+983;5;Grady Chest
+984;6;Grady Arms
+985;7;Grady Cuisses
+986;8;Grady Greaves
+987;4;Panther Cap
+988;5;Panther Top
+989;6;Panther Gloves
+990;7;Panther Bottoms
+991;8;Panther Shoes
+992;4;Mithril Gear
+993;5;Mithril Armour
+994;6;Mithril Gauntlets
+995;7;Mithril Leggings
+996;8;Mithril Boots
+997;4;League Gear
+998;5;League Armour
+999;6;League Gauntlets
+1000;7;League Leggings
+1001;8;League Boots
+1002;4;Jail Cap
+1003;5;Jail Top
+1004;6;Jail Gloves
+1005;7;Jail Bottoms
+1006;8;Jail Shoes
+1007;4;Brandle Gear
+1008;5;Brandle Armour
+1009;6;Brandle Gauntlets
+1010;7;Brandle Leggings
+1011;8;Brandle Boots
+1012;4;Snow Glasses
+1013;5;Snow Oil
+1014;6;Snow Cream
+1015;7;Snow Trunks
+1016;8;Snow Sandals
+1017;4;Amethyst Gear
+1018;5;Amethyst Armour
+1019;6;Amethyst Gauntlets
+1020;7;Amethyst Leggings
+1021;8;Amethyst Boots
+1022;4;Heavy Gear
+1023;5;Heavy Armour
+1024;6;Heavy Gauntlets
+1025;7;Heavy Leggings
+1026;8;Heavy Boots
+1027;4;Brave Cap
+1028;5;Brave Top
+1029;6;Brave Gloves
+1030;7;Brave Bottoms
+1031;8;Brave Shoes
+1032;4;Stellar Gear
+1033;5;Stellar Armour
+1034;6;Stellar Gauntlets
+1035;7;Stellar Leggings
+1036;8;Stellar Boots
+1037;4;Orion Cap
+1038;5;Orion Top
+1039;6;Orion Gloves
+1040;7;Orion Bottoms
+1041;8;Orion Shoes
+1042;4;Sleek Glasses
+1043;5;Sleek Oil
+1044;6;Sleek Cream
+1045;7;Sleek Trunks
+1046;8;Sleek Sandals
+1047;4;Gemini Gear
+1048;5;Gemini Armour
+1049;6;Gemini Gauntlets
+1050;7;Gemini Leggings
+1051;8;Gemini Boots
+1052;4;Taurus Helm
+1053;5;Taurus Plate
+1054;6;Taurus Arms
+1055;7;Taurus Cuisses
+1056;8;Taurus Greaves
+1057;4;Alcyone Cap
+1058;5;Alcyone Top
+1059;6;Alcyone Gloves
+1060;7;Alcyone Bottoms
+1061;8;Alcyone Shoes
+1062;4;Retrieved Gear
+1063;5;Retrieved Armour
+1064;6;Retrieved Gauntlets
+1065;7;Retrieved Leggings
+1066;8;Retrieved Boots
+1067;4;M100 Helm
+1068;5;M100 Plate
+1069;6;M100 Arms
+1070;7;M100 Cuisses
+1071;8;M100 Greaves
+1072;4;Hierax Cap
+1073;5;Hierax Top
+1074;6;Hierax Gloves
+1075;7;Hierax Bottoms
+1076;8;Hierax Shoes
+1077;4;Rondine Cap
+1078;5;Rondine Top
+1079;6;Rondine Gloves
+1080;7;Rondine Bottoms
+1081;8;Rondine Shoes
+1082;4;Rafaga Gear
+1083;5;Rafaga Armour
+1084;6;Rafaga Gauntlets
+1085;7;Rafaga Leggings
+1086;8;Rafaga Boots
+1087;4;Lancelot Gear
+1088;5;Lancelot Armour
+1089;6;Lancelot Gauntlets
+1090;7;Lancelot Leggings
+1091;8;Lancelot Boots
+1092;4;Rex Helm
+1093;5;Rex Chest
+1094;6;Rex Arms
+1095;7;Rex Cuisses
+1096;8;Rex Greaves
+1097;4;Gracielle Helm
+1098;5;Gracielle Chest
+1099;6;Gracielle Arms
+1100;7;Gracielle Cuisses
+1101;8;Gracielle Greaves
+1102;4;Ledios Helm
+1103;5;Ledios Plate
+1104;6;Ledios Arms
+1105;7;Ledios Cuisses
+1106;8;Ledios Greaves
+1107;4;Ether V Goggles
+1108;5;Ether V Frame
+1109;6;Ether V Arms
+1110;7;Ether V Boosters
+1111;8;Cosmo Drones
+1112;4;Speed Goggles
+1113;5;Speed Frame
+1114;6;Speed Arms
+1115;7;Speed Boosters
+1116;8;Eleos Drones
+1117;4;Attack Goggles
+1118;5;Attack Frame
+1119;6;Attack Arms
+1120;7;Attack Boosters
+1121;8;Freyja Drones
+1122;4;F Speed Goggles
+1123;5;F Speed Frame
+1124;6;F Speed Arms
+1125;7;F Speed Boosters
+1126;8;Palva Drones
+1127;4;Ether II Goggles
+1128;5;Ether II Frame
+1129;6;Ether II Arms
+1130;7;Ether II Boosters
+1131;8;Helwerthia Drones
+1132;4;Power II Goggles
+1133;5;Power II Frame
+1134;6;Power II Arms
+1135;7;Power II Boosters
+1136;8;Ishtar Drones
+1137;4;Attack II Goggles
+1138;5;Attack II Frame
+1139;6;Attack II Arms
+1140;7;Attack II Boosters
+1141;8;Eucleia Drones
+1142;4;H Ether Goggles
+1143;5;H Ether Frame
+1144;6;H Ether Arms
+1145;7;H Ether Boosters
+1146;8;Astarte Drones
+1147;4;Ether III Goggles
+1148;5;Ether III Frame
+1149;6;Ether III Arms
+1150;7;Ether III Boosters
+1151;8;Lucina Drones
+1152;4;Speed III Goggles
+1153;5;Speed III Frame
+1154;6;Speed III Arms
+1155;7;Speed III Booster
+1156;8;Eris Drones
+1157;4;Attack III Goggles
+1158;5;Attack III Frame
+1159;6;Attack III Arms
+1160;7;Attack III Boosters
+1161;8;Uranus Drones
+1162;4;Z Attack Goggles
+1163;5;Z Attack Frame
+1164;6;Z Attack Arms
+1165;7;Z Attack Boosters
+1166;8;Segment Drones
+1167;4;Speed V Goggles
+1168;5;Speed V Frame
+1169;6;Speed V Arms
+1170;7;Speed V Booster
+1171;8;Sedna Drones
+1172;4;Pistis Cap
+1173;4;Night Goggles
+1174;5;Front Armour
+1175;6;Graft Gauntlets
+1176;7;Court Leggings
+1177;8;Messenger Shoes
+1178;8;Steady Greaves
+1179;5;Pistis Top
+1180;4;Steady Helm
+1181;4;Warrior's Diadem
+1182;5;Blessed Brigandine
+1183;6;Steady Arms
+1184;6;Chain Gauntlets
+1185;6;Block Gauntlets
+1186;7;Light Leggings
+1187;8;Speed Boots
+1188;7;Steady Cuisses
+1189;5;Empress Plate
+1190;6;Empress Arms
+1191;8;Empress Greaves
+1192;4;Journey Diadem
+1193;4;Cool Gel
+1194;5;Cool Oil
+1195;6;Cool Cream
+1196;7;Cool Trunks
+1197;8;Cool Sandals
+1198;4;Chronos Cap
+1199;5;Chronos Top
+1200;6;Chronos Gloves
+1201;7;Chronos Bottoms
+1202;8;Chronos Shoes
+1203;4;Aer Gear
+1204;5;Lattice Armour
+1205;6;Lattice Gauntlets
+1206;7;Lattice Leggings
+1207;7;Heavy Cuisses
+1208;8;Lattice Boots
+1209;4;Serpent Gear
+1210;5;Serpent Armour
+1211;6;Serpent Gauntlets
+1212;7;Serpent Leggings
+1213;8;Serpent Boots
+1214;4;Climb Gear
+1215;5;Climb Armour
+1216;6;Climb Gauntlets
+1217;7;Climb Leggings
+1218;8;Climb Boots
+1219;4;Noise Canceller
+1220;5;Inferno Armour
+1221;6;Frozen Gauntlets
+1222;7;Styptic Leggings
+1223;8;Earth Boots
+1224;4;Blade Gear
+1225;5;Blade Armour
+1226;6;Blade Gauntlets
+1227;7;Blade Leggings
+1228;8;Blade Boots
+1229;4;Charge Gear
+1230;5;Agni Plate
+1231;6;Shilpala Gloves
+1232;7;Lord Leggings
+1233;8;Combatant Boots
+1234;4;Agrius Helm
+1235;5;Agrius Plate
+1236;6;Agrius Arms
+1237;7;Agrius Cuisses
+1238;8;Agrius Greaves
+1239;4;Asura Helm
+1240;5;Asura Plate
+1241;6;Asura Arms
+1242;7;Asura Cuisses
+1243;8;Asura Greaves
+1244;4;Eclipse Gear
+1245;5;Eclipse Armour
+1246;6;Eclipse Gauntlets
+1247;7;Eclipse Leggings
+1248;8;Eclipse Boots
+1249;6;Pretty Bangle
+1250;4;Tinted Glasses
+1251;7;Power V Boosters
+1252;9;Fire Crystal [Rank I, 2 Buffs]
+1253;9;Fire Crystal [Rank II, 2 Buffs]
+1254;9;Fire Crystal [Rank III, 2 Buffs]
+1255;9;Fire Crystal [Rank IV, 2 Buffs]
+1256;9;Fire Crystal [Rank V, 2 Buffs]
+1257;9;Fire Crystal [Rank I, 2 Buffs]
+1258;9;Fire Crystal [Rank II, 2 Buffs]
+1259;9;Fire Crystal [Rank III, 2 Buffs]
+1260;9;Fire Crystal [Rank IV, 2 Buffs]
+1261;9;Fire Crystal [Rank V, 2 Buffs]
+1262;9;Fire Crystal [Rank I, 2 Buffs]
+1263;9;Fire Crystal [Rank II, 2 Buffs]
+1264;9;Fire Crystal [Rank III, 2 Buffs]
+1265;9;Fire Crystal [Rank IV, 2 Buffs]
+1266;9;Fire Crystal [Rank V, 2 Buffs]
+1267;9;Fire Crystal [Rank I, 2 Buffs]
+1268;9;Fire Crystal [Rank II, 2 Buffs]
+1269;9;Fire Crystal [Rank III, 2 Buffs]
+1270;9;Fire Crystal [Rank IV, 2 Buffs]
+1271;9;Fire Crystal [Rank V, 2 Buffs]
+1272;9;Fire Crystal [Rank I, 2 Buffs]
+1273;9;Fire Crystal [Rank II, 2 Buffs]
+1274;9;Fire Crystal [Rank III, 2 Buffs]
+1275;9;Fire Crystal [Rank IV, 2 Buffs]
+1276;9;Fire Crystal [Rank V, 2 Buffs]
+1277;9;Fire Crystal [Rank I, 2 Buffs]
+1278;9;Fire Crystal [Rank II, 2 Buffs]
+1279;9;Fire Crystal [Rank III, 2 Buffs]
+1280;9;Fire Crystal [Rank IV, 2 Buffs]
+1281;9;Fire Crystal [Rank V, 2 Buffs]
+1282;9;Fire Crystal [Rank I, 2 Buffs]
+1283;9;Fire Crystal [Rank II, 2 Buffs]
+1284;9;Fire Crystal [Rank III, 2 Buffs]
+1285;9;Fire Crystal [Rank IV, 2 Buffs]
+1286;9;Fire Crystal [Rank V, 2 Buffs]
+1287;9;Fire Crystal [Rank I, 2 Buffs]
+1288;9;Fire Crystal [Rank II, 2 Buffs]
+1289;9;Fire Crystal [Rank III, 2 Buffs]
+1290;9;Fire Crystal [Rank IV, 2 Buffs]
+1291;9;Fire Crystal [Rank V, 2 Buffs]
+1292;9;Fire Crystal [Rank I, 2 Buffs]
+1293;9;Fire Crystal [Rank II, 2 Buffs]
+1294;9;Fire Crystal [Rank III, 2 Buffs]
+1295;9;Fire Crystal [Rank IV, 2 Buffs]
+1296;9;Fire Crystal [Rank V, 2 Buffs]
+1297;9;Fire Crystal [Rank I, 2 Buffs]
+1298;9;Fire Crystal [Rank II, 2 Buffs]
+1299;9;Fire Crystal [Rank III, 2 Buffs]
+1300;9;Fire Crystal [Rank IV, 2 Buffs]
+1301;9;Fire Crystal [Rank V, 2 Buffs]
+1302;9;Fire Crystal [Rank I, 2 Buffs]
+1303;9;Fire Crystal [Rank II, 2 Buffs]
+1304;9;Fire Crystal [Rank III, 2 Buffs]
+1305;9;Fire Crystal [Rank IV, 2 Buffs]
+1306;9;Fire Crystal [Rank V, 2 Buffs]
+1307;9;Fire Crystal [Rank I, 2 Buffs]
+1308;9;Fire Crystal [Rank II, 2 Buffs]
+1309;9;Fire Crystal [Rank III, 2 Buffs]
+1310;9;Fire Crystal [Rank IV, 2 Buffs]
+1311;9;Fire Crystal [Rank V, 2 Buffs]
+1312;9;Fire Crystal [Rank I, 2 Buffs]
+1313;9;Fire Crystal [Rank II, 2 Buffs]
+1314;9;Fire Crystal [Rank III, 2 Buffs]
+1315;9;Fire Crystal [Rank IV, 2 Buffs]
+1316;9;Fire Crystal [Rank V, 2 Buffs]
+1317;9;Fire Crystal [Rank I, 2 Buffs]
+1318;9;Fire Crystal [Rank II, 2 Buffs]
+1319;9;Fire Crystal [Rank III, 2 Buffs]
+1320;9;Fire Crystal [Rank IV, 2 Buffs]
+1321;9;Fire Crystal [Rank V, 2 Buffs]
+1322;9;Fire Crystal [Rank I, 2 Buffs]
+1323;9;Fire Crystal [Rank II, 2 Buffs]
+1324;9;Fire Crystal [Rank III, 2 Buffs]
+1325;9;Fire Crystal [Rank IV, 2 Buffs]
+1326;9;Fire Crystal [Rank V, 2 Buffs]
+1327;9;Fire Crystal [Rank I, 2 Buffs]
+1328;9;Fire Crystal [Rank II, 2 Buffs]
+1329;9;Fire Crystal [Rank III, 2 Buffs]
+1330;9;Fire Crystal [Rank IV, 2 Buffs]
+1331;9;Fire Crystal [Rank V, 2 Buffs]
+1332;9;Fire Crystal [Rank I, 2 Buffs]
+1333;9;Fire Crystal [Rank II, 2 Buffs]
+1334;9;Fire Crystal [Rank III, 2 Buffs]
+1335;9;Fire Crystal [Rank IV, 2 Buffs]
+1336;9;Fire Crystal [Rank V, 2 Buffs]
+1337;9;Fire Crystal [Rank I, 4 Buffs]
+1338;9;Fire Crystal [Rank II, 4 Buffs]
+1339;9;Fire Crystal [Rank III, 4 Buffs]
+1340;9;Fire Crystal [Rank IV, 4 Buffs]
+1341;9;Fire Crystal [Rank V, 4 Buffs]
+1342;9;Fire Crystal [Rank I, 4 Buffs]
+1343;9;Fire Crystal [Rank II, 4 Buffs]
+1344;9;Fire Crystal [Rank III, 4 Buffs]
+1345;9;Fire Crystal [Rank IV, 4 Buffs]
+1346;9;Fire Crystal [Rank V, 4 Buffs]
+1347;9;Fire Crystal [Rank I, 4 Buffs]
+1348;9;Fire Crystal [Rank II, 4 Buffs]
+1349;9;Fire Crystal [Rank III, 4 Buffs]
+1350;9;Fire Crystal [Rank IV, 4 Buffs]
+1351;9;Fire Crystal [Rank V, 4 Buffs]
+1352;9;Water Crystal [Rank I, 2 Buffs]
+1353;9;Water Crystal [Rank II, 2 Buffs]
+1354;9;Water Crystal [Rank III, 2 Buffs]
+1355;9;Water Crystal [Rank IV, 2 Buffs]
+1356;9;Water Crystal [Rank V, 2 Buffs]
+1357;9;Water Crystal [Rank I, 2 Buffs]
+1358;9;Water Crystal [Rank II, 2 Buffs]
+1359;9;Water Crystal [Rank III, 2 Buffs]
+1360;9;Water Crystal [Rank IV, 2 Buffs]
+1361;9;Water Crystal [Rank V, 2 Buffs]
+1362;9;Water Crystal [Rank I, 2 Buffs]
+1363;9;Water Crystal [Rank II, 2 Buffs]
+1364;9;Water Crystal [Rank III, 2 Buffs]
+1365;9;Water Crystal [Rank IV, 2 Buffs]
+1366;9;Water Crystal [Rank V, 2 Buffs]
+1367;9;Water Crystal [Rank I, 2 Buffs]
+1368;9;Water Crystal [Rank II, 2 Buffs]
+1369;9;Water Crystal [Rank III, 2 Buffs]
+1370;9;Water Crystal [Rank IV, 2 Buffs]
+1371;9;Water Crystal [Rank V, 2 Buffs]
+1372;9;Water Crystal [Rank I, 2 Buffs]
+1373;9;Water Crystal [Rank II, 2 Buffs]
+1374;9;Water Crystal [Rank III, 2 Buffs]
+1375;9;Water Crystal [Rank IV, 2 Buffs]
+1376;9;Water Crystal [Rank V, 2 Buffs]
+1377;9;Water Crystal [Rank I, 2 Buffs]
+1378;9;Water Crystal [Rank II, 2 Buffs]
+1379;9;Water Crystal [Rank III, 2 Buffs]
+1380;9;Water Crystal [Rank IV, 2 Buffs]
+1381;9;Water Crystal [Rank V, 2 Buffs]
+1382;9;Water Crystal [Rank I, 2 Buffs]
+1383;9;Water Crystal [Rank II, 2 Buffs]
+1384;9;Water Crystal [Rank III, 2 Buffs]
+1385;9;Water Crystal [Rank IV, 2 Buffs]
+1386;9;Water Crystal [Rank V, 2 Buffs]
+1387;9;Water Crystal [Rank I, 2 Buffs]
+1388;9;Water Crystal [Rank II, 2 Buffs]
+1389;9;Water Crystal [Rank III, 2 Buffs]
+1390;9;Water Crystal [Rank IV, 2 Buffs]
+1391;9;Water Crystal [Rank V, 2 Buffs]
+1392;9;Water Crystal [Rank I, 2 Buffs]
+1393;9;Water Crystal [Rank II, 2 Buffs]
+1394;9;Water Crystal [Rank III, 2 Buffs]
+1395;9;Water Crystal [Rank IV, 2 Buffs]
+1396;9;Water Crystal [Rank V, 2 Buffs]
+1397;9;Water Crystal [Rank I, 2 Buffs]
+1398;9;Water Crystal [Rank II, 2 Buffs]
+1399;9;Water Crystal [Rank III, 2 Buffs]
+1400;9;Water Crystal [Rank IV, 2 Buffs]
+1401;9;Water Crystal [Rank V, 2 Buffs]
+1402;9;Water Crystal [Rank I, 2 Buffs]
+1403;9;Water Crystal [Rank II, 2 Buffs]
+1404;9;Water Crystal [Rank III, 2 Buffs]
+1405;9;Water Crystal [Rank IV, 2 Buffs]
+1406;9;Water Crystal [Rank V, 2 Buffs]
+1407;9;Water Crystal [Rank I, 2 Buffs]
+1408;9;Water Crystal [Rank II, 2 Buffs]
+1409;9;Water Crystal [Rank III, 2 Buffs]
+1410;9;Water Crystal [Rank IV, 2 Buffs]
+1411;9;Water Crystal [Rank V, 2 Buffs]
+1412;9;Water Crystal [Rank I, 2 Buffs]
+1413;9;Water Crystal [Rank II, 2 Buffs]
+1414;9;Water Crystal [Rank III, 2 Buffs]
+1415;9;Water Crystal [Rank IV, 2 Buffs]
+1416;9;Water Crystal [Rank V, 2 Buffs]
+1417;9;Water Crystal [Rank I, 2 Buffs]
+1418;9;Water Crystal [Rank II, 2 Buffs]
+1419;9;Water Crystal [Rank III, 2 Buffs]
+1420;9;Water Crystal [Rank IV, 2 Buffs]
+1421;9;Water Crystal [Rank V, 2 Buffs]
+1422;9;Water Crystal [Rank I, 2 Buffs]
+1423;9;Water Crystal [Rank II, 2 Buffs]
+1424;9;Water Crystal [Rank III, 2 Buffs]
+1425;9;Water Crystal [Rank IV, 2 Buffs]
+1426;9;Water Crystal [Rank V, 2 Buffs]
+1427;9;Water Crystal [Rank I, 2 Buffs]
+1428;9;Water Crystal [Rank II, 2 Buffs]
+1429;9;Water Crystal [Rank III, 2 Buffs]
+1430;9;Water Crystal [Rank IV, 2 Buffs]
+1431;9;Water Crystal [Rank V, 2 Buffs]
+1432;9;Water Crystal [Rank I, 2 Buffs]
+1433;9;Water Crystal [Rank II, 2 Buffs]
+1434;9;Water Crystal [Rank III, 2 Buffs]
+1435;9;Water Crystal [Rank IV, 2 Buffs]
+1436;9;Water Crystal [Rank V, 2 Buffs]
+1437;9;Water Crystal [Rank I, 4 Buffs]
+1438;9;Water Crystal [Rank II, 4 Buffs]
+1439;9;Water Crystal [Rank III, 4 Buffs]
+1440;9;Water Crystal [Rank IV, 4 Buffs]
+1441;9;Water Crystal [Rank V, 4 Buffs]
+1442;9;Water Crystal [Rank I, 4 Buffs]
+1443;9;Water Crystal [Rank II, 4 Buffs]
+1444;9;Water Crystal [Rank III, 4 Buffs]
+1445;9;Water Crystal [Rank IV, 4 Buffs]
+1446;9;Water Crystal [Rank V, 4 Buffs]
+1447;9;Water Crystal [Rank I, 4 Buffs]
+1448;9;Water Crystal [Rank II, 4 Buffs]
+1449;9;Water Crystal [Rank III, 4 Buffs]
+1450;9;Water Crystal [Rank IV, 4 Buffs]
+1451;9;Water Crystal [Rank V, 4 Buffs]
+1452;9;Electric Crystal [Rank I, 2 Buffs]
+1453;9;Electric Crystal [Rank II, 2 Buffs]
+1454;9;Electric Crystal [Rank III, 2 Buffs]
+1455;9;Electric Crystal [Rank IV, 2 Buffs]
+1456;9;Electric Crystal [Rank V, 2 Buffs]
+1457;9;Electric Crystal [Rank I, 2 Buffs]
+1458;9;Electric Crystal [Rank II, 2 Buffs]
+1459;9;Electric Crystal [Rank III, 2 Buffs]
+1460;9;Electric Crystal [Rank IV, 2 Buffs]
+1461;9;Electric Crystal [Rank V, 2 Buffs]
+1462;9;Electric Crystal [Rank I, 2 Buffs]
+1463;9;Electric Crystal [Rank II, 2 Buffs]
+1464;9;Electric Crystal [Rank III, 2 Buffs]
+1465;9;Electric Crystal [Rank IV, 2 Buffs]
+1466;9;Electric Crystal [Rank V, 2 Buffs]
+1467;9;Electric Crystal [Rank I, 2 Buffs]
+1468;9;Electric Crystal [Rank II, 2 Buffs]
+1469;9;Electric Crystal [Rank III, 2 Buffs]
+1470;9;Electric Crystal [Rank IV, 2 Buffs]
+1471;9;Electric Crystal [Rank V, 2 Buffs]
+1472;9;Electric Crystal [Rank I, 2 Buffs]
+1473;9;Electric Crystal [Rank II, 2 Buffs]
+1474;9;Electric Crystal [Rank III, 2 Buffs]
+1475;9;Electric Crystal [Rank IV, 2 Buffs]
+1476;9;Electric Crystal [Rank V, 2 Buffs]
+1477;9;Electric Crystal [Rank I, 2 Buffs]
+1478;9;Electric Crystal [Rank II, 2 Buffs]
+1479;9;Electric Crystal [Rank III, 2 Buffs]
+1480;9;Electric Crystal [Rank IV, 2 Buffs]
+1481;9;Electric Crystal [Rank V, 2 Buffs]
+1482;9;Electric Crystal [Rank I, 2 Buffs]
+1483;9;Electric Crystal [Rank II, 2 Buffs]
+1484;9;Electric Crystal [Rank III, 2 Buffs]
+1485;9;Electric Crystal [Rank IV, 2 Buffs]
+1486;9;Electric Crystal [Rank V, 2 Buffs]
+1487;9;Electric Crystal [Rank I, 2 Buffs]
+1488;9;Electric Crystal [Rank II, 2 Buffs]
+1489;9;Electric Crystal [Rank III, 2 Buffs]
+1490;9;Electric Crystal [Rank IV, 2 Buffs]
+1491;9;Electric Crystal [Rank V, 2 Buffs]
+1492;9;Electric Crystal [Rank I, 2 Buffs]
+1493;9;Electric Crystal [Rank II, 2 Buffs]
+1494;9;Electric Crystal [Rank III, 2 Buffs]
+1495;9;Electric Crystal [Rank IV, 2 Buffs]
+1496;9;Electric Crystal [Rank V, 2 Buffs]
+1497;9;Electric Crystal [Rank I, 2 Buffs]
+1498;9;Electric Crystal [Rank II, 2 Buffs]
+1499;9;Electric Crystal [Rank III, 2 Buffs]
+1500;9;Electric Crystal [Rank IV, 2 Buffs]
+1501;9;Electric Crystal [Rank V, 2 Buffs]
+1502;9;Electric Crystal [Rank I, 2 Buffs]
+1503;9;Electric Crystal [Rank II, 2 Buffs]
+1504;9;Electric Crystal [Rank III, 2 Buffs]
+1505;9;Electric Crystal [Rank IV, 2 Buffs]
+1506;9;Electric Crystal [Rank V, 2 Buffs]
+1507;9;Electric Crystal [Rank I, 2 Buffs]
+1508;9;Electric Crystal [Rank II, 2 Buffs]
+1509;9;Electric Crystal [Rank III, 2 Buffs]
+1510;9;Electric Crystal [Rank IV, 2 Buffs]
+1511;9;Electric Crystal [Rank V, 2 Buffs]
+1512;9;Electric Crystal [Rank I, 2 Buffs]
+1513;9;Electric Crystal [Rank II, 2 Buffs]
+1514;9;Electric Crystal [Rank III, 2 Buffs]
+1515;9;Electric Crystal [Rank IV, 2 Buffs]
+1516;9;Electric Crystal [Rank V, 2 Buffs]
+1517;9;Electric Crystal [Rank I, 2 Buffs]
+1518;9;Electric Crystal [Rank II, 2 Buffs]
+1519;9;Electric Crystal [Rank III, 2 Buffs]
+1520;9;Electric Crystal [Rank IV, 2 Buffs]
+1521;9;Electric Crystal [Rank V, 2 Buffs]
+1522;9;Electric Crystal [Rank I, 2 Buffs]
+1523;9;Electric Crystal [Rank II, 2 Buffs]
+1524;9;Electric Crystal [Rank III, 2 Buffs]
+1525;9;Electric Crystal [Rank IV, 2 Buffs]
+1526;9;Electric Crystal [Rank V, 2 Buffs]
+1527;9;Electric Crystal [Rank I, 2 Buffs]
+1528;9;Electric Crystal [Rank II, 2 Buffs]
+1529;9;Electric Crystal [Rank III, 2 Buffs]
+1530;9;Electric Crystal [Rank IV, 2 Buffs]
+1531;9;Electric Crystal [Rank V, 2 Buffs]
+1532;9;Electric Crystal [Rank I, 2 Buffs]
+1533;9;Electric Crystal [Rank II, 2 Buffs]
+1534;9;Electric Crystal [Rank III, 2 Buffs]
+1535;9;Electric Crystal [Rank IV, 2 Buffs]
+1536;9;Electric Crystal [Rank V, 2 Buffs]
+1537;9;Electric Crystal [Rank I, 4 Buffs]
+1538;9;Electric Crystal [Rank II, 4 Buffs]
+1539;9;Electric Crystal [Rank III, 4 Buffs]
+1540;9;Electric Crystal [Rank IV, 4 Buffs]
+1541;9;Electric Crystal [Rank V, 4 Buffs]
+1542;9;Electric Crystal [Rank I, 4 Buffs]
+1543;9;Electric Crystal [Rank II, 4 Buffs]
+1544;9;Electric Crystal [Rank III, 4 Buffs]
+1545;9;Electric Crystal [Rank IV, 4 Buffs]
+1546;9;Electric Crystal [Rank V, 4 Buffs]
+1547;9;Electric Crystal [Rank I, 4 Buffs]
+1548;9;Electric Crystal [Rank II, 4 Buffs]
+1549;9;Electric Crystal [Rank III, 4 Buffs]
+1550;9;Electric Crystal [Rank IV, 4 Buffs]
+1551;9;Electric Crystal [Rank V, 4 Buffs]
+1552;9;Ice Crystal [Rank I, 2 Buffs]
+1553;9;Ice Crystal [Rank II, 2 Buffs]
+1554;9;Ice Crystal [Rank III, 2 Buffs]
+1555;9;Ice Crystal [Rank IV, 2 Buffs]
+1556;9;Ice Crystal [Rank V, 2 Buffs]
+1557;9;Ice Crystal [Rank I, 2 Buffs]
+1558;9;Ice Crystal [Rank II, 2 Buffs]
+1559;9;Ice Crystal [Rank III, 2 Buffs]
+1560;9;Ice Crystal [Rank IV, 2 Buffs]
+1561;9;Ice Crystal [Rank V, 2 Buffs]
+1562;9;Ice Crystal [Rank I, 2 Buffs]
+1563;9;Ice Crystal [Rank II, 2 Buffs]
+1564;9;Ice Crystal [Rank III, 2 Buffs]
+1565;9;Ice Crystal [Rank IV, 2 Buffs]
+1566;9;Ice Crystal [Rank V, 2 Buffs]
+1567;9;Ice Crystal [Rank I, 2 Buffs]
+1568;9;Ice Crystal [Rank II, 2 Buffs]
+1569;9;Ice Crystal [Rank III, 2 Buffs]
+1570;9;Ice Crystal [Rank IV, 2 Buffs]
+1571;9;Ice Crystal [Rank V, 2 Buffs]
+1572;9;Ice Crystal [Rank I, 2 Buffs]
+1573;9;Ice Crystal [Rank II, 2 Buffs]
+1574;9;Ice Crystal [Rank III, 2 Buffs]
+1575;9;Ice Crystal [Rank IV, 2 Buffs]
+1576;9;Ice Crystal [Rank V, 2 Buffs]
+1577;9;Ice Crystal [Rank I, 2 Buffs]
+1578;9;Ice Crystal [Rank II, 2 Buffs]
+1579;9;Ice Crystal [Rank III, 2 Buffs]
+1580;9;Ice Crystal [Rank IV, 2 Buffs]
+1581;9;Ice Crystal [Rank V, 2 Buffs]
+1582;9;Ice Crystal [Rank I, 2 Buffs]
+1583;9;Ice Crystal [Rank II, 2 Buffs]
+1584;9;Ice Crystal [Rank III, 2 Buffs]
+1585;9;Ice Crystal [Rank IV, 2 Buffs]
+1586;9;Ice Crystal [Rank V, 2 Buffs]
+1587;9;Ice Crystal [Rank I, 2 Buffs]
+1588;9;Ice Crystal [Rank II, 2 Buffs]
+1589;9;Ice Crystal [Rank III, 2 Buffs]
+1590;9;Ice Crystal [Rank IV, 2 Buffs]
+1591;9;Ice Crystal [Rank V, 2 Buffs]
+1592;9;Ice Crystal [Rank I, 2 Buffs]
+1593;9;Ice Crystal [Rank II, 2 Buffs]
+1594;9;Ice Crystal [Rank III, 2 Buffs]
+1595;9;Ice Crystal [Rank IV, 2 Buffs]
+1596;9;Ice Crystal [Rank V, 2 Buffs]
+1597;9;Ice Crystal [Rank I, 2 Buffs]
+1598;9;Ice Crystal [Rank II, 2 Buffs]
+1599;9;Ice Crystal [Rank III, 2 Buffs]
+1600;9;Ice Crystal [Rank IV, 2 Buffs]
+1601;9;Ice Crystal [Rank V, 2 Buffs]
+1602;9;Ice Crystal [Rank I, 2 Buffs]
+1603;9;Ice Crystal [Rank II, 2 Buffs]
+1604;9;Ice Crystal [Rank III, 2 Buffs]
+1605;9;Ice Crystal [Rank IV, 2 Buffs]
+1606;9;Ice Crystal [Rank V, 2 Buffs]
+1607;9;Ice Crystal [Rank I, 2 Buffs]
+1608;9;Ice Crystal [Rank II, 2 Buffs]
+1609;9;Ice Crystal [Rank III, 2 Buffs]
+1610;9;Ice Crystal [Rank IV, 2 Buffs]
+1611;9;Ice Crystal [Rank V, 2 Buffs]
+1612;9;Ice Crystal [Rank I, 2 Buffs]
+1613;9;Ice Crystal [Rank II, 2 Buffs]
+1614;9;Ice Crystal [Rank III, 2 Buffs]
+1615;9;Ice Crystal [Rank IV, 2 Buffs]
+1616;9;Ice Crystal [Rank V, 2 Buffs]
+1617;9;Ice Crystal [Rank I, 2 Buffs]
+1618;9;Ice Crystal [Rank II, 2 Buffs]
+1619;9;Ice Crystal [Rank III, 2 Buffs]
+1620;9;Ice Crystal [Rank IV, 2 Buffs]
+1621;9;Ice Crystal [Rank V, 2 Buffs]
+1622;9;Ice Crystal [Rank I, 2 Buffs]
+1623;9;Ice Crystal [Rank II, 2 Buffs]
+1624;9;Ice Crystal [Rank III, 2 Buffs]
+1625;9;Ice Crystal [Rank IV, 2 Buffs]
+1626;9;Ice Crystal [Rank V, 2 Buffs]
+1627;9;Ice Crystal [Rank I, 2 Buffs]
+1628;9;Ice Crystal [Rank II, 2 Buffs]
+1629;9;Ice Crystal [Rank III, 2 Buffs]
+1630;9;Ice Crystal [Rank IV, 2 Buffs]
+1631;9;Ice Crystal [Rank V, 2 Buffs]
+1632;9;Ice Crystal [Rank I, 2 Buffs]
+1633;9;Ice Crystal [Rank II, 2 Buffs]
+1634;9;Ice Crystal [Rank III, 2 Buffs]
+1635;9;Ice Crystal [Rank IV, 2 Buffs]
+1636;9;Ice Crystal [Rank V, 2 Buffs]
+1637;9;Ice Crystal [Rank I, 4 Buffs]
+1638;9;Ice Crystal [Rank II, 4 Buffs]
+1639;9;Ice Crystal [Rank III, 4 Buffs]
+1640;9;Ice Crystal [Rank IV, 4 Buffs]
+1641;9;Ice Crystal [Rank V, 4 Buffs]
+1642;9;Ice Crystal [Rank I, 4 Buffs]
+1643;9;Ice Crystal [Rank II, 4 Buffs]
+1644;9;Ice Crystal [Rank III, 4 Buffs]
+1645;9;Ice Crystal [Rank IV, 4 Buffs]
+1646;9;Ice Crystal [Rank V, 4 Buffs]
+1647;9;Ice Crystal [Rank I, 4 Buffs]
+1648;9;Ice Crystal [Rank II, 4 Buffs]
+1649;9;Ice Crystal [Rank III, 4 Buffs]
+1650;9;Ice Crystal [Rank IV, 4 Buffs]
+1651;9;Ice Crystal [Rank V, 4 Buffs]
+1652;9;Wind Crystal [Rank I, 2 Buffs]
+1653;9;Wind Crystal [Rank II, 2 Buffs]
+1654;9;Wind Crystal [Rank III, 2 Buffs]
+1655;9;Wind Crystal [Rank IV, 2 Buffs]
+1656;9;Wind Crystal [Rank V, 2 Buffs]
+1657;9;Wind Crystal [Rank I, 2 Buffs]
+1658;9;Wind Crystal [Rank II, 2 Buffs]
+1659;9;Wind Crystal [Rank III, 2 Buffs]
+1660;9;Wind Crystal [Rank IV, 2 Buffs]
+1661;9;Wind Crystal [Rank V, 2 Buffs]
+1662;9;Wind Crystal [Rank I, 2 Buffs]
+1663;9;Wind Crystal [Rank II, 2 Buffs]
+1664;9;Wind Crystal [Rank III, 2 Buffs]
+1665;9;Wind Crystal [Rank IV, 2 Buffs]
+1666;9;Wind Crystal [Rank V, 2 Buffs]
+1667;9;Wind Crystal [Rank I, 2 Buffs]
+1668;9;Wind Crystal [Rank II, 2 Buffs]
+1669;9;Wind Crystal [Rank III, 2 Buffs]
+1670;9;Wind Crystal [Rank IV, 2 Buffs]
+1671;9;Wind Crystal [Rank V, 2 Buffs]
+1672;9;Wind Crystal [Rank I, 2 Buffs]
+1673;9;Wind Crystal [Rank II, 2 Buffs]
+1674;9;Wind Crystal [Rank III, 2 Buffs]
+1675;9;Wind Crystal [Rank IV, 2 Buffs]
+1676;9;Wind Crystal [Rank V, 2 Buffs]
+1677;9;Wind Crystal [Rank I, 2 Buffs]
+1678;9;Wind Crystal [Rank II, 2 Buffs]
+1679;9;Wind Crystal [Rank III, 2 Buffs]
+1680;9;Wind Crystal [Rank IV, 2 Buffs]
+1681;9;Wind Crystal [Rank V, 2 Buffs]
+1682;9;Wind Crystal [Rank I, 2 Buffs]
+1683;9;Wind Crystal [Rank II, 2 Buffs]
+1684;9;Wind Crystal [Rank III, 2 Buffs]
+1685;9;Wind Crystal [Rank IV, 2 Buffs]
+1686;9;Wind Crystal [Rank V, 2 Buffs]
+1687;9;Wind Crystal [Rank I, 2 Buffs]
+1688;9;Wind Crystal [Rank II, 2 Buffs]
+1689;9;Wind Crystal [Rank III, 2 Buffs]
+1690;9;Wind Crystal [Rank IV, 2 Buffs]
+1691;9;Wind Crystal [Rank V, 2 Buffs]
+1692;9;Wind Crystal [Rank I, 2 Buffs]
+1693;9;Wind Crystal [Rank II, 2 Buffs]
+1694;9;Wind Crystal [Rank III, 2 Buffs]
+1695;9;Wind Crystal [Rank IV, 2 Buffs]
+1696;9;Wind Crystal [Rank V, 2 Buffs]
+1697;9;Wind Crystal [Rank I, 2 Buffs]
+1698;9;Wind Crystal [Rank II, 2 Buffs]
+1699;9;Wind Crystal [Rank III, 2 Buffs]
+1700;9;Wind Crystal [Rank IV, 2 Buffs]
+1701;9;Wind Crystal [Rank V, 2 Buffs]
+1702;9;Wind Crystal [Rank I, 2 Buffs]
+1703;9;Wind Crystal [Rank II, 2 Buffs]
+1704;9;Wind Crystal [Rank III, 2 Buffs]
+1705;9;Wind Crystal [Rank IV, 2 Buffs]
+1706;9;Wind Crystal [Rank V, 2 Buffs]
+1707;9;Wind Crystal [Rank I, 2 Buffs]
+1708;9;Wind Crystal [Rank II, 2 Buffs]
+1709;9;Wind Crystal [Rank III, 2 Buffs]
+1710;9;Wind Crystal [Rank IV, 2 Buffs]
+1711;9;Wind Crystal [Rank V, 2 Buffs]
+1712;9;Wind Crystal [Rank I, 2 Buffs]
+1713;9;Wind Crystal [Rank II, 2 Buffs]
+1714;9;Wind Crystal [Rank III, 2 Buffs]
+1715;9;Wind Crystal [Rank IV, 2 Buffs]
+1716;9;Wind Crystal [Rank V, 2 Buffs]
+1717;9;Wind Crystal [Rank I, 2 Buffs]
+1718;9;Wind Crystal [Rank II, 2 Buffs]
+1719;9;Wind Crystal [Rank III, 2 Buffs]
+1720;9;Wind Crystal [Rank IV, 2 Buffs]
+1721;9;Wind Crystal [Rank V, 2 Buffs]
+1722;9;Wind Crystal [Rank I, 2 Buffs]
+1723;9;Wind Crystal [Rank II, 2 Buffs]
+1724;9;Wind Crystal [Rank III, 2 Buffs]
+1725;9;Wind Crystal [Rank IV, 2 Buffs]
+1726;9;Wind Crystal [Rank V, 2 Buffs]
+1727;9;Wind Crystal [Rank I, 2 Buffs]
+1728;9;Wind Crystal [Rank II, 2 Buffs]
+1729;9;Wind Crystal [Rank III, 2 Buffs]
+1730;9;Wind Crystal [Rank IV, 2 Buffs]
+1731;9;Wind Crystal [Rank V, 2 Buffs]
+1732;9;Wind Crystal [Rank I, 2 Buffs]
+1733;9;Wind Crystal [Rank II, 2 Buffs]
+1734;9;Wind Crystal [Rank III, 2 Buffs]
+1735;9;Wind Crystal [Rank IV, 2 Buffs]
+1736;9;Wind Crystal [Rank V, 2 Buffs]
+1737;9;Wind Crystal [Rank I, 4 Buffs]
+1738;9;Wind Crystal [Rank II, 4 Buffs]
+1739;9;Wind Crystal [Rank III, 4 Buffs]
+1740;9;Wind Crystal [Rank IV, 4 Buffs]
+1741;9;Wind Crystal [Rank V, 4 Buffs]
+1742;9;Wind Crystal [Rank I, 4 Buffs]
+1743;9;Wind Crystal [Rank II, 4 Buffs]
+1744;9;Wind Crystal [Rank III, 4 Buffs]
+1745;9;Wind Crystal [Rank IV, 4 Buffs]
+1746;9;Wind Crystal [Rank V, 4 Buffs]
+1747;9;Wind Crystal [Rank I, 4 Buffs]
+1748;9;Wind Crystal [Rank II, 4 Buffs]
+1749;9;Wind Crystal [Rank III, 4 Buffs]
+1750;9;Wind Crystal [Rank IV, 4 Buffs]
+1751;9;Wind Crystal [Rank V, 4 Buffs]
+1752;9;Earth Crystal [Rank I, 2 Buffs]
+1753;9;Earth Crystal [Rank II, 2 Buffs]
+1754;9;Earth Crystal [Rank III, 2 Buffs]
+1755;9;Earth Crystal [Rank IV, 2 Buffs]
+1756;9;Earth Crystal [Rank V, 2 Buffs]
+1757;9;Earth Crystal [Rank I, 2 Buffs]
+1758;9;Earth Crystal [Rank II, 2 Buffs]
+1759;9;Earth Crystal [Rank III, 2 Buffs]
+1760;9;Earth Crystal [Rank IV, 2 Buffs]
+1761;9;Earth Crystal [Rank V, 2 Buffs]
+1762;9;Earth Crystal [Rank I, 2 Buffs]
+1763;9;Earth Crystal [Rank II, 2 Buffs]
+1764;9;Earth Crystal [Rank III, 2 Buffs]
+1765;9;Earth Crystal [Rank IV, 2 Buffs]
+1766;9;Earth Crystal [Rank V, 2 Buffs]
+1767;9;Earth Crystal [Rank I, 2 Buffs]
+1768;9;Earth Crystal [Rank II, 2 Buffs]
+1769;9;Earth Crystal [Rank III, 2 Buffs]
+1770;9;Earth Crystal [Rank IV, 2 Buffs]
+1771;9;Earth Crystal [Rank V, 2 Buffs]
+1772;9;Earth Crystal [Rank I, 2 Buffs]
+1773;9;Earth Crystal [Rank II, 2 Buffs]
+1774;9;Earth Crystal [Rank III, 2 Buffs]
+1775;9;Earth Crystal [Rank IV, 2 Buffs]
+1776;9;Earth Crystal [Rank V, 2 Buffs]
+1777;9;Earth Crystal [Rank I, 2 Buffs]
+1778;9;Earth Crystal [Rank II, 2 Buffs]
+1779;9;Earth Crystal [Rank III, 2 Buffs]
+1780;9;Earth Crystal [Rank IV, 2 Buffs]
+1781;9;Earth Crystal [Rank V, 2 Buffs]
+1782;9;Earth Crystal [Rank I, 2 Buffs]
+1783;9;Earth Crystal [Rank II, 2 Buffs]
+1784;9;Earth Crystal [Rank III, 2 Buffs]
+1785;9;Earth Crystal [Rank IV, 2 Buffs]
+1786;9;Earth Crystal [Rank V, 2 Buffs]
+1787;9;Earth Crystal [Rank I, 2 Buffs]
+1788;9;Earth Crystal [Rank II, 2 Buffs]
+1789;9;Earth Crystal [Rank III, 2 Buffs]
+1790;9;Earth Crystal [Rank IV, 2 Buffs]
+1791;9;Earth Crystal [Rank V, 2 Buffs]
+1792;9;Earth Crystal [Rank I, 2 Buffs]
+1793;9;Earth Crystal [Rank II, 2 Buffs]
+1794;9;Earth Crystal [Rank III, 2 Buffs]
+1795;9;Earth Crystal [Rank IV, 2 Buffs]
+1796;9;Earth Crystal [Rank V, 2 Buffs]
+1797;9;Earth Crystal [Rank I, 2 Buffs]
+1798;9;Earth Crystal [Rank II, 2 Buffs]
+1799;9;Earth Crystal [Rank III, 2 Buffs]
+1800;9;Earth Crystal [Rank IV, 2 Buffs]
+1801;9;Earth Crystal [Rank V, 2 Buffs]
+1802;9;Earth Crystal [Rank I, 2 Buffs]
+1803;9;Earth Crystal [Rank II, 2 Buffs]
+1804;9;Earth Crystal [Rank III, 2 Buffs]
+1805;9;Earth Crystal [Rank IV, 2 Buffs]
+1806;9;Earth Crystal [Rank V, 2 Buffs]
+1807;9;Earth Crystal [Rank I, 2 Buffs]
+1808;9;Earth Crystal [Rank II, 2 Buffs]
+1809;9;Earth Crystal [Rank III, 2 Buffs]
+1810;9;Earth Crystal [Rank IV, 2 Buffs]
+1811;9;Earth Crystal [Rank V, 2 Buffs]
+1812;9;Earth Crystal [Rank I, 2 Buffs]
+1813;9;Earth Crystal [Rank II, 2 Buffs]
+1814;9;Earth Crystal [Rank III, 2 Buffs]
+1815;9;Earth Crystal [Rank IV, 2 Buffs]
+1816;9;Earth Crystal [Rank V, 2 Buffs]
+1817;9;Earth Crystal [Rank I, 2 Buffs]
+1818;9;Earth Crystal [Rank II, 2 Buffs]
+1819;9;Earth Crystal [Rank III, 2 Buffs]
+1820;9;Earth Crystal [Rank IV, 2 Buffs]
+1821;9;Earth Crystal [Rank V, 2 Buffs]
+1822;9;Earth Crystal [Rank I, 2 Buffs]
+1823;9;Earth Crystal [Rank II, 2 Buffs]
+1824;9;Earth Crystal [Rank III, 2 Buffs]
+1825;9;Earth Crystal [Rank IV, 2 Buffs]
+1826;9;Earth Crystal [Rank V, 2 Buffs]
+1827;9;Earth Crystal [Rank I, 2 Buffs]
+1828;9;Earth Crystal [Rank II, 2 Buffs]
+1829;9;Earth Crystal [Rank III, 2 Buffs]
+1830;9;Earth Crystal [Rank IV, 2 Buffs]
+1831;9;Earth Crystal [Rank V, 2 Buffs]
+1832;9;Earth Crystal [Rank I, 2 Buffs]
+1833;9;Earth Crystal [Rank II, 2 Buffs]
+1834;9;Earth Crystal [Rank III, 2 Buffs]
+1835;9;Earth Crystal [Rank IV, 2 Buffs]
+1836;9;Earth Crystal [Rank V, 2 Buffs]
+1837;9;Earth Crystal [Rank I, 4 Buffs]
+1838;9;Earth Crystal [Rank II, 4 Buffs]
+1839;9;Earth Crystal [Rank III, 4 Buffs]
+1840;9;Earth Crystal [Rank IV, 4 Buffs]
+1841;9;Earth Crystal [Rank V, 4 Buffs]
+1842;9;Earth Crystal [Rank I, 4 Buffs]
+1843;9;Earth Crystal [Rank II, 4 Buffs]
+1844;9;Earth Crystal [Rank III, 4 Buffs]
+1845;9;Earth Crystal [Rank IV, 4 Buffs]
+1846;9;Earth Crystal [Rank V, 4 Buffs]
+1847;9;Earth Crystal [Rank I, 4 Buffs]
+1848;9;Earth Crystal [Rank II, 4 Buffs]
+1849;9;Earth Crystal [Rank III, 4 Buffs]
+1850;9;Earth Crystal [Rank IV, 4 Buffs]
+1851;9;Earth Crystal [Rank V, 4 Buffs]
+1852;10;Sweet Wasabi
+1853;10;Cool Potato
+1854;10;Red Lettuce
+1855;10;Chewy Radish
+1856;10;Hot Taro
+1857;10;Juicy Broccoli
+1858;10;Spicy Cabbage
+1859;10;Hard Lotus
+1860;10;Blue Turnip
+1861;10;Cute Parsnip
+1862;10;Poisonous Gourd
+1863;10;Humming Cabbage
+1864;10;Schorl Mushroom
+1865;10;Kelp Mushroom
+1866;10;Honey Rhubarb
+1867;10;Pink Asparagus
+1868;10;Tropical Radish
+1869;10;Dolphin Carrot
+1870;10;Gold Burdock
+1871;10;Sour Radish
+1872;10;Ice Cabbage
+1873;10;Girl Courgette
+1874;10;Amethyst Vanilla
+1875;10;Fire Pepper
+1876;10;Meaty Carrot
+1877;10;Bitter Broccoli
+1878;10;Sour Turnip
+1879;10;Golden Beetroot
+1880;10;Juicy Steakplant
+1881;10;Acerola Pea
+1882;10;Energy Aubergine
+1883;10;Sweet Pepper
+1884;10;Meaty Potato
+1885;10;Blue Root
+1886;10;Sarsaparilla
+1887;10;Black Liver Bean
+1888;10;Dance Apple
+1889;10;Black Kiwi
+1890;10;Clear Almond
+1891;10;Bright Fig
+1892;10;Dark Grape
+1893;10;Sour Gooseberry
+1894;10;Red Durian
+1895;10;Walnut Grape
+1896;10;Humming Plum
+1897;10;Dark Mango
+1898;10;Pure Cherry
+1899;10;Bitter Kiwi
+1900;10;Juicy Grape
+1901;10;Spicy Nut
+1902;10;Crimson Citrus
+1903;10;Cool Lemon
+1904;10;Heart Peach
+1905;10;Dry Lemon
+1906;10;Death Lychee
+1907;10;Hell Raspberry
+1908;10;Deadly Kiwi
+1909;10;Ether Plum
+1910;10;Fire Apple
+1911;10;Ruby Mangosteen
+1912;10;Sour Grape
+1913;10;Bitter Melon
+1914;10;Citron Gooseberry
+1915;10;Juicy Melon
+1916;10;Amethyst Melon
+1917;10;White Plum
+1918;10;Ice Kiwi Fruit
+1919;10;Spicy Papaya
+1920;10;Large Mango
+1921;10;Juicy Blueberry
+1922;10;Sweet Lime
+1923;10;Spicy Banana
+1924;10;Strong Dandelion
+1925;10;Moon Flower
+1926;10;Dawn Hydrangea
+1927;10;Insanity Mint
+1928;10;Night Tulip
+1929;10;Cute Orchid
+1930;10;Sirius Anemone
+1931;10;Spirit Clematis
+1932;10;Sunflower Rogue
+1933;10;Merry Coronation
+1934;10;Ether Rose
+1935;10;Orb Daisy
+1936;10;Forget-You-Not
+1937;10;Enigma Lotus
+1938;10;Humming Nettle
+1939;10;Princess Daffodil
+1940;10;Black Iris
+1941;10;Sea Berry
+1942;10;Despair Clover
+1943;10;Doomsday Poppy
+1944;10;Night Lily
+1945;10;Razor Teasel
+1946;10;Mystic Dahlia
+1947;10;Stardrop
+1948;10;Fortune Mallow
+1949;10;Black Peony
+1950;10;Fatal Belladonna
+1951;10;Jujube Silver
+1952;10;Black Blossom
+1953;10;Abyss Heather
+1954;10;Delerium Foxglove
+1955;10;Azure Hollyhock
+1956;10;Utopia Crocus
+1957;10;Lewisia Silver
+1958;10;Freesia Cyst
+1959;10;Bellflower Crystal
+1960;10;Shin Newt
+1961;10;Cave Rat
+1962;10;Shin Gecko
+1963;10;Happy Rabbit
+1964;10;Pyro Lizard
+1965;10;Amblygon Turtle
+1966;10;Dobercorgi
+1967;10;Light Bat
+1968;10;Black Frog
+1969;10;Yellow Cat
+1970;10;Chimera Rabbit
+1971;10;Venom Platypus
+1972;10;Humming Cat
+1973;10;Ash Fox
+1974;10;Soft Sea Cucumber
+1975;10;Fossil Monkey
+1976;10;Venomous Lizard
+1977;10;Sea Frog
+1978;10;Mane Cat
+1979;10;Dancing Squirrel
+1980;10;Lightning Weasel
+1981;10;Angry Monkey
+1982;10;Wet Rat
+1983;10;Ice Monkey
+1984;10;Crystal Frog
+1985;10;Mud Squirrel
+1986;10;Oil Oyster
+1987;10;Dark Fish
+1988;10;Ether Penguin
+1989;10;Rainbow Slug
+1990;10;Prism Centipede
+1991;10;Cable Mouse
+1992;10;Oil Fox
+1993;10;Blood Worm
+1994;10;Azure Mouse
+1995;10;Happy Duck
+1996;10;Prairie Dragonfly
+1997;10;Giant Hornet
+1998;10;White Beetle
+1999;10;Sorrow Beetle
+2000;10;Brown Butterfly
+2001;10;Gold Caterpillar
+2002;10;Rumble Stonefly
+2003;10;White Ladybird
+2004;10;Hill Firefly
+2005;10;Moth Crawler
+2006;10;Queen Locust
+2007;10;Fire Tarantula
+2008;10;Black Beetle
+2009;10;Rubber Mantis
+2010;10;Mystery Firefly
+2011;10;Scarlet Ladybird
+2012;10;Shield Bug
+2013;10;Hades Beetle
+2014;10;Benign Cricket
+2015;10;Rainbow Bug
+2016;10;Empress Beetle
+2017;10;Green Earwig
+2018;10;Blue Ladybird
+2019;10;Señorita Scarab
+2020;10;Emperor Beetle
+2021;10;Wheel Lurker
+2022;10;Ultramarine Ant
+2023;10;Scarlet Crawler
+2024;10;Shiny Scarab
+2025;10;Water Boatman
+2026;10;Electric Cricket
+2027;10;Scissor Bug
+2028;10;Dew Beetle
+2029;10;Glider Cockroach
+2030;10;Minute Mantis
+2031;10;Love Beetle
+2032;10;Kneecap Rock
+2033;10;Confusion Ivy
+2034;10;Clarity Moss
+2035;10;Mat Ice
+2036;10;Bluesky Bark
+2037;10;Pione Stone
+2038;10;Charcoal Leg
+2039;10;Ether Pebble
+2040;10;Rumble Coal
+2041;10;Mist Tree
+2042;10;Lemon Stone
+2043;10;Feather Leaf
+2044;10;Water Log
+2045;10;Wool Rock
+2046;10;White Tail
+2047;10;Marine Marble
+2048;10;Oil Branch
+2049;10;Dilemma Rock
+2050;10;Absurd Branch
+2051;10;Insanity Moss
+2052;10;Gypsum Branch
+2053;10;Black Ash
+2054;10;Emerald Snow
+2055;10;Rabbit Stone
+2056;10;Broom Icicle
+2057;10;Poisonous Coral
+2058;10;Poison Ivy
+2059;10;Amber Leaf
+2060;10;Ivy Nest
+2061;10;Mossy Panel
+2062;10;Bronze Wood
+2063;10;Missing Tree
+2064;10;Fortune Feather
+2065;10;White Styrene
+2066;10;Black Styrene
+2067;10;Blood Oil
+2068;10;Blue Chain
+2069;10;Rabbit Diode
+2070;10;Rusty Bolt
+2071;10;Winding Gear
+2072;10;Black Chip
+2073;10;Ready Coil
+2074;10;Blue Gear Shard
+2075;10;Rumble Part
+2076;10;White Tube
+2077;10;Green Diode
+2078;10;Spiral Lamp
+2079;10;White Cover
+2080;10;Modern Resistor
+2081;10;Green Cam
+2082;10;Strong Screw
+2083;10;Gold Condenser
+2084;10;Purple Lamp
+2085;10;Crimson Gear
+2086;10;Locust Spring
+2087;10;Art Core Coil
+2088;10;Tail Antenna
+2089;10;Warning Lamp
+2090;10;Digital Filament
+2091;10;Retro Diode
+2092;10;Modern Blue Gear
+2093;10;Snow Transistor
+2094;10;Fancy Bolt
+2095;10;Blue Light Amp
+2096;10;Fairy Tale Diode
+2097;10;Grape Spring
+2098;10;Angel Engine X
+2099;10;Leaf Coil
+2100;10;Warrior Screw
+2101;10;Golden Cog
+2102;10;Angel Engine Y
+2103;10;Thunder Compass
+2104;10;Plate Snow
+2105;10;Rainbow Zirconia
+2106;10;Leaf Mystery
+2107;10;Steel Silk
+2108;10;Gold Dust Illusion
+2109;10;Devious Gravity
+2110;10;White Songbird
+2111;10;Death Bangle
+2112;10;Verdant Eternity
+2113;10;White Night Rod
+2114;10;Love Crane
+2115;10;Fire Abron
+2116;10;Pauper's Cup
+2117;10;Happy Carnival
+2118;10;Dawn Dice
+2119;10;Lemonade Sky
+2120;10;Forest of Gossip
+2121;10;Gravel Disk
+2122;10;Rumble Box
+2123;10;Black Panel
+2124;10;Tasty Sausage
+2125;10;Macro Passion
+2126;10;High Violet
+2127;10;Steel Hauyne
+2128;10;Ha Ha Ha
+2129;10;Thunder Atmos
+2130;10;Blue Glow
+2131;10;Blue Blood
+2132;10;Frost Glass
+2133;10;Large Handcuffs
+2134;10;Red Frontier
+2135;10;Darkness Bottle
+2136;10;Bud of Eternity
+2137;10;Hunger Crash
+2138;10;Splish Splash
+2139;10;Star Cute
+2140;10;Summer Star
+2141;10;Tweet Tweet
+2142;10;Flame Frame
+2143;10;Eryth Blue
+2144;10;Dramatic Night
+2145;10;Smoke Cylinder
+2146;10;Sacred Panther
+2147;10;Parts Noble
+2148;10;Tap Tap Tap
+2149;10;High Entia Jewel
+2150;10;Coin of Fortune
+2151;10;Love Source
+2152;11;Stiff Hair
+2153;11;Broken Antenna
+2154;11;Small Shell
+2155;11;Small Scale
+2156;11;Filthy Wing
+2157;11;Perforated Oar
+2158;11;Muddy Pelt
+2159;11;Bunnit Paw
+2160;11;Tough Bunnit Wood
+2161;11;Caterpile Syrup
+2162;11;Sweet Nectar
+2163;11;Rock Krabble Shell
+2164;11;Raw Piranhax Meat
+2165;11;Sharp Antol Jaw
+2166;11;Vang Tooth
+2167;11;Yolkless Flamii Egg
+2168;11;Medicinal Brog Oil
+2169;11;Ancient Armour
+2170;11;Iron Krabble Shell
+2171;11;Fresh Sardi Meat
+2172;11;Special Bunnit Iron
+2173;11;Fresh Armu Milk
+2174;11;Tokilos Wing
+2175;11;Lucky Skeeter Wing
+2176;11;Krabble Artwork
+2177;11;Maternal Armu Milk
+2178;11;Quality Antol Jaw
+2179;11;Vang Hair Clip
+2180;11;Laughing Brog Bag
+2181;11;Quality Maris Shell
+2182;11;Quality Rhana Claw
+2183;11;Wet Hair
+2184;11;Old Insect Leg
+2185;11;Rough Skin
+2186;11;Small Claw
+2187;11;Bunniv Paw
+2188;11;Tatty Bunniv Wood
+2189;11;Heavy Bunniv Iron
+2190;11;Caterpile Poison
+2191;11;Black Nectar
+2192;11;Moving Lizard Tail
+2193;11;Blue Vang Wing
+2194;11;Croaking Brog Bag
+2195;11;Insect Jaw
+2196;11;Mollusc Mucus
+2197;11;Broken Pincer
+2198;11;Arachno Ear
+2199;11;Arachno Silk
+2200;11;Brog Smelling Salts
+2201;11;Krabble Stone
+2202;11;Giant Queen Jaw
+2203;11;Broken Part S
+2204;11;Broken Part M
+2205;11;Broken Part L
+2206;11;Genuine Plug
+2207;11;Genuine Frame
+2208;11;Genuine Shaft
+2209;11;Genuine Plate
+2210;11;Genuine Chamber
+2211;11;Genuine Crank
+2212;11;Smelly Hide
+2213;11;Fleecy Fur
+2214;11;Cracked Bill
+2215;11;Small Insect Leg
+2216;11;Strong Insect Leg
+2217;11;Slimy Tongue
+2218;11;Worn-Out Weapon
+2219;11;Rusty Part M
+2220;11;Rusty Part S
+2221;11;Rusty Part L
+2222;11;Small Dorsal Fin
+2223;11;Thick Armu Milk
+2224;11;Ardun Horn
+2225;11;Spotted Volff Hide
+2226;11;Fertile Flamii Egg
+2227;11;Bunnit Sapling
+2228;11;Bunnit Scrap Iron
+2229;11;Sharp Hox Spur
+2230;11;Sticky Web Fibre
+2231;11;Living Antol Eye
+2232;11;Giant King Jaw
+2233;11;Vang Third Molar
+2234;11;Flier Straw
+2235;11;Glowing Wisp Fluid
+2236;11;Thick Nectar
+2237;11;Ornate Lizard Claw
+2238;11;Brog Leg Meat
+2239;11;Ponio Neck Meat
+2240;11;Tirkin Crest
+2241;11;Tirkin Tail Feather
+2242;11;Generic Shaft
+2243;11;Generic Blade
+2244;11;Generic Plug
+2245;11;Generic Crank
+2246;11;Piranhax Roe
+2247;11;Fatty Sardi Meat
+2248;11;Light Rain Element
+2249;11;Generic Unit
+2250;11;Quality Web Fibre
+2251;11;Perfect Queen Jaw
+2252;11;Clear Torta Soup
+2253;11;Tatty Insect Wing
+2254;11;Red Wing
+2255;11;Slender Horn
+2256;11;Serrated Insect Leg
+2257;11;Small Oar
+2258;11;Flier Wing
+2259;11;Bitter Wisp Fluid
+2260;11;Red Rhogul Wing
+2261;11;100th Hox Spur
+2262;11;Crystal Antol Eye
+2263;11;Thunder Element
+2264;11;Small Upa Light
+2265;11;Flier Allure Scale
+2266;11;Wisp Glow Stick
+2267;11;Strong Hox Horn
+2268;11;Antol Pheromones
+2269;11;Hard Pincer
+2270;11;Shed Lizard Claw
+2271;11;Krabble Fixed Part
+2272;11;Rich Krabble Egg
+2273;11;Black Vang Fang
+2274;11;Cracked Part S
+2275;11;Cracked Part M
+2276;11;Cracked Part L
+2277;11;Upgraded Frame
+2278;11;Upgraded Spindle
+2279;11;Upgraded Shaft
+2280;11;Upgraded Plunger
+2281;11;Sticky Mucus
+2282;11;Cracked Claw
+2283;11;Ordinary Hide
+2284;11;Smelly Antenna
+2285;11;Shoddy Weapon
+2286;11;Rainstorm Element
+2287;11;Tornado Element
+2288;11;Glowing Upa Seed
+2289;11;Rhogul Axe Crest
+2290;11;Vang Milk Tooth
+2291;11;Twin Flamii Eggs
+2292;11;Quadwing Bag
+2293;11;Bunnia Scent Wood
+2294;11;Bunnia Ham
+2295;11;Potent Brog Poison
+2296;11;White Brog Liver
+2297;11;Fancy Volff Hide
+2298;11;Caterpile Vinegar
+2299;11;Igna Hide Jacket
+2300;11;Igna Stone Pot
+2301;11;Guardian's Wing
+2302;11;Gogol Snack Stash
+2303;11;Queen Cocoon
+2304;11;Upa Death Stone
+2305;11;Element Fragment
+2306;11;Caterpile Silk
+2307;11;Andos Fire Armour
+2308;11;Diamond Brog Eye
+2309;11;Immortal Moss
+2310;11;Tokilos King Egg
+2311;11;Demon Web Fibre
+2312;11;Lucky Arachno Box
+2313;11;Vang Star Wing
+2314;11;Gogol Horn
+2315;11;Black Queen Fibre
+2316;11;Arachno Sickle
+2317;11;Ardun Elder Beard
+2318;11;Ancient Sardi Meat
+2319;11;Lizard Moon Jewel
+2320;11;Tirkin Elder Medal
+2321;11;Bunniv Club
+2322;11;Quadwing Treasure
+2323;11;Flamii Waterfall Orb
+2324;11;Wisp Sun Bead
+2325;11;Hox Daylight Spur
+2326;11;Silver Rhogul Wing
+2327;11;Demonic Everflame
+2328;11;Ocean Elixir of Life
+2329;11;Bionis Ether
+2330;11;Infinite Telethia Pen
+2331;11;Telethia Compass
+2332;11;Glacier Element
+2333;11;Lucky Fang
+2334;11;Sky Jewel
+2335;11;Quirky Liver
+2336;11;Peachy Leg Joint
+2337;11;Thin Blood
+2338;11;Floppy Crest
+2339;11;Cloudy Eyeball
+2340;11;Sweaty Cloth
+2341;11;Worn Muscle Fibre
+2342;11;Musky Nectar
+2343;11;Decrepit Wing
+2344;11;Piranhax Belly Meat
+2345;11;Rich Sardi Meat
+2346;11;Bloody Brog Sweat
+2347;11;Eks Iron Heart
+2348;11;All-Seeing Eye
+2349;11;Tasty Ansel Wing
+2350;11;Feris Blood
+2351;11;Magic Stone
+2352;11;Upa Ember
+2353;11;Hode Camouflage
+2354;11;Hode Plank
+2355;11;Fancy Orluga Mask
+2356;11;Orluga Grass Skirt
+2357;11;Green Eluca Juice
+2358;11;Royal Apis Nectar
+2359;11;Delicious Vang Tail
+2360;11;Iron Antol Fibre
+2361;11;Telethia Feather
+2362;11;Telethia Pouch
+2363;11;Drizzle Element
+2364;11;Dust Element
+2365;11;Old Dragon Spine
+2366;11;Jagged Tail
+2367;11;Slimy Epithelium
+2368;11;Rotten Meat
+2369;11;Juicy Wild Meat
+2370;11;Scratched Jewel
+2371;11;Chipped Talon
+2372;11;Refined Ponytail
+2373;11;Large Hoof
+2374;11;Sturdy Armour
+2375;11;Lexos Beard
+2376;11;Hiln Coin Purse
+2377;11;Dense Ansel Meat
+2378;11;Ekidno Jaw Gristle
+2379;11;Juicy Laia Fish
+2380;11;Glossy Grady Fan
+2381;11;Pagul Hot Pot
+2382;11;Silver Eks Plate
+2383;11;Murky Eluca Water
+2384;11;Shiny Kromar Hide
+2385;11;Slick Kromar Stone
+2386;11;Hode Ponytail
+2387;11;Luxury Hode Wood
+2388;11;Orluga Slacks
+2389;11;Aqueous Andos Oil
+2390;11;Skyray Flesh
+2391;11;Squall Element
+2392;11;Ghost Mask
+2393;11;Assassin Mask
+2394;11;Protection Mask
+2395;11;Used Cylinder
+2396;11;New Cylinder
+2397;11;Old Remote Device
+2398;11;Andos Alloy Plate
+2399;11;Andos Antenna
+2400;11;Astas Remote Unit
+2401;11;Rufus Control Unit
+2402;11;Tyrea's Mask
+2403;11;Telethia Membrane
+2404;11;Black Fog Deposits
+2405;11;Lightning Element
+2406;11;Refined Horn
+2407;11;Hard Backbone
+2408;11;Salt-Roasted Bird
+2409;11;Fine-Quality Belt
+2410;11;Iron Lump
+2411;11;Dirty Snow Wing
+2412;11;Old Dragon Fang
+2413;11;Ories Horn
+2414;11;Frozen Aries Meat
+2415;11;Golden Eks Heart
+2416;11;Moramora Meat Pie
+2417;11;Ansel Fish Pie
+2418;11;Slobos Ice Rock
+2419;11;Apis Gold Nugget
+2420;11;Aged Chilkin Hair
+2421;11;Lucky Chilkin Ring
+2422;11;Silver Lexos Heart
+2423;11;Taos Phoenix Egg
+2424;11;Pagul Cold Pie
+2425;11;Soya Paste Shell
+2426;11;Antol Fire Pouch
+2427;11;Tasty Vang Feather
+2428;11;Feris Aged Ale
+2429;11;Hox Flint
+2430;11;Antol Sleeping Bag
+2431;11;Mumkhar's Razor
+2432;11;Snow Element
+2433;11;Fire Element
+2434;11;Dull Stone
+2435;11;Yellow Slobos Rock
+2436;11;Lexos Dragon Elixir
+2437;11;Element Chunk
+2438;11;Corona Element
+2439;11;Gigawatt Element
+2440;11;Regal Pterix Wing
+2441;11;Giant Sauros Fang
+2442;11;Mammut Horn
+2443;11;Royal Kromar Pike
+2444;11;Grady Colour Roe
+2445;11;Tude Jewel Shell
+2446;11;Thick Rhana Hide
+2447;11;Telethia Mirror
+2448;11;Telethia Ring
+2449;11;Telethia Tear
+2450;11;Lexos God Elixir
+2451;11;Normal Part S
+2452;11;Normal Part M
+2453;11;Normal Part L
+2454;11;Quality Jet
+2455;11;Quality Core
+2456;11;Quality Unit
+2457;11;Quality Fuse
+2458;11;Quality Plunger
+2459;11;Quality Shaft
+2460;11;Quality Plate
+2461;11;Quality Plug
+2462;11;Quality Frame
+2463;11;Quality Crank
+2464;11;Mumkhar's Claws
+2465;11;Precision Core
+2466;11;Refined Part S
+2467;11;Refined Part M
+2468;11;Refined Part L
+2469;11;Quality Thruster
+2470;11;Quality Lens
+2471;11;Old Part S
+2472;11;Old Part M
+2473;11;Twisted Leg
+2474;11;Fatty Fish Belly
+2475;11;Succulent Meat
+2476;11;Squishy Cartilage
+2477;11;Gooey Gunge
+2478;11;Dated Plug
+2479;11;Dated Crank
+2480;11;Dated Frame
+2481;11;Dated Plate
+2482;11;Pretty Flamii Leg
+2483;11;Piranhax Fishmeal
+2484;11;Pterix Energy Egg
+2485;11;Ponio Hoof Seal
+2486;11;Krabble Back Moss
+2487;11;Krabble Detergent
+2488;11;Royal Volff Hide
+2489;11;Electric Upa Tears
+2490;11;Silver Antol Fibre
+2491;11;Flier Bloom Scale
+2492;11;Wisp Bliss Ring
+2493;11;Tough Part S
+2494;11;Tough Part M
+2495;11;Tough Part L
+2496;11;Reinforced Jet
+2497;11;Reinforced Thruster
+2498;11;Reinforced Lens
+2499;11;Reinforced Plate
+2500;11;Reinforced Crank
+2501;11;Reinforced Frame
+2502;11;Reinforced Plug
+2503;11;Reinforced Plunger
+2504;11;Reinforced Unit
+2505;11;Fine Part S
+2506;11;Fine Part M
+2507;11;Fine Part L
+2508;11;Advanced Frame
+2509;11;Advanced Plug
+2510;11;Advanced Jet
+2511;11;Reinforced Core
+2512;11;Bloodstained Face
+2513;11;New Part S
+2514;11;New Part M
+2515;11;New Part L
+2516;11;Advanced Core
+2517;11;Advanced Lens
+2518;11;Advanced Thruster
+2519;11;Advanced Plate
+2520;11;Advanced Crank
+2521;11;Advanced Chamber
+2522;11;Gadolt's Gun Turret
+2523;11;Leader's Plate
+2524;11;Active Cells
+2525;11;Nutritious Microbes
+2526;11;Giant Protein
+2527;11;Wing of Light
+2528;11;Quality Selua Cell
+2529;11;Flexible Selua Cell
+2530;11;Steel Selua Cell
+2531;11;Hot Selua Cell
+2532;11;Telethia Tome
+2533;11;Telethia Stem Cell
+2534;11;Telethia Light Wing
+2535;11;Telethia Letter
+2536;11;Telethia Tear Jewel
+2537;11;Element Essence
+2538;11;Glowing Retina
+2539;11;Dark Claw
+2540;11;Sharp Ear
+2541;11;Tough Tendon
+2542;11;Gale Element
+2543;11;Desert Element
+2544;11;Flood Element
+2545;11;Inferno Element
+2546;11;Bolt Element
+2547;11;Blizzard Element
+2548;11;Ageshu Meat Cut
+2549;11;Crimson Egel Eye
+2550;11;Deinos Tongue
+2551;11;Laia Intestine
+2552;11;Steel Obart Claw
+2553;11;Long Barg Ear
+2554;11;Balgas Lung
+2555;11;Adam's Apple
+2556;11;Alcar's Inferno Eye
+2557;11;Dickson's Amulet
+2558;11;Heavy Hoof
+2559;11;Firm Skin
+2560;11;Pure-White Fang
+2561;11;Poisonous Needle
+2562;11;Lead Carapace
+2563;11;Grey Shell
+2564;11;Quality Pelt
+2565;11;Quality Horn
+2566;11;Quality Skin
+2567;11;Quality Beak
+2568;11;Quality Insect Jaw
+2569;11;Quality Scale
+2570;11;Quality Roe
+2571;11;Mana Fragment
+2572;11;Fossilised Bone
+2573;11;Mana Chunk
+2574;11;Warrior Race's Seal
+2575;11;Azure Flamii Wing
+2576;11;Libertas Glyph
+2577;11;Ratio Glyph
+2578;11;Experia Glyph
+2579;11;Scienti Glyph
+2580;11;Esse Glyph
+2581;11;Dialek Glyph
+2582;11;Spathi Glyph
+2583;11;Tempus Glyph
+2584;11;Creare Glyph
+2585;11;Natura Glyph
+2586;11;Veritas Glyph
+2587;11;Thick Shell
+2588;11;UNUSED_Material_437
+2589;11;UNUSED_Material_438
+2590;11;UNUSED_Material_439
+2591;11;UNUSED_Material_440
+2592;11;UNUSED_Material_441
+2593;11;UNUSED_Material_442
+2594;11;UNUSED_Material_443
+2595;11;UNUSED_Material_444
+2596;11;UNUSED_Material_445
+2597;11;UNUSED_Material_446
+2598;11;UNUSED_Material_447
+2599;11;UNUSED_Material_448
+2600;11;UNUSED_Material_449
+2601;11;UNUSED_Material_450
+2602;11;UNUSED_Material_451
+2603;11;UNUSED_Material_452
+2604;11;UNUSED_Material_453
+2605;11;UNUSED_Material_454
+2606;11;UNUSED_Material_455
+2607;11;UNUSED_Material_456
+2608;11;UNUSED_Material_457
+2609;11;UNUSED_Material_458
+2610;11;UNUSED_Material_459
+2611;11;UNUSED_Material_460
+2612;11;UNUSED_Material_461
+2613;11;UNUSED_Material_462
+2614;11;UNUSED_Material_463
+2615;11;UNUSED_Material_464
+2616;11;UNUSED_Material_465
+2617;11;UNUSED_Material_466
+2618;11;UNUSED_Material_467
+2619;11;UNUSED_Material_468
+2620;11;UNUSED_Material_469
+2621;11;UNUSED_Material_470
+2622;11;UNUSED_Material_471
+2623;11;UNUSED_Material_472
+2624;11;UNUSED_Material_473
+2625;11;UNUSED_Material_474
+2626;11;UNUSED_Material_475
+2627;11;UNUSED_Material_476
+2628;11;UNUSED_Material_477
+2629;11;UNUSED_Material_478
+2630;11;UNUSED_Material_479
+2631;11;UNUSED_Material_480
+2632;11;UNUSED_Material_481
+2633;11;UNUSED_Material_482
+2634;11;Orthlus' Liver
+2635;11;UNUSED_Material_484
+2636;11;UNUSED_Material_485
+2637;11;UNUSED_Material_486
+2638;11;UNUSED_Material_487
+2639;11;UNUSED_Material_488
+2640;11;UNUSED_Material_489
+2641;11;Stone
+2642;11;Stone
+2643;11;Stone
+2644;11;Stone
+2645;11;Stone
+2646;11;Wild Beast's Bone
+2647;11;Stone
+2648;11;Stone
+2649;11;Stone
+2650;11;Stone
+2651;11;Stone
+2652;11;Stone
+2653;11;Stone
+2654;11;Stone
+2655;11;Stone
+2656;11;Stone
+2657;11;Stone
+2658;11;Stone
+2659;11;Stone
+2660;11;Stone
+2661;11;Stone
+2662;11;Stone
+2663;11;Stone
+2664;12;Ether Cylinder
+2665;12;Queen's Gut Fluid
+2666;12;Blue Radiant
+2667;12;Rainbow Radiant
+2668;12;Dull Radiant
+2669;12;White Radiant
+2670;12;Swamp Item 5 (Temporary)
+2671;12;Water Ether Crystals
+2672;12;Magma Rock
+2673;12;Fortress Pass Key
+2674;12;Clean Water
+2675;12;Piezoelectric Unit
+2676;12;Bulkhead Key
+2677;12;Electrical Fuse
+2678;12;Ether Explosive
+2679;12;Timer
+2680;12;Dragon's Eye
+2681;12;Time Bomb
+2682;12;High Entia Emblem
+2683;12;Safety Device Key
+2684;12;Kitchen Door Key
+2685;12;UNUSED_KeyItem_22
+2686;12;UNUSED_KeyItem_23
+2687;12;UNUSED_KeyItem_24
+2688;12;UNUSED_KeyItem_25
+2689;12;UNUSED_KeyItem_26
+2690;12;UNUSED_KeyItem_27
+2691;12;UNUSED_KeyItem_28
+2692;12;UNUSED_KeyItem_29
+2693;12;UNUSED_KeyItem_30
+2694;12;UNUSED_KeyItem_31
+2695;12;UNUSED_KeyItem_32
+2696;12;UNUSED_KeyItem_33
+2697;12;UNUSED_KeyItem_34
+2698;12;UNUSED_KeyItem_35
+2699;12;UNUSED_KeyItem_36
+2700;12;UNUSED_KeyItem_37
+2701;12;UNUSED_KeyItem_38
+2702;12;UNUSED_KeyItem_39
+2703;12;UNUSED_KeyItem_40
+2704;12;UNUSED_KeyItem_41
+2705;12;UNUSED_KeyItem_42
+2706;12;UNUSED_KeyItem_43
+2707;12;Ultra Small Reactor
+2708;12;Mobile Furnace
+2709;12;Orthlus' Liver
+2710;12;Empress' Ornament
+2711;12;Transmission Bypass
+2712;12;Exhaust Pump
+2713;12;Mini Reactor
+2714;12;Marcia's Biscuits
+2715;12;Niranira's Letter
+2716;12;Désirée's Watch
+2717;12;Désirée's Watch
+2718;12;Tephra Drop
+2719;12;Top-Secret Orders
+2720;12;Sealed Package
+2721;12;Fragile Package
+2722;12;Old Ring
+2723;12;Marcia's Biscuits
+2724;12;Broken Pendant
+2725;12;Fixed Pendant
+2726;12;Message in a Bottle
+2727;12;Ether Cylinder
+2728;12;Letter for Emmy
+2729;12;Wedding Ring
+2730;12;Blue Glass Bead
+2731;12;Key
+2732;12;Spanner
+2733;12;Tatty Armour
+2734;12;Twisted Gun
+2735;12;Nicked Knife
+2736;12;Lost Pendant
+2737;12;Starlight Book
+2738;12;White Spider Heart
+2739;12;Inscription Rubbing
+2740;12;Sacrificial Tablet
+2741;12;Moonlight Book
+2742;12;Trader's Spare Key
+2743;12;Emergency Rations
+2744;12;Fixed Toy
+2745;12;Items from Ewan
+2746;12;Medicinal Herb
+2747;12;Lake Drop
+2748;12;Picture Book
+2749;12;Bird Necklace
+2750;12;Torn Paper
+2751;12;Clothes
+2752;12;Large Spider Shell
+2753;12;Giants' Mirror
+2754;12;Tokilos' Egg
+2755;12;Pandora Mushroom
+2756;12;Ether Wisdom
+2757;12;Nopon Coin
+2758;12;Daza's Letter
+2759;12;Gerugu's Letter
+2760;12;Top-Secret Data
+2761;12;Sky Frying Pan
+2762;12;Nature's Stove
+2763;12;Smelly Perfume
+2764;12;Pure Perfume
+2765;12;Statue Fragment
+2766;12;Bitter Pojics
+2767;12;Pojics
+2768;12;Swan Pendant
+2769;12;Mysterious Droplet
+2770;12;Poetry Anthology
+2771;12;Machina Energy
+2772;12;Tobogan Wing
+2773;12;Shilx's Delivery
+2774;12;Shilx's Delivery
+2775;12;Nasty Weed
+2776;12;Beautiful Portrait
+2777;12;Repulsive Portrait
+2778;12;Dynamite
+2779;12;Mushroom Cap
+2780;12;Nopon Potion
+2781;12;Red Pollen Orb
+2782;12;Highmore Caviar
+2783;12;Rear Door Key
+2784;12;Giants' Key
+2785;12;Daring of the Giants
+2786;12;Fresh Algora Sap
+2787;12;Yellow Pollen
+2788;12;Kilaki's Note
+2789;12;Filtered Water
+2790;12;Proof of Courage
+2791;12;Monster Egg
+2792;12;Ancient Document
+2793;12;Algora Sap
+2794;12;Sage's Food
+2795;12;Special Mixer
+2796;12;Sacred Flower
+2797;12;High Entia Medicine
+2798;12;Enlarging Seaweed
+2799;12;Cloth Shred
+2800;12;Dedeba's Evidence
+2801;12;Zazadan's Memo
+2802;12;Compost
+2803;12;Flower Bracelet
+2804;12;Deinos Hook
+2805;12;Shiny Ball
+2806;12;Lubricant Oil
+2807;12;Research Data
+2808;12;Chalk Container
+2809;12;Kasharpa Water
+2810;12;Statue Water
+2811;12;Makna Water
+2812;12;Affection Seal Half
+2813;12;Attachment Part
+2814;12;Armour Shard
+2815;12;Family Picture
+2816;12;Telethia Research
+2817;12;Arielle's Ring
+2818;12;Affection Seal Half
+2819;12;Secret Club Card
+2820;12;Pure Ice Flower
+2821;12;Morning Dew Ice
+2822;12;External Sensor
+2823;12;UNUSED_KeyItem_160
+2824;12;Memory 925 Piece
+2825;12;Memory 903
+2826;12;Oath Sword
+2827;12;Strong Lubricant Oil
+2828;12;Circulatory Fluid
+2829;12;Pure Water
+2830;12;Weapon Material
+2831;12;Mother's Necklace
+2832;12;Silver Ring
+2833;12;Merchant's Gift
+2834;12;Health Amulet
+2835;12;Divine Rock
+2836;12;Music Box
+2837;12;Boxed Meal
+2838;12;Deepwater Fish
+2839;12;Tear of the Sky
+2840;12;Mechonis Key
+2841;12;Ancient Lily
+2842;12;Emergency Rations
+2843;12;Carbo Shield
+2844;12;Nopon Claymore
+2845;12;Cloister Key
+2846;12;Truth of the Giants
+2847;12;Heart of the Giants
+2848;12;Mist Radiant
+2849;12;Ocean Radiant
+2850;12;Imperial Radiant
+2851;12;Snow Radiant
+2852;12;Red Pollen Orb
+2853;12;Grave Bouquet
+2854;12;Friendship Tokens
+2855;12;Miriall's Telescope
+2856;12;Stronger Telescope
+2857;12;Scarlen's Letter
+2858;12;Fallen Object
+2859;12;Kaleka's Repair Kit
+2860;12;Secret Nopon Elixir
+2861;12;Top-Secret Data
+2862;12;UNUSED_KeyItem_199
+2863;12;UNUSED_KeyItem_200
+2864;13;'Eater' Records
+2865;13;'Armour' Records
+2866;13;UNUSED_ArtsManual_3
+2867;13;UNUSED_ArtsManual_4
+2868;13;UNUSED_ArtsManual_5
+2869;13;UNUSED_ArtsManual_6
+2870;13;UNUSED_ArtsManual_7
+2871;13;UNUSED_ArtsManual_8
+2872;13;UNUSED_ArtsManual_9
+2873;13;UNUSED_ArtsManual_10
+2874;13;UNUSED_ArtsManual_11
+2875;13;UNUSED_ArtsManual_12
+2876;13;UNUSED_ArtsManual_13
+2877;13;UNUSED_ArtsManual_14
+2878;13;UNUSED_ArtsManual_15
+2879;13;UNUSED_ArtsManual_16
+2880;13;Double Blade [Intermediate]
+2881;13;Healing Energy [Intermediate]
+2882;13;Spear Blade [Intermediate]
+2883;13;Cross Impact [Intermediate]
+2884;13;Speed Shift [Intermediate]
+2885;13;Zero Gravity [Intermediate]
+2886;13;Lock-On [Intermediate]
+2887;13;Ether Drain [Intermediate]
+2888;13;Double Wind [Intermediate]
+2889;13;Mag Storm [Intermediate]
+2890;13;Shutdown [Intermediate]
+2891;13;Air Fang [Intermediate]
+2892;13;Power Drain [Intermediate]
+2893;13;Guard Shift [Intermediate]
+2894;13;Second Gear [Intermediate]
+2895;13;Final Cross [Intermediate]
+2896;13;Double Blade [Advanced]
+2897;13;Healing Energy [Advanced]
+2898;13;Spear Blade [Advanced]
+2899;13;Cross Impact [Advanced]
+2900;13;Speed Shift [Advanced]
+2901;13;Zero Gravity [Advanced]
+2902;13;Lock-On [Advanced]
+2903;13;Ether Drain [Advanced]
+2904;13;Double Wind [Advanced]
+2905;13;Mag Storm [Advanced]
+2906;13;Shutdown [Advanced]
+2907;13;Air Fang [Advanced]
+2908;13;Power Drain [Advanced]
+2909;13;Guard Shift [Advanced]
+2910;13;Second Gear [Advanced]
+2911;13;Final Cross [Advanced]
+2912;13;UNUSED_ArtsManual_49
+2913;13;UNUSED_ArtsManual_50
+2914;13;UNUSED_ArtsManual_51
+2915;13;UNUSED_ArtsManual_52
+2916;13;UNUSED_ArtsManual_53
+2917;13;UNUSED_ArtsManual_54
+2918;13;UNUSED_ArtsManual_55
+2919;13;UNUSED_ArtsManual_56
+2920;13;Slit Edge [Intermediate]
+2921;13;Back Slash [Intermediate]
+2922;13;Light Heal [Intermediate]
+2923;13;Shaker Edge [Intermediate]
+2924;13;Air Slash [Intermediate]
+2925;13;Shadow Eye [Intermediate]
+2926;13;Battle Soul [Intermediate]
+2927;13;Stream Edge [Intermediate]
+2928;13;Hammer Beat [Intermediate]
+2929;13;Wild Down [Intermediate]
+2930;13;Guard Shift [Intermediate]
+2931;13;War Swing [Intermediate]
+2932;13;Sword Drive [Intermediate]
+2933;13;Berserker [Intermediate]
+2934;13;Shield Bash [Intermediate]
+2935;13;Engage [Intermediate]
+2936;13;Last Stand [Intermediate]
+2937;13;Rage [Intermediate]
+2938;13;Magnum Charge [Intermediate]
+2939;13;Bone Upper [Intermediate]
+2940;13;Dive Sobat [Intermediate]
+2941;13;Aura Burst [Intermediate]
+2942;13;Anchor Chain [Intermediate]
+2943;13;Lariat [Intermediate]
+2944;13;Gale Slash [Intermediate]
+2945;13;Electric Gutbuster [Intermediate]
+2946;13;Peerless [Intermediate]
+2947;13;Worldly Slash [Intermediate]
+2948;13;Battle Eye [Intermediate]
+2949;13;Steel Strike [Intermediate]
+2950;13;Serene Heart [Intermediate]
+2951;13;Final Flicker [Intermediate]
+2952;13;Jaws of Death [Intermediate]
+2953;13;Tempest Kick [Intermediate]
+2954;13;Heat Haze [Intermediate]
+2955;13;Spirit Breath [Intermediate]
+2956;13;Soaring Tempest [Intermediate]
+2957;13;Thunder [Intermediate]
+2958;13;Demon Slayer [Intermediate]
+2959;13;Blinding Blossom [Intermediate]
+2960;13;Heal Bullet [Intermediate]
+2961;13;Thunder Bullet [Intermediate]
+2962;13;Shield Bullet [Intermediate]
+2963;13;Cure Bullet [Intermediate]
+2964;13;Drive Boost [Intermediate]
+2965;13;Heal Blast [Intermediate]
+2966;13;Heal Round [Intermediate]
+2967;13;Head Shot [Intermediate]
+2968;13;Metal Blast [Intermediate]
+2969;13;Aura Bullet [Intermediate]
+2970;13;Heat Bullet [Intermediate]
+2971;13;Head Shaker [Intermediate]
+2972;13;Covert Stance [Intermediate]
+2973;13;Heal Counter [Intermediate]
+2974;13;Tranquilliser [Intermediate]
+2975;13;Cure Round [Intermediate]
+2976;13;Happy Happy [Intermediate]
+2977;13;Bitey Bitey [Intermediate]
+2978;13;Sneaky [Intermediate]
+2979;13;Play Dead [Intermediate]
+2980;13;Lurgy [Intermediate]
+2981;13;Hero Time [Intermediate]
+2982;13;Roly-Poly [Intermediate]
+2983;13;Behave [Intermediate]
+2984;13;Riki is Angry [Intermediate]
+2985;13;Bedtime [Intermediate]
+2986;13;You Can Do It [Intermediate]
+2987;13;Peekaboo [Intermediate]
+2988;13;Say Sorry [Intermediate]
+2989;13;Burninate [Intermediate]
+2990;13;Freezinate [Intermediate]
+2991;13;Tantrum [Intermediate]
+2992;13;Summon Bolt [Intermediate]
+2993;13;Summon Flare [Intermediate]
+2994;13;Summon Ice [Intermediate]
+2995;13;Hypnotise [Intermediate]
+2996;13;Spear Break [Intermediate]
+2997;13;Shadow Stitch [Intermediate]
+2998;13;Summon Copy [Intermediate]
+2999;13;Reflection [Intermediate]
+3000;13;Summon Wind [Intermediate]
+3001;13;Summon Earth [Intermediate]
+3002;13;Summon Aqua [Intermediate]
+3003;13;Healing Gift [Intermediate]
+3004;13;Starlight Kick [Intermediate]
+3005;13;Power Effect [Intermediate]
+3006;13;Burst End [Intermediate]
+3007;13;Mind Blast [Intermediate]
+3008;13;UNUSED_ArtsManual_145
+3009;13;UNUSED_ArtsManual_146
+3010;13;UNUSED_ArtsManual_147
+3011;13;UNUSED_ArtsManual_148
+3012;13;UNUSED_ArtsManual_149
+3013;13;UNUSED_ArtsManual_150
+3014;13;UNUSED_ArtsManual_151
+3015;13;UNUSED_ArtsManual_152
+3016;13;Slit Edge [Advanced]
+3017;13;Back Slash [Advanced]
+3018;13;Light Heal [Advanced]
+3019;13;Shaker Edge [Advanced]
+3020;13;Air Slash [Advanced]
+3021;13;Shadow Eye [Advanced]
+3022;13;Battle Soul [Advanced]
+3023;13;Stream Edge [Advanced]
+3024;13;Hammer Beat [Advanced]
+3025;13;Wild Down [Advanced]
+3026;13;Guard Shift [Advanced]
+3027;13;War Swing [Advanced]
+3028;13;Sword Drive [Advanced]
+3029;13;Berserker [Advanced]
+3030;13;Shield Bash [Advanced]
+3031;13;Engage [Advanced]
+3032;13;Last Stand [Advanced]
+3033;13;Rage [Advanced]
+3034;13;Magnum Charge [Advanced]
+3035;13;Bone Upper [Advanced]
+3036;13;Dive Sobat [Advanced]
+3037;13;Aura Burst [Advanced]
+3038;13;Anchor Chain [Advanced]
+3039;13;Lariat [Advanced]
+3040;13;Gale Slash [Advanced]
+3041;13;Electric Gutbuster [Advanced]
+3042;13;Peerless [Advanced]
+3043;13;Worldly Slash [Advanced]
+3044;13;Battle Eye [Advanced]
+3045;13;Steel Strike [Advanced]
+3046;13;Serene Heart [Advanced]
+3047;13;Final Flicker [Advanced]
+3048;13;Jaws of Death [Advanced]
+3049;13;Tempest Kick [Advanced]
+3050;13;Heat Haze [Advanced]
+3051;13;Spirit Breath [Advanced]
+3052;13;Soaring Tempest [Advanced]
+3053;13;Thunder [Advanced]
+3054;13;Demon Slayer [Advanced]
+3055;13;Blinding Blossom [Advanced]
+3056;13;Heal Bullet [Advanced]
+3057;13;Thunder Bullet [Advanced]
+3058;13;Shield Bullet [Advanced]
+3059;13;Cure Bullet [Advanced]
+3060;13;Drive Boost [Advanced]
+3061;13;Heal Blast [Advanced]
+3062;13;Heal Round [Advanced]
+3063;13;Head Shot [Advanced]
+3064;13;Metal Blast [Advanced]
+3065;13;Aura Bullet [Advanced]
+3066;13;Heat Bullet [Advanced]
+3067;13;Head Shaker [Advanced]
+3068;13;Covert Stance [Advanced]
+3069;13;Heal Counter [Advanced]
+3070;13;Tranquilliser [Advanced]
+3071;13;Cure Round [Advanced]
+3072;13;Happy Happy [Advanced]
+3073;13;Bitey Bitey [Advanced]
+3074;13;Sneaky [Advanced]
+3075;13;Play Dead [Advanced]
+3076;13;Lurgy [Advanced]
+3077;13;Hero Time [Advanced]
+3078;13;Roly-Poly [Advanced]
+3079;13;Behave [Advanced]
+3080;13;Riki is Angry [Advanced]
+3081;13;Bedtime [Advanced]
+3082;13;You Can Do It [Advanced]
+3083;13;Peekaboo [Advanced]
+3084;13;Say Sorry [Advanced]
+3085;13;Burninate [Advanced]
+3086;13;Freezinate [Advanced]
+3087;13;Tantrum [Advanced]
+3088;13;Summon Bolt [Advanced]
+3089;13;Summon Flare [Advanced]
+3090;13;Summon Ice [Advanced]
+3091;13;Hypnotise [Advanced]
+3092;13;Spear Break [Advanced]
+3093;13;Shadow Stitch [Advanced]
+3094;13;Summon Copy [Advanced]
+3095;13;Reflection [Advanced]
+3096;13;Summon Wind [Advanced]
+3097;13;Summon Earth [Advanced]
+3098;13;Summon Aqua [Advanced]
+3099;13;Healing Gift [Advanced]
+3100;13;Starlight Kick [Advanced]
+3101;13;Power Effect [Advanced]
+3102;13;Burst End [Advanced]
+3103;13;Mind Blast [Advanced]
+3104;3;Strength Up [Rank I]
+3105;3;Strength Up [Rank II]
+3106;3;Strength Up [Rank III]
+3107;3;Strength Up [Rank IV]
+3108;3;Strength Up [Rank V]
+3109;3;Strength Up [Rank VI]
+3110;3;Ether Up [Rank I]
+3111;3;Ether Up [Rank II]
+3112;3;Ether Up [Rank III]
+3113;3;Ether Up [Rank IV]
+3114;3;Ether Up [Rank V]
+3115;3;Ether Up [Rank VI]
+3116;3;Agility Up [Rank I]
+3117;3;Agility Up [Rank II]
+3118;3;Agility Up [Rank III]
+3119;3;Agility Up [Rank IV]
+3120;3;Agility Up [Rank V]
+3121;3;Agility Up [Rank VI]
+3122;3;HP Up [Rank II]
+3123;3;HP Up [Rank III]
+3124;3;HP Up [Rank IV]
+3125;3;HP Up [Rank V]
+3126;3;Muscle Up [Rank I]
+3127;3;Muscle Up [Rank II]
+3128;3;Muscle Up [Rank III]
+3129;3;Muscle Up [Rank IV]
+3130;3;Muscle Up [Rank V]
+3131;3;Ether Def Up [Rank I]
+3132;3;Ether Def Up [Rank II]
+3133;3;Ether Def Up [Rank III]
+3134;3;Ether Def Up [Rank IV]
+3135;3;Ether Def Up [Rank V]
+3136;3;Double Attack [Rank II]
+3137;3;Double Attack [Rank IV]
+3138;3;Double Attack [Rank V]
+3139;3;Critical Up [Rank II]
+3140;3;Critical Up [Rank IV]
+3141;3;Critical Up [Rank V]
+3142;3;Attack Stability [Rank II]
+3143;3;Attack Stability [Rank III]
+3144;3;Attack Stability [Rank IV]
+3145;3;Attack Plus [Rank II]
+3146;3;Attack Plus [Rank III]
+3147;3;Attack Plus [Rank IV]
+3148;3;Daze Resist [Rank II]
+3149;3;Daze Resist [Rank III]
+3150;3;Daze Resist [Rank IV]
+3151;3;Daze Resist [Rank VI]
+3152;3;Pierce Resist [Rank II]
+3153;3;Pierce Resist [Rank III]
+3154;3;Pierce Resist [Rank IV]
+3155;3;Pierce Resist [Rank VI]
+3156;3;Chill Defence [Rank III]
+3157;3;Chill Defence [Rank IV]
+3158;3;Chill Defence [Rank V]
+3159;3;Chill Defence [Rank VI]
+3160;3;Sleep Resist [Rank II]
+3161;3;Sleep Resist [Rank III]
+3162;3;Sleep Resist [Rank IV]
+3163;3;Sleep Resist [Rank VI]
+3164;3;Slow Resist [Rank II]
+3165;3;Slow Resist [Rank III]
+3166;3;Slow Resist [Rank IV]
+3167;3;Slow Resist [Rank VI]
+3168;3;Bind Resist [Rank II]
+3169;3;Bind Resist [Rank III]
+3170;3;Bind Resist [Rank IV]
+3171;3;Bind Resist [Rank VI]
+3172;3;Blaze Defence [Rank III]
+3173;3;Blaze Defence [Rank IV]
+3174;3;Blaze Defence [Rank V]
+3175;3;Blaze Defence [Rank VI]
+3176;3;Lock-On Resist [Rank II]
+3177;3;Lock-On Resist [Rank III]
+3178;3;Lock-On Resist [Rank IV]
+3179;3;Lock-On Resist [Rank VI]
+3180;3;Confuse Resist [Rank II]
+3181;3;Confuse Resist [Rank III]
+3182;3;Confuse Resist [Rank IV]
+3183;3;Confuse Resist [Rank VI]
+3184;3;Critical Resist [Rank II]
+3185;3;Critical Resist [Rank III]
+3186;3;Critical Resist [Rank IV]
+3187;3;Critical Resist [Rank VI]
+3188;3;Topple Resist [Rank II]
+3189;3;Topple Resist [Rank III]
+3190;3;Topple Resist [Rank IV]
+3191;3;Topple Resist [Rank VI]
+3192;3;Good Footing [Rank II]
+3193;3;Good Footing [Rank III]
+3194;3;Good Footing [Rank IV]
+3195;3;Good Footing [Rank VI]
+3196;3;Arts Seal Resist [Rank II]
+3197;3;Arts Seal Resist [Rank III]
+3198;3;Arts Seal Resist [Rank IV]
+3199;3;Arts Seal Resist [Rank VI]
+3200;3;Bleed Defence [Rank III]
+3201;3;Bleed Defence [Rank IV]
+3202;3;Bleed Defence [Rank V]
+3203;3;Bleed Defence [Rank VI]
+3204;3;Divine Protect [Rank II]
+3205;3;Divine Protect [Rank III]
+3206;3;Divine Protect [Rank IV]
+3207;3;Divine Protect [Rank VI]
+3208;3;Poison Defence [Rank III]
+3209;3;Poison Defence [Rank IV]
+3210;3;Poison Defence [Rank V]
+3211;3;Poison Defence [Rank VI]
+3212;3;Spike Defence [Rank II]
+3213;3;Spike Defence [Rank III]
+3214;3;Spike Defence [Rank IV]
+3215;3;Spike Defence [Rank VI]
+3216;3;Paralysis Resist [Rank II]
+3217;3;Paralysis Resist [Rank III]
+3218;3;Paralysis Resist [Rank IV]
+3219;3;Paralysis Resist [Rank VI]
+3220;3;Debuff Resist [Rank II]
+3221;3;Debuff Resist [Rank III]
+3222;3;Debuff Resist [Rank IV]
+3223;3;Debuff Resist [Rank VI]
+3224;3;Daze Plus [Rank II]
+3225;3;Daze Plus [Rank IV]
+3226;3;Daze Plus [Rank VI]
+3227;3;Buff Time Plus [Rank II]
+3228;3;Buff Time Plus [Rank IV]
+3229;3;Buff Time Plus [Rank VI]
+3230;3;Weapon Power [Rank II]
+3231;3;Weapon Power [Rank IV]
+3232;3;Weapon Power [Rank VI]
+3233;3;Ether Protect [Rank II]
+3234;3;Ether Protect [Rank IV]
+3235;3;Ether Protect [Rank VI]
+3236;3;Accuracy Up [Rank II]
+3237;3;Accuracy Up [Rank IV]
+3238;3;Accuracy Up [Rank VI]
+3239;3;Haste [Rank II]
+3240;3;Haste [Rank IV]
+3241;3;Haste [Rank VI]
+3242;3;Topple Plus [Rank II]
+3243;3;Topple Plus [Rank IV]
+3244;3;Topple Plus [Rank VI]
+3245;3;Physical Protect [Rank II]
+3246;3;Physical Protect [Rank IV]
+3247;3;Physical Protect [Rank VI]
+3248;3;Night Vision [Rank II]
+3249;3;Night Vision [Rank IV]
+3250;3;Night Vision [Rank VI]
+3251;3;Debuff Plus [Rank II]
+3252;3;Debuff Plus [Rank IV]
+3253;3;Debuff Plus [Rank VI]
+3254;3;EXP Up [Rank I]
+3255;3;AP Up [Rank I]
+3256;3;Recovery Up [Rank II]
+3257;3;Recovery Up [Rank IV]
+3258;3;Recovery Up [Rank VI]
+3259;3;Aura Heal [Rank II]
+3260;3;Aura Heal [Rank IV]
+3261;3;Aura Heal [Rank VI]
+3262;3;Damage Heal [Rank II]
+3263;3;Damage Heal [Rank IV]
+3264;3;Damage Heal [Rank VI]
+3265;3;Arts Heal [Rank II]
+3266;3;Arts Heal [Rank IV]
+3267;3;Arts Heal [Rank VI]
+3268;3;Phys Def Down [Rank III]
+3269;3;Phys Def Down [Rank IV]
+3270;3;Phys Def Down [Rank V]
+3271;3;Paralysis [Rank II]
+3272;3;Paralysis [Rank IV]
+3273;3;Strength Down [Rank III]
+3274;3;Strength Down [Rank V]
+3275;3;Slow [Rank III]
+3276;3;Slow [Rank IV]
+3277;3;Bind [Rank II]
+3278;3;Bind [Rank IV]
+3279;3;Ether Def Down [Rank III]
+3280;3;Ether Def Down [Rank IV]
+3281;3;Ether Def Down [Rank V]
+3282;3;Agility Down [Rank III]
+3283;3;Agility Down [Rank IV]
+3284;3;Agility Down [Rank V]
+3285;3;Break [Rank II]
+3286;3;Break [Rank IV]
+3287;3;Ether Down [Rank III]
+3288;3;Ether Down [Rank IV]
+3289;3;Ether Down [Rank V]
+3290;3;HP Steal [Rank III]
+3291;3;HP Steal [Rank V]
+3292;3;HP Steal [Rank VI]
+3293;3;Lightning Attack [Rank II]
+3294;3;Lightning Attack [Rank IV]
+3295;3;Lightning Attack [Rank VI]
+3296;3;Electric Plus [Rank III]
+3297;3;Electric Plus [Rank V]
+3298;3;Back Atk Plus [Rank II]
+3299;3;Back Atk Plus [Rank III]
+3300;3;Back Atk Plus [Rank V]
+3301;3;First Atk Plus [Rank III]
+3302;3;First Atk Plus [Rank V]
+3303;3;Daze Up [Rank II]
+3304;3;Daze Up [Rank IV]
+3305;3;Daze Up [Rank V]
+3306;3;Blaze Plus [Rank III]
+3307;3;Blaze Plus [Rank V]
+3308;3;Blaze Attack [Rank II]
+3309;3;Blaze Attack [Rank IV]
+3310;3;Blaze Attack [Rank VI]
+3311;3;Spike [Rank II]
+3312;3;Spike [Rank III]
+3313;3;Spike [Rank IV]
+3314;3;Spike [Rank V]
+3315;3;Chill Plus [Rank III]
+3316;3;Chill Plus [Rank V]
+3317;3;Chill Attack [Rank II]
+3318;3;Chill Attack [Rank IV]
+3319;3;Chill Attack [Rank VI]
+3320;3;Bleed Attack [Rank II]
+3321;3;Bleed Attack [Rank IV]
+3322;3;Bleed Attack [Rank VI]
+3323;3;Bleed Plus [Rank III]
+3324;3;Bleed Plus [Rank V]
+3325;3;Topple Up [Rank II]
+3326;3;Topple Up [Rank IV]
+3327;3;Topple Up [Rank V]
+3328;3;Poison Plus [Rank III]
+3329;3;Poison Plus [Rank V]
+3330;3;Poison Attack [Rank II]
+3331;3;Poison Attack [Rank IV]
+3332;3;Poison Attack [Rank VI]
+3333;3;EXP Up [Rank IV]
+3334;3;Cast Quicken [Rank IV]
+3335;3;Cast Quicken [Rank VI]
+3336;3;Tension Swing [Rank III]
+3337;3;Tension Swing [Rank V]
+3338;3;Daze Tension [Rank III]
+3339;3;Daze Tension [Rank V]
+3340;3;Revival HP Up [Rank III]
+3341;3;Revival HP Up [Rank V]
+3342;3;Initial Tension [Rank III]
+3343;3;Initial Tension [Rank V]
+3344;3;Initial Tension [Rank VI]
+3345;3;Aggro Up [Rank III]
+3346;3;Aggro Up [Rank IV]
+3347;3;Aggro Up [Rank V]
+3348;3;EXP Up [Rank III]
+3349;3;EXP Up [Rank V]
+3350;3;EXP Up [Rank VI]
+3351;3;Auto-Atk Stealth [Rank II]
+3352;3;Auto-Atk Stealth [Rank IV]
+3353;3;Auto-Atk Stealth [Rank VI]
+3354;3;Arts Stealth [Rank II]
+3355;3;Arts Stealth [Rank IV]
+3356;3;Arts Stealth [Rank VI]
+3357;3;Talent Boost [Rank III]
+3358;3;Talent Boost [Rank V]
+3359;3;Heat Sink [Rank III]
+3360;3;Heat Sink [Rank V]
+3361;3;Heat Sink [Rank VI]
+3362;3;Aggro Down [Rank III]
+3363;3;Aggro Down [Rank IV]
+3364;3;Aggro Down [Rank V]
+3365;3;Unbeatable [Rank III]
+3366;3;Unbeatable [Rank IV]
+3367;3;Unbeatable [Rank VI]
+3368;3;AP Up [Rank III]
+3369;3;AP Up [Rank V]
+3370;3;AP Up [Rank VI]
+3371;3;Quick Step [Rank III]
+3372;3;Quick Step [Rank V]
+3373;3;Fall Defence [Rank II]
+3374;3;Fall Defence [Rank IV]
+3375;3;Fall Defence [Rank VI]
+3376;3;Aerial Cloak [Rank II]
+3377;3;Aerial Cloak [Rank IV]
+3378;3;Aerial Cloak [Rank VI]
+3379;3;Earth Cloak [Rank II]
+3380;3;Earth Cloak [Rank IV]
+3381;3;Earth Cloak [Rank VI]
+3382;3;Aquatic Cloak [Rank II]
+3383;3;Aquatic Cloak [Rank IV]
+3384;3;Aquatic Cloak [Rank VI]
+3385;3;Auto-Heal Up [Rank III]
+3386;3;Auto-Heal Up [Rank V]
+3387;3;Terrain Defence [Rank II]
+3388;3;Terrain Defence [Rank IV]
+3389;3;Terrain Defence [Rank VI]
+3390;3;Unbeatable [Rank VI]
+3391;3;Agility Weaken [Rank IV]
+3392;3;Strength Up [Rank VI]
+3393;3;Ether Up [Rank VI]
+3394;3;Agility Up [Rank VI]
+3395;3;HP Up [Rank VI]
+3396;3;Damage Heal [Rank I]
+3397;3;Armour Power [Rank VI]
+3398;3;HP Up [Rank VI]
+3399;3;Strength Up [Rank II]
+3400;3;HP Up [Rank II]
+3401;3;Arts Stealth [Rank III]
+3402;3;Haste [Rank V]
+3403;3;Topple Plus [Rank V]
+3404;3;Daze Plus [Rank V]
+3405;3;Pierce Resist [Rank V]
+3406;3;Good Footing [Rank V]
+3407;3;Break [Rank V]
+3408;3;Topple Resist [Rank VI]
+3409;3;Aura Heal [Rank III]
+3410;3;Attack Stability [Rank V]
+3411;3;Attack Stability [Rank VI]
+3412;3;Attack Plus [Rank V]
+3413;3;Attack Plus [Rank VI]
+3414;3;Aggro Down [Rank VI]
+3415;3;Aggro Up [Rank VI]
+3416;3;Damage Heal [Rank V]
+3417;3;Topple Resist [Rank V]
+3418;3;Arts Heal [Rank V]
+3419;3;Debuff Resist [Rank V]
+3420;3;Double Attack [Rank III]
+3421;3;Bleed Plus [Rank IV]
+3422;3;HP Steal [Rank II]
+3423;3;Spike Defence [Rank V]
+3424;3;Strength Up [Rank I]
+3425;3;Initial Tension [Rank I]
+3426;3;Aggro Up [Rank I]
+3427;3;Slow Resist [Rank I]
+3428;3;Ether Def Up [Rank I]
+3429;3;Ether Protect [Rank I]
+3430;3;Critical Resist [Rank I]
+3431;3;Auto-Atk Stealth [Rank I]
+3432;3;Muscle Up [Rank I]
+3433;3;Attack Stability [Rank I]
+3434;3;Attack Plus [Rank I]
+3435;3;Critical Up [Rank I]
+3436;3;HP Up [Rank I]
+3437;3;Auto-Heal Up [Rank I]
+3438;3;Recovery Up [Rank I]
+3439;3;Poison Defence [Rank I]
+3440;3;Ether Up [Rank I]
+3441;3;First Atk Plus [Rank I]
+3442;3;Cast Quicken [Rank I]
+3443;3;Daze Resist [Rank I]
+3444;3;Agility Up [Rank I]
+3445;3;Fall Defence [Rank I]
+3446;3;Topple Resist [Rank I]
+3447;3;Quick Step [Rank I]
+3448;3;Arts Heal [Rank I]
+3449;3;Paralysis Resist [Rank I]
+3450;3;Accuracy Up [Rank I]
+3451;3;Good Footing [Rank I]
+3452;3;Spike Defence [Rank I]
+3453;3;Blaze Defence [Rank I]
+3454;3;Bind [Rank I]
+3455;3;Agility Down [Rank I]
+3456;3;Bleed Defence [Rank I]
+3457;3;Night Vision [Rank II]
+3458;3;Physical Protect [Rank II]
+3459;3;Earth Cloak [Rank II]
+3460;3;Terrain Defence [Rank II]
+3461;3;Daze Up [Rank II]
+3462;3;Tension Swing [Rank II]
+3463;3;Double Attack [Rank II]
+3464;3;Paralysis [Rank II]
+3465;3;Sleep Resist [Rank II]
+3466;3;Strength Down [Rank II]
+3467;3;Blaze Plus [Rank II]
+3468;3;Aerial Cloak [Rank II]
+3469;3;Break [Rank II]
+3470;3;Bleed Plus [Rank II]
+3471;3;Ether Down [Rank II]
+3472;3;Poison Plus [Rank II]
+3473;3;Poison Attack [Rank III]
+3474;3;Phys Def Down [Rank III]
+3475;3;Electric Plus [Rank III]
+3476;3;Back Atk Plus [Rank III]
+3477;3;Arts Seal Resist [Rank III]
+3478;3;Aura Heal [Rank III]
+3479;3;Aquatic Cloak [Rank III]
+3480;3;Chill Defence [Rank III]
+3481;3;Bind Resist [Rank III]
+3482;3;Spike [Rank III]
+3483;3;Blaze Attack [Rank III]
+3484;3;Chill Attack [Rank III]
+3485;3;Lock-On Resist [Rank III]
+3486;3;Confuse Resist [Rank III]
+3487;3;Chill Plus [Rank III]
+3488;3;Topple Up [Rank III]
+3489;3;Damage Heal [Rank III]
+3490;3;Weapon Power [Rank III]
+3491;3;Bleed Attack [Rank III]
+3492;3;Buff Time Plus [Rank III]
+3493;3;Ether Def Down [Rank III]
+3494;3;Topple Plus [Rank III]
+3495;3;Daze Tension [Rank III]
+3496;3;Aggro Down [Rank III]
+3497;3;HP Steal [Rank IV]
+3498;3;Lightning Attack [Rank IV]
+3499;3;Slow [Rank IV]
+3500;3;Arts Stealth [Rank IV]
+3501;3;Revival HP Up [Rank IV]
+3502;3;Daze Plus [Rank IV]
+3503;3;Pierce Resist [Rank IV]
+3504;3;Divine Protect [Rank IV]
+3505;3;Unbeatable [Rank IV]
+3506;3;Talent Boost [Rank V]
+3507;3;Haste [Rank V]
+3508;3;Debuff Plus [Rank V]
+3509;3;Armour Power [Rank V]
+3510;3;Debuff Resist [Rank V]
+3511;3;Strength Up [Rank II]
+3512;3;Initial Tension [Rank II]
+3513;3;Aggro Up [Rank II]
+3514;3;Slow Resist [Rank II]
+3515;3;Ether Def Up [Rank II]
+3516;3;Ether Protect [Rank II]
+3517;3;Critical Resist [Rank II]
+3518;3;Auto-Atk Stealth [Rank II]
+3519;3;Muscle Up [Rank II]
+3520;3;Attack Stability [Rank II]
+3521;3;Attack Plus [Rank II]
+3522;3;Critical Up [Rank II]
+3523;3;HP Up [Rank II]
+3524;3;Auto-Heal Up [Rank II]
+3525;3;Recovery Up [Rank II]
+3526;3;Poison Defence [Rank II]
+3527;3;Ether Up [Rank II]
+3528;3;First Atk Plus [Rank II]
+3529;3;Cast Quicken [Rank II]
+3530;3;Daze Resist [Rank II]
+3531;3;Agility Up [Rank II]
+3532;3;Fall Defence [Rank II]
+3533;3;Topple Resist [Rank II]
+3534;3;Quick Step [Rank II]
+3535;3;Arts Heal [Rank II]
+3536;3;Paralysis Resist [Rank II]
+3537;3;Accuracy Up [Rank II]
+3538;3;Good Footing [Rank II]
+3539;3;Spike Defence [Rank II]
+3540;3;Blaze Defence [Rank II]
+3541;3;Bind [Rank II]
+3542;3;Agility Down [Rank II]
+3543;3;Bleed Defence [Rank II]
+3544;3;Night Vision [Rank III]
+3545;3;Physical Protect [Rank III]
+3546;3;Earth Cloak [Rank III]
+3547;3;Terrain Defence [Rank III]
+3548;3;Daze Up [Rank III]
+3549;3;Tension Swing [Rank III]
+3550;3;Double Attack [Rank III]
+3551;3;Paralysis [Rank III]
+3552;3;Sleep Resist [Rank III]
+3553;3;Strength Down [Rank III]
+3554;3;Blaze Plus [Rank III]
+3555;3;Aerial Cloak [Rank III]
+3556;3;Break [Rank III]
+3557;3;Bleed Plus [Rank III]
+3558;3;Ether Down [Rank III]
+3559;3;Poison Plus [Rank III]
+3560;3;Poison Attack [Rank IV]
+3561;3;Phys Def Down [Rank IV]
+3562;3;Electric Plus [Rank IV]
+3563;3;Back Atk Plus [Rank IV]
+3564;3;Arts Seal Resist [Rank IV]
+3565;3;Aura Heal [Rank IV]
+3566;3;Aquatic Cloak [Rank IV]
+3567;3;Chill Defence [Rank IV]
+3568;3;Bind Resist [Rank IV]
+3569;3;Spike [Rank IV]
+3570;3;Blaze Attack [Rank IV]
+3571;3;Chill Attack [Rank IV]
+3572;3;Lock-On Resist [Rank IV]
+3573;3;Confuse Resist [Rank IV]
+3574;3;Chill Plus [Rank IV]
+3575;3;Topple Up [Rank IV]
+3576;3;Damage Heal [Rank IV]
+3577;3;Weapon Power [Rank IV]
+3578;3;Bleed Attack [Rank IV]
+3579;3;Buff Time Plus [Rank IV]
+3580;3;Ether Def Down [Rank IV]
+3581;3;Topple Plus [Rank IV]
+3582;3;Daze Tension [Rank IV]
+3583;3;Aggro Down [Rank IV]
+3584;3;HP Steal [Rank V]
+3585;3;Lightning Attack [Rank V]
+3586;3;Slow [Rank V]
+3587;3;Arts Stealth [Rank V]
+3588;3;Revival HP Up [Rank V]
+3589;3;Daze Plus [Rank V]
+3590;3;Pierce Resist [Rank V]
+3591;3;Divine Protect [Rank V]
+3592;3;Unbeatable [Rank V]
+3593;3;Strength Up [Rank III]
+3594;3;Initial Tension [Rank III]
+3595;3;Aggro Up [Rank III]
+3596;3;Slow Resist [Rank III]
+3597;3;Ether Def Up [Rank III]
+3598;3;Ether Protect [Rank III]
+3599;3;Critical Resist [Rank III]
+3600;3;Auto-Atk Stealth [Rank III]
+3601;3;Muscle Up [Rank III]
+3602;3;Attack Stability [Rank III]
+3603;3;Attack Plus [Rank III]
+3604;3;Critical Up [Rank III]
+3605;3;HP Up [Rank III]
+3606;3;Auto-Heal Up [Rank III]
+3607;3;Recovery Up [Rank III]
+3608;3;Poison Defence [Rank III]
+3609;3;Ether Up [Rank III]
+3610;3;First Atk Plus [Rank III]
+3611;3;Cast Quicken [Rank III]
+3612;3;Daze Resist [Rank III]
+3613;3;Agility Up [Rank III]
+3614;3;Fall Defence [Rank III]
+3615;3;Topple Resist [Rank III]
+3616;3;Quick Step [Rank III]
+3617;3;Arts Heal [Rank III]
+3618;3;Paralysis Resist [Rank III]
+3619;3;Accuracy Up [Rank III]
+3620;3;Good Footing [Rank III]
+3621;3;Spike Defence [Rank III]
+3622;3;Blaze Defence [Rank III]
+3623;3;Bind [Rank III]
+3624;3;Agility Down [Rank III]
+3625;3;Bleed Defence [Rank III]
+3626;3;Night Vision [Rank IV]
+3627;3;Physical Protect [Rank IV]
+3628;3;Earth Cloak [Rank IV]
+3629;3;Terrain Defence [Rank IV]
+3630;3;Daze Up [Rank IV]
+3631;3;Tension Swing [Rank IV]
+3632;3;Double Attack [Rank IV]
+3633;3;Paralysis [Rank IV]
+3634;3;Sleep Resist [Rank IV]
+3635;3;Strength Down [Rank IV]
+3636;3;Blaze Plus [Rank IV]
+3637;3;Aerial Cloak [Rank IV]
+3638;3;Break [Rank IV]
+3639;3;Bleed Plus [Rank IV]
+3640;3;Ether Down [Rank IV]
+3641;3;Poison Plus [Rank IV]
+3642;3;Poison Attack [Rank V]
+3643;3;Phys Def Down [Rank V]
+3644;3;Electric Plus [Rank V]
+3645;3;Back Atk Plus [Rank V]
+3646;3;Arts Seal Resist [Rank V]
+3647;3;Aura Heal [Rank V]
+3648;3;Aquatic Cloak [Rank V]
+3649;3;Chill Defence [Rank V]
+3650;3;Bind Resist [Rank V]
+3651;3;Spike [Rank V]
+3652;3;Blaze Attack [Rank V]
+3653;3;Chill Attack [Rank V]
+3654;3;Lock-On Resist [Rank V]
+3655;3;Confuse Resist [Rank V]
+3656;3;Chill Plus [Rank V]
+3657;3;Topple Up [Rank V]
+3658;3;Damage Heal [Rank V]
+3659;3;Weapon Power [Rank V]
+3660;3;Bleed Attack [Rank V]
+3661;3;Buff Time Plus [Rank V]
+3662;3;Ether Def Down [Rank V]
+3663;3;Topple Plus [Rank V]
+3664;3;Daze Tension [Rank V]
+3665;3;Aggro Down [Rank V]
+3666;3;Strength Up [Rank IV]
+3667;3;Initial Tension [Rank IV]
+3668;3;Aggro Up [Rank IV]
+3669;3;Slow Resist [Rank IV]
+3670;3;Ether Def Up [Rank IV]
+3671;3;Ether Protect [Rank IV]
+3672;3;Critical Resist [Rank IV]
+3673;3;Auto-Atk Stealth [Rank IV]
+3674;3;Muscle Up [Rank IV]
+3675;3;Attack Stability [Rank IV]
+3676;3;Attack Plus [Rank IV]
+3677;3;Critical Up [Rank IV]
+3678;3;HP Up [Rank IV]
+3679;3;Auto-Heal Up [Rank IV]
+3680;3;Recovery Up [Rank IV]
+3681;3;Poison Defence [Rank IV]
+3682;3;Ether Up [Rank IV]
+3683;3;First Atk Plus [Rank IV]
+3684;3;Cast Quicken [Rank IV]
+3685;3;Daze Resist [Rank IV]
+3686;3;Agility Up [Rank IV]
+3687;3;Fall Defence [Rank IV]
+3688;3;Topple Resist [Rank IV]
+3689;3;Quick Step [Rank IV]
+3690;3;Arts Heal [Rank IV]
+3691;3;Paralysis Resist [Rank IV]
+3692;3;Accuracy Up [Rank IV]
+3693;3;Good Footing [Rank IV]
+3694;3;Spike Defence [Rank IV]
+3695;3;Blaze Defence [Rank IV]
+3696;3;Bind [Rank IV]
+3697;3;Agility Down [Rank IV]
+3698;3;Bleed Defence [Rank IV]
+3699;3;Night Vision [Rank V]
+3700;3;Physical Protect [Rank V]
+3701;3;Earth Cloak [Rank V]
+3702;3;Terrain Defence [Rank V]
+3703;3;Daze Up [Rank V]
+3704;3;Tension Swing [Rank V]
+3705;3;Double Attack [Rank V]
+3706;3;Paralysis [Rank V]
+3707;3;Sleep Resist [Rank V]
+3708;3;Strength Down [Rank V]
+3709;3;Blaze Plus [Rank V]
+3710;3;Aerial Cloak [Rank V]
+3711;3;Break [Rank V]
+3712;3;Bleed Plus [Rank V]
+3713;3;Ether Down [Rank V]
+3714;3;Poison Plus [Rank V]
+3715;3;Strength Up [Rank V]
+3716;3;Initial Tension [Rank V]
+3717;3;Aggro Up [Rank V]
+3718;3;Slow Resist [Rank V]
+3719;3;Ether Def Up [Rank V]
+3720;3;Ether Protect [Rank V]
+3721;3;Critical Resist [Rank V]
+3722;3;Auto-Atk Stealth [Rank V]
+3723;3;Muscle Up [Rank V]
+3724;3;Attack Stability [Rank V]
+3725;3;Attack Plus [Rank V]
+3726;3;Critical Up [Rank V]
+3727;3;HP Up [Rank V]
+3728;3;Auto-Heal Up [Rank V]
+3729;3;Recovery Up [Rank V]
+3730;3;Poison Defence [Rank V]
+3731;3;Ether Up [Rank V]
+3732;3;First Atk Plus [Rank V]
+3733;3;Cast Quicken [Rank V]
+3734;3;Daze Resist [Rank V]
+3735;3;Agility Up [Rank V]
+3736;3;Fall Defence [Rank V]
+3737;3;Topple Resist [Rank V]
+3738;3;Quick Step [Rank V]
+3739;3;Arts Heal [Rank V]
+3740;3;Paralysis Resist [Rank V]
+3741;3;Accuracy Up [Rank V]
+3742;3;Good Footing [Rank V]
+3743;3;Spike Defence [Rank V]
+3744;3;Blaze Defence [Rank V]
+3745;3;Bind [Rank V]
+3746;3;Agility Down [Rank V]
+3747;3;Bleed Defence [Rank V]
+3748;10;Cute Parsnip
+3749;10;Spicy Nut
+3750;10;Jujube Silver
+3751;10;Love Source
+3752;10;500
+3753;10;800
+3754;10;1000
+3755;10;1500
+3756;10;3000
+3757;10;5000
+3758;10;8000
+3759;10;10000
+3760;10;20000
+3761;10;30000
+3762;10;40000
+3763;10;50000
+3764;10;60000
+3765;10;65535
+3766;4;Prodigal Helm
+3767;5;Prodigal Cuirass
+3768;6;Prodigal Gauntlets
+3769;7;Prodigal Girdle
+3770;8;Prodigal Greaves
+3771;4;Invidious Helm
+3772;5;Invidious Cuirass
+3773;6;Invidious Gauntlets
+3774;7;Invidious Girdle
+3775;8;Invidious Greaves
+3776;4;Empyreal Helm
+3777;5;Empyreal Cuirass
+3778;6;Empyreal Gauntlets
+3779;7;Empyreal Girdle
+3780;8;Empyreal Greaves
+3781;4;Soloist's Goggles
+3782;5;Soloist's Frame
+3783;6;Soloist's Arms
+3784;7;Soloist's Boosters
+3785;8;Soloist's Drones
+3786;4;Quadrille Goggles
+3787;5;Quadrille Frame
+3788;6;Quadrille Arms
+3789;7;Quadrille Boosters
+3790;8;Quadrille Drones
+3791;4;Étoile Goggles
+3792;5;Étoile Frame
+3793;6;Étoile Arms
+3794;7;Étoile Boosters
+3795;8;Étoile Drones
+3796;4;Orion Cap L
+3797;5;Orion Top L
+3798;6;Orion Gloves L
+3799;7;Orion Bottoms L
+3800;8;Orion Shoes L
+3801;4;Rex Helm L
+3802;5;Rex Chest L
+3803;6;Rex Arms L
+3804;7;Rex Cuisses L
+3805;8;Rex Greaves L
+3806;4;M100 Helm L
+3807;5;M100 Plate L
+3808;6;M100 Arms L
+3809;7;M100 Cuisses L
+3810;8;M100 Greaves L
+3811;4;Taurus Helm L
+3812;5;Taurus Plate L
+3813;6;Taurus Arms L
+3814;7;Taurus Cuisses L
+3815;8;Taurus Greaves L
+3816;4;Titan Helm L
+3817;5;Titan Plate L
+3818;6;Titan Arms L
+3819;7;Titan Greaves L
+3820;8;Titan Sabatons L
+3821;4;Heavy Gear L
+3822;5;Heavy Armour L
+3823;6;Heavy Gauntlets L
+3824;7;Heavy Leggings L
+3825;8;Heavy Boots L
+3826;4;Ledios Helm L
+3827;5;Ledios Plate L
+3828;6;Ledios Arms L
+3829;7;Ledios Cuisses L
+3830;8;Ledios Greaves L
+3831;4;Power Goggles L
+3832;5;Power Frame L
+3833;6;Power Arms L
+3834;7;Power Boosters L
+3835;8;Mitra Drones L
+3836;4;Power II Goggles L
+3837;5;Power II Frame L
+3838;6;Power II Arms L
+3839;7;Power II Boosters L
+3840;8;Ishtar Drones L
+3841;4;Power III Goggles L
+3842;5;Power III Frame L
+3843;6;Power III Arms L
+3844;7;Power III Boosters L
+3845;4;Resort Mask
+3846;5;Resort Hoodie
+3847;6;Resort Gloves
+3848;7;Resort Leggings
+3849;8;Resort Fins
+3850;4;Camo Mask
+3851;5;Camo Hoodie
+3852;6;Camo Gloves
+3853;7;Camo Leggings
+3854;8;Camo Fins
+3855;4;Trendy Goggles
+3856;5;Trendy Hoodie
+3857;6;Trendy Gloves
+3858;7;Trendy Leggings
+3859;8;Trendy Fins
+3860;4;Exotic Glasses
+3861;5;Exotic Top
+3862;6;Exotic Watch
+3863;7;Exotic Bottoms
+3864;8;Exotic Sandals
+3865;4;Debonair Glasses
+3866;5;Debonair Top
+3867;6;Debonair Watch
+3868;7;Debonair Bottoms
+3869;8;Debonair Sandals
+3870;4;Bourgeois Glasses
+3871;5;Bourgeois Top
+3872;6;Bourgeois Watch
+3873;7;Bourgeois Bottoms
+3874;8;Bourgeois Sandals
+3875;4;Festival Headband
+3876;5;Festival Shirt
+3877;6;Festival Beads
+3878;7;Festival Shorts
+3879;8;Festival Sandals
+3880;4;Worker's Headband
+3881;5;Worker's Shirt
+3882;6;Worker's Beads
+3883;7;Worker's Shorts
+3884;8;Worker's Sandals
+3885;4;Blossom Headband
+3886;5;Blossom Shirt
+3887;6;Blossom Beads
+3888;7;Blossom Shorts
+3889;8;Blossom Sandals
+3890;4;Captain's Hat
+3891;5;Captain's Top
+3892;6;Captain's Bangles
+3893;7;Captain's Skirt
+3894;8;Captain's Pumps
+3895;4;Officer's Hat
+3896;5;Officer's Top
+3897;6;Officer's Bangles
+3898;7;Officer's Skirt
+3899;8;Officer's Pumps
+3900;4;Admiral's Hat
+3901;5;Admiral's Top
+3902;6;Admiral's Bangles
+3903;7;Admiral's Skirt
+3904;8;Admiral's Pumps
+3905;4;Pineapple Glasses
+3906;5;Pineapple Top
+3907;6;Pineapple Gauntlets
+3908;7;Starchy Knapsack
+3909;4;Denim Glasses
+3910;5;Denim Top
+3911;6;Denim Gauntlets
+3912;7;Rustly Knapsack
+3913;4;Tropical Glasses
+3914;5;Tropical Top
+3915;6;Tropical Gauntlets
+3916;7;Clattery Knapsack
+3917;4;Eryth Corsage
+3918;5;Eryth Top
+3919;6;Eryth Bracelets
+3920;7;Eryth Skirt
+3921;8;Eryth Sandals
+3922;4;Frontier Corsage
+3923;5;Frontier Top
+3924;6;Frontier Bracelets
+3925;7;Frontier Skirt
+3926;8;Frontier Sandals
+3927;4;Valak Corsage
+3928;5;Valak Top
+3929;6;Valak Bracelets
+3930;7;Valak Skirt
+3931;8;Valak Sandals
+3932;4;Sun Visor
+3933;5;Water Frame
+3934;6;Water Arms
+3935;7;Water Boosters
+3936;8;Mフィオ水着脚ベース
+3937;4;F Sun Visor
+3938;5;F Water Frame
+3939;6;F Water Arms
+3940;7;F Water Boosters
+3941;8;Mフィオ水着脚色替1
+3942;4;H Sun Visor
+3943;5;H Water Frame
+3944;6;H Water Arms
+3945;7;H Water Boosters
+3946;8;Mフィオ水着脚色替2
+3947;4;Power II Frame
+3948;4;Tyrea's Mask
+3949;2;Husk Shooter
+3950;2;Seed Blammer
+3951;2;Fruit Spouter
+3952;2;Friend Shelterer
+3953;2;Madcap Stopper
+3954;2;Snughug Blocker
+3955;2;Snughug Blocker
+3956;10;Rainbow Carrot
+3957;10;High Leaf
+3958;10;Cream Wheat
+3959;10;Morrow Cob
+3960;10;Kilopumpkin
+3961;10;Angel Bream
+3962;10;Gentleclam
+3963;10;Sky Mole
+3964;10;Blade Bird
+3965;10;Palmtop Elephant
+3966;10;Half Part
+3967;10;Snare Wire
+3968;10;Subzero Steel
+3969;10;Blaze Chain
+3970;10;Congenial Cogs
+3971;12;Dawn Smile
+3972;12;Airship Parts
+3973;12;Plump Wildgrass
+3974;12;Nonona's License
+3975;12;First-Aid Kit
+3976;12;Glutton's Herb
+3977;12;Letter for Melia
+3978;12;Faded ID Tag
+3979;12;Elastic Ivy
+3980;12;Sparkle Stone
+3981;12;Brightite
+3982;12;Tutu's Mirror
+3983;12;Warped Bangle
+3984;12;High Entia Feather
+3985;12;Hekasa's Stake
+3986;12;Pointy Stake
+3987;12;Tei-Tei's Charm
+3988;12;Melekanze's Camera
+3989;12;Photo of Glow Deinos
+3990;12;Photo of Dozy Eluca
+3991;12;Somebody's Memo
+3992;12;Peppity Herb
+3993;12;Hover Stone
+3994;12;Eks Beastmeat
+3995;12;Paleglow Ring
+3996;12;Katchafish DX
+3997;12;Sweet Cherry
+3998;12;Pororo's Favourite
+3999;12;Ether Pick
+4000;12;Reinforced Ether Pick
+4001;12;High Ether Crystal
+4002;12;Common Ether Pick
+4003;12;Broken Ether Pick
+4004;12;Cerulean Shard
+4005;12;Dried Golden Shroom
+4006;10;Swirly Slash
+4007;10;Hero Nipper
+4008;10;Highlightning
+4009;10;Dubious Sculpture
+4010;10;Shimmertumble
+4011;4;Sprout Hair Tie
+4012;4;Sapling Hair Tie
+4013;4;Redwood Hair Tie
+4014;4;装備していません　（誤）
+4015;5;Sprout Vest
+4016;5;Sapling Vest
+4017;5;Redwood Vest
+4018;5;装備していません　（誤）
+4019;6;Sprout Amulet
+4020;6;Sapling Amulet
+4021;6;Redwood Amulet
+4022;6;装備していません　（誤）
+4023;7;Sprout Knapsack
+4024;7;Sapling Knapsack
+4025;7;Redwood Knapsack
+4026;7;装備していません　（誤）
+4027;8;Sprout Anklet
+4028;8;Sapling Anklet
+4029;8;Redwood Anklet
+4030;8;装備していません　（誤）
+4031;4;Keepsake Ribbon
+4032;4;Nostalgic Ribbon
+4033;4;Jubilant Ribbon
+4034;4;装備していません　（誤）
+4035;5;Keepsake Plate
+4036;5;Nostalgic Plate
+4037;5;Jubilant Plate
+4038;5;装備していません　（誤）
+4039;6;Keepsake Amulet
+4040;6;Nostalgic Amulet
+4041;6;Jubilant Amulet
+4042;6;装備していません　（誤）
+4043;7;Keepsake Rucksack
+4044;7;Nostalgic Rucksack
+4045;7;Jubilant Rucksack
+4046;7;装備していません　（誤）
+4047;8;Keepsake Anklet
+4048;8;Nostalgic Anklet
+4049;8;Jubilant Anklet
+4050;8;装備していません　（誤）
+4051;2;Monado Replica EX
+4052;2;Monado Replica EX+
+4053;2;World Ender
+4054;4;REX Hood
+4055;4;Rudra Hood
+4056;4;Replica Hood
+4057;4;Anemone Brim
+4058;4;Anemone Brim D
+4059;4;Anemone Brim L
+4060;5;REX Jacket
+4061;5;Rudra Jacket
+4062;5;Replica Jacket
+4063;5;Princess Dress
+4064;5;Princess Dress D
+4065;5;Princess Dress L
+4066;6;REX Wristband
+4067;6;Rudra Wristband
+4068;6;Replica Wristband
+4069;6;Pointed Sleeves
+4070;6;Pointed Sleeves D
+4071;6;Pointed Sleeves L
+4072;7;REX Bottoms
+4073;7;Rudra Bottoms
+4074;7;Replica Bottoms
+4075;7;Princess Bottoms
+4076;7;Princess Bottoms D
+4077;7;Princess Bottoms L
+4078;8;REX Shoes
+4079;8;Rudra Shoes
+4080;8;Replica Shoes
+4081;8;Knee-High Boots
+4082;8;Knee-High Boots D
+4083;8;Knee-High Boots L
+4084;10;Mystic Dahlia
+4085;10;Cool Lemon
+4086;10;Heart Peach
+4087;10;Stardrop
+4088;10;Ha Ha Ha
+4089;10;Thunder Atmos
+4090;10;Nanoceros
+4091;10;Mane Cat
+4092;2;Seed Spitter
+4093;2;Seed Boomer
+4094;2;Fruit Lobber
+4095;2;Fruit Bouncer
+4096;2;Jumbo Fruitshot
+4097;2;Madcap Stopper R
+4098;2;Madcap Stopper S
+4099;2;Snughug Blocker L
+4100;2;Snughug Blocker C
+4101;2;Tenderheart Blocker
+4102;13;Slit Edge [Master]
+4103;13;Back Slash [Master]
+4104;13;Light Heal [Master]
+4105;13;Shaker Edge [Master]
+4106;13;Air Slash [Master]
+4107;13;Shadow Eye [Master]
+4108;13;Battle Soul [Master]
+4109;13;Stream Edge [Master]
+4110;13;Hammer Beat [Master]
+4111;13;Wild Down [Master]
+4112;13;Guard Shift [Master]
+4113;13;War Swing [Master]
+4114;13;Sword Drive [Master]
+4115;13;Berserker [Master]
+4116;13;Shield Bash [Master]
+4117;13;Engage [Master]
+4118;13;Last Stand [Master]
+4119;13;Rage [Master]
+4120;13;Magnum Charge [Master]
+4121;13;Bone Upper [Master]
+4122;13;Dive Sobat [Master]
+4123;13;Aura Burst [Master]
+4124;13;Anchor Chain [Master]
+4125;13;Lariat [Master]
+4126;13;Gale Slash [Master]
+4127;13;Electric Gutbuster [Master]
+4128;13;Peerless [Master]
+4129;13;Worldly Slash [Master]
+4130;13;Battle Eye [Master]
+4131;13;Steel Strike [Master]
+4132;13;Serene Heart [Master]
+4133;13;Final Flicker [Master]
+4134;13;Jaws of Death [Master]
+4135;13;Tempest Kick [Master]
+4136;13;Heat Haze [Master]
+4137;13;Spirit Breath [Master]
+4138;13;Soaring Tempest [Master]
+4139;13;Thunder [Master]
+4140;13;Demon Slayer [Master]
+4141;13;Blinding Blossom [Master]
+4142;13;Heal Bullet [Master]
+4143;13;Thunder Bullet [Master]
+4144;13;Shield Bullet [Master]
+4145;13;Cure Bullet [Master]
+4146;13;Drive Boost [Master]
+4147;13;Heal Blast [Master]
+4148;13;Heal Round [Master]
+4149;13;Head Shot [Master]
+4150;13;Metal Blast [Master]
+4151;13;Aura Bullet [Master]
+4152;13;Heat Bullet [Master]
+4153;13;Head Shaker [Master]
+4154;13;Covert Stance [Master]
+4155;13;Heal Counter [Master]
+4156;13;Tranquilliser [Master]
+4157;13;Cure Round [Master]
+4158;13;Happy Happy [Master]
+4159;13;Bitey Bitey [Master]
+4160;13;Sneaky [Master]
+4161;13;Play Dead [Master]
+4162;13;Lurgy [Master]
+4163;13;Hero Time [Master]
+4164;13;Roly-Poly [Master]
+4165;13;Behave [Master]
+4166;13;Riki is Angry [Master]
+4167;13;Bedtime [Master]
+4168;13;You Can Do It [Master]
+4169;13;Peekaboo [Master]
+4170;13;Say Sorry [Master]
+4171;13;Burninate [Master]
+4172;13;Freezinate [Master]
+4173;13;Tantrum [Master]
+4174;13;Summon Bolt [Master]
+4175;13;Summon Flare [Master]
+4176;13;Summon Ice [Master]
+4177;13;Hypnotise [Master]
+4178;13;Spear Break [Master]
+4179;13;Shadow Stitch [Master]
+4180;13;Summon Copy [Master]
+4181;13;Reflection [Master]
+4182;13;Summon Wind [Master]
+4183;13;Summon Earth [Master]
+4184;13;Summon Aqua [Master]
+4185;13;Healing Gift [Master]
+4186;13;Starlight Kick [Master]
+4187;13;Power Effect [Master]
+4188;13;Burst End [Master]
+4189;13;Mind Blast [Master]
+4190;13;Healy Bullet [Advanced]
+4191;13;Crackle Bullet [Advanced]
+4192;13;Shield Kaclang [Advanced]
+4193;13;Cure Thingamie [Advanced]
+4194;13;B-B-B-Boost [Advanced]
+4195;13;Heal Kaboom [Advanced]
+4196;13;Heal Round-a-Round [Advanced]
+4197;13;Noggin Shot [Advanced]
+4198;13;'Ittle Blast [Advanced]
+4199;13;Aurorora Bullet [Advanced]
+4200;13;Toasty-Hot Bullet [Advanced]
+4201;13;Egg Shaker [Advanced]
+4202;13;Yoghurt Stance [Advanced]
+4203;13;Healy Counter [Advanced]
+4204;13;Tranquilsnooze [Advanced]
+4205;13;Curedy-Pure Round [Advanced]
+4206;13;Hammer Beat [Advanced]
+4207;13;Mild Down [Advanced]
+4208;13;Guard Sift [Advanced]
+4209;13;Feather Swing [Advanced]
+4210;13;Sword Drive [Advanced]
+4211;13;Berserker [Advanced]
+4212;13;Shield Kersmash [Advanced]
+4213;13;Engage [Advanced]
+4214;13;Last Stand [Advanced]
+4215;13;Hangry [Advanced]
+4216;13;Magnum Starch [Advanced]
+4217;13;Bone Upper [Advanced]
+4218;13;Chive Sobat [Advanced]
+4219;13;Aura Toast [Advanced]
+4220;13;Anchor Chain [Advanced]
+4221;13;Lariat [Advanced]
+4222;4;Beanstalk Hair Tie
+4223;5;Beanstalk Vest
+4224;6;Beanstalk Amulet
+4225;7;Beanstalk Knapsack
+4226;8;Beanstalk Anklet
+4227;4;Wizewood Hair Tie
+4228;5;Wizewood Vest
+4229;6;Wizewood Amulet
+4230;7;Wizewood Knapsack
+4231;8;Wizewood Anklet
+4232;4;Elderwood Hair Tie
+4233;5;Elderwood Vest
+4234;6;Elderwood Amulet
+4235;7;Elderwood Knapsack
+4236;8;Elderwood Anklet
+4237;4;Chic Ribbon
+4238;5;Chic Plate
+4239;6;Chic Amulet
+4240;7;Chic Knapsack
+4241;8;Chic Anklet
+4242;4;Beguiling Ribbon
+4243;5;Beguiling Plate
+4244;6;Beguiling Amulet
+4245;7;Beguiling Knapsack
+4246;8;Beguiling Anklet
+4247;4;Lady's Ribbon
+4248;5;Lady's Plate
+4249;6;Lady's Amulet
+4250;7;Lady's Knapsack
+4251;8;Lady's Anklet
+4252;4;Martial Artistry
+4253;4;Maestro Artistry
+4254;4;Ancestral Artistry
+4255;4;Sage Artistry
+4256;4;Nerthis Crown
+4257;12;Mystery Drink
+4258;12;予備枠
+4259;12;予備枠
+4260;12;予備枠
+4261;12;予備枠
+4262;3;Chill Defence [Rank I]
+4263;3;Chill Defence [Rank II]
+4264;3;Sleep Resist [Rank I]
+4265;3;Sleep Resist [Rank II]
+4266;3;Sleep Resist [Rank IV]
+4267;3;Sleep Resist [Rank V]
+4268;3;Slow Resist [Rank I]
+4269;3;Slow Resist [Rank II]
+4270;3;Slow Resist [Rank IV]
+4271;3;Slow Resist [Rank V]
+4272;3;Bind Resist [Rank I]
+4273;3;Bind Resist [Rank II]
+4274;3;Bind Resist [Rank IV]
+4275;3;Bind Resist [Rank V]
+4276;3;Buff Time Plus [Rank I]
+4277;3;Buff Time Plus [Rank III]
+4278;3;Buff Time Plus [Rank V]
+4279;3;Weapon Power [Rank I]
+4280;3;Weapon Power [Rank II]
+4281;3;Weapon Power [Rank III]
+4282;3;Weapon Power [Rank V]
+4283;3;Strength Down [Rank I]
+4284;3;Strength Down [Rank II]
+4285;3;Strength Down [Rank IV]
+4286;3;Strength Down [Rank V]
+4287;3;Blaze Plus [Rank I]
+4288;3;Blaze Plus [Rank II]
+4289;3;Blaze Plus [Rank IV]
+4290;3;Blaze Plus [Rank V]
+4291;3;Blaze Attack [Rank I]
+4292;3;Blaze Attack [Rank II]
+4293;3;Blaze Attack [Rank III]
+4294;3;Blaze Attack [Rank IV]
+4295;3;Blaze Attack [Rank V]
+4296;3;Spike [Rank I]
+4297;3;Spike [Rank IV]
+4298;3;Spike [Rank V]
+4299;3;Revival HP Up [Rank I]
+4300;3;Revival HP Up [Rank II]
+4301;3;Revival HP Up [Rank IV]
+4302;3;Initial Tension [Rank I]
+4303;3;Initial Tension [Rank II]
+4304;3;Initial Tension [Rank IV]
+4305;3;Initial Tension [Rank V]
+4306;3;Aggro Up [Rank I]
+4307;3;Aggro Up [Rank II]
+4308;3;Aggro Up [Rank IV]
+4309;3;Aggro Up [Rank V]
+4310;3;EXP Up [Rank II]
+4311;3;EXP Up [Rank IV]
+4312;3;EXP Up [Rank V]
+4313;3;HP Up [Rank I]
+4314;3;HP Up [Rank II]
+4315;3;HP Up [Rank III]
+4316;3;HP Up [Rank V]
+4317;3;Poison Defence [Rank I]
+4318;3;Poison Defence [Rank II]
+4319;3;Spike Defence [Rank I]
+4320;3;Spike Defence [Rank II]
+4321;3;Spike Defence [Rank IV]
+4322;3;Spike Defence [Rank V]
+4323;3;Paralysis Resist [Rank I]
+4324;3;Paralysis Resist [Rank II]
+4325;3;Paralysis Resist [Rank IV]
+4326;3;Paralysis Resist [Rank V]
+4327;3;Debuff Resist [Rank I]
+4328;3;Debuff Resist [Rank II]
+4329;3;Debuff Resist [Rank IV]
+4330;3;Debuff Resist [Rank V]
+4331;3;Recovery Up [Rank I]
+4332;3;Recovery Up [Rank II]
+4333;3;Recovery Up [Rank III]
+4334;3;Recovery Up [Rank V]
+4335;3;Aura Heal [Rank I]
+4336;3;Aura Heal [Rank V]
+4337;3;Damage Heal [Rank I]
+4338;3;Damage Heal [Rank III]
+4339;3;Damage Heal [Rank V]
+4340;3;Arts Heal [Rank I]
+4341;3;Arts Heal [Rank II]
+4342;3;Arts Heal [Rank III]
+4343;3;Arts Heal [Rank IV]
+4344;3;Arts Heal [Rank V]
+4345;3;HP Steal [Rank I]
+4346;3;HP Steal [Rank IV]
+4347;3;Unbeatable [Rank I]
+4348;3;Unbeatable [Rank II]
+4349;3;Unbeatable [Rank IV]
+4350;3;Unbeatable [Rank V]
+4351;3;AP Up [Rank II]
+4352;3;AP Up [Rank IV]
+4353;3;AP Up [Rank V]
+4354;3;Aquatic Cloak [Rank I]
+4355;3;Aquatic Cloak [Rank II]
+4356;3;Aquatic Cloak [Rank III]
+4357;3;Aquatic Cloak [Rank IV]
+4358;3;Aquatic Cloak [Rank V]
+4359;3;Auto-Heal Up [Rank I]
+4360;3;Auto-Heal Up [Rank II]
+4361;3;Auto-Heal Up [Rank IV]
+4362;3;Auto-Heal Up [Rank V]
+4363;3;Terrain Defence [Rank I]
+4364;3;Terrain Defence [Rank II]
+4365;3;Terrain Defence [Rank III]
+4366;3;Terrain Defence [Rank IV]
+4367;3;Terrain Defence [Rank V]
+4368;3;Double Attack [Rank I]
+4369;3;Double Attack [Rank II]
+4370;3;Double Attack [Rank III]
+4371;3;Double Attack [Rank V]
+4372;3;Daze Resist [Rank I]
+4373;3;Daze Resist [Rank II]
+4374;3;Daze Resist [Rank IV]
+4375;3;Daze Resist [Rank V]
+4376;3;Pierce Resist [Rank I]
+4377;3;Pierce Resist [Rank II]
+4378;3;Pierce Resist [Rank IV]
+4379;3;Pierce Resist [Rank V]
+4380;3;Daze Plus [Rank I]
+4381;3;Daze Plus [Rank II]
+4382;3;Daze Plus [Rank III]
+4383;3;Daze Plus [Rank IV]
+4384;3;Daze Plus [Rank V]
+4385;3;Phys Def Down [Rank I]
+4386;3;Phys Def Down [Rank II]
+4387;3;Phys Def Down [Rank IV]
+4388;3;Phys Def Down [Rank V]
+4389;3;Paralysis [Rank I]
+4390;3;Lightning Attack [Rank I]
+4391;3;Lightning Attack [Rank III]
+4392;3;Lightning Attack [Rank V]
+4393;3;Electric Plus [Rank I]
+4394;3;Electric Plus [Rank II]
+4395;3;Electric Plus [Rank IV]
+4396;3;Electric Plus [Rank V]
+4397;3;Back Atk Plus [Rank I]
+4398;3;Back Atk Plus [Rank IV]
+4399;3;Back Atk Plus [Rank V]
+4400;3;First Atk Plus [Rank I]
+4401;3;First Atk Plus [Rank II]
+4402;3;First Atk Plus [Rank IV]
+4403;3;First Atk Plus [Rank V]
+4404;3;Daze Up [Rank I]
+4405;3;Daze Up [Rank II]
+4406;3;Daze Up [Rank III]
+4407;3;Daze Up [Rank V]
+4408;3;Tension Swing [Rank I]
+4409;3;Tension Swing [Rank II]
+4410;3;Tension Swing [Rank IV]
+4411;3;Tension Swing [Rank V]
+4412;3;Daze Tension [Rank I]
+4413;3;Daze Tension [Rank II]
+4414;3;Daze Tension [Rank IV]
+4415;3;Daze Tension [Rank V]
+4416;3;Blaze Defence [Rank I]
+4417;3;Blaze Defence [Rank II]
+4418;3;Lock-On Resist [Rank I]
+4419;3;Lock-On Resist [Rank II]
+4420;3;Lock-On Resist [Rank IV]
+4421;3;Lock-On Resist [Rank V]
+4422;3;Confuse Resist [Rank I]
+4423;3;Confuse Resist [Rank II]
+4424;3;Confuse Resist [Rank IV]
+4425;3;Confuse Resist [Rank V]
+4426;3;Ether Protect [Rank I]
+4427;3;Ether Protect [Rank III]
+4428;3;Ether Protect [Rank V]
+4429;3;Slow [Rank I]
+4430;3;Slow [Rank II]
+4431;3;Ether Def Down [Rank I]
+4432;3;Ether Def Down [Rank II]
+4433;3;Ether Def Down [Rank IV]
+4434;3;Ether Def Down [Rank V]
+4435;3;Chill Plus [Rank I]
+4436;3;Chill Plus [Rank II]
+4437;3;Chill Plus [Rank IV]
+4438;3;Chill Plus [Rank V]
+4439;3;Chill Attack [Rank I]
+4440;3;Chill Attack [Rank III]
+4441;3;Chill Attack [Rank V]
+4442;3;Auto-Atk Stealth [Rank I]
+4443;3;Auto-Atk Stealth [Rank II]
+4444;3;Auto-Atk Stealth [Rank III]
+4445;3;Auto-Atk Stealth [Rank V]
+4446;3;Arts Stealth [Rank I]
+4447;3;Arts Stealth [Rank II]
+4448;3;Arts Stealth [Rank III]
+4449;3;Arts Stealth [Rank V]
+4450;3;Talent Boost [Rank I]
+4451;3;Talent Boost [Rank II]
+4452;3;Talent Boost [Rank IV]
+4453;3;Talent Boost [Rank V]
+4454;3;Heat Sink [Rank I]
+4455;3;Heat Sink [Rank II]
+4456;3;Heat Sink [Rank IV]
+4457;3;Heat Sink [Rank V]
+4458;3;Agility Up [Rank I]
+4459;3;Agility Up [Rank II]
+4460;3;Agility Up [Rank III]
+4461;3;Agility Up [Rank V]
+4462;3;Topple Resist [Rank I]
+4463;3;Topple Resist [Rank II]
+4464;3;Topple Resist [Rank IV]
+4465;3;Topple Resist [Rank V]
+4466;3;Good Footing [Rank I]
+4467;3;Good Footing [Rank II]
+4468;3;Good Footing [Rank IV]
+4469;3;Good Footing [Rank V]
+4470;3;Arts Seal Resist [Rank I]
+4471;3;Arts Seal Resist [Rank II]
+4472;3;Arts Seal Resist [Rank IV]
+4473;3;Arts Seal Resist [Rank V]
+4474;3;Haste [Rank I]
+4475;3;Haste [Rank II]
+4476;3;Haste [Rank III]
+4477;3;Haste [Rank IV]
+4478;3;Haste [Rank V]
+4479;3;Topple Plus [Rank I]
+4480;3;Topple Plus [Rank II]
+4481;3;Topple Plus [Rank III]
+4482;3;Topple Plus [Rank IV]
+4483;3;Topple Plus [Rank V]
+4484;3;Bleed Attack [Rank I]
+4485;3;Bleed Attack [Rank III]
+4486;3;Bleed Attack [Rank V]
+4487;3;Bleed Plus [Rank I]
+4488;3;Bleed Plus [Rank II]
+4489;3;Bleed Plus [Rank V]
+4490;3;Topple Up [Rank I]
+4491;3;Topple Up [Rank II]
+4492;3;Topple Up [Rank III]
+4493;3;Topple Up [Rank V]
+4494;3;Agility Down [Rank I]
+4495;3;Agility Down [Rank II]
+4496;3;Agility Down [Rank IV]
+4497;3;Agility Down [Rank V]
+4498;3;Break [Rank I]
+4499;3;Quick Step [Rank I]
+4500;3;Quick Step [Rank II]
+4501;3;Quick Step [Rank IV]
+4502;3;Quick Step [Rank V]
+4503;3;Fall Defence [Rank I]
+4504;3;Fall Defence [Rank II]
+4505;3;Fall Defence [Rank III]
+4506;3;Fall Defence [Rank IV]
+4507;3;Fall Defence [Rank V]
+4508;3;Aerial Cloak [Rank I]
+4509;3;Aerial Cloak [Rank II]
+4510;3;Aerial Cloak [Rank III]
+4511;3;Aerial Cloak [Rank IV]
+4512;3;Aerial Cloak [Rank V]
+4513;3;Attack Stability [Rank I]
+4514;3;Attack Plus [Rank I]
+4515;3;Critical Up [Rank I]
+4516;3;Critical Up [Rank III]
+4517;3;Bleed Defence [Rank I]
+4518;3;Bleed Defence [Rank II]
+4519;3;Divine Protect [Rank I]
+4520;3;Divine Protect [Rank II]
+4521;3;Divine Protect [Rank IV]
+4522;3;Divine Protect [Rank V]
+4523;3;Physical Protect [Rank I]
+4524;3;Physical Protect [Rank III]
+4525;3;Physical Protect [Rank V]
+4526;3;Night Vision [Rank I]
+4527;3;Night Vision [Rank III]
+4528;3;Night Vision [Rank V]
+4529;3;Debuff Plus [Rank I]
+4530;3;Debuff Plus [Rank III]
+4531;3;Debuff Plus [Rank V]
+4532;3;Ether Down [Rank I]
+4533;3;Ether Down [Rank II]
+4534;3;Ether Down [Rank IV]
+4535;3;Ether Down [Rank V]
+4536;3;Poison Plus [Rank I]
+4537;3;Poison Plus [Rank II]
+4538;3;Poison Plus [Rank IV]
+4539;3;Poison Plus [Rank V]
+4540;3;Poison Attack [Rank I]
+4541;3;Poison Attack [Rank III]
+4542;3;Poison Attack [Rank V]
+4543;3;Aggro Down [Rank I]
+4544;3;Aggro Down [Rank II]
+4545;3;Aggro Down [Rank V]
+4546;3;Earth Cloak [Rank I]
+4547;3;Earth Cloak [Rank II]
+4548;3;Earth Cloak [Rank III]
+4549;3;Earth Cloak [Rank IV]
+4550;3;Earth Cloak [Rank V]
+4551;13;Double Blade
+4552;13;Healing Energy
+4553;13;Spear Blade
+4554;13;Cross Impact
+4555;13;Speed Shift
+4556;13;Zero Gravity
+4557;13;Lock-On
+4558;13;Ether Drain
+4559;13;Double Wind
+4560;13;Mag Storm
+4561;13;Shutdown
+4562;13;Air Fang
+4563;13;Power Drain
+4564;13;Guard Shift
+4565;13;Second Gear
+4566;13;Final Cross
+4567;4;Stellar Gear
+4568;5;Stellar Armour
+4569;6;Stellar Gauntlets
+4570;7;Stellar Leggings
+4571;8;Stellar Boots
+4572;4;Rafaga Gear
+4573;5;Rafaga Armour
+4574;6;Rafaga Gauntlets
+4575;7;Rafaga Leggings
+4576;8;Rafaga Boots
+4577;2;Husk Chucker
+4578;2;Friend Shelterer O
+4579;3;Debuff Resist [Rank V]
+4580;3;Quick Step [Rank VI]
+4581;3;Phys Def Down [Rank IV]
+4582;3;EXP Up [Rank II]
+4583;3;EXP Up [Rank IV]
+4584;3;AP Up [Rank II]
+4585;3;AP Up [Rank IV]
+4586;4;Noise Suppressor
+4587;3;Heat Sink [Rank IV]

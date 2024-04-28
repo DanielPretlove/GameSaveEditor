@@ -1,0 +1,11 @@
+@* @using XenoSaveCheat.Pages.XC3 *@
+<MudText Typo="Typo.h4">File: @File</MudText>
+<MudTabs Outlined="true">
+    <MudTabPanel Text="Miscellaneous">
+        <MudGrid>
+            <MudItem xs="3">
+                <MudNumericField @bind-Value="@Save.Money" Label="Money">Money</MudNumericField>
+            </MudItem>
+        </MudGrid>
+    </MudTabPanel>
+</MudTabs>

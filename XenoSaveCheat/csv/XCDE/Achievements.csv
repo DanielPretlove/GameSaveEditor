@@ -1,0 +1,201 @@
+ID;Name;Comments;Comments
+1;Bone Breaker;Do a fairly hefty amount of damage with a single attack.;Dealt 3000 damage or more in a single attack.
+2;Rock Smasher;Do a staggering amount of damage with a single attack.;Dealt 25,000 damage or more in a single attack.
+3;World Shaker;Do an extreme amount of damage with a single attack.;Dealt 50,000 damage or more in a single attack.
+4;Beginner's Luck;Defeat a lot of enemies.;Defeated 50 enemies.
+5;Tough Guy, Eh?;Defeat even more enemies.;Defeated 200 enemies.
+6;No Stopping You;Defeat even more enemies than that!;Defeated 1000 enemies.
+7;Please! No More!;Defeat more! And more! And more! AND MORE!;Defeated 5000 enemies.
+8;Hunter-in-Training;Beat a ferocious monster with a unique name.;Defeated your first unique monster.
+9;Pro Hunter;Take down a fair few unique monsters.;Defeated 10 unique monsters.
+10;Master Hunter;Become the bane of unique monsters everywhere.;Defeated 100 unique monsters.
+11;Time for New Glasses;???;Attempted 100 attacks that missed.
+12;Some Help You Are!;???;Won a battle without actually doing anything.
+13;Machine Mishaps;Defeat a lot of Mechon.;Defeated 30 Mechon.
+14;Machine Mayhem;Defeat a heck of a lot of Mechon.;Defeated 100 Mechon.
+15;Machine Meltdown;Defeat more Mechon than you can shake a Monado at.;Defeated 250 Mechon.
+16;Ground Down;Wipe out tons of ground monsters.;Defeated 30 ground monsters.
+17;Ground Up;Wipe out tons and tons of ground monsters.;Defeated 100 ground monsters.
+18;Ground to a Pulp;Wipe out endless amounts of ground monsters.;Defeated 250 ground monsters.
+19;Airing Grievances;Defeat a gaggle of aerial monsters.;Defeated 30 aerial monsters.
+20;Clearing the Air;Defeat a very large number of aerial monsters.;Defeated 100 aerial monsters.
+21;Anti-Air Battering;Defeat tons of aerial monsters. It's raining monsters!;Defeated 250 aerial monsters.
+22;Bug Off;Wipe out tons of insect monsters.;Defeated 30 insects.
+23;Walking Insecticide;Wipe out all insect monsters in sight!;Defeated 100 insects.
+24;Elementary!;Defeat a fair number of ether-based monsters.;Defeated 30 ether-based monsters.
+25;Braving the Elements;Defeat a vast quantity of ether-based monsters.;Defeated 100 ether-based monsters.
+26;Telethia Tracker;Wipe out tons of Telethia.;Defeated 30 Telethia.
+27;Telethia Triumph;Wipe out all Telethia in sight!;Defeated 100 Telethia.
+28;Fish for Compliments;Defeat an endless stream of fish monsters.;Defeated 30 monsters that live in water.
+29;Smashing!;Change the future in your favour.;Smashed a vision tag for the first time.
+30;Simply Smashing!;Break even more vision tags.;Smashed 100 vision tags.
+31;Smashing...to Pieces!;Break innumerable vision tags.;Smashed 1000 vision tags.
+32;Not Gonna Happen!;Change the future by defeating an enemy.;Stopped the future in its tracks for the first time.
+33;I'll Change the Future!;Keep changing the future.;Stopped the future in its tracks 20 times.
+34;The Future is Ours!;Change the future an awful lot.;Stopped the future in its tracks 50 times.
+35;Second Wind;Revive Incapacitated party members several times.;Revived Incapacitated party members 10 times.
+36;Can't Keep 'Em Down;Revive Incapacitated party members many times.;Revived Incapacitated party members 100 times.
+37;Down But Never Out;Revive Incapacitated party members countless times.;Revived Incapacitated party members 500 times.
+38;Critical Thinking;Deliver lots of critical hits.;Delivered 50 critical hits.
+39;Critical Condition;Deliver even more critical hits.;Delivered 1500 critical hits.
+40;Critical Mass;Deliver an endless amount of critical hits.;Delivered 5000 critical hits.
+41;Let's Fight!;Successfully achieve Battle Start Affinity.;Achieved Battle Start Affinity for the first time.
+42;Let's Go, Everyone!;Achieve Battle Start Affinity numerous times.;Achieved Battle Start Affinity 100 times.
+43;Yeah! We Can Do It!;Achieve Battle Start Affinity into infinity.;Achieved Battle Start Affinity 1000 times.
+44;Turn It Up;Turn up the heat! Feel the tension rising in battle.;Entered a state of High Tension for the first time.
+45;Fire It Up;Keep getting High Tension like it's the hottest new thing.;Entered a state of High Tension 50 times.
+46;Burn It Up;Keep the fire burning! Get High Tension over and over.;Entered a state of High Tension 200 times.
+47;Go Team!;Join forces to perform a chain attack.;Used a chain attack for the first time.
+48;Tip Top Team-Up;Perform multiple chain attacks.;Used a chain attack 50 times.
+49;A Team Like No Other;Perform even more chain attacks.;Used a chain attack 200 times.
+50;Team With a Capital T;Perform an epic number of chain attacks.;Used a chain attack 1000 times.
+51;Killer Combo;Use a chain attack to deal a total of 3000 damage.;Used a chain attack to deal a total of 3000 damage.
+52;Cosmic Killer Combo;Use a chain attack to deal a total of 30,000 damage.;Used a chain attack to deal a total of 30,000 damage.
+53;Quantum Killer Combo;Use a chain attack to do a total of 100,000 damage.;Used a chain attack to deal a total of 100,000 damage.
+54;Chain Gang;Perform a chain attack with 4 links or more.;Performed a chain attack with 4 links or more.
+55;Off the Chain;Perform a chain attack with 5 links or more.;Performed a chain attack with 5 links or more.
+56;Back-Stabber;Strike the enemy from behind.;Performed a back attack for the first time.
+57;Rear Admiral;Perform multiple back attacks.;Performed a back attack 50 times.
+58;Ninja Skillz;Attack an enemy from behind and defeat it in one strike.;Attacked an enemy from behind and beat it in one strike.
+59;Jaws of Defeat;???;Won a battle while on the verge of death.
+60;Come On, Cheer Up!;???;Felt the pain of being Incapacitated for the first time.
+61;Art Practice;Use Arts a large number of times.;Used Arts 1000 times between the entire party.
+62;The Art of War;Use Arts an immense number of times.;Used Arts 10,000 times between the entire party.
+63;Right, Let's Do This!;Keep using Shulk's Arts.;Used Shulk's Arts 100 times.
+64;Reyn Time, Baby!;Keep using Reyn's Arts.;Used Reyn's Arts 100 times.
+65;I Can Beat Anyone!;Keep using Fiora's Arts.;Used Fiora's Arts 100 times.
+66;Attack Me if You Dare!;Keep using Dunban's Arts.;Used Dunban's Arts 100 times.
+67;Things Are Heating Up!;Keep using Sharla's Arts.;Used Sharla's Arts 100 times.
+68;Riki Use Arts!;Keep using Riki's Arts.;Used Riki's Arts 100 times.
+69;Who Dares Defy Me?;Keep using Melia's Arts.;Used Melia's Arts 100 times.
+70;One Step Further;Step your Arts up to the next level.;Unlocked the ability to level up your Arts even further.
+71;The Final Step;Step your Arts up to the highest level.;Unlocked the ability to level up your Arts completely.
+72;Art School;Step up one of your Arts to the next level.;Levelled up an Art for the first time.
+73;A Work of Art;Raise one of your Arts to a pretty decent level.;Raised an Art to level 5.
+74;Perfecting the Art;Bring one of your Arts up to the maximum level.;Raised an Art to the maximum level.
+75;Down to a Fine Art;Raise several of a character's Arts to the maximum level.;Raised 5 of one character's Arts to the maximum level.
+76;Art-to-Art;Raise more of a character's Arts to the maximum level.;Raised 10 of one character's Arts to the maximum level.
+77;State of the Art;Max out all the Arts of one character.;Raised all of one character's Arts to the maximum level.
+78;Sharing the Knowledge;Borrow skills from everyone.;Received shared skills from every character.
+79;Specialist;Follow a Skill Branch all the way to the bottom.;Fully developed one Skill Branch.
+80;Honest Insight;Develop Shulk's Skill Branches.;Fully developed three of Shulk's Skill Branches.
+81;Raging Stalwart;Develop Reyn's Skill Branches.;Fully developed three of Reyn's Skill Branches.
+82;Spirited Adventurer;Develop Fiora's Skill Branches.;Fully developed three of Fiora's Skill Branches.
+83;Gallant Hero;Develop Dunban's Skill Branches.;Fully developed three of Dunban's Skill Branches.
+84;Unyielding Devotion;Develop Sharla's Skill Branches.;Fully developed three of Sharla's Skill Branches.
+85;Adorable Randomness;Develop Riki's Skill Branches.;Fully developed three of Riki's Skill Branches.
+86;Serene Candour;Develop Melia's Skill Branches.;Fully developed three of Melia's Skill Branches.
+87;Phoenix;???;Been wiped out 50 times.
+88;Secret Weapon;Fully develop one character's Skill Branches.;Fully developed any character's Skill Branches.
+89;Dream Team;Fully develop everyone's Skill Branches.;Fully developed every character's Skill Branches.
+90;Turning it Around;Successfully achieve Burst Affinity.;Successfully achieved Burst Affinity.
+91;Changing Course;Achieve Burst Affinity numerous times.;Used Burst Affinity 300 times.
+92;Complete 180;Achieve Burst Affinity into infinity.;Achieved Burst Affinity 2000 times.
+93;Looking For Trouble;Fight something stronger than your party...and win.;Defeated an enemy 5 levels higher than yourself.
+94;Beating the Odds;Pick a fight you have no hope of surviving...and ace it.;Defeated an enemy 10 levels higher than yourself.
+95;Unlucky Sixes;Deal a devilish amount of damage.;Performed an attack that dealt exactly 666 damage.
+96;Lucky Sevens;Deal a lucky number of damage.;Performed an attack that dealt exactly 777 damage.
+97;First Steps;???;Discovered a Landmark for the first time.
+98;A Corner of the World;Discover more Landmarks on your journey.;Discovered 10 Landmarks.
+99;Seasoned Traveller;Keep going, and find yet more Landmarks along the way.;Discovered 40 Landmarks.
+100;Globetrotter;Seek out even more of the Landmarks in the world.;Discovered 80 Landmarks.
+101;Worldly Wise;Search the world and find nearly every Landmark there is.;Discovered 150 Landmarks.
+102;Explorer;Discover a Secret Area.;Discovered a Secret Area for the first time.
+103;Trailblazer;Venture into the unknown and discover Secret Areas.;Discovered 6 Secret Areas.
+104;Pioneer;Leave no stone unturned! Find even more Secret Areas!;Discovered 12 Secret Areas.
+105;Skip It;Use skip travel to avoid laborious backtracking.;Used skip travel for the first time.
+106;Lazybones;???;Used skip travel 50 times.
+107;Hunting for Treasure;Obtain a healthy number of Rare Treasure Chests.;Obtained 10 Rare Treasure Chests.
+108;Hoarding Treasure;Obtain an excessive number of silver Treasure Chests.;Obtained 50 Rare Treasure Chests.
+109;Ooh, Shiny;Obtain an elusive golden Treasure Chest.;Obtained a Super Rare Treasure Chest for the first time.
+110;It Hasn't Lost its Lustre;Obtain numerous golden Treasure Chests.;Obtained 10 Super Rare Treasure Chests.
+111;Need...More...Treasure;Obtain a dazzling quantity of golden Treasure Chests.;Obtained 50 Super Rare Treasure Chests.
+112;Titan's Gift;Harvest some ether crystals.;Harvested an ether crystal for the first time.
+113;Titan's Generosity;Harvest a lot of ether crystals.;Harvested ether crystals 50 times.
+114;Titan's Greatness;Harvest a heck of a lot of ether crystals.;Harvested ether crystals 500 times.
+115;Raring to Go;???;Obtained a rare ether crystal for the first time.
+116;Medium Rare;???;Obtained 7 rare ether crystals.
+117;In Rare Form;???;Obtained 77 rare ether crystals.
+118;Crystallised Luck;???;Mined a rank V ether crystal.
+119;That Hits the Slot;Use a gem to enhance a weapon or piece of armour.;Filled a gem slot for the first time.
+120;Truly Outrageous;???;Filled all 8 possible gem slots at once for any character.
+121;Learning the Craft;Practise Gem Crafting and get a Synergy Bonus.;Practised Gem Crafting and received a Synergy Bonus.
+122;Getting Crafty;Get a lot of Synergy Bonuses.;Received a Synergy Bonus more than 250 times.
+123;Crafting Your Destiny;Get even more Synergy Bonuses.;Received a Synergy Bonus more than 500 times.
+124;Craftacular!;Let the atmosphere heat up while crafting gems.;Entered a Fever state while Gem Crafting.
+125;Craftstravaganza!;Feel the Fever a fiendish number of times while crafting.;Entered a Fever state 3 times.
+126;Lending a Hand;Have a friend lend a hand while Gem Crafting.;Received a Support Bonus.
+127;Crafting Friendships;Get everyone to lend their support during gem crafting.;Received a Support Bonus for every character.
+128;Firing on All Cylinders;Fill up the Cylinder Gauge like there's no tomorrow.;Fill up the Cylinder Gauge 9 times in one crafting session.
+129;Happy New Year!;???;Witnessed the sun rising on the 366th day.
+130;Terminal Velocity;???;Fell to your demise from a great height.
+131;Making Waves;???;Fell into water from a height of 200 metres.
+132;One is Never Enough;Start off a collection in your Collectopaedia.;Recorded an item in the Collectopaedia for the first time.
+133;Collector's Mentality;Pick a page in the Collectopaedia and fill it in completely.;Completed a page in the Collectopaedia.
+134;Stamp of Insanity;Fill in the entire Collectopaedia. Better be thorough!;Completed every page in the Collectopaedia.
+135;Study Aids;Give Shulk a lot of presents that he'll appreciate.;Gave Shulk 20 pieces of machinery as gifts.
+136;Auber the Top;Treat Reyn to a vegetable brimming with power.;Gave Reyn an Energy Aubergine as a gift.
+137;Aim for the Heart!;Have Fiora give lots of gifts to that one special person...;Had Fiora give 20 gifts to Shulk.
+138;Thanks But No Thanks;Give Dunban some fruit to try and sweeten him up.;Gave Dunban a gift he truly hated.
+139;Fruitful Gifts;Shower Sharla with her favourite kind of present.;Gave Sharla fruit as a gift 20 times.
+140;You May Have This;Have Melia become the generous type.;Had Melia give 30 gifts.
+141;Not Just Riki Eat!;Have Riki give everyone else the things he likes.;Had Riki give insects as gifts 30 times.
+142;Love at First Bite;Give a love potion as a present.;Gave Love Source as a present.
+143;Ear to the Ground;Strike up a lot of conversations.;Talked to people 100 times.
+144;Social Butterfly;Strike up as many conversations as you can manage.;Talked to people 1000 times.
+145;Breaking the Ice;Talk to someone in their hour of need, and...;Had a party member step into a conversation.
+146;Idle Chit-Chat;Get the party to enter more conversations.;Had party members step into conversations 50 times.
+147;Chatting the Day Away;Get the party to enter more conversations still.;Had party members step into conversations 300 times.
+148;Your First Friend;Get to know a named resident of any settlement.;Got to know a named person for the first time.
+149;Friend Number Ten;Go around chatting to people and making friends.;Registered 10 people on the Affinity Chart.
+150;Fifty Fine Friends;Make even more friends across the world.;Registered 50 people on the Affinity Chart.
+151;Friend of the World;Get to know nearly every named person in the world.;Registered 120 people on the Affinity Chart.
+152;The Brave Protectors;Develop a relationship with all of Colony 9's soldiers.;Got to know all of the Defence Force soldiers in Colony 9.
+153;Network of Knowledge;Formed a bond with Nopon outside of populated areas.;Got to know many Nopon outside of populated areas.
+154;The Hopeful Survivors;Make a connection with the people of Colony 6.;Got to know a lot of people in Colony 6.
+155;Know So Many Nopon!;Be sociable with the Nopon of Frontier Village.;Got to know the Nopon living in Frontier Village.
+156;Wings of Nobility;Be friendly with High Entia that have small headwings.;Got to know many High Entia with small headwings.
+157;A Village of Machines;Get to know the Machina of the Hidden Village.;Got to know the numerous Machina in the Hidden Village.
+158;The Strongest Tie;Help two named people develop a deep Affinity.;Helped two people form a deep Affinity for one another.
+159;Constellation;Help quite a few people develop Affinities for each other.;Helped people form an Affinity for one another ten times.
+160;Spider's Web;Help lots of people develop an Affinity for each other.;Helped people form an Affinity for one another 50 times.
+161;Neural Network;Help a vast number of people develop Affinities.;Helped people form an Affinity for one another 100 times.
+162;Roots Across the World;Help pretty much everyone develop Affinities.;Helped almost everyone to form Affinities for one another.
+163;Colony 9 Celeb;Win the love and approval of Colony 9's residents.;Achieved a 3-star Affinity rating for the Colony 9 area.
+164;Colony 6 Celeb;Win the respect and adoration of Colony 6's residents.;Achieved a 3-star Affinity rating for the Colony 6 area.
+165;Honorary Nopon;Forge very close ties to the inhabitants of Frontier Village.;Achieved a 3-star Affinity rating for the Frontier Village.
+166;Honorary High Entia;Attain a deep understanding of the people of Alcamoth.;Achieved a 3-star Affinity rating for the Alcamoth area.
+167;Honorary Machina;Become a very welcome face in the Hidden Village.;Achieved a 3-star Affinity rating for the Hidden Village.
+168;Local Hero;???;Develop a 5-star Affinity with the people of any area.
+169;World Hero;???;Develop a 5-star Affinity with everyone.
+170;Heartwarming;Show your sweet and sensitive side in a Heart-to-Heart.;Had a Heart-to-Heart go as smoothly as possible.
+171;Heartbreaking;Show your stupid and senseless side in a Heart-to-Heart.;Had a Heart-to-Heart go as badly as possible.
+172;Pouring Out Your Heart;Have a hearty number of Heart-to-Hearts.;Had 20 Heart-to-Hearts.
+173;The Heart of the Matter;Have a whole hoard of Heart-to-Hearts.;Had 40 Heart-to-Hearts.
+174;Ace of Hearts;Poured your heart out in every possible Heart-to-Heart.;Had every possible Heart-to-Heart.
+175;Blossoming Friendship;Let two of your party members develop a deeper Affinity.;Improved the Affinity between two party members.
+176;Unshakeable Trust;Improve two party members' Affinity even more.;Improved two party members' Affinity still further.
+177;Unbreakable Bond;Let two party members form a truly deep connection.;Formed the deepest Affinity between two party members.
+178;Get the Party Started;Improve the relationships amongst your entire party.;Deepened the Affinity between all party members.
+179;Party's in Full Swing;Form the closest-knit party imaginable.;Formed the deepest Affinity between all party members.
+180;Problem Solved!;Accept and complete a quest.;Completed a quest for the first time.
+181;Helpful Stranger;Complete a quantity of quests.;Completed 10 quests (excluding story quests).
+182;Generous Friend;Complete quite a quantity of quests.;Completed 100 quests (excluding story quests).
+183;Charitable Ally;Complete quests by the questload.;Completed 200 quests (excluding story quests).
+184;Selfless Giver;Complete quillions of quests.;Completed 300 quests (excluding story quests).
+185;Shaping History;???;Changed someone's life through your actions.
+186;Treasure Trove;Obtain a veritable trove of Treasure Chests.;Obtained 1000 Rare or Super Rare Treasure chests.
+187;Equivalent Exchange;Conduct a trade with someone.;Successfully traded items with someone.
+188;Tradesman;Trade like a pro with plenty of people.;Traded items 20 times.
+189;Master Tradesman;Transact a titanic truckload of trades.;Traded items 100 times.
+190;Mysterious Mantis;Trade to get a Minute Mantis.;Obtained a Minute Mantis through trading.
+191;Shining Impracticality;Trade to get a Golden Cog.;Obtained a Golden Cog through trading.
+192;Indigo Belligerence;Trade to get a Love Beetle.;Obtained a Love Beetle through trading.
+193;Stormy Outlook;Trade to get a Thunder Compass.;Obtained a Thunder Compass through trading.
+194;Angelic Imitation;Trade to get an Angel Engine Y.;Obtained an Angel Engine Y through trading.
+195;Drawing a Crowd;Make a decent start on building up Colony 6's population.;Increased the population of Colony 6 to 50 people.
+196;Building a Community;Build up Colony 6's population to a greater degree.;Increased the population of Colony 6 to 100 people.
+197;Bursting at the Seams;Help Colony 6 build up a thriving community.;Filled up Colony 6 with a population of 150 people.
+198;A Fixer-Upper;Start work on reconstructing Colony 6.;Started reconstructing Colony 6.
+199;A Fix on the Solution;Get the reconstruction of Colony 6 well underway.;Made good progress in reconstructing Colony 6.
+200;Good and Fixed;Restore Colony 6 to its former glory.;Finished reconstructing Colony 6. Amazing!

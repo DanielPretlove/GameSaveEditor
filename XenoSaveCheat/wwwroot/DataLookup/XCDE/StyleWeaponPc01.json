@@ -1,0 +1,54 @@
+[
+    {
+      "ID": 0,
+      "Name": "(none)"
+    },
+    {
+      "ID": 1,
+      "Name": "Monado I"
+    },
+    {
+      "ID": 2,
+      "Name": "Monado II"
+    },
+    {
+      "ID": 3,
+      "Name": "Replica Agni"
+    },
+    {
+      "ID": 4,
+      "Name": "Replica Monado"
+    },
+    {
+      "ID": 5,
+      "Name": "Replica Dogma"
+    },
+    {
+      "ID": 6,
+      "Name": "Replica Abyss"
+    },
+    {
+      "ID": 7,
+      "Name": "Replica Rudra"
+    },
+    {
+      "ID": 8,
+      "Name": "Replica Saga"
+    },
+    {
+      "ID": 9,
+      "Name": "Monado III"
+    },
+    {
+      "ID": 10,
+      "Name": "Junk Sword"
+    },
+    {
+      "ID": 11,
+      "Name": "Monado Replica EX"
+    },
+    {
+      "ID": 12,
+      "Name": "Monado Replica EX+"
+    }
+   ]

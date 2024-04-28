@@ -1,0 +1,29 @@
+@using XenoSaveCheat.Pages.XCDE
+
+<MudText Typo="Typo.h4">File: @File</MudText>
+<MudTabs Outlined="true">
+    <MudTabPanel Text="Miscellaneous">
+        <Misc File=@File />
+    </MudTabPanel>
+    <MudTabPanel Text="Party Layout">
+        <Party File=@File />
+    </MudTabPanel>
+    <MudTabPanel Text="Characters">
+        <Characters File="@File" />
+    </MudTabPanel>
+    <MudTabPanel Text="Arts Levels">
+        <ArtsLevels File="@File" />
+    </MudTabPanel>
+    <MudTabPanel Text="Items">
+        <Items File="@File" />
+    </MudTabPanel>
+    <MudTabPanel Text="Affinity">
+        <Affinity File="@File" />
+    </MudTabPanel>
+    <MudTabPanel Text="Flags">
+        <Flags File="@File" />
+    </MudTabPanel>
+    <MudTabPanel Text="Time Attack">
+        <TimeAttack File="@File" />
+    </MudTabPanel>
+</MudTabs>

@@ -1,0 +1,942 @@
+[
+    {
+      "ID": 0,
+      "CharID": 0,
+      "Name": "(None)"
+    },
+    {
+      "ID": 1,
+      "CharID": 1,
+      "Name": "Activate Monado"
+    },
+    {
+      "ID": 2,
+      "CharID": 1,
+      "Name": "Turn Strike"
+    },
+    {
+      "ID": 3,
+      "CharID": 1,
+      "Name": "Buster"
+    },
+    {
+      "ID": 4,
+      "CharID": 1,
+      "Name": "Enchant"
+    },
+    {
+      "ID": 5,
+      "CharID": 1,
+      "Name": "Shield"
+    },
+    {
+      "ID": 6,
+      "CharID": 1,
+      "Name": "Speed"
+    },
+    {
+      "ID": 7,
+      "CharID": 1,
+      "Name": "Purge"
+    },
+    {
+      "ID": 8,
+      "CharID": 1,
+      "Name": "Eater"
+    },
+    {
+      "ID": 9,
+      "CharID": 1,
+      "Name": "Armour"
+    },
+    {
+      "ID": 10,
+      "CharID": 1,
+      "Name": "Cyclone"
+    },
+    {
+      "ID": 11,
+      "CharID": 1,
+      "Name": "Slit Edge"
+    },
+    {
+      "ID": 12,
+      "CharID": 1,
+      "Name": "Back Slash"
+    },
+    {
+      "ID": 13,
+      "CharID": 1,
+      "Name": "Light Heal"
+    },
+    {
+      "ID": 14,
+      "CharID": 1,
+      "Name": "Shaker Edge"
+    },
+    {
+      "ID": 15,
+      "CharID": 1,
+      "Name": "Air Slash"
+    },
+    {
+      "ID": 16,
+      "CharID": 1,
+      "Name": "Shadow Eye"
+    },
+    {
+      "ID": 17,
+      "CharID": 1,
+      "Name": "Battle Soul"
+    },
+    {
+      "ID": 18,
+      "CharID": 1,
+      "Name": "Stream Edge"
+    },
+    {
+      "ID": 19,
+      "CharID": 2,
+      "Name": "Mad Taunt"
+    },
+    {
+      "ID": 20,
+      "CharID": 2,
+      "Name": "Hammer Beat"
+    },
+    {
+      "ID": 21,
+      "CharID": 2,
+      "Name": "Wild Down"
+    },
+    {
+      "ID": 22,
+      "CharID": 2,
+      "Name": "Guard Shift"
+    },
+    {
+      "ID": 23,
+      "CharID": 2,
+      "Name": "War Swing"
+    },
+    {
+      "ID": 24,
+      "CharID": 2,
+      "Name": "Sword Drive"
+    },
+    {
+      "ID": 25,
+      "CharID": 2,
+      "Name": "Berserker"
+    },
+    {
+      "ID": 26,
+      "CharID": 2,
+      "Name": "Shield Bash"
+    },
+    {
+      "ID": 27,
+      "CharID": 2,
+      "Name": "Engage"
+    },
+    {
+      "ID": 28,
+      "CharID": 2,
+      "Name": "Last Stand"
+    },
+    {
+      "ID": 29,
+      "CharID": 2,
+      "Name": "Rage"
+    },
+    {
+      "ID": 30,
+      "CharID": 2,
+      "Name": "Magnum Charge"
+    },
+    {
+      "ID": 31,
+      "CharID": 2,
+      "Name": "Bone Upper"
+    },
+    {
+      "ID": 32,
+      "CharID": 2,
+      "Name": "Dive Sobat"
+    },
+    {
+      "ID": 33,
+      "CharID": 2,
+      "Name": "Aura Burst"
+    },
+    {
+      "ID": 34,
+      "CharID": 2,
+      "Name": "Anchor Chain"
+    },
+    {
+      "ID": 35,
+      "CharID": 2,
+      "Name": "Lariat"
+    },
+    {
+      "ID": 36,
+      "CharID": 3,
+      "Name": "Butterfly Step"
+    },
+    {
+      "ID": 37,
+      "CharID": 3,
+      "Name": "Power Smash"
+    },
+    {
+      "ID": 38,
+      "CharID": 3,
+      "Name": "Screw Edge"
+    },
+    {
+      "ID": 39,
+      "CharID": 3,
+      "Name": "Hidden Thorn"
+    },
+    {
+      "ID": 40,
+      "CharID": 3,
+      "Name": "Lacerate"
+    },
+    {
+      "ID": 41,
+      "CharID": 4,
+      "Name": "Blossom Dance"
+    },
+    {
+      "ID": 42,
+      "CharID": 4,
+      "Name": "Cutting Petal"
+    },
+    {
+      "ID": 43,
+      "CharID": 4,
+      "Name": "Twisting Petal"
+    },
+    {
+      "ID": 44,
+      "CharID": 4,
+      "Name": "Falling Petal"
+    },
+    {
+      "ID": 45,
+      "CharID": 4,
+      "Name": "Gale Slash"
+    },
+    {
+      "ID": 46,
+      "CharID": 4,
+      "Name": "Electric Gutbuster"
+    },
+    {
+      "ID": 47,
+      "CharID": 4,
+      "Name": "Peerless"
+    },
+    {
+      "ID": 48,
+      "CharID": 4,
+      "Name": "Worldly Slash"
+    },
+    {
+      "ID": 49,
+      "CharID": 4,
+      "Name": "Battle Eye"
+    },
+    {
+      "ID": 50,
+      "CharID": 4,
+      "Name": "Steel Strike"
+    },
+    {
+      "ID": 51,
+      "CharID": 4,
+      "Name": "Serene Heart"
+    },
+    {
+      "ID": 52,
+      "CharID": 4,
+      "Name": "Final Flicker"
+    },
+    {
+      "ID": 53,
+      "CharID": 4,
+      "Name": "Jaws of Death"
+    },
+    {
+      "ID": 54,
+      "CharID": 4,
+      "Name": "Tempest Kick"
+    },
+    {
+      "ID": 55,
+      "CharID": 4,
+      "Name": "Heat Haze"
+    },
+    {
+      "ID": 56,
+      "CharID": 4,
+      "Name": "Spirit Breath"
+    },
+    {
+      "ID": 57,
+      "CharID": 4,
+      "Name": "Soaring Tempest"
+    },
+    {
+      "ID": 58,
+      "CharID": 4,
+      "Name": "Thunder"
+    },
+    {
+      "ID": 59,
+      "CharID": 4,
+      "Name": "Demon Slayer"
+    },
+    {
+      "ID": 60,
+      "CharID": 4,
+      "Name": "Blinding Blossom"
+    },
+    {
+      "ID": 61,
+      "CharID": 5,
+      "Name": "Cool Off"
+    },
+    {
+      "ID": 62,
+      "CharID": 5,
+      "Name": "Overdrive"
+    },
+    {
+      "ID": 63,
+      "CharID": 5,
+      "Name": "Heal Bullet"
+    },
+    {
+      "ID": 64,
+      "CharID": 5,
+      "Name": "Thunder Bullet"
+    },
+    {
+      "ID": 65,
+      "CharID": 5,
+      "Name": "Shield Bullet"
+    },
+    {
+      "ID": 66,
+      "CharID": 5,
+      "Name": "Cure Bullet"
+    },
+    {
+      "ID": 67,
+      "CharID": 5,
+      "Name": "Drive Boost"
+    },
+    {
+      "ID": 68,
+      "CharID": 5,
+      "Name": "Heal Blast"
+    },
+    {
+      "ID": 69,
+      "CharID": 5,
+      "Name": "Heal Round"
+    },
+    {
+      "ID": 70,
+      "CharID": 5,
+      "Name": "Head Shot"
+    },
+    {
+      "ID": 71,
+      "CharID": 5,
+      "Name": "Metal Blast"
+    },
+    {
+      "ID": 72,
+      "CharID": 5,
+      "Name": "Aura Bullet"
+    },
+    {
+      "ID": 73,
+      "CharID": 5,
+      "Name": "Heat Bullet"
+    },
+    {
+      "ID": 74,
+      "CharID": 5,
+      "Name": "Head Shaker"
+    },
+    {
+      "ID": 75,
+      "CharID": 5,
+      "Name": "Covert Stance"
+    },
+    {
+      "ID": 76,
+      "CharID": 5,
+      "Name": "Heal Counter"
+    },
+    {
+      "ID": 77,
+      "CharID": 5,
+      "Name": "Tranquilliser"
+    },
+    {
+      "ID": 78,
+      "CharID": 5,
+      "Name": "Cure Round"
+    },
+    {
+      "ID": 79,
+      "CharID": 6,
+      "Name": "Yoink!"
+    },
+    {
+      "ID": 80,
+      "CharID": 6,
+      "Name": "Happy Happy"
+    },
+    {
+      "ID": 81,
+      "CharID": 6,
+      "Name": "Bitey Bitey"
+    },
+    {
+      "ID": 82,
+      "CharID": 6,
+      "Name": "Sneaky"
+    },
+    {
+      "ID": 83,
+      "CharID": 6,
+      "Name": "Play Dead"
+    },
+    {
+      "ID": 84,
+      "CharID": 6,
+      "Name": "Lurgy"
+    },
+    {
+      "ID": 85,
+      "CharID": 6,
+      "Name": "Hero Time"
+    },
+    {
+      "ID": 86,
+      "CharID": 6,
+      "Name": "Roly-Poly"
+    },
+    {
+      "ID": 87,
+      "CharID": 6,
+      "Name": "Behave"
+    },
+    {
+      "ID": 88,
+      "CharID": 6,
+      "Name": "Riki is Angry"
+    },
+    {
+      "ID": 89,
+      "CharID": 6,
+      "Name": "Bedtime"
+    },
+    {
+      "ID": 90,
+      "CharID": 6,
+      "Name": "You Can Do It"
+    },
+    {
+      "ID": 91,
+      "CharID": 6,
+      "Name": "Peekaboo"
+    },
+    {
+      "ID": 92,
+      "CharID": 6,
+      "Name": "Say Sorry"
+    },
+    {
+      "ID": 93,
+      "CharID": 6,
+      "Name": "Burninate"
+    },
+    {
+      "ID": 94,
+      "CharID": 6,
+      "Name": "Freezinate"
+    },
+    {
+      "ID": 95,
+      "CharID": 6,
+      "Name": "Tantrum"
+    },
+    {
+      "ID": 96,
+      "CharID": 7,
+      "Name": "Elemental Discharge"
+    },
+    {
+      "ID": 97,
+      "CharID": 7,
+      "Name": "Electric Discharge"
+    },
+    {
+      "ID": 98,
+      "CharID": 7,
+      "Name": "Fire Discharge"
+    },
+    {
+      "ID": 99,
+      "CharID": 7,
+      "Name": "Ice Discharge"
+    },
+    {
+      "ID": 100,
+      "CharID": 7,
+      "Name": "Wind Discharge"
+    },
+    {
+      "ID": 101,
+      "CharID": 7,
+      "Name": "Earth Discharge"
+    },
+    {
+      "ID": 102,
+      "CharID": 7,
+      "Name": "Water Discharge"
+    },
+    {
+      "ID": 103,
+      "CharID": 7,
+      "Name": "Summon Bolt"
+    },
+    {
+      "ID": 104,
+      "CharID": 7,
+      "Name": "Summon Flare"
+    },
+    {
+      "ID": 105,
+      "CharID": 7,
+      "Name": "Summon Ice"
+    },
+    {
+      "ID": 106,
+      "CharID": 7,
+      "Name": "Hypnotise"
+    },
+    {
+      "ID": 107,
+      "CharID": 7,
+      "Name": "Spear Break"
+    },
+    {
+      "ID": 108,
+      "CharID": 7,
+      "Name": "Shadow Stitch"
+    },
+    {
+      "ID": 109,
+      "CharID": 7,
+      "Name": "Summon Copy"
+    },
+    {
+      "ID": 110,
+      "CharID": 7,
+      "Name": "Reflection"
+    },
+    {
+      "ID": 111,
+      "CharID": 7,
+      "Name": "Summon Wind"
+    },
+    {
+      "ID": 112,
+      "CharID": 7,
+      "Name": "Summon Earth"
+    },
+    {
+      "ID": 113,
+      "CharID": 7,
+      "Name": "Summon Aqua"
+    },
+    {
+      "ID": 114,
+      "CharID": 7,
+      "Name": "Healing Gift"
+    },
+    {
+      "ID": 115,
+      "CharID": 7,
+      "Name": "Starlight Kick"
+    },
+    {
+      "ID": 116,
+      "CharID": 7,
+      "Name": "Power Effect"
+    },
+    {
+      "ID": 117,
+      "CharID": 7,
+      "Name": "Burst End"
+    },
+    {
+      "ID": 118,
+      "CharID": 7,
+      "Name": "Mind Blast"
+    },
+    {
+      "ID": 119,
+      "CharID": 8,
+      "Name": "Cannon Drones I"
+    },
+    {
+      "ID": 120,
+      "CharID": 8,
+      "Name": "Gun Drones I"
+    },
+    {
+      "ID": 121,
+      "CharID": 8,
+      "Name": "Sword Drones I"
+    },
+    {
+      "ID": 122,
+      "CharID": 8,
+      "Name": "Shield Drones I"
+    },
+    {
+      "ID": 123,
+      "CharID": 8,
+      "Name": "Cannon Drones II"
+    },
+    {
+      "ID": 124,
+      "CharID": 8,
+      "Name": "Gun Drones II"
+    },
+    {
+      "ID": 125,
+      "CharID": 8,
+      "Name": "Sword Drones II"
+    },
+    {
+      "ID": 126,
+      "CharID": 8,
+      "Name": "Shield Drones II"
+    },
+    {
+      "ID": 127,
+      "CharID": 8,
+      "Name": "Sword Drones X"
+    },
+    {
+      "ID": 128,
+      "CharID": 8,
+      "Name": "Double Blade"
+    },
+    {
+      "ID": 129,
+      "CharID": 8,
+      "Name": "Healing Energy"
+    },
+    {
+      "ID": 130,
+      "CharID": 8,
+      "Name": "Spear Blade"
+    },
+    {
+      "ID": 131,
+      "CharID": 8,
+      "Name": "Cross Impact"
+    },
+    {
+      "ID": 132,
+      "CharID": 8,
+      "Name": "Speed Shift"
+    },
+    {
+      "ID": 133,
+      "CharID": 8,
+      "Name": "Zero Gravity"
+    },
+    {
+      "ID": 134,
+      "CharID": 8,
+      "Name": "Lock-On"
+    },
+    {
+      "ID": 135,
+      "CharID": 8,
+      "Name": "Ether Drain"
+    },
+    {
+      "ID": 136,
+      "CharID": 8,
+      "Name": "Double Wind"
+    },
+    {
+      "ID": 137,
+      "CharID": 8,
+      "Name": "Mag Storm"
+    },
+    {
+      "ID": 138,
+      "CharID": 8,
+      "Name": "Shutdown"
+    },
+    {
+      "ID": 139,
+      "CharID": 8,
+      "Name": "Air Fang"
+    },
+    {
+      "ID": 140,
+      "CharID": 8,
+      "Name": "Power Drain"
+    },
+    {
+      "ID": 141,
+      "CharID": 8,
+      "Name": "Guard Shift"
+    },
+    {
+      "ID": 142,
+      "CharID": 8,
+      "Name": "Second Gear"
+    },
+    {
+      "ID": 143,
+      "CharID": 8,
+      "Name": "Final Cross"
+    },
+    {
+      "ID": 144,
+      "CharID": 9,
+      "Name": "Thunder Flash"
+    },
+    {
+      "ID": 145,
+      "CharID": 9,
+      "Name": "Heal Bolt"
+    },
+    {
+      "ID": 146,
+      "CharID": 10,
+      "Name": "Hell Dive Claw"
+    },
+    {
+      "ID": 147,
+      "CharID": 10,
+      "Name": "Hell Hound"
+    },
+    {
+      "ID": 148,
+      "CharID": 11,
+      "Name": "Cross Ray"
+    },
+    {
+      "ID": 149,
+      "CharID": 11,
+      "Name": "Lost Ray"
+    },
+    {
+      "ID": 150,
+      "CharID": 12,
+      "Name": "Buster"
+    },
+    {
+      "ID": 151,
+      "CharID": 12,
+      "Name": "Enchant"
+    },
+    {
+      "ID": 152,
+      "CharID": 12,
+      "Name": "Activate Monado"
+    },
+    {
+      "ID": 153,
+      "CharID": 14,
+      "Name": "Doze Off"
+    },
+    {
+      "ID": 154,
+      "CharID": 14,
+      "Name": "Overdrive"
+    },
+    {
+      "ID": 155,
+      "CharID": 14,
+      "Name": "Healy Bullet"
+    },
+    {
+      "ID": 156,
+      "CharID": 14,
+      "Name": "Crackle Bullet"
+    },
+    {
+      "ID": 157,
+      "CharID": 14,
+      "Name": "Shield Kaclang"
+    },
+    {
+      "ID": 158,
+      "CharID": 14,
+      "Name": "Cure Thingamie"
+    },
+    {
+      "ID": 159,
+      "CharID": 14,
+      "Name": "B-B-B-Boost"
+    },
+    {
+      "ID": 160,
+      "CharID": 14,
+      "Name": "Heal Kaboom"
+    },
+    {
+      "ID": 161,
+      "CharID": 14,
+      "Name": "Heal Round-a-Round"
+    },
+    {
+      "ID": 162,
+      "CharID": 14,
+      "Name": "Noggin Shot"
+    },
+    {
+      "ID": 163,
+      "CharID": 14,
+      "Name": "'Ittle Blast"
+    },
+    {
+      "ID": 164,
+      "CharID": 14,
+      "Name": "Aurorora Bullet"
+    },
+    {
+      "ID": 165,
+      "CharID": 14,
+      "Name": "Toasty-Hot Bullet"
+    },
+    {
+      "ID": 166,
+      "CharID": 14,
+      "Name": "Egg Shaker"
+    },
+    {
+      "ID": 167,
+      "CharID": 14,
+      "Name": "Yoghurt Stance"
+    },
+    {
+      "ID": 168,
+      "CharID": 14,
+      "Name": "Healy Counter"
+    },
+    {
+      "ID": 169,
+      "CharID": 14,
+      "Name": "Tranquilsnooze"
+    },
+    {
+      "ID": 170,
+      "CharID": 14,
+      "Name": "Curedy-Pure Round"
+    },
+    {
+      "ID": 171,
+      "CharID": 15,
+      "Name": "Glad Taunt"
+    },
+    {
+      "ID": 172,
+      "CharID": 15,
+      "Name": "Hammer Beat"
+    },
+    {
+      "ID": 173,
+      "CharID": 15,
+      "Name": "Mild Down"
+    },
+    {
+      "ID": 174,
+      "CharID": 15,
+      "Name": "Guard Sift"
+    },
+    {
+      "ID": 175,
+      "CharID": 15,
+      "Name": "Feather Swing"
+    },
+    {
+      "ID": 176,
+      "CharID": 15,
+      "Name": "Sword Drive"
+    },
+    {
+      "ID": 177,
+      "CharID": 15,
+      "Name": "Berserker"
+    },
+    {
+      "ID": 178,
+      "CharID": 15,
+      "Name": "Shield Kersmash"
+    },
+    {
+      "ID": 179,
+      "CharID": 15,
+      "Name": "Engage"
+    },
+    {
+      "ID": 180,
+      "CharID": 15,
+      "Name": "Last Stand"
+    },
+    {
+      "ID": 181,
+      "CharID": 15,
+      "Name": "Hangry"
+    },
+    {
+      "ID": 182,
+      "CharID": 15,
+      "Name": "Magnum Starch"
+    },
+    {
+      "ID": 183,
+      "CharID": 15,
+      "Name": "Bone Upper"
+    },
+    {
+      "ID": 184,
+      "CharID": 15,
+      "Name": "Chive Sobat"
+    },
+    {
+      "ID": 185,
+      "CharID": 15,
+      "Name": "Aura Toast"
+    },
+    {
+      "ID": 186,
+      "CharID": 15,
+      "Name": "Anchor Chain"
+    },
+    {
+      "ID": 187,
+      "CharID": 15,
+      "Name": "Lariat"
+    }
+   ]
